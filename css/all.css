@@ -15,7 +15,13 @@ blockquote { margin: 0 0 1em; }
 .googlebadge {
 	float:right;
 	margin: -5px 0px 0px 0px;
-	display:none;
+	display: block;
+}
+
+@media (max-width: 767px) {
+	.googlebadge {
+		display:none;
+	}
 }
 
 /* sticky footer copypasta */
