@@ -3,9 +3,9 @@ title: Dungeon World in Italiano
 layout: default
 ---
 
-<div style="display: block; float: right; width: 300px; margin: 10px;"> 
-<div class="g-page" data-href="//plus.google.com/111364257065306273820" data-rel="publisher"></div>
-</div>
+<div style="display: block; float: right; width: 300px; padding: 2px; margin: 10px;"> 
+	<div class="g-page" data-href="//plus.google.com/111364257065306273820" data-rel="publisher"></div>
+</div></div>
 
 <div class="alert">
 <button type="button" class="close" data-dismiss="alert">×</button>
