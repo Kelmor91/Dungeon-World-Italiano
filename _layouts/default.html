@@ -122,14 +122,18 @@
 
   <div id="wrap">
     <div id="content" class="container"> 
+		{% if page.title == "Dungeon World in Italiano %}
+		
+		<!-- Place this tag where you want the widget to render. -->
+		<div style="float:right; margin:10px; display:block;" class="g-page" data-width="340" data-href="//plus.google.com/111364257065306273820" data-layout="landscape" data-rel="publisher"></div>
+		
+		{% if page.title == "Dungeon World in Italiano %}
+		
 		<div class="page-header">
+		
 		<h1> {{ page.title }} </h1>
 		</div>
 		
-		<!-- Place this tag where you want the widget to render. -->
-		<div style="display: none; float: right; width: 300px;"> 
-		<div class="g-page" data-href="//plus.google.com/111364257065306273820" data-rel="publisher"></div>
-		</div>
 		{{ content | replace:'h4>','h5>' | replace:'<h4','<h5' | replace:'h3>','h4>' | replace:'<h3','<h4' | replace:'h2>','h3>' | replace:'<h2','<h3' | replace:'h1>','h2>' | replace:'<h1','<h2' }}
     </div>
 	<div id="push"></div>
