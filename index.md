@@ -12,18 +12,18 @@ Considero questo sito una risorsa pubblica, e il testo completo è disponibile s
 
 La traduzione è attualmente **incompleta**, sono stati tradotti i seguenti capitoli:
 
-* Parte I, **Il Gioco**
-	* Introduzione
-	* Come Giocare
-	* Esempio di Gioco
-	* Creazione dei Personaggi
-	* Mosse (da completare)
-	* Equipaggiamento (da completare)
-* Parte II, **Le Classi**
-	* Nessuna classe è stata tradotta, ma per ora potete far riferimento alle [traduzioni di Renato Salzano][renato].
-* Parte III, **Fare il GM**
-	* Il GM
-	* Prima Sessione
+- Parte I, **Il Gioco**
+	- Introduzione
+	- Come Giocare
+	- Esempio di Gioco
+	- Creazione dei Personaggi
+	- Mosse (da completare)
+	- Equipaggiamento (da completare)
+- Parte II, **Le Classi**
+	- Nessuna classe è stata tradotta, ma per ora potete far riferimento alle [traduzioni di Renato Salzano][renato].
+- Parte III, **Fare il GM**
+	- Il GM
+	- Prima Sessione
 
 **Nota**: alcuni segni di punteggiatura sono ancora da uniformare, come le virgolette. A lavoro finito verranno sistemati in un controllo tipografico generale.
 
