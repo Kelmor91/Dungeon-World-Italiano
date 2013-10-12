@@ -16,17 +16,21 @@ La traduzione è attualmente **incompleta**, sono stati tradotti i seguenti capi
 	<li>Parte I,<b> Il Gioco</b></li>
 	<ul>
 		<li><a href="introduzione">Introduzione</a></li>
-<li><a href="come-giocare">Come Giocare</a></li>
-<li><a href="esempio">Esempio di Partita</a></li>
-<li><a href="creazione-personaggi">Creazione dei Personaggi</a></li>
-<li><a href="mosse">Mosse</a>&nbsp;(da completare)</li>
-<li><a href="equipaggiamento">Equipaggiamento</a>&nbsp;(da completare)</li></ul>
-<li>Parte II, <b>Le Classi</b></li>
-<ul><li>Nessuna classe è stata tradotta, ma per ora potete far riferimento alle<a href="http://caretaker.altervista.org/giochi-di-ruolo/"> traduzioni di Renato Salzano</a>.</li></ul>
-<li>Parte III, <b>Fare il GM</b></li>
-<ul><li><a href="il-gm">Il GM</a></li>
-<li><a href="prima-sessione">Prima Sessione</a><br>
-</li></ul></ul>
+		<li><a href="come-giocare">Come Giocare</a></li>
+		<li><a href="esempio">Esempio di Partita</a></li>
+		<li><a href="creazione-personaggi">Creazione dei Personaggi</a></li>
+		<li><a href="mosse">Mosse</a>&nbsp;(da completare)</li>
+		<li><a href="equipaggiamento">Equipaggiamento</a>&nbsp;(da completare)</li>
+	</ul>
+	<li>Parte II, <b>Le Classi</b></li>
+	<ul>
+		<li>Nessuna classe è stata tradotta, ma per ora potete far riferimento alle<a href="http://caretaker.altervista.org/giochi-di-ruolo/"> traduzioni di Renato Salzano</a>.</li></ul>
+	<li>Parte III, <b>Fare il GM</b></li>
+	<ul>
+		<li><a href="il-gm">Il GM</a></li>
+		<li><a href="prima-sessione">Prima Sessione</a></li>
+	</ul>
+</ul>
 
 **Nota**: alcuni segni di punteggiatura sono ancora da uniformare, come le virgolette. A lavoro finito verranno sistemati in un controllo tipografico generale.
 
