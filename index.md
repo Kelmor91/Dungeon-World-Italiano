@@ -25,7 +25,7 @@ La traduzione è attualmente **incompleta**, sono stati tradotti i seguenti capi
 		<li><a href="come-giocare">Come Giocare</a></li>
 		<li><a href="esempio">Esempio di Partita</a></li>
 		<li><a href="creazione-personaggi">Creazione dei Personaggi</a></li>
-		<li><a href="mosse">Mosse</a>&nbsp;(da completare)</li>
+		<li><a href="mosse">Mosse</a></li>
 		<li><a href="equipaggiamento">Equipaggiamento</a>&nbsp;(da completare)</li>
 	</ul>
 	<li>Parte II, <b>Le Classi</b></li>
