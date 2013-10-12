@@ -1,0 +1,100 @@
+blockquote p {
+	font-style: italic !important;
+    font-size: 1em !important;
+	font-weight: 300 !important;
+	-webkit-margin-before: 0;
+	-webkit-margin-after: 0;
+	-webkit-margin-start: 0;
+	-webkit-margin-end: 0;
+	-webkit-padding-start: 0;
+	padding: 0.5em 0;
+}
+
+blockquote { margin: 0 0 1em; }
+
+/* STUFF Adam & Sage wrote, don't touch it's fucking MAGIC */
+
+#content {
+    margin-top: 50px;
+}
+
+/* fix for dropdown menus on mobile devices */
+.dropdown-backdrop {
+    position: static;
+}
+
+.MoveOneLine {
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+    padding: 7px 0;
+}
+
+div.MoveOneLine {
+    margin-bottom: 10px;
+}
+
+div.MoveOneLine .last {
+    margin-bottom: 0;
+}
+
+#stats td, #stats th {
+    border: 1px solid #333; 
+}
+
+#stats th {
+    background: #333;
+    color: #fff;
+}
+
+.Example {
+    font-style: italic;
+    margin: 20px;
+}
+
+.ExampleDialogueFirstLine,
+.ExampleDialogueLastLine,
+.ExampleDialogue {
+    font-style: italic;
+    text-indent: -2em;
+    margin-left: 2em;
+}
+
+.ExampleDialogueFirstLine {
+    margin-top: 30px;
+}
+
+.ExampleDialogueLastLine {
+    margin-bottom: 30px;
+}
+
+.InstructionsAfterHeader,
+.Instructions {
+    margin: 20px 0;
+    font-weight: bold;
+}
+
+.InstructionsAfterHeader {
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 979px) {
+    #content {
+        margin-top: 55px;
+    }
+
+    .navbar .brand {
+        margin: 3px 0 0 5px;
+    }
+
+    .navbar-fixed-top {
+        position: fixed;
+    }
+
+    .navbar-fixed-top .navbar-inner, .navbar-fixed-bottom .navbar-inner {
+        padding: 0 20px;
+    }
+
+    .nav-collapse .nav {
+        padding: 5px;
+    }
+}
