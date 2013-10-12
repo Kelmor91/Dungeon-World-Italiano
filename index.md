@@ -16,6 +16,9 @@ Ho deciso di fare questa traduzione per aiutare a diffondere Dungeon World nel m
 
 Considero questo sito una risorsa pubblica, e il testo completo è disponibile su [github][git], come il gioco in lingua originale. Chiunque è libero di mandarmi un'email o un messaggio su Google+ ([visita la nostra community][community]) per segnalarmi un errore o suggerirmi delle traduzioni migliori, e prometto che risponderò e mi metterò in discussione con ciascuno.
 
+**Raggiungici sulla nostra pagina Google+**
+<br/><div class="g-page" data-width="353" data-href="//plus.google.com/111364257065306273820" data-layout="landscape" data-rel="publisher"></div>
+
 La traduzione è attualmente **incompleta**, sono stati tradotti i seguenti capitoli:
 
 <ul>

@@ -12,6 +12,12 @@ blockquote p {
 
 blockquote { margin: 0 0 1em; }
 
+.googlebadge {
+	float:right;
+	margin: -5px 0px 0px 0px;
+	display:none;
+}
+
 /* sticky footer copypasta */
 
 
