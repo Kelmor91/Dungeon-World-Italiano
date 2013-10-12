@@ -2,7 +2,6 @@
 title: Crediti
 layout: default
 ---
-
 <p>Libera traduzione del <a href="https://github.com/Sagelt/Dungeon-World" target="_blank">lavoro originale</a> di <a href="https://plus.google.com/u/0/112484087750169360510"><b>Adam Koebel</b></a> e <b><a href="https://plus.google.com/u/0/117415966179711277938">Sage LaTorra</a>.
 </b></p>
 <p><b>Da un'idea di&nbsp;</b><a href="https://plus.google.com/u/0/112991578095647299350" target="_blank"><b>Claudio Freda</b></a></p>
