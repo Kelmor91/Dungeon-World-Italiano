@@ -2,9 +2,28 @@
 title: Crediti
 layout: default
 ---
-<p>Libera traduzione del <a href="https://github.com/Sagelt/Dungeon-World" target="_blank">lavoro originale</a> di <a href="https://plus.google.com/u/0/112484087750169360510"><b>Adam Koebel</b></a> e <b><a href="https://plus.google.com/u/0/117415966179711277938">Sage LaTorra</a>.
-</b></p>
-<p><b>Da un'idea di&nbsp;</b><a href="https://plus.google.com/u/0/112991578095647299350" target="_blank"><b>Claudio Freda</b></a></p>
-<p><b>Traduttori</b>:&nbsp;<a href="https://plus.google.com/u/0/112991578095647299350" target="_blank">Claudio Freda</a>,&nbsp;Daniel Schiavo,&nbsp;<a href="https://plus.google.com/113536342334278411258" style="text-align:start" target="_blank">Mauro Ghisoni</a>.&nbsp;</p>
-<p><b>Revisori:&nbsp;</b><a href="https://plus.google.com/107667343404799785520" target="_blank">Antonio Amato</a>,&nbsp;<a href="https://plus.google.com/112991578095647299350" target="_blank">Claudio Freda</a>, Daniel Schiavo, <a href="https://plus.google.com/u/0/105434214058733883957" target="_blank">Dario Delfino</a>,&nbsp;<a href="https://plus.google.com/118033451148976345230" target="_blank">Diego Delfino</a>,&nbsp;<a href="https://plus.google.com/113383799827204001261" target="_blank">Giorgia Menozzi</a>,&nbsp;<a href="https://plus.google.com/107861607091405146379" target="_blank">Giovanni Vinci</a>, <a href="https://plus.google.com/u/0/117946773352558942341" target="_blank">Giulio Robecchi</a>,&nbsp;<a href="https://plus.google.com/108007955567460306563" target="_blank">Luca Maiorani</a>,&nbsp;<a href="https://plus.google.com/113536342334278411258" target="_blank">Mauro Ghisoni</a>, <a href="https://plus.google.com/u/0/100891656436184215243" target="_blank">Paride Papadia</a>, Stefano Franzini.</p>
-<p>Quest'opera è distribuita con Licenza <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/it/" rel="license"><b>Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Italia</b></a></p>
+Libera traduzione del [lavoro originale](book.dwgazetteer.com) di **[Adam Koebel][adam]** e **[Sage LaTorra][sage]**.
+
+**Da un'idea di [Claudio Freda]**
+
+**Traduttori**: [Claudio Freda], [Daniel Schiavo], [Mauro Ghisoni]
+
+**Revisori**: [Antonio Amato], [Claudio Freda], [Daniel Schiavo], [Dario Delfino], [Diego Delfino], [Giorgia Menozzi], [Giovanni Vinci], [Giulio Robecchi], [Luca Maiorani], [Mauro Ghisoni], [Paride Papadia], [Stefano Franzini].
+
+Quest'opera Ã¨ distribuita con Licenza **[Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Italia][cc]**.
+
+[adam]: https://plus.google.com/112484087750169360510
+[sage]: https://plus.google.com/117415966179711277938
+[Antonio Amato]: https://plus.google.com/107667343404799785520
+[Claudio Freda]: https://plus.google.com/112991578095647299350
+[Daniel Schiavo]: https://www.facebook.com/daniel.schiavo.92
+[Dario Delfino]: https://plus.google.com/u/0/105434214058733883957
+[Diego Delfino]: https://plus.google.com/118033451148976345230
+[Giorgia Menozzi]: https://plus.google.com/113383799827204001261
+[Giovanni Vinci]: https://plus.google.com/107861607091405146379
+[Giulio Robecchi]: https://plus.google.com/u/0/117946773352558942341
+[Luca Maiorani]: https://plus.google.com/108007955567460306563
+[Mauro Ghisoni]: https://plus.google.com/113536342334278411258
+[Paride Papadia]: https://plus.google.com/u/0/100891656436184215243
+[Stefano Franzini]: https://www.facebook.com/stefano.v.franzini
+[cc]: http://creativecommons.org/licenses/by-nc-sa/3.0/it/
