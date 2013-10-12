@@ -30,7 +30,7 @@ La traduzione è attualmente **incompleta**, sono stati tradotti i seguenti capi
 	</ul>
 	<li>Parte II, <b>Le Classi</b></li>
 	<ul>
-		<li>Nessuna classe è stata tradotta, ma per ora potete far riferimento alle<a href="http://caretaker.altervista.org/giochi-di-ruolo/"> traduzioni di Renato Salzano</a>.</li>
+		<li>Nessuna classe è stata tradotta, ma per ora potete far riferimento alle<a href="http://caretaker.altervista.org/giochi-di-ruolo/"> traduzioni di Renato Salzano</a> o a <a href="https://drive.google.com/folderview?docId=0Bz_utLb1Q1upSVdQNHROY0k4cVk&id=0Bz_utLb1Q1upY2QzbV85UVFyc2M">quelle di Luca Maiorani</a>.</li>
 	</ul>
 	<li>Parte III, <b>Fare il GM</b></li>
 	<ul>
