@@ -19,8 +19,10 @@ La traduzione è attualmente **incompleta**, sono stati tradotti i seguenti capi
 	- Creazione dei Personaggi
 	- Mosse (da completare)
 	- Equipaggiamento (da completare)
+
 - Parte II, **Le Classi**
 	- Nessuna classe è stata tradotta, ma per ora potete far riferimento alle [traduzioni di Renato Salzano][renato].
+
 - Parte III, **Fare il GM**
 	- Il GM
 	- Prima Sessione
