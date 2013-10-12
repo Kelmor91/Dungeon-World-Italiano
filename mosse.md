@@ -293,7 +293,21 @@ A meno che una mossa dica diversamente, i giocatori possono solo fare domande da
 
 Ovviamente, alcune domande potrebbero avere una risposta negativa, va bene. Se davvero, con onestà, non c'è nulla di utile o di valore il GM può semplicemente rispondere «Niente, mi spiace».
 
-> [esempi di gioco in via di traduzione]
+> **Omar**: Non mi piace questa stanza — mi metto a cercare un po’ in giro. Tiro fuori i miei attrezzi e comincio a smanettare con ciò che trovo. Tiro le candele e busso sui muri col mio martello. I soliti trucchi.
+>
+> **GM**: *Discernere realtà*?
+>
+> **Omar**: Oh, si, le discerno tutte le realtà. Ho fatto 12. Voglio sapere “Che cosa qui non è ciò che sembra?”.
+>
+> **GM**: Be’, ti è chiaro che il muro del lato nord ha un vuoto in un punto. Le pietre sono nuove e lo stucco è più fresco, probabilmente è un ripostiglio o un passaggio nascosto.
+>
+> **Omar**: Ok, voglio chiedertene un’altra: “Chi ha chiuso la stanza?”.
+>
+> **GM**: Non è sulla lista, quindi farò finta che tu mi abbia chiesto “Cos’è successo qui di recente?”. Guardando le pietre, ti accorgi che il muro in alcuni punti è storto. Il lavoro è frettoloso e mal fatto, ti sembra l’opera dei goblin. L’unico modo in cui può essersi stortato in quel modo, però, è che qualcosa lo spinga dall’interno.
+>
+> **Omar**: Quindi o i goblin l’hanno chiuso dall’altro lato, o c’è qualcosa dentro che sta cercando di uscire.
+>
+> **GM**: Tombola.
 
 ## Parlamentare
 
@@ -315,7 +329,25 @@ Qualunque cosa ti chieda, con un 10+ devi solo promettergliela chiaramente e sen
 
 In alcuni casi, quando descrivi ciò che vuoi, puoi proporre una promessa alla creatura, ad esempio "vattene e ti lascerò vivere". Starà al tuo interlocutore decidere se è quella la promessa che vuole o se ha qualcos'altro in mente. Potrebbe risponderti "va bene, lasciami vivere e me ne andrò" (con una garanzia, se hai fatto 7–9) oppure "promettimi che non mi seguirai".
 
-> [esempi di gioco in via di traduzione]
+> **Leena**: «Lord Hywn, ho bisogno di una vostra raccomandazione o la Regina non mi darà mai udienza».
+>
+> **GM**: Non è molto convinto: potrebbe essere un grosso colpo alla sua reputazione se lo imbarazzi. «Perché dovrei aiutarti, Leena?».
+>
+> **Leena**: Ah, e mentre gli parlo, giocherello distrattamente con l’anello con sigillo che abbiamo trovato su quell’assassion che abbiamo ammazzato. Quello che ha assunto per far fuori il principe. Mi assicuro che lo veda.
+>
+> **GM**: Oddio. Tira per *parlamentare*.
+>
+> **Leena**: un 8.
+>
+> **GM**: «Basta con i giochi!» ti guarda con sguardo freddo e carico d’ira. «Voi e io sappiamo entrambi che avete assassinato il mio sicario. Datemi l’anello, giurate il silenzio, e farò ciò che chiedete».
+>
+> **Leena**: Glielo lancio. Possiamo trovare altre informazioni scomode a questo scarto più tardi.
+
+<!-- separatore -->
+
+> **Pendrell**: Questo è il posto dove l’Unico Occhio gioca le sue carte, giusto? Bene, mi avvicino alla guardia. «Ehilà amici, vi va di, non so, aprire la porta e farmi entrare?» e sto facendo il gentile e disinvolto, quindi mi faranno passare. *Parlamentare* è tira+CAR, giusto?
+>
+> **GM**: Fermo lì, furbetto. Tutto ciò che hai fatto è dire cosa vuoi. Quello grosso e puzzolente si piazza davanti a te dicendo «Mi spiace signore, partita privata», con aria annoiata. È come se odiasse il suo lavoro e volesse essere da qualche altra parte. Se vuoi *parlamentare*, hai bisogno di qualche forma d’influenza. Magari una mazzetta?
 
 ## Aiutare o Ostacolare
 
@@ -333,7 +365,13 @@ Chiedi sempre alla persona che *aiuta o ostacola* come ha intenzione di farlo. F
 
 Non importa quante persone *aiutino o ostacolino*, il bersaglio prende il modificatore di +1 o -2 solo una volta. anche se un intero gruppo di avventurieri aiuta ad attaccare un ogre, chi fa l'attacco finale prende comunque +1.
 
-> [esempi di gioco in via di traduzione]
+> **GM**: Ozruk, sei in piedi solo e sanguinante di fronte a un branco di segugi infernali inferociti. Dietro di te si nasconde il Principe di Lescia, che piange dalla paura.
+>
+> **Ozruk**: Sto fermo e alzo lo scuo. Nonostante il mio fato inevitabile, farò il mio dovere e difenderò il principino.
+>
+> **Aronwe**: Sbuco dalle ombre ed estraggo la mia spada! «Il fato non è così inevitabile, nano!». Mi metto di fianco a lui. Voglio aiutarlo a *difendere*. «Anche se non ti conosco bene, ti ho visto combattere, Ozruk. Se dobbiamo morire oggi, moriremo come fratelli!». Non ho legami con lui ma voglio provare lo stesso.
+>
+> **GM**: Commonvente, davvero. Bene, tira+0 e se hai successo, Ozruk, tu prendi +1 al tuo tiro di *difendere*. Si comincia!
 
 # **Mosse Speciali**
 
@@ -351,7 +389,13 @@ L’*ultimo respiro* è quel momento che si frappone tra la vita e la morte. Il 
 
 Ci sono tre esiti di questa mossa. ✴Con un 10+, il personaggio l’ha fatta franca alla morte in qualche modo significativo. È fuggito via con qualcosa che, di diritto, non è più suo. La Morte non ha il potere di fermare questa cosa, ma si ricorderà lo sgarbo. ✴Con un 7–9, il GM dovrebbe offrire una vera scelta con delle conseguenze significative. Pensa al comportamento del personaggio e a ciò che hai imparato di lui durante il gioco. La Morte sa e vede tutto e confeziona i suoi accordi su misura per ciascuno. Ricorda, questo è uno scambio. Offri qualcosa che sarà una sfida da portare a termine ma che condurrà il gioco in nuove emozionanti direzioni. ✴Con un fallimento, la morte è inevitabile. L’approccio più semplice è dire «La Morte ti conduce attraverso la soglia che conduce al suo regno tetro» e andare avanti. A volte, però, la Morte arriva lentamente. Potresti dire «hai una settimana da vivere» oppure «riesci a sentire la fredda mano della Morte su di te...» e lasciar le cose così, per ora. Il giocatore dovrà arrendersi e accettare la morte a questo punto — va bene. Fagli creare un nuovo personaggio come di norma. La cosa fondamentale da ricordare è che sfiorare la morte, che si sfugga o si cada tra le sue grinfie, è un momento significativo che dovrebbe sempre condurre a un cambiamento.
 
-> [esempi di gioco da tradurre]
+> **GM**: Sparrow, mentre la lama del pugnale si infila nel tuo ventre, il mondo svanisce e ti ritrovi davanti ai Neri Cancelli della Morte. Tra le torme di anime senza riposo, vedi Lord Hwyn, quello schifoso cane bastardo. Sembra che tutte le sue cattive azioni gli si siano rivoltate contro, alla fine. Ti vede dall’altra parte del baratro e senti nella tua anima il freddo della sua fame. Prendi il tuo *ultimo respiro*.
+>
+> **Sparrow**: Forte. Ho fatto 9.
+>
+> **GM**: La Morte ti appare, drappi di tessuto nero che si attorcigliano attorno alla sua forma oscura. Una mano pallida ti tocca la faccia. Senti la sua voce nella tua testa: «Sei venuto da me così preso, piccolo Sparrow? Segui un fiume di anime, mandate qui dalla tua lama. Ti sono molto grato per avermele portate. Ti restituirò al mondo, ma devi farmi una promessa. Nell’ombra ti nascondi, quindi ombra diventerai. Rifuggi la luce del giorno per sempre o fai un rapido viaggio per tornare qui, in mia compagnia. Che dici, ladruncolo?».
+>
+> **Sparrow**: (gulp)
 
 ## Ingombro
 
@@ -500,7 +544,9 @@ Quando **torni in un luogo civilizzato dove hai causato problemi in passato**, t
 
 ---
 
-[spiegazione da tradurre]
+Questa mossa serve solo quando torni in un luogo dove hai causato problemi, non per ogni area civilizzata che visiti. Essere pubblicamente coinvolto nei problemi di qualcun altro attiva comunque questa mossa.
+
+Civilizzato significa solitamente i villaggi, i paesi e le città degli uomini, elfi, nani e mezzuomini, ma può anche significare qualunque insediamento relativamente ordinato di specie mostruose, come orchi e goblin. Se i PG hanno passato del tempo come parte della comunità, conta come civilizzato.
 
 ## Prepararsi
 
