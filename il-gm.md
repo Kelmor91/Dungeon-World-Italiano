@@ -10,7 +10,7 @@ Ciò che troverai in questo capitolo non sono consigli per il GM o dei suggerime
 
 # Fare il GM di Dungeon World: Una Struttura
 
-Dirigere una partita di Dungeon World si basa su tre cose: gli **obiettivi**, i **princìpi** e le **mosse** del GM. Gli obiettivi sono ciò che hai intenzione di fare quando ti siedi al tavolo. I princìpi sono le linee guida che ti fanno restare concentrato sugli obiettivi. Le mosse del GM sono le cose concrete che fai, momento per momento, per far procedere il gioco. Farai le mosse quando i PG falliscono i tiri, quando le regole lo richiedono, e quando i giocatori ti guardano per sapere che succede. Le tue mosse devono mantenere la narrativa in accordo con se stessa e l'azione del gioco in costante movimento.
+Dirigere una partita di Dungeon World si basa su tre cose: gli **obiettivi**, i **princìpi** e le **mosse** del GM. Gli obiettivi sono ciò che hai intenzione di fare quando ti siedi al tavolo. I princìpi sono le linee guida che ti fanno restare concentrato sugli obiettivi. Le mosse del GM sono le cose concrete che fai, momento per momento, per far procedere il gioco. Farai le mosse quando i PG falliscono i tiri, quando le regole lo richiedono, e quando i giocatori ti guardano per sapere che succede. Le tue mosse devono mantenere la fiction in accordo con se stessa e l'azione del gioco in costante movimento.
 
 Gli obiettivi del GM, i princìpi e le mosse sono regole come lo sono i danni, le capacità o i PF. Devi avere la stessa cautela ad alterarle o ignorarle che avresti con qualunque altra regola.
 
@@ -59,22 +59,22 @@ Le avventure di Dungeon World non presumono **mai** ciò che faranno i PG. Un'av
 
 # **Princìpi**
 
-* Disegna mappe, lascia spazi vuoti
+* Disegna mappe, lascia spazi da riempire
 * Rivolgiti ai personaggi, non ai giocatori
 * Fai tuo ciò che è fantastico
 * Fai una mossa che abbia senso
 * Non pronunciare mai il nome della tua mossa
-* Dai vita a ogni mostro
+* Rendi vivo ogni mostro
 * Dai un nome a ogni persona
 * Fai domande e usa le risposte
 * Sii un fan dei personaggi
 * Pensa pericoloso
-* Inizia e finisci con la narrativa
-* Pensa lontano dalla telecamera
+* Inizia e finisci con la fiction 
+* Pensa ai retroscena
 
 I tuoi princìpi sono le tue linee guida. Spesso, quando dovrai fare una mossa, avrai già un'idea di che cosa sia più appropriato. Consideralo alla luce dei princìpi e, se opportuno, usalo.
 
-## Disegna mappe, lascia spazi vuoti
+## Disegna mappe, lascia spazi da riempire
 
 Dungeon World esiste principalmente nella fantasia delle persone che ci giocano; le mappe aiutano tutti a stare sulla stessa lunghezza d'onda. Non le disegnerai sempre tu, ma assicurati che ogni volta che visitate un luogo venga segnato sulla mappa.
 
@@ -82,7 +82,7 @@ Quando disegni la mappa, non dev'essere completa. Lascia spazio per l'ignoto. Me
 
 ## Rivolgiti ai personaggi, non ai giocatori
 
-Rivolgersi ai personaggi e non ai giocatori significa che invece di dire "Alberto, cosa fa Dunwick con lo spettro?" dirai "Dunwick, cosa fai con lo spettro?". Parlare in questo modo aiuta a mantenere il gioco concentrato sulla narrativa e non sul tavolo. In aggiunta, è importante per il flusso del gioco. Se parli ai giocatori potresti tralasciare dei dettagli importanti per scegliere quali mosse fare. Siccome le mosse sono sempre basate sulle azioni dei personaggi, devi pensare a cosa sta accadendo in termini di personaggi—non dei giocatori che li interpretano.
+Rivolgersi ai personaggi e non ai giocatori significa che invece di dire "Alberto, cosa fa Dunwick con lo spettro?" dirai "Dunwick, cosa fai con lo spettro?". Parlare in questo modo aiuta a mantenere il gioco concentrato sulla fiction e non sul tavolo. In aggiunta, è importante per il flusso del gioco. Se parli ai giocatori potresti tralasciare dei dettagli importanti per scegliere quali mosse fare. Siccome le mosse sono sempre basate sulle azioni dei personaggi, devi pensare a cosa sta accadendo in termini di personaggi—non dei giocatori che li interpretano.
 
 ## Fai tuo ciò che è fantastico
 
@@ -90,7 +90,7 @@ Magia, panorami esotici, dèi, demoni e abomini: il mondo è pieno di mistero e 
 
 ## Fai una mossa che abbia senso
 
-Quando fai una mossa, quello che stai facendo è prendere un elemento della narrativa e portarlo a scontrarsi con i personaggi. La tua mossa dovrebbe sempre conseguire dalla narrativa. Le mosse ti fanno concentrare su un punto della situazione attuale per sfruttarlo e fare qualcosa di interessante. Che sta succedendo? Che mossa ha senso fare qui?
+Quando fai una mossa, quello che stai facendo è prendere un elemento della fiction e portarlo a scontrarsi con i personaggi. La tua mossa dovrebbe sempre conseguire dalla fiction. Le mosse ti fanno concentrare su un punto della situazione attuale per sfruttarlo e fare qualcosa di interessante. Che sta succedendo? Che mossa ha senso fare qui?
 
 ## Non pronunciare mai il nome della tua mossa
 
@@ -114,23 +114,23 @@ La domanda più facile è "Che cosa fai?". Ogni volta che fai una mossa, termina
 
 ## Sii un fan dei personaggi
 
-Pensa ai PG come ai protagonisti di una storia che potresti vedere in TV. Esulta per le loro vittorie e piangi per le loro sconfitte. Non sei qua per spingerli in una direzione o nell'altra, ma solamente per avere una parte nella narrativa che tratta di loro e delle loro azioni.
+Pensa ai PG come ai protagonisti di una storia che potresti vedere in TV. Esulta per le loro vittorie e piangi per le loro sconfitte. Non sei qua per spingerli in una direzione o nell'altra, ma solamente per avere una parte nella fiction che tratta di loro e delle loro azioni.
 
 ## Pensa pericoloso
 
 Qualunque cosa nel mondo è un bersaglio. Devi pensare come un signore del male: nessuna vita ha valore e nulla è sacro. Ogni cosa può essere messa in pericolo, ogni cosa può essere distrutta. Niente di ciò che crei è mai protetto. Ogni volta che il tuo sguardo cade su qualcosa che hai creato, pensa a come può essere messa in pericolo, sgretolarsi e crollare. Il mondo cambia. Senza l'intervento dei personaggi, cambia in peggio.
 
-## Inizia e finisci con la narrativa
+## Inizia e finisci con la fiction 
 
-Tutto ciò che tu e i giocatori fate in Dungeon World è causa e conseguenza di avvenimenti narrativi. Quando i giocatori fanno una mossa, descrivono un evento narrativo per attivarla, applicano le regole, e ottengono da queste un effetto narrativo. Quando tu fai una mossa essa ha sempre base nella narrativa.
+Tutto ciò che tu e i giocatori fate in Dungeon World è causa e conseguenza di avvenimenti nella fiction. Quando i giocatori fanno una mossa, descrivono un evento nella fiction per attivarla, applicano le regole, e ottengono da queste un effetto nella fiction. Quando tu fai una mossa essa ha sempre base nella fiction.
 
-## Pensa lontano dalla telecamera
+## Pensa ai retroscena
 
 Solo perché sei un fan dei personaggi non significa che tutto debba accadere di fronte a loro. A volte la mossa migliore che puoi fare è nella stanza adiacente, o in un'altra parte del dungeon, o anche più indietro, in città. Fai la tua mossa altrove e mostra i suoi effetti quando finiscono sotto i riflettori.
 
 # Mosse
 
-Quando tutti ti guardano per sapere cosa succede scegli una di queste. Ogni mossa è qualcosa che accade nella narrativa del gioco—non sono parole in codice o terminologia specifica. Ad esempio, "Consuma le loro risorse" significa letteralmente che devi far spendere ai personaggi le loro risorse.
+Quando tutti ti guardano per sapere cosa succede scegli una di queste. Ogni mossa è qualcosa che accade nella fiction del gioco—non sono parole in codice o terminologia specifica. Ad esempio, "Consuma le loro risorse" significa letteralmente che devi far spendere ai personaggi le loro risorse.
 
 * Usa la mossa di un mostro, un pericolo, o un luogo.
 * Rivela una verità sgradita
@@ -171,11 +171,11 @@ Quando hai la possibilità di fare una mossa pesante puoi fare una mossa leggera
 
 Per scegliere una mossa, inizia considerando le conseguenze ovvie dell'evento che l'ha attivata. Se hai già un'idea, pensaci un attimo e assicurati che si conformi ai tuoi obiettivi e principi, poi prosegui. **Lascia che le tue mosse influenzino le mosse successive**. Costruisci sul successo o sul fallimento delle mosse dei personaggi e sulle tue stesse mosse.
 
-Se il tuo primo istinto è di non fargli del male ora, ma di sorprenderli più tardi, ottimo! È parte dei tuoi principi (pensa lontano dalla telecamera). Prendine nota e rivelalo al momento giusto.
+Se il tuo primo istinto è di non fargli del male ora, ma di sorprenderli più tardi, ottimo! È parte dei tuoi principi (pensa ai retroscena). Prendine nota e rivelalo al momento giusto.
 
 ## Fare la Mossa
 
-Quando fai una mossa, tieni a mente i tuoi principi. In particolare, non pronunciare mai il nome della tua mossa e rivolgiti ai personaggi, non ai giocatori. Le tue mosse non sono azioni meccaniche che avvengono al tavolo. Sono eventi concreti che avvengono ai personaggi nel mondo narrativo che stai descrivendo.
+Quando fai una mossa, tieni a mente i tuoi principi. In particolare, non pronunciare mai il nome della tua mossa e rivolgiti ai personaggi, non ai giocatori. Le tue mosse non sono azioni meccaniche che avvengono al tavolo. Sono eventi concreti che avvengono ai personaggi nel mondo della fiction che stai descrivendo.
 
 È vero che "Infliggi danno" è una mossa, ma anche altre mosse possono comportare l'infliggimento di danni. Quando un ogre ti lancia contro un muro prendi danno come se ti avesse colpito con un pugno.
 
@@ -197,7 +197,7 @@ Questa è una delle tue mosse più versatili. Una "minaccia" può essere qualunq
 
 ### Infliggi danno
 
-Quando infliggi danno, scegli una fonte di danno che narrativamente minaccia un personaggio e sfruttala. Stai combattendo con un lucertoloide? Ti accoltella. Hai fatto scattare una trappola? Ti cadono dei massi in testa.
+Quando infliggi danno, scegli una fonte di danno nella fiction che minaccia un personaggio e sfruttala. Stai combattendo con un lucertoloide? Ti accoltella. Hai fatto scattare una trappola? Ti cadono dei massi in testa.
 
 La quantità di danni è decisa dalla fonte. In alcuni casi, questa mossa può comportare uno scambio di danni in entrambe le direzioni, con anche il personaggio che infligge danni.
 

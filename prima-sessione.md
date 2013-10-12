@@ -5,7 +5,8 @@ layout: default
 La prima sessione di una campagna di Dungeon World inizia con la creazione dei personaggi. Creare i personaggi significa anche creare il loro mondo: i dettagli sulla scheda del personaggio e le domande che vi porrete stabiliranno l'aspetto del mondo, chi lo abita e cosa vi sta succedendo.
 
 Questa sezione è dedicata al GM e quindi ci si rivolgerà direttamente a te — il GM. Per i giocatori la prima sessione è uguale a tutte le altre, devono solo giocare il loro personaggio come se fosse una persona reale ed esplorare l’universo di Dungeon World. Tu invece hai qualcosa in più da fare, devi definire il mondo e le minacce che i personaggi affronteranno.
-# Preparazione
+
+# Preparazione
 
 In preparazione alla prima sessione dovrai stampare un po' di materiale, ovvero:
 
@@ -22,10 +23,11 @@ Gli spunti che ti puoi portare alla prima sessione sono a tua discrezione. Quant
 
 Se vuoi puoi organizzarti un po' di più. Potresti pensare ad una trama malvagia e a chi c'è dietro, oppure a qualche mostro che ti piacerebbe utilizzare.
 
-Se ti ritrovi con del tempo libero puoi perfino disegnare qualche mappa (ma ricorda dai tuoi princìpi: lascia spazi vuoti) e immaginare qualche posto in particolare.
+Se ti ritrovi con del tempo libero puoi perfino disegnare qualche mappa (ma ricorda i tuoi princìpi: lascia spazi da riempire) e immaginare qualche posto in particolare.
 
-Una cosa che assolutamente non devi portare al tavolo è un intreccio narrativo prefissato o una trama. Tu non conosci gli eroi o il mondo prima di sederti al tavolo ed iniziare la partita con una trama predeterminata già in mente non ti porterà da nessuna parte. Inoltre è contrario ai tuoi obiettivi: gioca per scoprire cosa accadrà.
-# Iniziare
+Una cosa che assolutamente non devi portare al tavolo è un intreccio narrativo prefissato o una trama. Tu non conosci gli eroi o il mondo prima di sederti al tavolo e iniziare la partita con una trama predeterminata già in mente non ti porterà da nessuna parte. Inoltre è contrario ai tuoi obiettivi: gioca per scoprire cosa accadrà.
+
+# Iniziare
 
 Quando tutti i partecipanti alla prima sessione saranno arrivati, introduci sommariamente Dungeon World a chiunque non l'abbia già giocato. Spiega il funzionamento delle mosse. Introduci le classi dei personaggi e aiuta ciascun giocatore a sceglierne una. Seguili mentre compilano le schede. 
 
@@ -50,7 +52,8 @@ Fai anche attenzione alle domande dei giocatori. Quando ti chiedono a proposito 
 Se arrivi al tavolo con delle idee su cose che vorresti vedere nel mondo, condividile con i giocatori. I loro personaggi sono sotto la loro responsabilità e il mondo sotto la tua — hai voce in capitolo su quello che ci vive. Se vuoi che la campagna sia incentrata sulla ricerca di quella razza di stregoni perduta negli eoni passati, dillo! Se ai giocatori non interessa o se non ne possono più di stregoni te lo diranno e potrete trovare insieme un'altra soluzione. Non c'è bisogno di presentare ogni cosa perché la approvino, ma accertarti che tutti siano entusiasti dei tratti principali del mondo in cui giocherete è un ottimo inizio.
 
 Quando tutti hanno finito di creare il personaggio, fai un bel respiro. Ripensa a tutte le domande e le risposte che sono emerse. Dovresti avere alcune note che ti indicheranno la direzione che potrebbe prendere la campagna. Guarda i contributi dei giocatori. Ripensa alle idee che hai tenuto a maturare fino ad ora. È ora di iniziare l'avventura!
-# La prima avventura
+
+# La prima avventura
 
 La prima avventura riguarda soprattutto lo scoprire la direzione che prenderanno le future sessioni. Durante tutta la prima avventura tieni d'occhio le minacce lasciate irrisolte, prendi nota delle cose pericolose che sono state menzionate ma non affrontate. Sarà materiale per le future sessioni.
 
@@ -63,40 +66,49 @@ Durante la prima sessione, hai un po' di obiettivi specifici:
 - Introduci dettagli, descrivi
 - Usa ciò che i giocatori ti forniscono
 - Fai domande
-- Lascia spazi vuoti
+- Lascia spazi da riempire
 - Tieni d’occhio i fatti interessanti
 - Aiuta i giocatori a capire come funzionano le mosse
 - Dai a ciascun personaggio un’occasione di essere magnifico
 - Metti in gioco dei PNG
-## Introduci dettagli, descrivi
 
-Tutte le idee e le immagini nella tua mente non entrano nella narrativa del gioco finchè non le condividi, le descrivi e le definisci. La prima sessione è il momento per delineare l'aspetto delle cose, chi comanda, che vestiti usano, com'è fatto il mondo e l'aspetto della zona circostante. Descrivi tutto, ma lascia abbastanza spazio da permettere di approfondire in futuro. Introduci qualche dettaglio volto a rendere realistiche le descrizioni. 
-## Usa ciò che i giocatori ti forniscono
+## Introduci dettagli, descrivi
+
+Tutte le idee e le immagini nella tua mente non entrano nella fiction del gioco finchè non le condividi, le descrivi e le definisci. La prima sessione è il momento per delineare l'aspetto delle cose, chi comanda, che vestiti usano, com'è fatto il mondo e l'aspetto della zona circostante. Descrivi tutto, ma lascia abbastanza spazio da permettere di approfondire in futuro. Introduci qualche dettaglio volto a rendere realistiche le descrizioni. 
+
+## Usa ciò che i giocatori ti forniscono
 
 La cosa più bella della prima sessione è che non hai bisogno di prepararti niente di definito. Potresti aver abbozzato un dungeon ma saranno i giocatori a fornirti la sostanza — usala. Usciranno dall’oscurità di questo primo dungeon e non appena i loro occhi si saranno riabituati alla luce, avrai costruito con il loro aiuto un mondo fantastico da esplorare. Guarda i loro legami, le loro mosse, le risposte che danno alle tue domande e usa tutto ciò per riempire il mondo attorno ai personaggi.
-## Fai domande
+
+## Fai domande
 
 Stai usando ciò che ti forniscono, giusto? E se ti serve qualcosa in più? Allora ottienilo facendo domande. Sonda argomenti specifici. Chiedi loro che intenzioni hanno. “Cosa ne pensa Lux?” “Avon ha intenzione di fare qualcosa a riguardo?”
 
 Se ti trovi in difficoltà, fermati un attimo e fai domande. Fai a qualcuno una domanda che riguardi un altro personaggio. Quando uno di loro fa qualcosa, chiedi a uno degli altri personaggi come questo lo faccia sentire, o come reagisce. Le domande alimentano la partita, e la fanno sembrare reale ed esaltante. Usa le risposte che emergono per introdurre possibili eventi.
-## Lascia spazi vuoti
+
+## Lascia spazi da riempire
 
 Questo è uno dei tuoi princìpi e si applica specialmente alla prima sessione. Ogni spazio vuoto è una cosa fantastica che potrebbe succedere, tienitene da parte un bel po’.
-## Tieni d’occhio i fatti interessanti
+
+## Tieni d’occhio i fatti interessanti
 
 Ci sono alcune idee che, non appena le senti, ti coinvolgono immediatamente. Appena ti trovi di fronte ad una di queste, annotala.  Quando un giocatore dice che il Duca del Cordoglio è il demone con cui ha appena fatto un patto, segnatelo. Questa piccola informazione sarà il seme da cui crescerà un intero mondo.
-## Aiuta i giocatori a capire come funzionano le mosse
+
+## Aiuta i giocatori a capire come funzionano le mosse
 
 Tu hai già letto il manuale del gioco invece i giocatori magari no, quindi sta a te aiutarli quando ne hanno bisogno. Probabilmente non servirà spesso. Tutto ciò che devono fare è descrivere le azioni dei loro personaggi, le regole si occuperanno del resto.
 
 La cosa su cui potrebbero aver più bisogno d’aiuto è ricordare quando si applicano le varie mosse. Tieni d’occhio le azioni che attivano le mosse, come attaccare in mischia o attingere dalle loro conoscenze. Dopo qualche mossa probabilmente i giocatori cominceranno a ricordarsele da soli.
-## Dai a ciascun personaggio un’occasione di essere magnifico
+
+## Dai a ciascun personaggio un’occasione di essere magnifico
 
 Essendo un fan degli eroi (ricordi i tuoi obiettivi?) vuoi vederli fare ciò in cui riescono meglio. Dai a ciascuno una occasione, non creando ogni ambiente su misura per le loro abilità, ma  dipingendo un mondo fantastico (sempre uno dei tuoi obiettivi) in cui ci sono tante soluzioni per ogni sfida.
-## Metti in gioco dei PNG
+
+## Metti in gioco dei PNG
 
 I PNG rendono vivo il mondo. Se ogni mostro non facesse altro che attaccare e se ogni fabbro non facesse altro che vendere le proprie merci il mondo sarebbe insulso. Invece devi dare vita ai tuoi personaggi (i princìpi, ricordi?), specialmente quelli che interessano ai giocatori. Metti in gioco dei PNG ma non proteggerli. Il Signore dei Goblin appena morto sarà utile per le prossime avventure nè più nè meno di quello sopravvissuto.
-# Dopo la prima sessione
+
+# Dopo la prima sessione
 
 Quando avrete finito con la prima sessione, prenditi un po’ di tempo per riposare. Lascia che le idee maturino, non lanciarti subito verso la prossima sessione.
 

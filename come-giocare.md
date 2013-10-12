@@ -2,19 +2,21 @@
 title: Come Giocare
 layout: default
 ---
-Giocare a Dungeon World è come una conversazione; qualcuno dice qualcosa, poi tu rispondi, e magari qualcun'altro dice la sua. Ciò di cui si parla è la narrativa: il mondo dei personaggi e delle cose che accadono attorno a loro. Mentre si gioca, anche le regole diranno la propria; anche loro hanno qualcosa da dire sul mondo. Non ci sono turni, round o giri in Dungeon World, non ci sono regole che dicono di chi sia il turno di parlare. Invece, i giocatori si alternano seguendo il flusso naturale della conversazione, che prevede sempre un po' di botta e risposta. Il GM dice qualcosa, i giocatori rispondono. I giocatori fanno domande o affermazioni, il GM gli dice cosa succede subito dopo. Dungeon World non è mai un monologo; è sempre una conversazione.
+Giocare a Dungeon World è come una conversazione; qualcuno dice qualcosa, poi tu rispondi, e magari qualcun'altro dice la sua. Ciò di cui si parla è la *fiction*: il mondo dei personaggi e delle cose che accadono attorno a loro. Mentre si gioca, anche le regole diranno la propria; anche loro hanno qualcosa da dire sul mondo. Non ci sono turni, round o giri in Dungeon World, non ci sono regole che dicono di chi sia il turno di parlare. Invece, i giocatori si alternano seguendo il flusso naturale della conversazione, che prevede sempre un po' di botta e risposta. Il GM dice qualcosa, i giocatori rispondono. I giocatori fanno domande o affermazioni, il GM gli dice cosa succede subito dopo. Dungeon World non è mai un monologo; è sempre una conversazione.
 
-Le regole aiutano a dare forma alla conversazione durante il gioco. Mentre il GM e i giocatori parlano, anche le regole e la narrativa parlano. Ciascuna regola si attiva esplicitamente a partire dalla narrativa, dicendoti quando è il momento di portarla all'interno della conversazione.
+Le regole aiutano a dare forma alla conversazione durante il gioco. Mentre il GM e i giocatori parlano, anche le regole e la fiction parlano. Ciascuna regola si attiva esplicitamente a partire dalla fiction, dicendoti quando è il momento di portarla all'interno della conversazione.
 
 Come in ogni conversazione, il tempo che passi ad ascoltare è importante quanto il tempo che passi a parlare. I dettagli che vengono creati e decisi dalle altre persone al tavolo (il GM e gli altri giocatori) sono importanti per te: potrebbero cambiare le mosse che fai, fornire un'opportunità, o creare una sfida che devi superare. La conversazione funziona meglio quando tutti ascoltano, fanno domande e costruiscono sul contributo di ciascun altro.
 
 Questo capitolo ti spiegherà come giocare a Dungeon World. Qui potrai trovare una spiegazione delle regole — come si manifestano e danno un contributo al gioco. Parleremo sia di regole generali, come fare le mosse. e regole più specifiche, come quelle per gestire i danni e i punti ferita.
-# Punteggi di Capacità e Modificatori
+
+# Punteggi di Capacità e Modificatori
 
 La maggior parte delle regole si basa sui punteggi di capacità di un personaggio giocante e sui loro modificatori. Le capacità sono Forza, Costituzione, Destrezza, Intelligenza, Saggezza, Carisma. Esse misurano le capacità pure di un PG in ciascuna delle suddette aree, su una scala da 3 a 18, dove 18 è il massimo potenziale di un mortale.
 
 Ogni capacità ha un modificatore associato ad essa che si somma al risultato quando si tirano i dadi su quell'abilità. Si fa riferimento al modificatore con delle abbreviazioni di tre lettere: FOR, COS, DES, INT, SAG, CAR. I modificatori vanno da -3 a +3 e sono sempre direttamente derivati dal punteggio di capacità.
-# Fare le Mosse
+
+# Fare le Mosse
 
 L'unità basilare di regolamento in Dungeon World è la mossa. Una mossa ha questo aspetto.
 
@@ -24,16 +26,17 @@ Quando **attacchi un nemico in mischia**, tira+FOR. ✴Con un 10+, infliggi i tu
 
 ---
 
-Le mosse sono regole che ti dicono quando entrano in gioco e che effetto hanno. Una mossa dipende da un'azione narrativa e ha sempre un qualche effetto narrativo. Per "narrativo" s'intende che l'azione e l'effetto appartengono al mondo dei personaggi che stiamo descrivendo. Nella mossa sopra l'innesco è "quando attacchi un nemico in mischia". L'effetto è ciò che segue: devi tirare i dadi e in base al risultato possono accadere diversi effetti narrativi.
+Le mosse sono regole che ti dicono quando entrano in gioco e che effetto hanno. Una mossa dipende da un'azione nella fiction e ha sempre un qualche effetto nella fiction. Per "nella fiction" s'intende che l'azione e l'effetto appartengono al mondo dei personaggi che stiamo descrivendo. Nella mossa sopra l'innesco è "quando attacchi un nemico in mischia". L'effetto è ciò che segue: devi tirare i dadi e in base al risultato possono accadere diversi effetti nella fiction.
 
 Quando un giocatore descrive il suo personaggio fare qualcosa che innescherebbe una mossa, la mossa si attiva e le sue regole vengono applicate. Se la mossa richiede un tiro, essa dirà che dadi tirare e come leggerne i risultati.
 
-Un personaggio non può fare un'azione narrativa che innescherebbe una mossa senza che quella mossa si inneschi. Per esempio, se Isaac dice al GM che il suo personaggio sfreccia di fianco a un orco inferocito e munito di ascia per dirigersi verso una porta, innesca la mossa *sfidare il pericolo* perché il suo innesco è "quando agisci nonostante una minaccia incombente". Isaac non può dire che il suo personaggio supera l'orco senza eseguire la mossa *sfidare il pericolo*, e non può eseguire la mossa *sfidare il pericolo* se non sussiste una minaccia incombente o una circostanza sventurata. Le mosse e la narrativa procedono di pari passo.
+Un personaggio non può fare un'azione nella fiction che innescherebbe una mossa senza che quella mossa si inneschi. Per esempio, se Isaac dice al GM che il suo personaggio sfreccia di fianco a un orco inferocito e munito di ascia per dirigersi verso una porta, innesca la mossa *sfidare il pericolo* perché il suo innesco è "quando agisci nonostante una minaccia incombente". Isaac non può dire che il suo personaggio supera l'orco senza eseguire la mossa *sfidare il pericolo*, e non può eseguire la mossa *sfidare il pericolo* se non sussiste una minaccia incombente o una circostanza sventurata. Le mosse e la fiction procedono di pari passo.
 
 Ciascuno al tavolo dovrebbe stare attento a quando si attivano le mosse. Se non è chiaro se una mossa sia stata innescata o meno, bisogna discuterne insieme per mettere in chiaro la situazione. Fai domande alle persone coinvolte finché tutti la vedono allo stesso modo, e poi tira i dadi, o non tirarli, a seconda della situazione.
 
 Anche i mostri del GM, i personaggi non giocanti e altre bestie assortite hanno delle mosse, ma funzionano in modo diverso.
-## Mosse e Dadi
+
+## Mosse e Dadi
 
 La maggior parte delle mosse include la frase "tira+x" dove "x" è uno dei tuoi modificatori di capacità (ad esempio COS). A meno che la mossa non dica diversamente, "tira" significa sempre che devi tirare due dadi a sei facce e sommi i loro risultati e il valore del modificatore. Alcune mosse ti faranno aggiungere un valore specifico invece di un modificatore di capacità.
 
@@ -42,14 +45,16 @@ La maggior parte delle mosse include la frase "tira+x" dove "x" è uno dei tuoi 
 Il risultato è sempre in una di tre categorie. Un totale di 10 o più (scritto 10+) è il risultato migliore. Un totale di 7–9 è sempre un successo ma dovrai fare qualche compromesso o pagare un prezzo. Un 6 o meno significa guai, ma potrai segnare un punto esperienza.
 
 I danni funzionano in modo diverso. Si usano dadi diversi a seconda di chi o cosa infligge i danni.
-## I Tre Esiti
+
+### I Tre Esiti
 
 * **10+**: Lo fai senza problemi.
 
 * **7–9**: Lo fai ma con imprevisti o un prezzo da pagare.
 
 * **6-**: Il GM dice ciò che succede e tu segni un PE.
-## Mosse ed Equipaggiamento
+
+## Mosse ed Equipaggiamento
 
 Il più importante ruolo dell'equipaggiamento di un personaggio è di aiutare a descrivere le mosse che fa. Un personaggio senza un qualche tipo di arma non attiverà la mossa *taglia e spacca* mentre combatte un drago, perché un pugno a mani nude non ha un grande effetto su scaglie spesse un centimetro. Non conta quindi al fine di attivare la mossa.
 
@@ -57,15 +62,17 @@ Allo stesso modo, l'equipaggiamento può evitare di farti attivare una mossa. Sc
 
 In particolare, cambiando le armi è probabile che cambino anche le mosse che puoi fare. Un personaggio con un pugnale in mano può facilmente trafiggere il goblin che gli morde la gamba, attivando *taglia e spacca*, mentre un personaggio con un'alabarda avrà molta più difficoltà a colpire un avversario così vicino.
 
-Equipaggiamento e attrezzatura di ogni tipo sono dotati di etichette. Le etichette sono parole che descrivono gli oggetti. Alcune etichette hanno dei precisi effetti sulle regole (ad esempio, riduzione dei danni per l'armatura o un bonus magico a qualche mossa o attributo). Altre etichette hanno un significato puramente narrativo (come l'etichetta *vicino*, che descrive la lunghezza dell'arma e quanto vicino devono essere i tuoi nemici perché tu li possa attaccare). Le etichette ti aiutano a descrivere le azioni del tuo personaggio quando usa gli oggetti e danno informazioni al GM su come gli oggetti che usi possano ritorcerti contro o complicarti la vita quando fallisci un tiro.
-## Gli Effetti delle Mosse
+Equipaggiamento e attrezzatura di ogni tipo sono dotati di etichette. Le etichette sono parole che descrivono gli oggetti. Alcune etichette hanno dei precisi effetti sulle regole (ad esempio, riduzione dei danni per l'armatura o un bonus magico a qualche mossa o attributo). Altre etichette hanno un significato solo nella fiction (come l'etichetta *vicino*, che descrive la lunghezza dell'arma e quanto vicino devono essere i tuoi nemici perché tu li possa attaccare). Le etichette ti aiutano a descrivere le azioni del tuo personaggio quando usa gli oggetti e danno informazioni al GM su come gli oggetti che usi possano ritorcerti contro o complicarti la vita quando fallisci un tiro.
 
-Gli effetti delle mosse riguardano sempre il mondo narrativo che i personaggi abitano. Un 10+ su *taglia e spacca* non ha solo un effetto meccanico, ma significa che hai attaccato qualcosa con successo e gli hai fatto del male.
+## Gli Effetti delle Mosse
 
-Una volta che hai capito quali sono gli effetti della mossa, inseriscili nella narrativa e torna alla conversazione. Devi sempre tornare a ciò che sta accadendo nel gioco.
+Gli effetti delle mosse riguardano sempre il mondo della fiction che i personaggi abitano. Un 10+ su *taglia e spacca* non ha solo un effetto meccanico, ma significa che hai attaccato qualcosa con successo e gli hai fatto del male.
 
-Alcune mosse hanno degli effetti meccanici immediati, come infliggere danno o dare a qualcuno un bonus al loro prossimo tiro. Questi effetti sono sempre un riflesso del mondo narrativo in cui sono i personaggi; assicurati di usare la narrazione per descrivere gli effetti della mossa.
-## Alcune mosse …
+Una volta che hai capito quali sono gli effetti della mossa, inseriscili nella fiction e torna alla conversazione. Devi sempre tornare a ciò che sta accadendo nel gioco.
+
+Alcune mosse hanno degli effetti meccanici immediati, come infliggere danno o dare a qualcuno un bonus al loro prossimo tiro. Questi effetti sono sempre un riflesso del mondo della fiction in cui si trovano i personaggi; assicurati di usare la narrazione per descrivere gli effetti della mossa.
+
+### Alcune mosse …
 
 **… Usano la frase "infliggi danno".** Infliggere danni significa che tiri i dadi di danno della tua classe; a volte anche la tua arma aggiungerà o sottrarrà dei danni. Usi i tuoi danni ogniqualvolta fai un attacco che potrebbe ragionevolmente far del male al tuo bersaglio. Solitamente questo significa che hai un'arma in mano, ma anche i pugni possono essere armi con il giusto addestramento o in una situazione interessante.
 
@@ -75,20 +82,23 @@ Alcune mosse hanno degli effetti meccanici immediati, come infliggere danno o da
 
 **… Ti danno «riserva».** La riserva è una valuta che puoi spendere per fare delle scelte più tardi spendendola come descritto dalla mossa. La riserva è sempre relativa alla mossa che l'ha generata; ad esempio, non puoi spendere la riserva di *difendere* per *esperto di trappole* o viceversa.
 
-**… Ti presentano una scelta.** La scelta che fai, come in tutti gli effetti delle mosse, detta anche ciò che accade nella narrativa, in aggiunta ad eventuali effetti meccanici. Quando ottieni 10+ in *taglia e spacca*, la scelta che fai di infliggere più danni al costo di aprire le tue difese è esattamente quello che sta accadento al tuo personaggio: è abbastanza in vantaggio da poter andare sul sicuro o tentare la sorte.
+**… Ti presentano una scelta.** La scelta che fai, come in tutti gli effetti delle mosse, detta anche ciò che accade nella fiction, in aggiunta ad eventuali effetti meccanici. Quando ottieni 10+ in *taglia e spacca*, la scelta che fai di infliggere più danni al costo di aprire le tue difese è esattamente quello che sta accadento al tuo personaggio: è abbastanza in vantaggio da poter andare sul sicuro o tentare la sorte.
 
 **… Ti danno la possibilità di raccontare** qualcosa del tuo personaggio e della sua storia. Quando *declami conoscenze* ti potrebbe essere chiesto come fai a sapere le informazioni che ti vengono rivelate dal GM. Usa questa opportunità per dare un contributo al gioco e mostrare chi è davvero il tuo personaggio. Ricordati solo quali sono i fatti prestabiliti e non contraddire nulla che è stato già detto.
 
 **… Ti dicono «segna un PE».** Vuol dire che devi aggiungere 1 al tuo totale di punti esperienza.
-# Danni e Guarigione
+
+# Danni e Guarigione
 
 Tagli, ammaccature e ferite mortali sono i pericoli più comuni con cui hanno a che fare gli avventurieri di Dungeon World. Nel corso del gioco, i personaggi subiranno danni, guariranno ferite, e potrebbero anche morire. La salute di un personaggio è misurata in punti ferita (PF). I danni subiti vengono sottratti ai PF. Nelle giuste condizioni, o con l'ausilio di cure mediche o magiche, i danni possono essere guariti e i PF recuperati.
-## Punti Ferita
+
+## Punti Ferita
 
 I PF di un personaggio sono la misura della sua resistenza e salute. Quando un personaggio ha più PF significa che è in grado di combattere più a lungo e di sopportare traumi più gravi prima di dover affrontare il freddo sguardo della Morte.
 
 La tua classe ti dice quanti sono i tuoi PF massimi. Anche la tua Costituzione (il punteggio, non il modificatore) entra in gioco, quindi più Costituzione significa più PF. Se la tua Costituzione cambia permanentemente durante il gioco dovrai modificare i tuoi PF in relazione al tuo nuovo punteggio di Costituzione. A meno che la tua Costituzione cambi, i tuoi PF massimi rimangono sempre gli stessi.
-## Danni
+
+## Danni
 
 Quando un personaggio subisce danni, si sottraggono i danni subiti ai suoi PF attuali. L'armatura riduce i danni. Questo potrebbe significare che un colpo venga completamente assorbito — è normale, è a questo che serve l'armatura! I danni non possono mai portare un personaggio al di sotto degli 0 PF.
 
@@ -109,30 +119,35 @@ Aggiungi l'etichetta *ignora armatura* se la fonte è molto grande o se si tratt
 
 L'armatura temporanea o circostanziale funziona allo stesso modo dell'armatura che si indossa: armatura 1 per una copertura parziale, armatura 2 per una copertura integrale.
 
-I danni vengono inflitti in base alla narrativa. Le mosse che infliggono danni, come *taglia e spacca*, sono semplicemente questo: la mossa dice che i danni vengono inflitti nella narrativa. I danni possono essere inflitti anche senza una mossa, se ciò consegue dalla narrativa.
+I danni vengono inflitti in base alla fiction. Le mosse che infliggono danni, come *taglia e spacca*, sono semplicemente questo: la mossa dice che i danni vengono inflitti nella fiction. I danni possono essere inflitti anche senza una mossa, se ciò consegue dalla fiction.
 
 Spesso, la perdita di PF è solo parte dell'effetto. Se il danno è generico, come per il cadere in un fossato, perdere i PF è probabilmente l'unica conseguenza. Quando il danno è specifico, come per un'orco che ti tira un braccio lussandoti la spalla, i PF dovrebbero essere parte dell'effetto ma non tutto quanto. Il problema principale è sistemare il braccio slogato: come farai adesso a impugnare una spada o a lanciare un incantesimo? Allo stesso modo, se vieni decapitato non è una perdita di PF, sei morto e basta.
-## Danni da molteplici creature
+
+### Danni da molteplici creature
 
 È coraggioso il mostro che va in battaglia da solo. La maggior parte delle creature combattono con qualcuno al loro fianco, e magari qualcun altro dietro la schiena, e anche un arciere a coprire la retroguardia. Ciò può fare in modo che più di un mostro alla volta debba infliggere i suoi danni.
 
 Se molteplici creature attaccano allo stesso momento, tira i danni più elevati tra i loro e aggiungi +1 danno per ciascun mostro oltre il primo.
 
 > Un orkantatore goblin (d10+1 danni *ignora armatura*) e tre goblin (d6 danni) tirano tutti insieme le loro armi — un globo magico di acido per l'orkantatore, lance per gli altri — contro Lux, mentre lei assalta la loro barricata. Tiro i danni più alti, ovvero d10+1 *ignora armatura*, e aggiungo +3 per ciascuno degli altri goblin. Dopo aver sommato tutto, dico a Lux che subisce 9 danni *ignora armatura* quando l'acido passa attraverso le fessure lasciate dai colpi di ascia.
-## Danni da stordimento
 
-I danni da stordimento sono danni non letali. Un PG che subisce danni non letali deve*sfidare il pericolo* per fare qualunque cosa, dove il pericolo è "sei stordito". L'effetto dura fintanto che ha senso narrativo — sei stordito finché non hai la possibilità di schiarirti le idee o di sistemare qualunque cosa ti renda stordito. Un personaggio del GM che subisce danni da stordimento non li sottrae ai PF ma agirà di conseguenza, vacillando per qualche secondo, barcollando alla cieca, etc.
-## Aggiungere e sottrarre danni
+### Danni da stordimento
+
+I danni da stordimento sono danni non letali. Un PG che subisce danni non letali deve*sfidare il pericolo* per fare qualunque cosa, dove il pericolo è "sei stordito". L'effetto dura fintanto che ha senso nella fiction: sei stordito finché non hai la possibilità di schiarirti le idee o di sistemare qualunque cosa ti renda stordito. Un personaggio del GM che subisce danni da stordimento non li sottrae ai PF ma agirà di conseguenza, vacillando per qualche secondo, barcollando alla cieca, etc.
+
+### Aggiungere e sottrarre danni
 
 Quando una mossa ti dice di aggiungere danni, aggiungi quel valore al tiro dei dadi. Se ti dice di aggiungere dei dadi (ad esempio "+1d4 danni"), tira quei dadi e aggiungi il risultato al totale.
 
 Lo stesso vale per quando devi sottrarre i danni, sottrai il numero indicato dal totale. Se devi sottrarre un dado (ad esempio "-1d6 danni"), sottrai il risultato del tiro al totale originale. I danni non diventano mai negativi — 0 danni è il minimo.
-## Migliore o peggior risultato
+
+### Migliore o peggior risultato
 
 Alcuni mostri e mosse ti chiedono di tirare i dadi più di una volta e di prendere il migliore o il peggior risultato. In questo caso tira normalmente e applica il miglior (o il peggior) risultato.
 
 Se un mostro tira per d6 danni due volte e prende il miglior risultato si scrive m[2d6]. La m[] significa "migliore". Allo stesso modo, p[] significa "peggiore", quindi p[3d10] significa "tira per d10 danni tre volte e tieni il peggior risultato".
-## Guarigione
+
+## Guarigione
 
 Ci sono due modi di guarire in Dungeon World: cure mediche e il passaggio del tempo.
 
@@ -141,7 +156,8 @@ Le cure mediche, sia quelle magiche che quelle ordinarie, guariscono i danni com
 Ogni volta che un personaggio passa del tempo a riposare senza fare nulla che possa peggiorare le condizioni delle proprie ferite, guarisce. La velocità della guarigione è descritta nelle mosse *accamparsi* per le notti in aree pericolose e *riprendersi* per i soggiorni in aree civilizzate.
 
 Indipendentemente dal tipo di guarigione, i PF di un personaggio non possono mai superare il loro massimo.
-## Morte
+
+## Morte
 
 La morte aleggia tetra sopra ogni campo di battaglia. Un personaggio che viene ridotto a 0 PF immediatamente esala il suo *ultimo respiro*. La morte arriva egualmente per il re e per il villano — nessun modificatore è aggiunto al tiro di *ultimo respiro*.
 
@@ -150,7 +166,8 @@ Nessuno sa cosa giace oltre ai Neri Cancelli della Morte, ma si dice che molti s
 La morte offre dei patti ad alcuni, dai più semplici ai più costosi. La morte è capricciosa e potrebbe chiedere un futuro favore o esigere un pedaggio. Potrebbe pretendere un sacrificio o chiedere qualcosa di strano e apparentemente innocuo. I desideri della morte sono imprevedibili.
 
 A seconda del risultato del tiro di *ultimo respiro* il personaggio potrebbe diventare stabile. Un personaggio stabile resta a 0 PF ma è vivo e privo di sensi. Se viene guarito riprende conoscenza e può tornare a combattere o cercare riparo. Se un personaggio stabile subisce altri danni esala l'*ultimo respiro* e fronteggia nuovamente la Morte.
-## Dopo la morte
+
+### Dopo la morte
 
 Essere un avventuriero non è facile: sono notti fredde nelle terre selvagge e spade affilate e mostri. Prima o poi, dovrai fare anche tu quella lunga camminata fino ai Neri Cancelli e concedere la tua anima. Ciò non significa che tu debba darle la soddisfazione di restare. La morte, in un certo senso, è un'altra sfida da vincere. Anche gli avventurieri morti possono tornare alla vita.
 
@@ -161,7 +178,8 @@ Qualunque siano le tue prospettive di resurrezione, per adesso crea un nuovo per
 Se il tuo personaggio precedente torna in vita puoi giocare entrambi i personaggi, alternando tra i due come desideri (purché abbia senso).
 
 GM, quando dici ai giocatori che cosa devono fare per resuscitare il loro compagno, non dev'essere per forza qualcosa che devii il corso del gioco. Integra la cosa nella storia appoggiandoti su ciò che già sai. Questa è un'ottima opportunità per spostare il centro dell'attenzione o per introdurre un elemento che non vedevi l'ora di mostrare. D'altro canto, non pensare che debba essere una missione epica e maestosa. Se il personaggio è morto infilzato su una lancia goblin, probabilmente basterà una marcia impacciata verso casa e un migliaio di pezzi d'oro in dono al tempio della zona. Pensa a quali potrebbero essere le conseguenze di un tale atto di carità e come potrebbero influenzare il mondo. Ricorda: la Morte non dimentica mai le anime sottratte al suo regno.
-## Debilitazioni
+
+## Debilitazioni
 
 Perdere PF è un effetto generico, rappresenta lividi, tagli, fatica, e così via. Alcune ferite, però, fanno più male. Si tratta di debilitazioni.
 
@@ -181,15 +199,17 @@ Non tutti gli attacchi debilitano: la maggior parte delle volte questi effetti s
 
 Puoi avere solo una debilitazione di ciascun tipo. Se sei già indisposto e qualcosa ti rende indisposto lo ignori.
 
-Le debilitazioni sono più difficili da guarire dei PF. La magia alta può farlo, certamente, ma la tua miglior possibilità è di trovarti in un posto sicuro e passare qualche giorno in un letto morbido. Ovviamente, le debilitazioni sono sia descrittive che prescrittive: se accade qualcosa nella narrativa che rimuoverebbe la debilitazione, essa effettivamente scompare.
+Le debilitazioni sono più difficili da guarire dei PF. La magia alta può farlo, certamente, ma la tua miglior possibilità è di trovarti in un posto sicuro e passare qualche giorno in un letto morbido. Ovviamente, le debilitazioni sono sia descrittive che prescrittive: se accade qualcosa nella fiction che rimuoverebbe la debilitazione, essa effettivamente scompare.
 
-Le debilitazioni non sono un'alternativa alla descrizione e al seguire la narrativa già assodata. Quando qualcuno perde un braccio non significa che è Indebolito, significa che ha un braccio in meno. Non limitare la tua immaginazione con le debilitazioni. La tua malattia speciale può avere qualunque effetto ti venga in mente. Indisposto è solo un modo veloce di rappresentare quella febbre da quattro soldi che ti passano i ratti.
-# Magia
+Le debilitazioni non sono un'alternativa alla descrizione e al seguire la fiction già assodata. Quando qualcuno perde un braccio non significa che è Indebolito, significa che ha un braccio in meno. Non limitare la tua immaginazione con le debilitazioni. La tua malattia speciale può avere qualunque effetto ti venga in mente. Indisposto è solo un modo veloce di rappresentare quella febbre da quattro soldi che ti passano i ratti.
+
+# Magia
 
 Dungeon World è un posto fantastico: ci sono molte cose oltre al fango, al sangue e alla birra in taverna. Fuoco e aria evocati dai puri elementi naturali. Preghiere di salute, possenza e punizione divina. "Magia" è il nome dato a queste capacità che non derivano dalla forza degli uomini o delle bestie ma da forze trascendenti.
 
 Magia significa molte cose. La capacità del druido di assumere la forma di un animale è magia, come gli effetti studiati del mago e le benedizioni divine del chierico. Qualunque capacità vada oltre ciò che è materialmente possibile è magica.
-## Incantesimi
+
+## Incantesimi
 
 Alcune classi, come il chierico e il mago, hanno la possibilità di lanciare incantesimi: si tratta di effetti magici specifici che sono il risultato di una devozione religiosa o di una ricerca studiosa. Ogni incantesimo ha un nome, delle etichette, un livello e un effetto.
 
@@ -202,11 +222,12 @@ Anche quando un incantatore conosce un incantesimo, deve prepararlo prima di pot
 Lanciare un incantesimo può comportare l’invocazione di una divinità, salmodiare, agitare le mani, appellarsi a forze mistiche, e così via. Per lanciare un incantesimo solitamente devi fare la mossa *lancia un incantesimo*. Su un risultato di 10+ l'incantesimo ha effetto, con un 7–9 l'incantatore è nei guai e deve fare una scelta, ma l'incantesimo è comunque lanciato. Alcuni incantesimi hanno un effetto continuato: una volta lanciati, restano attivi fino a quando qualcosa vi pone fine.
 
 Un'opzione sul risultato di 7–9 è di dimenticare l'incantesimo o che ne venga negato l'utilizzo dalla propria divinità. Un incantesimo dimenticato o negato è considerato ancora conosciuto, ma non preparato, e quindi non lanciabile. Quando l'incantatore *prepara incantesimi* o fa *comunione* può preparare nuovamente l'incantesimo.
-# Evoluzione dei Personaggi
+
+# Evoluzione dei Personaggi
 
 Il mondo di Dungeon World è in continuo cambiamento. Anche i personaggi cambiano. Man mano che la loro avventura procede, i PG ottengono punti esperienza (PE), che gli permettono di salire di livello. Questo li rende pronti per maggiori pericoli, avventure più emozionanti e imprese più importanti.
 
-La crescita, come qualunque altra cosa in Dungeon World, è sia prescrittiva che descrittiva. Prescrittivo significa che quando un giocatore modifica la scheda del proprio personaggio il personaggio cambia nella narrativa. Descrittivo significa che quando il personaggio cambia nella narrativa il giocatore deve adeguatamente modificare la scheda personaggio.
+La crescita, come qualunque altra cosa in Dungeon World, è sia prescrittiva che descrittiva. Prescrittivo significa che quando un giocatore modifica la scheda del proprio personaggio il personaggio cambia nella fiction. Descrittivo significa che quando il personaggio cambia nella fiction il giocatore deve adeguatamente modificare la scheda personaggio.
 
 Questo non è né un vantaggio né uno svantaggio per i giocatori o per il GM; non è una scusa per ottenere altri poteri o per toglierne. È solo il riflesso della vita in Dungeon World.
 
@@ -215,22 +236,26 @@ Questo non è né un vantaggio né uno svantaggio per i giocatori o per il GM; n
 > Gregor offre la sua arma caratteristica, un'ascia il cui acciaio verde è stato temprato nel sangue di orco, come disperato baratto per salvare Re Auther dalla dannazione eterna. Senza la sua ascia non ottiene i benefici della sua arma caratteristica. Dovesse recuperarla, avrà nuovamente accesso ai benefici.
 
 I cambiamenti descrittivi avvengono solamente quando il personaggio ha chiaramente ottenuto l'accesso a una capacità. Non spetta a nessun giocatore deciderlo — se pensate che sia giusto che un personaggio ottenga una nuova abilità, discutetene come gruppo.
-## Salire di Livello
+
+## Salire di Livello
 
 Mentre giochi a Dungeon World, farai tre cose principalmente: esplorare, combattere nemici pericolosi, e raccogliere tesori. Per ciascuna di queste cose sarai ricompensato con un PE alla fine della sessione. Anche agire in concordanza con il tuo allineamento e soddisfarne le richieste ti frutterà un PE alla fine di ogni sessione. Se risolvi un legame e ne crei uno nuovo, otterrai un PE anche in questo caso. Ogni volta che tiri e ottieni 6- ottieni un PE subito. Il GM potrebbe avere condizioni speciali che puoi soddisfare per ottenere un PE o cambiare quelle proposte come riflesso del suo mondo. Se è così, te lo farà sapere prima di giocare.
 
 Quando i vostri personaggi sono al sicuro e hanno il tempo di riposare, possono fare la mossa *salire di livello* e ottenere nuove mosse.
-## Mosse Multiclasse
+
+### Mosse Multiclasse
 
 Le mosse multiclasse ti permettono di ottenere mosse da un'altra classe. Puoi scegliere qualunque mossa del tuo livello o inferiore. Ai fini delle mosse multiclasse, eventuali mosse iniziali che dipendono l'una dall'altra contano come una sola mossa: le mosse *lanciare incantesimo*, *libro degli incantesimi*, *preparare incantesimi* del mago, ad esempio. Se la mossa di un'altra classe fa riferimento al tuo livello, contano i livelli a partire dal livello in cui hai scelto la tua prima mossa di quella classe.
-## Prerequisiti e sostituzioni
+
+### Prerequisiti e sostituzioni
 
 Alcune mosse che puoi ottenere ai livelli alti dipendono da altre mosse. Se nella descrizione di una mossa un'altra mossa è elencata dopo la parola Prerequisito o Sostituisce puoi scegliere la nuova mossa solo se hai già la mossa elencata.
 
 Una mossa che ha come prerequisito un'altra mossa può essere scelta soltanto se hai già la mossa richiesta. Dopo, avrai a disposizione entrambe le mosse ed entrambe avranno effetto.
 
 Una mossa che sostituisce un'altra mossa può essere scelta soltanto se hai già la mossa richiesta. Perderai la mossa sostituita e avrai soltanto quella nuova. La nuova mossa, solitamente, include già tutti i benefici di quella sostituita: ad esempio, potresti rimpiazzare una mossa che ti dà armatura 1 con una che ti dà armatura 2.
-## Oltre il Decimo Livello
+
+### Oltre il Decimo Livello
 
 Quando raggiungi il decimo livello le cose cominciano a cambiare. Quando hai abbastanza PE per raggiungere l'undicesimo livello, scegli uno di questi tre:
 
@@ -239,19 +264,22 @@ Quando raggiungi il decimo livello le cose cominciano a cambiare. Quando hai abb
 * Scambi la tua classe con una completamente diversa
 
 Se ti ritiri dall'avventura, devi creare un nuovo personaggio da giocare e lavorare insieme al GM per decidere il suo posto nel mondo. Se decidi di prendere con te un apprendista giocherai il nuovo personaggio (l'apprendista) insieme al tuo personaggio attuale, che smette di guadagnare PE. Cambiare classe significa mantenere tutti i tuoi punteggi di capacità, razza, PF e qualunque mossa tu e il GM decidiate sia fondamentale per il tuo personaggio. Perdi tutte le altre mosse della classe, sostituendole con le mosse iniziali della nuova classe.
-# Legami
+
+# Legami
 
 I legami sono ciò che vi rende un gruppo di avventurieri piuttosto che un assortimento casuale di persone. Sono i sentimenti, i pensieri e la storia condivisa che vi unisce. Avrai sempre almeno un legame, e spesso ne avrai più di uno.
 
 Ciascun legame è una semplice affermazione che fa riferimento al tuo personaggio e a un altro PG. La tua classe te ne da alcuni per iniziare, eventualmente sostituirai i tuoi legami iniziali e ne guadagnerai di nuovi durante il gioco.
-## Risolvere i Legami
+
+## Risolvere i Legami
 
 Alla fine di ogni sessione puoi risolvere un legame. La risoluzione di un legame dipende sia da te che dal giocatore del personaggio con cui condividi il legame: puoi proporre che il legame sia stato risolto e, se acconsente, viene risolto. Quando risolvi un legame, segna un PE.
 
 Un legame è risolto quando non descrive più il tuo rapporto con quel personaggio. Potrebbe essere perché le circostanze sono cambiate — Thelian prima ti guardava le spalle, ma ora che ti ha abbandonato ai goblin, non sei più così sicuro. O potrebbe essere un problema che non c'è più — hai fatto da guida a Wesley e ti doveva un favore, ma ha pagato il suo debito quando ti ha salvato la vita con un incantesimo al momento giusto. Ogni volta che leggi un legame e pensi "questa cosa non è più importante per il nostro rapporto" è il momento di risolvere il legame.
 
 Se hai un legame vuoto sulla scheda personaggio puoi riempirlo quando vuoi. Non ottieni PE se lo fai, ma avrai più legami da risolvere in futuro.
-## Scrivere nuovi Legami
+
+## Scrivere nuovi Legami
 
 Ogni volta che risolvi un legame ne scrivi uno nuovo. Il tuo nuovo legame potrebbe essere con lo stesso personaggio, ma non deve.
 
@@ -272,7 +300,8 @@ Quando scrivi un nuovo legame scegli un altro personaggio. Scegli qualcosa di at
 > Xotoq ha vinto l'ascia delle Ossa Sussuranti con un tranello! Sarà mia, lo giuro.
 
 Questi legami sono esattamente come quelli vecchi: usali, risolvili, sostituiscili.
-# Allineamento
+
+# Allineamento
 
 L'allineamento è la bussola morale e il modo di pensare del tuo personaggio. Per il personaggio questo può essere un ideale etico, regole religiose, o magari solo una reazione d'istinto. È un riflesso delle aspirazioni e delle ambizioni del tuo personaggio, e può farti da guida quando non sei sicuro di ciò che dovresti fare. Alcuni personaggi proclameranno ai quattro venti il proprio allineamento, mentre altri lo potrebbero nascondere. Un personaggio non dirà mai "sono una persona malvagia", ma invece "metto me stesso per primo". Finché lo dice a se stesso, va bene, ma il mondo conosce la verità. Sepolto nel profondo di ognuno è il sé ideale che si ambisce a diventare: è il cuore mistico che alcuni incantesimi e capacità percepiscono per individuare l'allineamento di un'altra persona. Ogni creatura senziente in Dungeon World ha un allineamento, che sia un elfo, un umano, o qualcosa di più inconsueto.
 
@@ -285,45 +314,52 @@ Una creatura Neutrale pensa a se stessa fintanto che ciò non entri in conflitto
 La maggior parte delle creature è Neutrale. Non provano piacere nel fare del male agli altri, ma lo faranno se è giustificato dalle circostanze. Coloro che mettono un ideale — che sia Legge, Caos, Bontà o Malvagità — prima di ogni cosa sono più difficili da trovare.
 
 Anche due creature con lo stesso allineamento possono entrare in conflitto. Aspirare ad aiutare gli altri non rende infallibili, e due creature Buone possono combattere e morire per via delle loro visioni diverse di cosa è giusto.
-## Cambiare Allineamento
+
+## Cambiare Allineamento
 
 L'allineamento può, e deve, cambiare. Solitamente questo cambiamento avviene in modo graduale, anticipando un momento decisivo. Ogni volta che la visione del mondo di un personaggio cambia drasticamente questi può scegliere un nuovo allineamento. Il giocatore deve trovare una ragione per la modifica che soddisfi gli altri giocatori.
 
 A volte, un giocatore potrebbe voler cambiare la sua mossa di allineamento senza cambiare allineamento. Ciò rappresenta un cambiamento più piccolo, uno spostamento di priorità invece che un completo ripensamento. Semplicemente, sceglie una nuova mossa dalla lista sotto e spiega perché il suo personaggio adesso ritiene questa cosa importante.
-## Legale
+
+### Legale
 
 * Segui la legge alla lettera a scapito delle emozioni
 * Onora una promessa importante
 * Porta qualcuno davanti alla giustizia
 * Scegli l'onore a scapito del guadagno personale
 * Riporta un tesoro al suo legittimo proprietario
-## Buono
+
+### Buono
 
 * Ignora il pericolo per aiutare qualcuno
 * Guida gli altri in battaglia per una giusta causa
 * Rinuncia al potere o alle ricchezze per il bene superiore
 * Rivela una bugia pericolosa
 * Mostra pietà e compassione
-## Neutrale
+
+### Neutrale
 
 * Diventa alleato con qualcuno di potente
 * Sconfiggi un avversario personalmente importante
 * Scopri un segreto a proposito di un nemico
 * Rivela una verità nascosta
-## Caotico
+
+### Caotico
 
 * Svela la corruzione
 * Infrangi una legge ingiusta per aiutare qualcuno
 * Sconfiggi un tiranno
 * Svela l'ipocrisia
-## Malvagio
+
+### Malvagio
 
 * Approfitta della fiducia di qualcuno
 * Provoca sofferenza per il gusto di farlo
 * Distruggi qualcosa di meraviglioso
 * Sconvolgi l'ordine naturale
 * Fai del male a un innocente
-# Gregari
+
+# Gregari
 
 I gregari sono quelle povere anime che, per i soldi, la gloria o per altri curiosi bisogni, si avventurano insieme agli avventurieri in luoghi cupi e pericolosi. Sono gente avventata che cerca di farsi un nome come avventuriero.
 
@@ -344,14 +380,16 @@ Quando i gregari sono in gioco, i giocatori potrebbero dover fare la mossa *dare
 I gregari fanno ciò che gli dici, fintanto che non sia evidentemente pericolosa, umiliante o stupida e che il loro costo sia soddisfatto. **Quando un gregario si trova in una situazione pericolosa, umiliante o semplicemente stupida a causa dei tuoi ordini**tira+lealtà. ✴Con un 10+ eseguono l'ordine senza remore. ✴Con un 7–9 lo fanno per ora, ma esigeranno qualcosa di importante più tardi. Concediglielo o vi abbandoneranno nel peggior modo possibile.
 
 ---
-# Creare un Gregario
+
+# Creare un Gregario
 
 I gregari sono facili da fare al volo. Quando qualcuno viene assunto dai giocatori scrivi il loro nome e il costo su cui si sono accordati, oltre alle loro eventuali abilità.
 
 Inizia con un punteggio in base a dove è stato incontrato il gregario. I gregari di villaggio iniziano con 2–5. I gregari di città iniziano con 4–6. I gregari di fortezza iniziano con 5–8. I gregari di una grande città iniziano con 6–10. Distribuisci il punteggio tra la lealtà, un'abilità principale, ed eventuali altre abilità secondarie. Una lealtà iniziale più alta di 2 è rara, così come una lealtà pari a 0. Scegli un costo per il gregario e hai finito.
 
 Le statistiche di un gregario, specialmente la lealtà, possono cambiare durante il gioco come riflesso delle cose che accadono. Un gesto di gentilezza o una lauta ricompensa da parte dei giocatori vale +1 lealtà immediato. Una mancanza di rispetto vale -1 lealtà immediato. Se è passato molto tempo dall'ultima volta che il suo costo è stato soddisfatto, hanno -1 lealtà continuato fino a quando il costo non viene pagato. La lealtà di un gregario può aumentare permanentemente quando raggiunge un obiettivo importante insieme ai giocatori. Un fallimento importante o una batosta può invece ridurre permanentemente la lealta del gregario.
-## Costi
+
+## Costi
 
 * Il Brivido della Vittoria
 * Soldi
@@ -359,54 +397,64 @@ Le statistiche di un gregario, specialmente la lealtà, possono cambiare durante
 * Fama e Gloria
 * Dissolutezza
 * Fare del Bene
-## Abilità
+
+## Abilità
 
 Quando crei un gregario, distribuisci i suoi punti tra una o più di queste abilità.
-## Adepto
+
+### Adepto
 
 Un adepto ha almeno fatto da apprendista a un esperto delle arti arcane, ma non è molto potente da solo. Sono gli studenti universitari del mondo arcano.
 
 *Assistenza Arcana* — Quando un adepto ti aiuta a lanciare un incantesimo di livello inferiore alla sua abilità, gli effetti dell'incantesimo aumentano di portata, durata o potenza. I dettagli dell'effetto stanno al GM e dipendono dalle circostanze e dall'incantesimo usato. Il GM descriverà gli effetti aggiuntivi prima del lancio dell'incantesimo. Il vantaggio più importante di lanciare con un adepto è che qualsiasi effetto negativo del lancio agisce sull'adepto per primo.
-## Battitore
+
+### Battitore
 
 I battitori conoscono l'arte di seguire le tracce, ma non hanno l'esperienza con creature inconsuete e luoghi esotici che ha un grande cacciatore.
 
 *Seguire Tracce* — Quando un battitore passa il tempo a studiare una pista mentre vi*accampate*, al termine dell'accampamento può seguire la pista fino al prossimo cambiamento rilevante di terreno, tempo atmosferico o luogo.
 
 *Guida* — Quando un battitore cammina per primo hai automaticamente successo su qualunque tiro di *viaggio pericoloso* per una distanza (in razioni) minore dell'abilità del battitore.
-## Combattente
+
+### Combattente
 
 I combattenti non sono dei maestri delle armi, ma sanno maneggiarne una abbastanza bene.
 
 *Uomo d'Arme* — Quando infliggi danno mentre un combattente ti aiuta, aggiungi la sua abilità ai danni inflitti. Se il tuo attacco ha delle conseguenze (come un contrattacco), il combattente ne subisce la maggior parte.
-## Guardia del Corpo
+
+### Guardia del Corpo
 
 Una guardia del corpo si frappone tra il suo datore di lavoro e le lame, zanne, denti e magie che ne minacciano la sicurezza.
 
 *Sentinella* — Quando una guardia del corpo si frappone tra te e un attacco aggiungi la sua abilità alla tua armatura, poi riduci la sua abilità di 1 fino a quando viene guarito o ha il tempo di fasciarsi le ferite.
 
 *Intervenire* — Quando una guardia del corpo ti aiuta a sfidare il pericolo puoi prendere +1 grazie al suo aiuto. Se lo fai, non puoi ottenere un risultato di 10+, il risultato di 10+ conta come un 7–9.
-## Menestrello
+
+### Menestrello
 
 Quando serve una faccia sorridente per sistemare le cose o per contrattare un accordo, un menestrello è sempre felice di vendere i propri servizi al giusto prezzo.
 
 *Un Benvenuto da Eroi* — Quando entri in un luogo dove si mangia, si beve o ci si diverte con un menestrello sarai trattato amichevolmente da tutti i presenti (sempre che le tue azioni non provino altrimenti). Inoltre, sottrai l'abilità del menestrello da tutti i prezzi in città.
-## Sacerdote
+
+### Sacerdote
 
 I sacerdoti sono il clero di basso rango di una religione, officiano funzioni minori e impartiscono i sacramenti più comuni. Anche se non possono lanciare degli incantesimi loro stessi, possono chiedere aiuto alla loro divinità per questioni minori.
 
 *Sacerdozio* — Quando ti *accampi* con un sacerdote, tutti gli effetti di guarigione guariscono +abilità PF.
 
 *Primo Soccorso* — Quando un sacerdote ti rammenda le ferite, guarisci 2×abilità PF. Prendi -1 immediato essendo la guarigione dolorosa e impacciata.
-## Scassinatore
+
+### Scassinatore
 
 Gli scassinatori sono abili in varie aree, la maggior parte delle quali illegali o pericolose. Sono bravi con i congegni e le trappole, ma non molto sul campo di battaglia.
 
 *Disarmare Trappole Sperimentalmente* — Quando uno scassinatore procede in testa al gruppo può individuare le trappole poco prima che si attivino. Se una trappola viene attivata mentre lo scassinatore procede in testa al gruppo, lo scassinatore subisce tutti gli effetti della trappola, e i giocatori ottengono +abilità contro la trappola e aggiungono l'abilità dello scassinatore alla propria armatura contro la trappola. La maggior parte delle trappole fanno in modo che lo scassinatore abbia bisogno di cure immediate. Se i personaggi si*accampano* vicino alla trappola, invece, lo scassinatore può disarmarla mentre si è accampati.
-# **La Vita da Avventuriero**
+
+# **La Vita da Avventuriero**
 
 Adesso conosci le basi. È il momento che tu scopra che cosa significa vivere la vita dell'avventuriero. Si dice che sia tutto oro e gloria. A volte è vero, ma a volte significa scavare tra feci di otyugh per la possibilità di trovare una singola moneta d'oro.
-## I Dungeon
+
+## I Dungeon
 
 Come avventuriero, spenderai una gran parte del tuo tempo nei dungeon. La parola "dungeon" letteralmente indica le segrete di un castello dove si lasciano marcire i prigionieri, ma un dungeon è in realtà qualsiasi luogo dove abbondino pericoli e opportunità. La tana di un drago, l'accampamento nemico, una fogna dimenticata, un castello volante, le fondamenta stesse del mondo.
 
@@ -419,7 +467,8 @@ A proposito di trappole: tieni gli occhi aperti anche per quelle. Il ladro è il
 Quando sei così sfortunato da attivare una trappola, potresti avere la possibilità di scappare, lanciare un veloce incantesimo protettivo o salvare un amico — probabilmente con la mossa *sfidare il pericolo*. Ovviamente, non tutte le trappole sono così rozze da lasciarti il tempo di reagire. Una trappola ben fatta ti infilerà una lama nel fianco prima ancora che tu ti accorga di averla attivata.
 
 È un prospetto tetro, è vero, ma non è così male alla fine. Hai il tuo acciaio, la tua furbizia e i tuoi incantesimi. Se rimanete insieme e affilate l'ingegno ce la farete a uscirne vivi. Forse.
-## Mostri
+
+## Mostri
 
 Le bestie e fiere orribili che popolano i dungeon? Li chiamiamo mostri.
 
@@ -434,14 +483,16 @@ Combattere spesso significa attivare mosse come *taglia e spacca*, *difendere* o
 I mostri solitamente appartengono ad alcune categorie. Gli umanoidi ti assomigliano per forma: orchi, goblin, e così via. Le bestie sono animali, ma non docili come Bessie la mucca: pensa a corna lunghe mezzo metro e sacche piene di acido. I costrutti sono vita artificiale. Mostri planari che vengono da oltre questo mondo, da luoghi che si possono soltanto immaginare. I non-morti sono i peggiori: ciò che è già morto è terribilmente difficile da uccidere ancora.
 
 Quando ti trovi in un combattimento con un mostro ci sono un paio di trucchi che possono aiutarti a sopravvivere. Se il mostro è qualcosa che già conosci, puoi cercare di ricordarti ciò che sai e *declamare conoscenza*. Inoltre, non fa mai male prendersi un attimo per guardarsi intorno e *discernere realtà*: potrebbe esserci qualcosa di utile che non hai visto. Fai anche in modo di capire le mosse della tua classe e come possono tornarti utili. Non sai mai quando una mossa può aiutarti in un modo inaspettato.
-## Terre Selvagge
+
+## Terre Selvagge
 
 Ci sono i dungeon, ci sono le città, e c'è tutto ciò che sta in mezzo: le terre selvagge. La linea che separa un dungeon da una foresta è più sottile di quanto tu possa credere — ti sei mai perso di notte in un bosco pieno di lupi?
 
 I viaggi lungo le strade sono facili. Quando hai una pista da seguire e un po' di protezione non hai neanche bisogno di fare una mossa — consumi solo qualche razione e arrivi a destinazione. Se è un viaggio pericoloso, però…
 
 Se intraprendi un *viaggio pericoloso* avrai bisogno di un apripista, un ricognitore e un quartiermastro. Ciò significa che dovete essere almeno in tre per avventurarvi in aree pericolose. Meno di tre e state trascurando qualcosa — e questo vuol dire cercar guai.
-## Amici e Nemici
+
+## Amici e Nemici
 
 Sei un avventuriero, quindi la gente ti presterà attenzione. Non tutta l'attenzione che riceverai sarà positiva. Scoprirai che, soprattutto quando sei ricoperto da tesori antichi, parassiti di ogni tipo sbucheranno dalle abitazioni.
 
@@ -454,7 +505,8 @@ Vale la pena di prendere nota di chi ti copre le spalle e di chi vorrebbe pugnal
 Mentre tu vivi la vita dell'avventuriero, senza un domicilio fisso, il resto delle persone probabilmente non si sposterà così tanto. Sapere dove si trova il fabbro che fa i lavori migliori, o quali taverne in città ti offriranno da bere gratis, è una cosa da non sottovalutare.
 
 Ricordati che non tutto il potere è puramente fisico. Anche se potresti sconfiggere Re Arlon in un duello non farai altro che invitare la sua corte, i suoi parenti e i suoi alleati a vendicarsi su di te. La posizione sociale è un altro tipo di potere, diverso dalla magia e dalla possanza.
-## Il Mondo
+
+## Il Mondo
 
 Sei un avventuriero; sei una persona importante. Ma ci sono altre forze in gioco. Il mondo andrà avanti sena di te. Se non poni fine all'infestazione di goblin nelle fogne magari lo farà qualcun altro. O forse i goblin prenderanno il controllo della città. Vuoi davvero scoprirlo?
 

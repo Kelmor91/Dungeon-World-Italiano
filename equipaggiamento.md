@@ -4,10 +4,11 @@ layout: default
 ---
 Le tombe ammuffite e i tesori dimenticati e riscoperti del mondo sono colmi di oggetti utili. Il guerriero potrebbe trovare una spada nuova e affilata, oppure il ladro potrebbe trovare per caso un veleno mortale. La maggior parte degli oggetti sono ordinari — né magici né intrinsecamente unici in alcun modo. Qualunque oggetto che sia magico o unico nel suo genere non è ordinario ai fini delle mosse. L’arma caratteristica del guerriero non è mai ordinaria.
 
-Ciascuno degli oggetti che compongono l’equipaggiamento avrà un certo numero di etichette. Le etichette spiegano come l’equipaggiamento influenzi il personaggio che lo usa (come *+armatura*) o indicano il modo in cui devono essere usati (come le etichette di Portata). Come ogni cosa in Dungeon World, le etichette guidano la creazione della narrativa durante il gioco. Se un’arma è *scomoda*, potrebbe significare che è più probabile che tu la faccia cadere quando fallisci quel tiro di *taglia e spacca*.
+Ciascuno degli oggetti che compongono l’equipaggiamento avrà un certo numero di etichette. Le etichette spiegano come l’equipaggiamento influenzi il personaggio che lo usa (come *+armatura*) o indicano il modo in cui devono essere usati (come le etichette di Portata). Come ogni cosa in Dungeon World, le etichette guidano la creazione della fiction durante il gioco. Se un’arma è *scomoda*, potrebbe significare che è più probabile che tu la faccia cadere quando fallisci quel tiro di *taglia e spacca*.
 
 Questa non è affatto una lista completa — sentitevi liberi di creare le vostre etichette.
-# Etichette Generali dell’Equipaggiamento
+
+# Etichette Generali dell’Equipaggiamento
 
 Queste sono le etichette generali applicabili a più o meno qualunque oggetto. Le vedrai su armature, armi o altra attrezzatura generica da avventuriero.
 
@@ -36,10 +37,12 @@ Queste sono le etichette generali applicabili a più o meno qualunque oggetto. L
 *Indossato:* Per usarlo, devi indossarlo.
 
 *n Usi:* Può essere usato solo *n* volte.
-# Armi
+
+# Armi
 
 Le armi non uccidono i mostri, lo fanno le persone. È per questo che le armi di Dungeon World non hanno un danno assegnato. Un’arma è usata principalmente per le sue etichette, che descrivono a che cosa è più utile l’arma. Un pugnale non è utile perché fa più danni di una qualche altra arma. È utile perché è piccolo e facile da utilizzare a distanza ravvicinata. Un pugnale nelle mani di un mago non è nemmeno lontanamente pericoloso come quello nelle mani di un guerriero esperto.
-## Etichette delle Armi
+
+## Etichette delle Armi
 
 Le armi potrebbero avere delle etichette che esistono principalmente per aiutarti a descriverle (come *arrugginita *o *luminescente*) ma queste etichette hanno un preciso effetto meccanico.
 
@@ -74,7 +77,8 @@ Le armi hanno delle etichette per indicare la portata alla quale possono essere 
 *Vicino*: È efficace per attaccare qualcuno di cui riesci a vedere il bianco degli occhi.
 
 *Lontano*: È efficace per attaccare qualcuno a una distanza a cui ci si può sentir urlare.
-## Lista di Armi
+
+## Lista di Armi
 
 Le statistiche qua sotto sono per gli oggetti più comuni. Possono esserci, ovviamente, delle variazioni sul tema. Una spada lunga poco affilata potrebbe avere *-1 danni* mentre un pugnale di ottima forgia potrebbe avere *+1 danni*. Considera i seguenti come gli attributi di un'arma comune di quel tipo — un'arma specifica potrebbe avere delle etichette diverse per rappresentare le sue particolarità.
 
@@ -109,10 +113,12 @@ Le statistiche qua sotto sono per gli oggetti più comuni. Possono esserci, ovvi
 **Spada a Striscia, Fioretto** *media, precisa, 25 monete, peso 1*
 
 **Spada da Duellante** *media, perforante 1, precisa, 50 monete, peso 2*
-# Armatura
+
+# Armatura
 
 L’armatura è pesante, difficile da indossare e dannatamente scomoda. Alcune classi sono meglio addestrate a ignorare questi inconvenienti, ma chiunque può indossare un’armatura completa e godere dei suoi benefici.
-## Etichette delle Armature
+
+## Etichette delle Armature
 
 Le armature, come le armi, hanno delle etichette, Alcune sono unicamente descrittive, ma quelle qua sotto hanno degli effetti meccanici sul giocatore che le indossa.
 
@@ -121,16 +127,18 @@ Le armature, come le armi, hanno delle etichette, Alcune sono unicamente descrit
 *+n Armatura*: Ti protegge e il suo effetto è cumultivo con il resto dell’armatura. Aggiungi questo valore alla tua armatura totale.
 
 *Ingombrante*: è difficile muoversi con quest’armatura addosso. Prendi -1 continuato fintanto che la usi. Questa penalità è cumulativa.
-## Lista delle Armature
+
+## Lista delle Armature
 
 **Cuoio Rigido, Maglia di Ferro** *armatura 1, indossato, 10 monete, peso 1*
 
-**Scaglie e Maglia** *armatura 2, indossato, ingombrante, 50 monete, peso 3*
+**Scaglie** *armatura 2, indossato, ingombrante, 50 monete, peso 3*
 
 **Piastre** *armatura 3, indossato, ingombrante, 350 monete, peso 4*
 
 **Scudo** *+1 armatura, 15 monete, peso 2*
-# Attrezzatura da Dungeon
+
+# Attrezzatura da Dungeon
 
 **Attrezzatura da Avventuriero** *5 utilizzi, 20 monete, peso 1*
 
@@ -158,7 +166,7 @@ Quando la tua borsa di libri contiene proprio il libro giusto per l’argomento 
 
 **Antitossina** *10 monete, peso 0*
 
-Quando bevi un’antitossina sei guarito da un veleno che sta avendo effetto su di te.
+Quando bevi una dose di antitossina sei guarito da un veleno che sta avendo effetto su di te.
 
 **Razioni da Dungeon** *razione, 5 utilizzi, 3 monete, peso 1*
 
@@ -178,8 +186,9 @@ Solo ai migliori amici degli Elfi è concesso assaggiare questa delicatezza rara
 
 **Erba Pipa dei Mezzuomini** *6 utilizzi, 5 monete, peso 0*
 
-Quando fumi l’erba pipa dei mezzuomini con qualcuno, spendi due utilizzi e prendi +1 immediato a parlamentare con questa persona.
-# Veleni
+Quando fumi l’erba pipa dei Mezzuomini con qualcuno, spendi due utilizzi e prendi +1 immediato a parlamentare con questa persona.
+
+# Veleni
 
 **Olio di Tagete** *pericoloso, applicato, 15 monete, peso 0*
 
@@ -195,7 +204,8 @@ Il bersaglio tratta la prossima creatura che vede come un alleato fidato, finch�
 
 **Lacrime di Serpente** *pericoloso, tocco, 10 monete, peso 0*
 Chiunque infligga danno al bersaglio tira due volte e sceglie il miglior risultato.
-# Servizi
+
+# Servizi
 
 **Soggiorno di una settimana in una locanda da contadini** *14-Carisma monete*
 
@@ -226,14 +236,16 @@ Chiunque infligga danno al bersaglio tira due volte e sceglie il miglior risulta
 **Preghiere per un mese per i defunti** *1 moneta*
 
 **Riparazioni per un oggetto ordinario** *25% del costo dell'oggetto*
-# Pasti
+
+# Pasti
 
 Un **pasto abbondante per uno** *1 moneta*
 
 Un **pasto scarso per una famiglia** *1 moneta*
 
 Un **banchetto** *15 monete a persona*
-# Trasporti
+
+# Trasporti
 **Asino e Carretto**, pronto a portare il tuo peso *50 monete, carico 20*
 
 **Cavallo** *75 monete, carico 10*
@@ -255,7 +267,8 @@ Un **banchetto** *15 monete a persona*
 **Pedaggio su una strada aspra** *10 monete*
 
 **Pedaggio su una strada pericolosa** *100 monete*
-# Terre ed Edifici
+
+# Terre ed Edifici
 
 **Un tugurio** *20 monete*
 
@@ -272,18 +285,20 @@ Un **banchetto** *15 monete a persona*
 **Un grande castello** *1.000.000 monete*
 
 Costi di **mantenimento per un mese** *1% del costo originale*
-# Corruzione
+
+# Mazzette
 
 **La dote di un contadino** *20-Carisma monete*
 
-**«Protezione» per una piccola impresa** *100-Carisma monete*
+**”Protezione” per una piccola impresa** *100-Carisma monete*
 
 **Corrompere il governo** *50-Carisma monete*
 
 **Una mazzetta convincente** *80-Carisma monete*
 
 **Un’offerta che non puoi rifiutare** *500-Carisma monete*
-# Regali e Abiti Eleganti
+
+# Regali e Abiti Eleganti
 
 **Un regalo da contadino** *1 moneta*
 
@@ -298,7 +313,8 @@ Costi di **mantenimento per un mese** *1% del costo originale*
 **Un dipinto raffinato** *350+ monete*
 
 **Una corona degna di un re** *5.000 monete*
-# Bottino
+
+# Bottino
 
 **I risparmi di un goblin** *2 monete*
 
@@ -309,11 +325,12 @@ Costi di **mantenimento per un mese** *1% del costo originale*
 **Il tributo di un condottiero orco** *250 monete*
 
 **La montagna di monete e gemme di un drago** *130.000 monete*
-# Oggetti Magici
 
-Ci sono cose nel mondo più inconsuete di spade e cuoio. Gli oggetti magici sono degli oggetti sovrannaturali che hanno un potere intrinseco.
+# Oggetti Magici
 
-Gli oggetti magici esistono per essere creati durante il gioco. I giocatori possono creare oggetti magici con il *rituale* del mago e altre mosse simili. Il GM può far trovare oggetti magici nel bottino di guerra o nelle ricompense per lavori e missioni. Questa lista può fornirti qualche idea, ma alla fine gli oggetti magici che usi dovrai determinarli tu
+Ci sono cose nel mondo più inconsuete di spade e cuoio. Gli oggetti magici sono degli oggetti straordinari che hanno un potere intrinseco.
+
+Gli oggetti magici esistono per essere creati durante il gioco. I giocatori possono creare oggetti magici con il *rituale* del mago e altre mosse simili. Il GM può far trovare oggetti magici nel bottino di guerra o nelle ricompense per lavori e missioni. Questa lista può fornirti qualche idea, ma alla fine gli oggetti magici che usi dovrai determinarli tu.
 
 Quando crei i tuoi oggetti magici, ricordati che devono essere *magici*. Semplici modificatori, come *+1 danno*, sono nel campo dell’ordinario — gli oggetti magici dovrebbero avere dei benefici più interessanti.
 
@@ -325,27 +342,54 @@ Nelle mani di un paladino, colpisce precisamente e con forza. Un paladino che la
 
 **Frecce di Acheron** *munizioni 1, peso 1*
 
-Fabbricate nell'oscurità da un artigiano cieco, queste frecce possono colpire il bersaglio anche nella più profonda oscurità. Un arciere le può scoccare da cieco, nel buio, con gli occhi completamente bendati and still be sure of a clean shot.
+ Fabbricate nell'oscurità da un artigiano cieco, queste frecce possono colpire il bersaglio anche nella più profonda oscurità. Un arciere le può scoccare alla cieca, nel buio, con gli occhi completamente bendati e comunque avere la possibilità di scoccare come se vedesse chiaramente (**NdT**: facendo una *raffica*). Se però la luce del sole dovesse mai toccarle, si dissolverebbero come polvere e ombra.
 
 **Ascia del Re Conquistatore** *media, peso 1*
 
-**Uncino del Cancello Nero** *media, peso 1*
+È fatta di acciaio lucente, brilla di una luce dorata ed è infuso dei mitici poteri di autorità. Quando impugni l’ascia, diventi un faro, una sorgente d’ispirazione per chi ti segue. Ogni gregario da te assunto ha +1 Lealtà, a prescindere dalla tua capacità di comando.
+
+**Puntale del Cancello Nero** *media, peso 1*
+
+Un chiodo o uno spuntone, attorcigliato e per sempre freddo, che si racconta sia stato staccato dai Cancelli della Morte. Quando inchodi il puntale dentro a un cadavere, esso scompare e fa in modo che quel cadavere non potrà mai essere resuscitato: nessuna magia a parte quella della Morte stessa potrà riaccendere in esso la fiamma della vita (naturale o innaturale che sia).
 
 **Borsa del Contenimento** *peso 0*
+Una borsa del contenimento è più grande all’interno che all’esterno, può contenere un infinito numero di oggetti, e il suo peso non aumenta mai. Quando cerchi di recuperare un oggetto da una borsa del contenimento, tira+SAG. ✴Con un 10+, è proprio lì.. ✴Con un 7–9, scegli uno:
+
+- Trovi l’oggetto che cerchi, ma ci vuole tempo.
+- Trovi un oggetto simile a scelta del GM, ma ci vuole soltanto un attimo.
+
+Non importa quanti oggetti contenga, una borsa del contenimento pesa sempre 0.
 
 **La Ruota Infuocata** *peso 2*
 
+Un’antica ruota di legno, come quella che potrebbe avere un carro da guerra, rinforzata d’acciaio. All’apparenza, non sembra essere niente di speciale: molti raggi sono spezzati e l’oggetto sembra ordinario. Quando analizzato tramite magia o dagli occhi di un esperto, la sua vera natura è rivelata: la Ruota Infuocata è un dono dal Dio del Fuoco e brucia nel suo nome.
+
+Quando reggi la Ruota Infuocata e pronunci il nome di un dio, tira+COS. ✴Con un 7+, il dio che hai chiamato si accorge di te e ti concede udienza. Un udienza da un dio non è priva di prezzo: con un 10+, scegli una delle tue capacità e riducila fino ad arrivare al modificatore inferiore (ad esempio, 14 ha un +1, verrebbe abbassato fino a 12, che ha un +0). ✴Con un 7–9, il GM sceglie che capacità abbassarti.
+
+Una volta usata, la Ruota Infuocata comincia a bruciare ed emette una luce accecante. Non conferisce alcuna protezione dalle sue fiamme, e non fornisce alcun bonus per nuotare.
+
 **Cornucopia del Capitan Bligh** *peso 1*
 
-**La Cuspide di Carcòsa** *da lancio, peso 3*
+Un corno navale d’ottone, ricurvo e decorato, inciso con i simboli degli dei dell’Abbondanza. Quando ci soffi dentro, in aggiunta al suono il corno emette cibo. Abbastanza per dare un pasto a chiunque ne senta il suono.
+
+**La Cuspide di Carcosa** *da lancio, peso 3*
+
+Nessuno sa da dove venga questa lancia ricoperta da fiori di corallo bianco. Coloro che la impugnano per troppo tempo scoprono la propria mente piena di sogni che non gli appartengono e cominciano a percepire gli strani pensieri degli Estranei. Nessuno è immune. Usata contro qualunque bersaglio “naturale” (uomini, goblin, orsogufi e simili), la Cuspide si comporta come una normale lancia mortale. Il suo vero scopo è di danneggiare quelle cose la cui natura inconsueta le protegge dalle armi ordinarie. Se usata in questo modo, la Cuspide può ferire nemici solitamente invulnerabili al danno. Chi la brandisce riconoscerà questi nemici corrotti alla vista: la Cuspide conosce i suoi bersagli.
 
 **Manto delle Stelle Silenti** *peso 1*
+Un mantello di pregiato velluto, nero all’esterno e punteggiato di piccole luci all’interno; questo manto piega il fato, il tempo e la realtà attorno a sé per proteggere il suo portatore, che può sempre sfidare il pericolo con la capacità che preferisce. Per fare ciò, il portatore invoca la magia del mantello e il giocatore spiega come il mantello lo aiuta a “infrangere le regole”. Può deviare una palla di fuoco con CAR convincendola che merita di vivere o evitare una caduta applicando la logica ferrea della sua INT per provare che la caduta non gli farà male. Il mantello fa in modo che si avveri. Può essere usato una volta per ciascuna capacità prima che la sua magia si dissolva.
 
 **Moneta della Memoria** *peso 0*
 
+Ciò che sembra, all’apparenza, una semplice moneta di rame è, in verità, una moneta incantata. Il suo portatore può, in qualsiasi momento, spendere la moneta per ricordare qualcosa che è stato dimenticato. La moneta scompare subito dopo. Non dev’essere qualcosa di dimenticato dal portatore, ma non può essere qualcosa di “conosciuto”. L’interpretazione di ciò è lasciata agli dei. Se la moneta non ha successo, proietterà comunque nella mente del portatore l’immagine di qualcuno che ricorda il dato cercato.
+
 **Pergamena Comune** *1 utilizzo, peso 0*
 
+Una pergamena comune ha un’incantesimo scritto su di essa. L’incantesimo dev’essere lanciabile da te o trovarsi sulla lista di incantesimi della tua classe perché tu possa lanciarlo. Quando lanci un’incantesimo da una pergamena, l’incantesimo ha effetto, semplicemente.
+
 **Olio del Flagello di Demoni** *1 utilizzo, peso 0*
+
+
 
 **Cera dell’Estorsione Auricolare** *1 utilizzo, peso 0*
 

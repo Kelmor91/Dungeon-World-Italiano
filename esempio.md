@@ -20,7 +20,7 @@ So già cosa voglio fare, ma tanto per essere sicuro ricontrollo la lista con le
 
 Daniele salta su. "Ma i goblin che stanno avanzando nascosti nelle ombre? riesco a vederli?" "Non a prima vista. Cerchi di capire dove sono?" "No, mi stavo solo chiedendo se avrei potuto lanciar loro il mio incantesimo del sonno. Manipolo i flussi della magia, generando una soporifera brezza estiva che riempie la stanza."
 
-Daniele tira sulla sua mossa *lanciare incantesimi* dato che sta lanciando Sonno. I dadi totalizzano un 6 e ha +2 di INT, quindi la somma è 8. Deve fare una scelta. "Senti che l'incantesimo ti sta sfuggendo, i flussi della magia sono già occupati con il nel sacrificio rituale dei goblin. Ci sono alcune opzioni sulla mossa, quale scegli per mantenere il controllo dell'incantesimo?"
+Daniele tira sulla sua mossa *lanciare incantesimi* dato che sta lanciando Sonno. I dadi totalizzano un 6 e ha +2 di INT, quindi la somma è 8. Deve fare una scelta. "Senti che l'incantesimo ti sta sfuggendo, i flussi della magia sono già sovraccarichi dal sacrificio rituale dei goblin. Ci sono alcune opzioni sulla mossa, quale scegli per mantenere il controllo dell'incantesimo?"
 
 Daniele valuta le possibilità. "Potrei aver ancora bisogno di mettere a nanna qualcuno. Brianne, mi copri tu se mi espongo o è meglio se prendo il -1 continuato?"
 
@@ -32,7 +32,7 @@ Daniele valuta le possibilità. "Potrei aver ancora bisogno di mettere a nanna q
 
 Daniele tira il dado. "Una sola, accidenti!"
 
-“Proprio nel mezzo una qualche lunga invocazione goblin, la sacerdotessa si accascia a terra. Il suo adepto comincia subito a scuoterla per svegliarla. Nessuno di loro fa troppa attenzione al coccodrillo albino, che ora che non c'è più nessuno ad accarezzargli la pancia comincia ad agitarsi. I goblin drogati dai fumi, comunque, stanno arrivando da Rath."
+“Proprio nel mezzo una qualche lunga invocazione goblin, la sacerdotessa si accascia a terra. Il suo adepto comincia subito a scuoterla per svegliarla. Nessuno di loro fa troppa attenzione al coccodrillo albino che, ora che non c'è più nessuno ad accarezzargli la pancia, comincia ad agitarsi. I goblin drogati dai fumi, comunque, stanno arrivando da Rath."
 
 Paolo salta su "Mi metto tra Rath e i goblin inferociti in modo da fare da bersaglio, attirando la loro attenzione con un urlo."
 
@@ -44,7 +44,7 @@ Paolo salta su "Mi metto tra Rath e i goblin inferociti in modo da fare da bersa
 
 "No che non lo fanno!" dice Paolo "Spendo la mia riserva per mettermi in mezzo e dirotto i loro attacchi su di me"
 
-"Così Brianne si tuffa davanti a Rath all'ultimo momento spingendolo via, e i goblin si scagliano su di lei anzichè lui. Fanno 5 danni. Nora, Brianne si ritrova addosso sti tre goblin psicotici, Rath ha appena addormentato la sacerdotessa, il coccodrillo si sta agitando e Omar non si sa dove sia finito. Che fate?"
+"Così Brianne si tuffa davanti a Rath all'ultimo momento spingendolo via, e i goblin si scagliano su di lei anzichè lui. Fanno 5 danni. Nora, Brianne si ritrova addosso sti tre goblin psicotici, Rath ha appena addormentato la sacerdotessa, il coccodrillo si sta agitando e Omar non si sa dove sia finito. Che fai?"
 
 "Prima di tutto prendo la mira su uno dei goblin arcieri, e intanto faccio un cenno a Canto che parte verso la zona in ombra:  è addestrato alla caccia, cercherà Omar per accertarsi che vada tutto bene."
 
@@ -66,6 +66,7 @@ Marco ha avuto un po' di tempo per pensare al da farsi. "Riesco a capire da dove
 
 Do un altro sguardo alle mie note ed alla mappa, per assicurarmi di fornirgli tutte le informazioni "Be', non dai goblin. Li vedi passare, più verso la luce di te, occupati a cercare di prendere alle spalle i tuoi amici e non ti notano. Ciò che vedi è la punta di un gigantesco muso di coccodrillo fare capolino da dietro un mucchio di ruderi, e il respiro roco viene proprio da lì. A quanto pare il coccodrillo albino ha un parente, ed è grosso, più o meno come un cavallo. Se fai rumore spostando pietre per liberarti quasi sicuramente ti sentirà. Che cosa fai?"
 
-Marco riflette "Allora, potrei provare ad andarmene sfidando il pericolo, a quanto pare. Oppure... Strappo un pezzo del mio mantello e lo inzuppo versandoci una intera dose del mio veleno di radice dorata. È un veleno applicato ma se riesco a farlo inghiottire a questo gigantesco coccodrillo prima che lui inghiotta me, mi considererà un compagno fidato, e potrò sfruttarlo contro i goblin."
+Marco riflette "Allora, potrei provare ad andarmene sfidando il pericolo, a quanto pare. Oppure... Strappo un pezzo del mio mantello e lo inzuppo versandoci una intera dose del mio veleno di radice dorata. È un veleno *applicato* ma se riesco a farlo inghiottire a questo gigantesco coccodrillo prima che lui inghiotta me, mi considererà un compagno fidato, e potrò sfruttarlo contro i goblin."
 
 “Ok!” Sembra un piano pericoloso, ma abbastanza folle da funzionare. Tempo di tornare su qualcun altro. “Omar sta inzuppando di veleno un pezzo del suo mantello, Brianne si sta facendo scorticare da tre goblin drogati, Nora sta cercando di localizzare Omar, ci sono goblin che stanno muovendosi di soppiatto nell’ombra, un goblin arciere vicino all’altare, il coccodrillo si sta svegliando e Rath si è appena preso una freccia nel ginocchio. Wow. Rath che hai intenzione di fare riguardo a quella freccia?”
+
