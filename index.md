@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dungeon World in Italiano
 layout: default
 ---
