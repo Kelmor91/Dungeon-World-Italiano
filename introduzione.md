@@ -12,11 +12,22 @@ Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, p
 
 Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
+<img src="/images/barbaro.jpg" class=”image-right”>
+</img>
+
+# Il Barbaro
+
+Guarda questa gente imbellettata. Ti osservano e hanno paura di te. Fanno bene, devono averne. Tu non sei come loro. Vieni da un luogo dove il valore di un uomo si misura dalla forza del suo pugno, non dalla capienza delle sue tasche. Questa gente è debole, si nasconde dietro leggi fragili come le loro ossa; l'unica legge che conosci è quella del più forte. Ce ne sono altre? 
+
+Tu insegui cose più succulente di una casa tranquilla o di una manciata di monete: tu vuoi la gloria, la fama e un mucchio di ricchezze, tante da non poterle contare. Perché tu non sai contare. C'è solo una cosa che sai fare bene: spaccare la testa a chi si mette tra te e i tuoi desideri. I tuoi compagni d'avventura potranno trattarti come uno straniero rozzo e ignorante. Che lo pensino pure, che ti importa? Quando le cose si metteranno male piangeranno chiedendo il tuo aiuto.
+
+Perchè nessuno di loro è forte come te. Nessuno.
+
 # Il Bardo
 
-I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e della gloria di battaglie vinte e di ricchezze conquistate. Le storie che si raccontano in ogni taverna affollata di villici e braccianti dovranno pur avere un fondo di verità, non è vero? Le canzoni che ispirano ugualmente nobili e pezzenti — per placare le bestie selvagge o spingere gli uomini alla furia — dovranno pur avere un'origine.
+I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e della gloria di battaglie vinte e di ricchezze conquistate. Le storie che si raccontano in ogni taverna affollata di villici e braccianti dovranno pur avere un fondo di verità, non è vero? Le canzoni che ispirano ugualmente nobili e pezzenti, per placare le bestie selvagge o spingere gli uomini alla furia, dovranno pur avere un'origine.
 
-È qui che arriva il bardo. Tu, con la tua lingua sciolta e il tuo acume. Tu, che racconti favole e canti canzoni. Un semplice menestrello può ripetere una storia, ma ci vuole un bardo per viverla. Metti gli stivali, nobile oratore. Affila la tua daga celata e rispondi alla chiama. Qualcuno dev'essere lì, a lottare fianco a fianco con i picchiatori e i delinquenti e i futuri eroi. Chi meglio di te per scrivere la storia del tuo stesso eroismo?
+È qui che arriva il bardo. Tu, con la tua lingua sciolta e il tuo acume. Tu, che racconti favole e canti canzoni. Un semplice menestrello può ripetere una storia, ma ci vuole un bardo per viverla. Metti gli stivali, nobile oratore. Affila la tua daga celata e rispondi all’appello. Qualcuno dev'essere lì, a lottare fianco a fianco con i picchiatori e i delinquenti e i futuri eroi. Chi meglio di te per scrivere la storia del tuo stesso eroismo?
 
 Nessuno. Dai inizio all'avventura.
 
@@ -24,7 +35,7 @@ Nessuno. Dai inizio all'avventura.
 
 Le terre di Dungeon World sono allo sbando, dimenticate dagli dèi. È un mondo orribile, con morti che camminano e bestie di ogni genere che si aggirano contro natura per le zone selvagge tra le città sicure e benedette dai templi. È un mondo senza religione quello là fuori. È per questo che ha bisogno di te.
 
-Portare la gloria degli dèi ai selvaggi non è solo la tua natura — è la tua missione. Sta a te diffondere il verbo con la spada, la mazza e la magia, fendere dritto nel barbaro cuore dei luoghi senza dio e piantarvi il seme della religione. Alcuni dicono che è meglio tenere gli dèi vicino al cuore. Sciocchezze. Il tuo dio vive sul filo di una lama.
+Portare la gloria degli dèi ai selvaggi non è solo la tua natura, è la tua missione. Sta a te diffondere il verbo con la spada, la mazza e la magia, fendere dritto nel barbaro cuore dei luoghi senza dio e piantarvi il seme della religione. Alcuni dicono che è meglio tenere gli dèi vicino al cuore. Sciocchezze. Il tuo dio vive sul filo di una lama.
 
 Mostra al mondo chi è il suo signore.
 
@@ -44,7 +55,7 @@ Loro non contano.
 
 Tu lo fai per il coraggio e la gloria, per il rumore della battaglia e per il caldo, caldo sangue che ti senti scorrere nelle vene quando vi prendi parte. Sei una bestia di ferro. I tuoi amici impugneranno pure lame d'acciaio temprato ma tu, guerriero, tu sei acciaio. Mentre i tuoi compagni si lamentano delle ferite attorno al focolare nelle terre selvagge, tu porti le tue cicatrici con orgoglio.
 
-Tu sei la muraglia — lascia che ogni pericolo si sfracelli in polvere scontrandosi con te. Alla fine, sarai l'ultimo a stare in piedi.
+Tu sei la muraglia: lascia che ogni pericolo si sfracelli in polvere scontrandosi con te. Alla fine, sarai l'ultimo a stare in piedi.
 
 # Il Ladro
 
@@ -54,12 +65,12 @@ Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma
 
 Dal tuo castello. Pieno d'oro. Furfante che non sei altro.
 
-<img src="/images/mago.jpg" style="float:right; display:block; width: 300px; max-width: 50%;">
+<img src="/images/mago.jpg" class=”image-right”>
 </img>
 
 # Il Mago
 
-Dungeon World ha delle regole. Non sono le leggi degli uomini o la parola di un meschino tiranno. Regole più grandi, migliori. Lasci cadere qualcosa — in pochi attimi è per terra. Non si può creare la materia dal nulla. I morti restano morti, giusto?
+Dungeon World ha delle regole. Non sono le leggi degli uomini o la parola di un meschino tiranno. Regole più grandi, migliori. Lasci cadere qualcosa, in pochi attimi è per terra. Non si può creare la materia dal nulla. I morti restano morti, giusto?
 
 Ah, le cose che ci diciamo per stare meglio durante le lunghe notti buie.
 
@@ -73,7 +84,7 @@ Esattamente: nessuno.
 
 L'Inferno attende. Un'eternità di tormento nel fuoco o nel gelo o qualunque altra pena meglio rappresenti i peccati commessi dalle orde di dannati di Dungeon World. Sei l'unica cosa che si frappone tra la salvezza dell'anima e le cupe fosse della tortura. Sant'uomo, macchina da guerra in armatura, templare del Bene e della Luce, giusto? Il chierico potrà pregare di notte agli dei che abitano il cielo. Il guerriero potrà impugnare la sua spada affilata nel nome del "bene" ma tu sai. Solo tu sai.
 
-Tu sei gli occhi, le mani degli dèi, pietoso esecutore del loro giudizio di morte. Tuo è il dono della rettitudine e della virtù — della giustizia, anche della Vista. Una purezza d'intenti che ai tuoi compagni manca.
+Tu sei gli occhi, le mani degli dèi, pietoso esecutore del loro giudizio di morte. Tuo è il dono della rettitudine e della virtù, della giustizia, anche della Vista. Una purezza d'intenti che ai tuoi compagni manca.
 
 Perciò guida questi sciocchi, paladino. Imbraccia le armi per la tua nobile causa e porta la salvezza a questo mondo scellerato.
 
@@ -121,7 +132,7 @@ Avrai anche bisogno di alcuni dadi speciali: a quattro facce, a otto facce, a di
 
 # Com'è Giocare a Dungeon World?
 
-Giocare a Dungeon World significa scoprire che cosa succede quando i tuoi personaggi incontrano mostri pericolosi ed emozionanti, strane rovine e persone inconsuete durante la loro ricerca di oro e ricchezza. È una conversazione tra i giocatori e il GM: il GM dice ai giocatori ciò che vedono e sentono nel mondo attorno a loro e i giocatori dicono quello che i loro personaggi pensano, fanno e le emozioni che provano. A volte queste descrizioni attiveranno una mossa — nel qual caso tutti si fermeranno per tirare i dadi e vedere cosa succede. Per un momento tutti trattengono il fiato, osservando i dadi che rotolano e si fermano. L'esito è sempre carico di tensione ed euforia, a prescindere dal risultato dei dadi.
+Giocare a Dungeon World significa scoprire che cosa succede quando i tuoi personaggi incontrano mostri pericolosi ed emozionanti, strane rovine e persone inconsuete durante la loro ricerca di oro e ricchezza. È una conversazione tra i giocatori e il GM: il GM dice ai giocatori ciò che vedono e sentono nel mondo attorno a loro e i giocatori dicono quello che i loro personaggi pensano, fanno e le emozioni che provano. A volte queste descrizioni attiveranno una mossa, nel qual caso tutti si fermeranno per tirare i dadi e vedere cosa succede. Per un momento tutti trattengono il fiato, osservando i dadi che rotolano e si fermano. L'esito è sempre carico di tensione ed euforia, a prescindere dal risultato dei dadi.
 
 Mentre giochi i tuoi personaggi cambieranno a seguito delle loro avventure e diventeranno più esperti mentre imparano cose nuove sul mondo, sconfiggono mostri e raccolgono ricchezze. Scoprirai che cosa provano l'uno per l'altro e dove punta la loro bussola morale. Quando accumuleranno abbastanza esperienza otterrano dei livelli, che li renderanno più potenti e li doteranno di nuove opzioni tra cui scegliere.
 

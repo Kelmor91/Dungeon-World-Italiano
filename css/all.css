@@ -10,6 +10,13 @@ blockquote p {
 	padding: 0.5em 0;
 }
 
+image-right {
+	display: block;
+	float: right;
+	width: 300px;
+	max-width: 50%;
+}
+
 blockquote { margin: 0 0 1em; }
 
 .googlebadge {
