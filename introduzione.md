@@ -54,6 +54,8 @@ Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma
 
 Dal tuo castello. Pieno d'oro. Furfante che non sei altro.
 
+<img src="/images/mago.jpg" style="margin:10px; float:right; display:block; width: 30%"></img>
+
 # Il Mago
 
 Dungeon World ha delle regole. Non sono le leggi degli uomini o la parola di un meschino tiranno. Regole più grandi, migliori. Lasci cadere qualcosa — in pochi attimi è per terra. Non si può creare la materia dal nulla. I morti restano morti, giusto?
