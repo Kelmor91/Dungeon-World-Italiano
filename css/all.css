@@ -10,7 +10,7 @@ blockquote p {
 	padding: 0.5em 0;
 }
 
-image-right {
+.image-right {
 	display: block;
 	float: right;
 	width: 300px;
