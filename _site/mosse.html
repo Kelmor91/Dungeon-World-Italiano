@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mosse &ndash; Dungeon World in Italiano </title>
+    <meta name="description" content="La traduzione italiana, libera e gratuita, di Dungeon World, il gioco di ruolo di Adam Koebel e Sage LaTorra.">
+	<meta name="keywords" content="Dungeon World,GDR,RPG,traduzione,Italiano,storygames">
+	<meta name="author" content="Claudio Freda">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="HandheldFriendly" content="true" />
+	<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/all.css">
+    <link href="http://fonts.googleapis.com/css?family=Neuton:200,300,400,700,400italic|Josefin+Sans:700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]><script src="js/html5shiv.js"></script><![endif]-->
+</head>
+<body>
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="brand" href="/">Dungeon World in Italiano</a>
+        <div class="nav-collapse collapse">
+          <ul class="nav">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Il Gioco <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="introduzione">Introduzione</a></li>
+                <li><a href="come-giocare">Come Giocare</a></li>
+                <li><a href="esempio">Esempio di Partita</a></li>
+                <li><a href="creazione-personaggio">Creazione del Personaggio</a></li>
+                <li><a href="mosse">Mosse</a></li>
+                <li><a href="equipaggiamento">Equipaggiamento</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Classi <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+				<li><a href="classi-temp">Le Classi</a></li>
+				<!--
+				<li class="nav-header">Classi Base</li>
+				<li><a href="barbaro">Barbaro</a></li>
+                <li><a href="bardo">Bardo</a></li>
+                <li><a href="chierico">Chierico</a></li>
+                <li><a href="chierico-incantesimi"><em>Incantesimi da Chierico</em></a></li>
+                <li><a href="druido">Druido</a></li>
+                <li><a href="guerriero">Guerriero</a></li>
+                <li><a href="ladro">Ladro</a></li>
+                <li><a href="mago">Mago</a></li>
+                <li><a href="mago-incantesimi"><em>Incantesimi da Mago</em></a></li>
+                <li><a href="paladino">Paladino</a></li>
+                <li><a href="ramingo">Ramingo</a></li>
+				<li class="nav-header">Classi Aggiuntive</li>
+				<li><a href="eroe-cortese">Eroe Cortese</a></li>
+				<li><a href="monaco">Monaco</a></li>
+				<li><a href="sciamano">Sciamano</a></li>
+				<li><a href="stregone">Stregone</a></li>
+				-->
+			</ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Fare il GM <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="il-gm">Il GM</a></li>
+                <li><a href="prima-sessione">Prima Sessione</a></li>
+                <li><a href="fronti">Fronti</a></li>
+                <li><a href="il-mondo">Il Mondo</a></li>
+                <li><a href="tecniche-avanzate">Tecniche Avanzate</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mostri <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="mostri">Panoramica</a></li>
+				<!--
+				<li class="nav-header">Ambientazioni</li>
+                <li><a href="mostri-caverne">Abitanti delle Caverne</a></li>
+                <li><a href="mostri-palude">Abitanti delle Paludi</a></li>
+                <li><a href="mostri-esperimenti">Esperimenti Perversi</a></li>
+                <li><a href="mostri-foreste">Foreste Intricate</a></li>
+                <li><a href="mostri-gente">Genti del Reame</a></li>
+                <li><a href="mostri-nonmorti">Legioni dei Non Morti</a></li>
+                <li><a href="mostri-orde">Orde Fameliche</a></li>
+                <li><a href="mostri-piani">Poteri Planari</a></li>
+                <li><a href="mostri-profondità">Profondità della Terra</a></li>
+				-->
+              </ul>
+            </li>
+			<li>
+				<a href="crediti">Crediti</a>
+			<li>
+            <!-- per ora non le abbiamo tradotte
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Appendici <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="appendice-convertire">Convertire le Avventure</a></li>
+                <li><a href="appendice-insegnare">Insegnare il Gioco</a></li>
+                <li><a href="appendice-png">PNG istantanei</a></li>
+				<li><a href="appendice-ringraziamenti">Ringraziamenti</a></li>
+              </ul>
+            </li>
+			-->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Collegamenti <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li class="nav-header">Ufficiali</li>
+                <li><a href="http://book.dwgazetteer.com">Dungeon World in Inglese</a></li>
+				<li><a href="https://plus.google.com/111364257065306273820">Pagina Google+</a></li>
+                <li class="nav-header">Community</li>
+                <li><a href="https://plus.google.com/communities/111025024217909545768">Locanda di Dungeon World (G+)</a></li>
+                <li><a href="http://www.gentechegioca.it">GenteCheGioca</a></li>
+              </ul>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="wrap">
+    <div id="content" class="container"> 
+		
+		
+		<div class="page-header">
+		
+		<h1> Mosse </h1>
+		</div>
+		
+		<h2 id='mosse_basilari'>Mosse Basilari</h2>
+
+<p>Questo capitolo contiene le mosse disponibili ad ogni personaggio. Queste mosse sono divise in due categorie: basilari e speciali.</p>
+
+<p>Le mosse basilari sono il pane quotidiano della vita da avventuriero. Comprendono le situazioni più comuni durante combattimenti, negoziati carichi di tensione, e l&#8217;esplorazione di luoghi pericolosi.</p>
+
+<p>Le mosse speciali sono un po&#8217; più rare. Comprendono azioni come salire di livello, intraprendere un lungo viaggio, o tornare in città tra un&#8217;avventura e un&#8217;altra.</p>
+
+<p>Tutti i personaggi giocanti hanno a disposizione le mosse basilari e le mosse speciali. Ogni PG avrà anche alcune mosse provenienti dalla sua classe — di quelle parleremo più avanti.</p>
+
+<p>Ciascuna mossa è descritta con il suo nome e le regole della mossa. Alcune sono accompagnate da una breve spiegazione di come usare la mossa e da alcuni esempi di utilizzo durante il gioco.</p>
+
+<h3 id='taglia_e_spacca'>Taglia e Spacca</h3>
+
+<blockquote>
+<p><strong>NdT</strong>: In altre traduzioni questa mossa è chiamata &#8220;Assalire&#8221;</p>
+</blockquote>
+<hr />
+<p>Quando <strong>attacchi un nemico in mischia</strong>, tira+FOR. ✴Con un 10+, infliggi i tuoi danni al nemico ed eviti il suo attacco. A tua scelta, puoi decidere di infliggere +1d6 danni ed esporti all&#8217;attacco del nemico. ✴Con un 7&#8211;9, infliggi i tuoi danni al nemico, ma il nemico effettua un attacco contro di te.</p>
+<hr />
+<p><em>Taglia e spacca</em>, in parole povere, serve quando si attacca un nemico pronto a difendersi. Se il nemico non è pronto a difendersi dal tuo attacco — non sa che sei lì o è immobilizzato e indifeso — allora non è <em>taglia e spacca</em>. Semplicemente infliggi i tuoi danni, oppure lo uccidi sul colpo, a seconda della situazione. È roba forte.</p>
+
+<p>Il contrattacco del nemico può essere qualunque mossa del GM fatta direttamente attraverso quella creatura. Un goblin potrebbe semplicemente contrattaccarti o infilarti un ago avvelenato nelle vene. La vita è dura, non credi?</p>
+
+<p>Tieni presente che un &#8220;attacco&#8221; è qualunque azione intrapresa da un giocatore che abbia la possibilità di arrecare danno a qualcuno. Attaccare un drago con scaglie cariche di energia magica e spesse un pollice con una spada qualunque è come colpire un carrarmato con una mannaia: semplicemente, non ha la possibilità di arrecare alcun danno, e <em>taglia e spacca</em> non si attiva. Ovviamente, le circostanze possono cambiare: se sei in una posizione da dove puoi infilzare il drago nella sua pancia soffice (buona fortuna ad arrivare lì sotto) potrebbe fare male, quindi conta come attacco.</p>
+
+<p>Se l&#8217;azione che attiva può ragionevolmente fare del male a più di un bersaglio, tira una sola volta e applica i danni a ciascun bersaglio (ciascuno applica la propria armatura).</p>
+
+<p>Alcuni attacchi potrebbero avere degli effetti aggiuntivi a seconda dell&#8217;azione nella fiction che li ha innescati, le circostanze, o le armi utilizzate. Un attacco potrebbe mandare qualcuno al tappeto, immobilizzarlo, o lasciare una grande macchia di sangue.</p>
+
+<blockquote>
+<p><strong>GM</strong>: Jarl, il tumulto di bavosi goblin è arrivato fino alla tua considerevole pancia. Ti hanno circondato e hanno estratto i coltelli. Che cosa fai?</p>
+
+<p><strong>Jarl</strong>: Ne ho avuto abbastanza! Percuoto il goblin più vicino con il mio martello.</p>
+
+<p><strong>GM</strong>: Va bene. Questo è sicuramente un combattimento, quindi stai usando <em>taglia e spacca</em>. Tira+FOR.</p>
+
+<p><strong>Jarl</strong>: Ho fatto 11. Dice qua che posso scegliere. La paura è per i deboli, venite a me goblin!</p>
+
+<p><strong>GM</strong>: Schianti il tuo martello sul goblin più vicino e senti il catartico suono delle sue ossa che si sfracellano. Quello, e il dolore di una ferita del suo coltello, quando ti contrattacca. Ti infligge 4 danni. Che cosa fai?</p>
+</blockquote>
+<!--separatore-->
+<blockquote>
+<p><strong>GM</strong>: Cadeus, dalle ombre dove sei nascosto, puoi prendere di sorpresa quegli orchi guerrieri.</p>
+
+<p><strong>Cadeus</strong>: Salto fuori e calo la mia spada in un fendente verticale! Proprio così! Siiii!</p>
+
+<p><strong>GM</strong>: Bene, non se l&#8217;aspettavano, li prendi completamente alla sprovvista e ne falci uno. Tira i tuoi danni.</p>
+
+<p><strong>Cadeus</strong>: Infliggo 6 danni.</p>
+
+<p><strong>GM</strong>: L&#8217;orco crolla per terra formando un ammasso sanguinolento! Il secondo orco si ferma e sorride con le sue orribili zanne, alzando il suo corno di segnalazione dalla cintura! Che cosa fai?</p>
+</blockquote>
+<!--separatore-->
+<blockquote>
+<p><strong>GM</strong>: Bartleby, c&#8217;è Finbar il Magnifico, il miglior duellante di questa terra, completamente disarmato e alla tua mercé.</p>
+
+<p><strong>Bartleby</strong>: Non ti darò la possibilità di tradirmi ancora, Finbar! Lo attraverso con la spada.</p>
+
+<p><strong>GM</strong>: Bene, è un <em>taglia e spacca</em> però. Tira+FOR.</p>
+
+<p><strong>Bartleby</strong>: Se lo dici tu &#8230; ho fatto 7.</p>
+
+<p><strong>GM</strong>: Bene, lo infilzi subito perché non può nemmeno difendersi e &#8230; aspetta un attimo. Sai cosa, non è in mischia con te. È indifeso, lascia stare <em>taglia e spacca</em>, è morto. Cade a terra, sputando sangue, ma il suono dell&#8217;allarme della guardia compare in lontananza. Che cosa fai?</p>
+</blockquote>
+
+<h3 id='raffica'>Raffica</h3>
+
+<blockquote>
+<p><strong>NdT</strong>: In altre traduzioni questa mossa è chiamata &#8220;Tirare&#8221;</p>
+</blockquote>
+<hr />
+<p>Quando <strong>prendi la mira per colpire un nemico a distanza</strong>, tira+DES. ✴Con un 10+, è un colpo sicuro&#8212;infliggi i tuoi danni. ✴Con un 7&#8211;9, scegli un&#8217;opzione (infliggi comunque i danni qualunque opzione tu scelga):</p>
+
+<ul>
+<li>Devi spostarti per trovare la giusta linea di tiro. Incappi in un pericolo descritto dal GM.</li>
+
+<li>Devi accontentarti: -1d6 danni.</li>
+
+<li>Devi tirare più volte per colpire, spendendo un punto di munizioni.</li>
+</ul>
+<hr />
+<p>Per <em>raffica</em> s&#8217;intende nella sua completezza l&#8217;atto di estrarre, mirare e tirare con un&#8217;arma a distanza o di lanciare un&#8217;arma da lancio. Il vantaggio nell&#8217;usare un&#8217;arma a distanza rispetto a un&#8217;arma da mischia è che l&#8217;attaccante ha meno possibilità di subire un attacco a sua volta. Ovviamente, deve preoccuparsi delle munizioni e di avere la linea di tiro libera.</p>
+
+<p>Sul 7–9, intendi &#8220;pericolo&#8221; con un senso ampio. Forse è una perdita d&#8217;equilibrio, o forse significa finire sulla traiettoria di una lama, o ancora rivelare il tuo bel nascondiglio da cecchino ai nemici. Qualunque cosa sia, è incombente ed è sempre qualcosa che fa in modo che il GM dica &#8220;Che cosa fai?&#8221;. Molto spesso, il pericolo sarà qualcosa che ti obbligherà a dedicare la tua attenzione a evitarlo o a <em>sfidare il pericolo</em>.</p>
+
+<p>Se stai lanciando qualcosa che non ha munizioni (ad esempio, se hai una mossa che ti permette di lanciare lo scudo) non può scegliere di spendere un punto munizioni. Scegli una delle altre due opzioni.</p>
+
+<blockquote>
+<p><strong>Aranwe</strong>: Bene, sono bloccata qua sul pavimento della sala consacrata e quell&#8217;orco cavaocchi sta recitando il rituale sul piedistallo? Siccome Thelian si sta occupando del resto della marmaglia, miro col mio arco e provo a colpire l&#8217;orco ritualista.</p>
+
+<p><strong>GM</strong>: Ottima scelta — mi sembra una <em>raffica</em>.</p>
+
+<p><strong>Aranwe</strong>: Diamine, ho fatto 8. Be, ho poche freccie e ancora meno PF. Meglio accontentarsi. Tiro i miei danni, poi sottraggo il risultato di 1d6, giusto? Ho fatto 3. Basta almeno a distrarlo?</p>
+
+<p><strong>GM</strong>: Certo! La freccia si infila nella gamba del cavaocchi, che emette un ruggito di dolore, interrompendo per il momento il rituale. Sfortunatamente, sembra che l&#8217;interruzione possa essere ancora più pericolosa: si sente il terrificante eco di un crollo dalla fossa sotto il piedistallo e i mattoni della stanza cominciano a tremare. Che cosa fai?</p>
+</blockquote>
+<!-- separatore -->
+<blockquote>
+<p><strong>Halek</strong>: Coboldi e un ogre? Cavolo, che situazione. Be&#8217;, se stanno venendo a prendermi, meglio dirgli ciao con una freccia. Tiro verso l&#8217;orda. Ho fatto 8.</p>
+
+<p><strong>GM</strong>: Bene, cosa scegli? Pericolo? Munizioni?</p>
+
+<p><strong>Halek</strong>: Scelgo il pericolo.</p>
+
+<p><strong>GM</strong>: Bene, i coboldi ti circondano e riesci a colpirne uno mentre si avvicinano — lui cade a terra, ma mentre gli altri si avvicinano ti rendi conto che hai perso di vista l&#8217;ogre. Ti colpisce con la sua clava e prendi 12 danni!</p>
+
+<p><strong>Halek</strong>: 12 danni? Questo sarebbe il pericolo?</p>
+
+<p><strong>GM</strong>: Hai ragione, non è solo un pericolo. Va bene, non sei ancora una frittella — ma l&#8217;ogre è dietro di te e la sua clava sta volando verso la tua testa! Che cosa fai?</p>
+</blockquote>
+
+<h3 id='sfidare_il_pericolo'>Sfidare il Pericolo</h3>
+<hr />
+<p>Quando <strong>agisci nonostante una minaccia incombente</strong> o <strong>sei messo in pericolo dalla sventura</strong>, spiega come affronti la situazione e tira. Se lo fai…</p>
+
+<ul>
+<li>…grazie alla forza bruta, +FOR</li>
+
+<li>…levandoti di mezzo o agendo rapidamente, +DES</li>
+
+<li>…resistendo al pericolo, +COS</li>
+
+<li>…con acume e furbizia, +INT</li>
+
+<li>…con la forza di volontà, +SAG</li>
+
+<li>…con il fascino e l&#8217;eleganza sociale, +CAR</li>
+</ul>
+
+<p>✴Con un 10+, riesci a fare ciò che hai descritto e il pericolo rimane incompiuto. ✴Con un 7–9 inciampi, esiti o indietreggi: il GM ti offrirà un esito inferiore, un prezzo da pagare, o una scelta difficile.</p>
+<hr />
+<p><em>Sfidi il pericolo</em> quando fai qualcosa nonostante un pericolo imminente. Potrebbe sembrare che questa mossa sia applicabile a qualunque situazione. È così! <em>Sfidare il pericolo</em> è per quei momenti in cui sei sicuro di dover tirare qualcosa ma nessun&#8217;altra mossa è applicabile.</p>
+
+<p><em>Sfidare il pericolo</em> si usa anche quando fai un&#8217;altra mossa nonostante un pericolo non previsto da quella mossa. Ad esempio, <em>taglia e spacca</em> presume che ci sia uno scambio di colpi in battaglia — non serve <em>sfidare il pericolo</em> del mostro che stai combattendo a meno che non ci sia un pericolo particolare che non è parte del tuo normale attacco. Se invece stai cercando di attaccare nonostante gli spuntoni che vengono sparati da trappole nascoste nel muro, è un pericolo completamente diverso.</p>
+
+<p>Il pericolo, in questo caso, è qualunque cosa che richieda resistenza, concentrazione o compostezza. Questa mossa verrà solitamente messa il gioco dal GM. Ti dirà qual&#8217;è il pericolo mentre fai la tua mossa. Sarà qualcosa come &#8220;Devi sfidare il pericolo prima. Il pericolo è il pavimento ghiacciato e scosceso su cui stai correndo. Se riesci a mantenere l&#8217;equilibrio, puoi arrivare alla porta prima che gli incantesimi del negromante ti colpiscano&#8221;.</p>
+
+<p>Quale sia la capacità da applicare dipende dalle azioni che fai, e le tue azioni devono innescare la mossa. Ciò significa che non puoi <em>sfidare il pericolo</em> del pavimento ghiacciato e scosceso con un sorriso affascinante solo per usare CAR, perché sorridere con fascino al pavimento non gli fa proprio niente. D&#8217;altro canto, fare un grande salto oltre il ghiaccio sarebbe FOR, misurare i passi con attenzione sarebbe DES, e così via. Fai la mossa per scoprire i risultati.</p>
+
+<blockquote>
+<p><strong>GM</strong>: Emory, mentre scali il lato del burrone scorgi un cultista su una piattaforma vicina che lancia un’incantesimo congelante e ricopre la scarpata di ghiaccio! Se vuoi continuare a scalare, dovrai <em>sfidare il pericolo</em> o cadrai.</p>
+
+<p><strong>Emory</strong>: Neanche per sogno, sono troppo forte. Digrigno i denti e infilo le unghie nel muro, scalando con una mano alla volta. Sto usando COS, va bene? Ho fatto 8, però&#8230;</p>
+
+<p><strong>GM</strong>: Mm, bene, tipo forte, penso che l’unico modo per fare attrito sia infilare il tuo pugnale nel muro per tirarti su di quell’ultimo metro. Resterà conficcato là dentro finché non hai tempo di tirarlo fuori, e c’è un incantatore arrabbiato vicino a te.</p>
+
+<p><strong>Emory</strong>: Posso sempre comprarmi un nuovo pugnale quando torno a casa. È tempo di dar fine a questa scalata e a quel cultista.</p>
+</blockquote>
+<!-- separatore -->
+<blockquote>
+<p><strong>GM</strong>: Il massiccio braccio dell’athach vola verso di te, con le sue dita nodose che stringono un ramo spezzato. Cosa fai, Valeria?</p>
+
+<p><strong>Valeria</strong>: Vuole combattere, eh? E combattiamo. <em>Taglio e spacco</em>, fendendo la mia spada verso le sue gambe.</p>
+
+<p><strong>GM</strong>: Aspetta un attimo, campione. Sei in svantaggio rispetto a lui. Puoi buttarti nella mischia ma dovrai prenderti quella clava in faccia a meno che tu non <em>sfidi il pericolo</em> prima.</p>
+
+<p><strong>Valeria</strong>: Pfff, non è al livello di Valeria la Rossa! Mi sposto di lato come una foglia nel vento, e poi comincio a <em>tagliare e spaccare</em>.</p>
+
+<p><strong>GM</strong>: <em>sfida il pericolo</em> con DES, per favore e grazie.</p>
+</blockquote>
+<!-- separatore -->
+<blockquote>
+<p><strong>Octavia</strong>: Ne ho abbastanza di questo ogre, adesso faccio cadere lo scudo e lo attacco con il martello impugnato con entrambe le mani. <em>Taglia e spacca</em>, giusto?</p>
+
+<p><strong>GM</strong>: Fai cadere lo scudo? È una pessima idea: adesso devi sfidare il pericolo perché l’ogre sta per colpirti.</p>
+
+<p><strong>Octavia</strong>: Sei sicuro? Non è a questo che serve <em>taglia e spacca</em>, per scambiarsi i colpi?</p>
+
+<p><strong>GM</strong>: Certo, scusami. Ho bisogno di un’altra tazza di caffè — <em>taglia e spacca</em> sia, fai la tua mossa.</p>
+</blockquote>
+
+<h3 id='difendere'>Difendere</h3>
+<hr />
+<p>Quando <strong>difendi dal pericolo una persona, un oggetto o un luogo</strong>, tira+COS. ✴Con un 10+, riserva 3. ✴Con un 7–9, riserva 1. Fintanto che rimani a difendere, quando tu o la cosa che difendi subisce un attacco puoi spendere la riserva, un punto alla volta, per scegliere un&#8217;opzione:</p>
+
+<ul>
+<li>Dirotta verso te stesso un attacco diretto alla cosa che difendi</li>
+
+<li>Dimezza i danni o l&#8217;effetto dell&#8217;attacco</li>
+
+<li>Esponi l&#8217;attaccante a un alleato, dando all&#8217;alleato +1 immediato contro di esso.</li>
+
+<li>Infliggi danno pari al tuo livello all&#8217;attaccante</li>
+</ul>
+<hr />
+<p>Difendere qualcosa significa starvi vicino e concentrarsi sull&#8217;impedire che essa sia attaccata o che chiunque vi si avvicini. Quando ti allontani o smetti di dedicare la tua attenzione agli attacchi che arrivano, perdi tutta la tua riserva.</p>
+
+<p>Puoi spendere la riserva solo quando qualcuno fa un attacco su di te o sulla cosa che stai difendendo. Le scelte che puoi fare dipendono dall&#8217;attaccante e dal tipo di attacco. In particolare, non puoi infliggere danni a un attaccante che non puoi raggiungere con la tua arma.</p>
+
+<p>Un attacco è qualsiasi azione dagli effetti dannosi che puoi ostacolare. Spade e freccie sono attacchi, ovviamente, ma anche lanciare un incantesimo, afferrare o caricare.</p>
+
+<p>Se l&#8217;attacco non infligge danni allora dimezzare l&#8217;attacco significa che l&#8217;attaccante ottiene una parte di ciò che vuole, ma non tutto. Sta a te e al GM determinare che cosa significhi in base alle circostanze. Se stai difendendo l&#8217;Occhio Gemmato di Oro-Uht e un orco cerca di sollevarlo dal suo piedistallo, un effetto dimezzato può significare che la gemma cade a terra, ma l&#8217;orco non riesce a prenderla, non ora. O magari l&#8217;orco riesce a prenderla, ma ci riesci anche tu, e adesso ve la state contendendo con le unghie e i denti. Se tu e il GM non riuscite a mettervi d&#8217;accordo su un effetto dimezzato non potete scegliere quell&#8217;opzione.</p>
+
+<p>Difendere te stesso è sempre un&#8217;opzione. Significa rinunciare a fare attacchi per concentrarsi sulla propria sicurezza.</p>
+
+<blockquote>
+<p><strong>GM</strong>: Avon, cominci a tessere il tuo incantesimo per spingere il fantasma del negromante nei cancelli da cui è venuto, ma gli zombie stanno calando su di te.</p>
+
+<p><strong>Lux</strong>: Non preoccuparti, debole Avon, ti salverò. Mentre Avon lancia l’incantesimo, giuro di proteggerlo — sbatto il martello contro lo scudo e urlo: «Se vuoi fermarlo, dovrai passare sul mio cadavere». Voglio <em>difendere</em> Avon.</p>
+
+<p><strong>GM</strong>: E anche con gusto. Tira+COS.</p>
+
+<p><strong>Lux</strong>: Faccio 11, riserva tre, giusto?</p>
+
+<p><strong>Avon</strong>: Meglio che ti prepari a usarla, Lux. Ho fatto 8 sul mio tiro di <em>lanciare incantesimi</em> — scelgo di mettermi in pericolo. <strong>GM</strong>: Ovviamente lo fai. Gli zombie sono attratti dal disturbo che sentono nella magia, e barcollano verso di te per attaccarti. Improvvisamente, sei circondato, sono ovunque! Che cosa fai?</p>
+
+<p><strong>Avon</strong>: Squittisco con impotenza?</p>
+
+<p><strong>Lux</strong>: Arrivo io. Spendo un punto di riserva per redirigere l’attacco verso me: spingo Avon di lato e faccio in modo che la furia completa della mia dea si manifesti a ondate, infuriando i non-morti. Per essere sicura, faccio un movimento ad arco col mio martello e infliggo i miei danni. Già che ci sono, consumo tutta la riserva e riduco i danni a metà. La mia dea ci protegge!</p>
+</blockquote>
+<!-- separatore -->
+<blockquote>
+<p><strong>GM</strong>: Quindi, Adrian, stavi difendendo Durga mentre curava Willem, ma ora Willem sta meglio. Che cosa fate?</p>
+
+<p><strong>Durga</strong>: Salto in avanti per respingere i trogloditi!</p>
+
+<p><strong>Adrian</strong>: Mi avvinghio a questo uomo coccodrillo.</p>
+
+<p><strong>GM</strong>: OK, Durga, i trogloditi ti assaltano con le loro clave.</p>
+
+<p><strong>Adrian</strong>: Neanche per sogno, ho ancora un po’ di riserva. La voglio spendere per redirigere quell’attacco su di me.</p>
+
+<p><strong>GM</strong>: Voi due sete separati, adesso. Come fai a difenderla se sei lontano 20 metri? Hai perso la riserva quando hai attaccato il coccodrillo, amico.</p>
+
+<p><strong>Adrian</strong>: Hai ragione, non sono proprio “rimasto a difendere” alla fine. Fa niente, sei da sola, Durga!</p>
+</blockquote>
+
+<h3 id='declamare_conoscenze'>Declamare Conoscenze</h3>
+
+<blockquote>
+<p><strong>NdT</strong>: In altre traduzioni questa mossa è chiamata &#8220;Rivelare Conoscenze&#8221;</p>
+</blockquote>
+<hr />
+<p>Quando <strong>consulti la tua conoscenza accumulata a proposito di qualcosa</strong>, tira+INT. ✴Con un 10+, il GM ti dirà qualcosa di interessante e utile di un argomento relativo alla tua situazione. ✴Con un 7–9 il GM ti dirà qualcosa di interessante — sta a te renderlo utile. Il GM potrebbe chiederti come fai a saperlo. Raccontagli la verità, adesso.</p>
+<hr />
+<p><em>Declami conoscenze</em> ogni volta che vuoi scandagliare i tuoi ricordi alla ricerca di conoscenza o dati significativi a proposito di qualcosa. Ti prendi un attimo per considerare ciò che sai sulle Tribù degli Orchi o sulla Torre di Ul&#8217;dammar e poi riveli la tua conoscenza.</p>
+
+<p>La conoscenza che ottieni è come quella di un bestiario, una guida del viaggiatore o una biblioteca. Ottieni dei dati a proposito di un argomento. Con un 10+ il GM ti mostrerà come questi dati possono tornarti immediatamente utili, con un 7–9 sono solo dati.</p>
+
+<p>Con un fallimento, la mossa del GM spesso sfrutterà il tempo che hai speso a pensare. Magari non ti sei accorto di quel goblin che si muoveva dietro di te, o del filo di una trappola lungo il corridoio. È anche un&#8217;ottimo momento per svelare una verità sgradita.</p>
+
+<p>Nel caso non fosse chiaro, le risposte sono sempre vere, anche se il GM se l&#8217;è dovute inventare al momento. Sii sempre onesto in ciò che dici.</p>
+
+<blockquote>
+<p><strong>Fenfaril</strong>: Il pavimento era un’illusione? Dannati gnomi. Che possano andare a finire in qualunque posto gli gnomi vadano quando sono morti.</p>
+
+<p><strong>GM</strong>: Eh, già. Sei in una fossa torbida, e c’è un’ombra di forma umanoide, senza occhi e dal colore indistinto, che si muove verso di te, mormorando.</p>
+
+<p><strong>Fenfaril</strong>: Una forma mormorante, eh? Che diavolo sarà quella cosa? Sta per attaccarmi? Sono sicuro di averne sentito parlare prima, forse a scuola?</p>
+
+<p><strong>GM</strong>: Può darsi. <em>Declamare Conoscenze</em>!</p>
+
+<p><strong>Fenfaril</strong>: Infondimi la tua conoscenza, cervello. Ho fatto 8.</p>
+
+<p><strong>GM</strong>: Be’, ovviamente hai sentito parlare di queste cose — il nome ti sfugge ma ricordi con certezza il disegno di una creatura come questa. Era in un corridoio, che faceva la guardia a qualcosa. Sai che c’è un trucco per far sì che ti lasci passare, ma non te lo ricordi bene. Perché no?</p>
+
+<p><strong>Fenfaril</strong>: Ovviamente avevo i postumi da sbornia quel giorno. Ero un pessimo studente. Un trucco, dici? Mmm…</p>
+</blockquote>
+<!-- separatore -->
+<blockquote>
+<p><strong>Vitus</strong>: Ho fatto 10 sul mio tiro di <em>declamare conoscenze</em> a proposito di questo teschio dorato.</p>
+
+<p><strong>GM</strong>: Sei abbastanza sicuro di riconoscere la forgiatura di Dite, la città vivente.</p>
+
+<p><strong>Vitus</strong>: &#8230;e? Ho fatto 10!</p>
+
+<p><strong>GM</strong>: Certo, ovviamente. Be’, riconosci alcuni glifi in particolare. Sono di origine efreet, segni di un’incantesimo di fuoco, ma è diverso, una specie di magia di trasmutazione. Scommetto che se lanci un incantesimo attraverso il teschio, lo trasformerà in un incantesimo di fuoco.</p>
+
+<p><strong>Vitus</strong>: Dardi incantati di fuoco, urrà!</p>
+</blockquote>
+
+<h3 id='discernere_realt'>Discernere Realtà</h3>
+
+<blockquote>
+<p><strong>NdT</strong>: In altre traduzioni questa mossa è chiamata &#8220;Percepire la Realtà&#8221;</p>
+</blockquote>
+<hr />
+<p>Quando <strong>studi attentamente una situazione o una persona</strong>, tira+SAG. ✴Con un 10+, fai al GM tre domande dalla lista sotto. ✴Con un 7–9, fai una domanda.</p>
+
+<p>In ogni caso, prendi +1 immediato quando agisci in base alle risposte.</p>
+
+<ul>
+<li>Che cos&#8217;è accaduto qui di recente?</li>
+
+<li>Cosa sta per accadere?</li>
+
+<li>Da chi o cosa dovrei guardarmi le spalle?</li>
+
+<li>Cosa qua è utile o di valore per me?</li>
+
+<li>Chi ha davvero il controllo della situazione?</li>
+
+<li>Che cosa qui non è ciò che sembra?</li>
+</ul>
+<hr />
+<p>Per <em>discernere realtà</em> devi osservare da vicino il tuo bersaglio. Solitamente ciò significa interagire con esso o guardare qualcuno che lo fa. Non basta infilare la tua testa oltre una porta per <em>discernere realtà</em> su una stanza. Non stai semplicemente cercando indizi — devi guardare sotto e attorno alle cose, bussare contro i muri, e cercare figure strane nella polvere della libreria. Quel genere di cose.</p>
+
+<p><em>Discernere realtà</em> non significa solo notare i dettagli, ma anche capirne il contesto. Il GM descrive sempre onestamente ciò che i personaggi percepiscono, quindi durante un combattimento il GM dirà che il mago coboldo si trova dall&#8217;altro lato del salone. <em>Discernendo realtà</em> potresti rivelarne il motivo: i movimenti del coboldo lasciano intendere che stia traendo energia dalla stanza accanto, e che non può avvicinarsi.</p>
+
+<p>Come per <em>declamare conoscenze</em>, le risposte devono sempre essere oneste. Anche se il GM se le deve inventare al momento. Una volta risposto, è inciso nella pietra. Ti sarà utile <em>discernere</em>* realtà* per scoprire la verità dietro alle illusioni, che siano magiche o meno.</p>
+
+<p>A meno che una mossa dica diversamente, i giocatori possono solo fare domande dalla lista. Se un giocatore fa una domanda che non è sulla lista il GM può dirgli di sceglierne una dalla lista o può rispondere a una domanda della lista che gli sembra simile.</p>
+
+<p>Ovviamente, alcune domande potrebbero avere una risposta negativa, va bene. Se davvero, con onestà, non c&#8217;è nulla di utile o di valore il GM può semplicemente rispondere «Niente, mi spiace».</p>
+
+<blockquote>
+<p><strong>Omar</strong>: Non mi piace questa stanza — mi metto a cercare un po’ in giro. Tiro fuori i miei attrezzi e comincio a smanettare con ciò che trovo. Tiro le candele e busso sui muri col mio martello. I soliti trucchi.</p>
+
+<p><strong>GM</strong>: <em>Discernere realtà</em>?</p>
+
+<p><strong>Omar</strong>: Oh, si, le discerno tutte le realtà. Ho fatto 12. Voglio sapere “Che cosa qui non è ciò che sembra?”.</p>
+
+<p><strong>GM</strong>: Be’, ti è chiaro che il muro del lato nord ha un vuoto in un punto. Le pietre sono nuove e lo stucco è più fresco, probabilmente è un ripostiglio o un passaggio nascosto.</p>
+
+<p><strong>Omar</strong>: Ok, voglio chiedertene un’altra: “Chi ha chiuso la stanza?”.</p>
+
+<p><strong>GM</strong>: Non è sulla lista, quindi farò finta che tu mi abbia chiesto “Cos’è successo qui di recente?”. Guardando le pietre, ti accorgi che il muro in alcuni punti è storto. Il lavoro è frettoloso e mal fatto, ti sembra l’opera dei goblin. L’unico modo in cui può essersi stortato in quel modo, però, è che qualcosa lo spinga dall’interno.</p>
+
+<p><strong>Omar</strong>: Quindi o i goblin l’hanno chiuso dall’altro lato, o c’è qualcosa dentro che sta cercando di uscire.</p>
+
+<p><strong>GM</strong>: Tombola.</p>
+</blockquote>
+
+<h3 id='parlamentare'>Parlamentare</h3>
+
+<blockquote>
+<p><strong>NdT</strong>: In altre traduzioni questa mossa è chiamata &#8220;Parlé&#8221;</p>
+</blockquote>
+<hr />
+<p>Quando <strong>hai influenza su un personaggio del GM e lo manipoli</strong>, tira+CAR. L&#8217;influenza dev&#8217;essere qualcosa che vuole o di cui ha bisogno. ✴Con un 10+, farà quello che dici se prometti di dargli ciò che chiedono. ✴Con un 7–9, farà ciò che dici, ma dovrai dargli una garanzia concreta della tua promessa, subito.</p>
+<hr />
+<p><em>Parlamentare</em> comprende molte cose diverse, incluse vecchi classici come l&#8217;intimidazione e la diplomazia. Sai che stai <em>parlamentando</em> quando cerchi di far fare qualcosa a qualcuno grazie a una promessa o a una minaccia. L&#8217;influenza che hai può essere malevola o cordiale, il tono non ha importanza.</p>
+
+<p>Chiedere a qualcuno gentilmente non è <em>parlamentare</em>. È solo parlare. Se dici: &#8220;Posso avere quella spada magica?&#8221; e Sir Telric ti risponde &#8220;Diavolo, no. Questa è la mia spada, mio padre l&#8217;ha forgiata e mia madre l&#8217;ha incantata&#8221; la cosa finisce lì. Per <em>parlamentare</em>, devi avere influenza. L&#8217;influenza è qualunque cosa che potrebbe convincere il tuo interlocutore a fare qualcosa per te. Magari è qualcosa che desidera o qualcosa che non vuole tu faccia. Come un sacco di soldi. O dargli un pugno in faccia. Se una cosa conta come influenza dipende dalle persone coinvolte e dalla richiesta che viene fatta. Minaccia di morte un goblin solo e hai influenza. Minaccialo quando ha alle spalle la sua banda e penserà di avere più possibilità combattendo.</p>
+
+<p>Con un 7+ ti verrà fatta una richiesta relativa all&#8217;influenza che hai. Se la tua influenza è lo stare davanti a lui, spiegandogli quanto ti piacerebbe usare il coltello che stai affilando per infilzarlo, potrebbe chiederti di lasciarlo andare. Se la tua influenza è il tuo alto rango di corte, potrebbe chiederti un favore in cambio.</p>
+
+<p>Qualunque cosa ti chieda, con un 10+ devi solo promettergliela chiaramente e senza ambiguità. Con un 7–9, non basta: dovrai anche dargli qualche garanzia, subito, prima che faccia ciò che vuoi. Se prometti di proteggerlo dai lupi se fa ciò che gli dici e ottieni un 7–9, non lo farà fin quando non gli porti una pelle di lupo appena scuoiata per provare la tua competenza. Non importa se non sei obbligato a mantenere la promessa. Sta a te decidere se farlo o meno. Ovviamente, infrangere le promesse porta guai. La gente non è benevola con i fedifraghi e non vorrà averci a che fare in futuro.</p>
+
+<p>In alcuni casi, quando descrivi ciò che vuoi, puoi proporre una promessa alla creatura, ad esempio &#8220;vattene e ti lascerò vivere&#8221;. Starà al tuo interlocutore decidere se è quella la promessa che vuole o se ha qualcos&#8217;altro in mente. Potrebbe risponderti &#8220;va bene, lasciami vivere e me ne andrò&#8221; (con una garanzia, se hai fatto 7–9) oppure &#8220;promettimi che non mi seguirai&#8221;.</p>
+
+<blockquote>
+<p><strong>Leena</strong>: «Lord Hywn, ho bisogno di una vostra raccomandazione o la Regina non mi darà mai udienza».</p>
+
+<p><strong>GM</strong>: Non è molto convinto: potrebbe essere un grosso colpo alla sua reputazione se lo imbarazzi. «Perché dovrei aiutarti, Leena?».</p>
+
+<p><strong>Leena</strong>: Ah, e mentre gli parlo, giocherello distrattamente con l’anello con sigillo che abbiamo trovato su quell’assassion che abbiamo ammazzato. Quello che ha assunto per far fuori il principe. Mi assicuro che lo veda.</p>
+
+<p><strong>GM</strong>: Oddio. Tira per <em>parlamentare</em>.</p>
+
+<p><strong>Leena</strong>: un 8.</p>
+
+<p><strong>GM</strong>: «Basta con i giochi!» ti guarda con sguardo freddo e carico d’ira. «Voi e io sappiamo entrambi che avete assassinato il mio sicario. Datemi l’anello, giurate il silenzio, e farò ciò che chiedete».</p>
+
+<p><strong>Leena</strong>: Glielo lancio. Possiamo trovare altre informazioni scomode a questo scarto più tardi.</p>
+</blockquote>
+<!-- separatore -->
+<blockquote>
+<p><strong>Pendrell</strong>: Questo è il posto dove l’Unico Occhio gioca le sue carte, giusto? Bene, mi avvicino alla guardia. «Ehilà amici, vi va di, non so, aprire la porta e farmi entrare?» e sto facendo il gentile e disinvolto, quindi mi faranno passare. <em>Parlamentare</em> è tira+CAR, giusto?</p>
+
+<p><strong>GM</strong>: Fermo lì, furbetto. Tutto ciò che hai fatto è dire cosa vuoi. Quello grosso e puzzolente si piazza davanti a te dicendo «Mi spiace signore, partita privata», con aria annoiata. È come se odiasse il suo lavoro e volesse essere da qualche altra parte. Se vuoi <em>parlamentare</em>, hai bisogno di qualche forma d’influenza. Magari una mazzetta?</p>
+</blockquote>
+
+<h3 id='aiutare_o_ostacolare'>Aiutare o Ostacolare</h3>
+<hr />
+<p>Quando <strong>aiuti o ostacoli qualcuno</strong>, tira+legame con quella persona. ✴Con un 10+, prende +1 o -2 al tiro, a tua scelta. ✴Con un 7–9, subirà comunque il modificatore, ma ti esponi al pericolo, a una punizione o a un prezzo da pagare.</p>
+<hr />
+<p>Ogni volta che ti sembra che due giocatori debbano scontrarsi e tirare ciascuno contro l&#8217;altro, il difensore <em>ostacola</em> il tiro dell&#8217;attaccante. Non significa per forza un sabotaggio, può significare qualunque cosa, da un&#8217;argomento contrario mentre si <em>parlamenta</em>, a essere una persona furtiva e difficile da <em>discernere</em>. Significa fare da ostacolo per il successo di un altro giocatore.</p>
+
+<p>Chiedi sempre alla persona che <em>aiuta o ostacola</em> come ha intenzione di farlo. Fintanto che possono dirti in che modo, la mossa si attiva. A volte, come GM, dovrai chiedere se l&#8217;intenzione è di <em>ostacolare</em>. A volte i giocatori non si accorgono di interferire l&#8217;uno con l&#8217;altro.</p>
+
+<p><em>Aiutare</em> è un po&#8217; più ovvio. Se un giocatore riesce a spiegare come aiutano a fare una mossa e ha senso, lascia che tiri per <em>aiutare</em>.</p>
+
+<p>Non importa quante persone <em>aiutino o ostacolino</em>, il bersaglio prende il modificatore di +1 o -2 solo una volta. anche se un intero gruppo di avventurieri aiuta ad attaccare un ogre, chi fa l&#8217;attacco finale prende comunque +1.</p>
+
+<blockquote>
+<p><strong>GM</strong>: Ozruk, sei in piedi solo e sanguinante di fronte a un branco di segugi infernali inferociti. Dietro di te si nasconde il Principe di Lescia, che piange dalla paura.</p>
+
+<p><strong>Ozruk</strong>: Sto fermo e alzo lo scuo. Nonostante il mio fato inevitabile, farò il mio dovere e difenderò il principino.</p>
+
+<p><strong>Aronwe</strong>: Sbuco dalle ombre ed estraggo la mia spada! «Il fato non è così inevitabile, nano!». Mi metto di fianco a lui. Voglio aiutarlo a <em>difendere</em>. «Anche se non ti conosco bene, ti ho visto combattere, Ozruk. Se dobbiamo morire oggi, moriremo come fratelli!». Non ho legami con lui ma voglio provare lo stesso.</p>
+
+<p><strong>GM</strong>: Commonvente, davvero. Bene, tira+0 e se hai successo, Ozruk, tu prendi +1 al tuo tiro di <em>difendere</em>. Si comincia!</p>
+</blockquote>
+
+<h2 id='mosse_speciali'><strong>Mosse Speciali</strong></h2>
+
+<p>Le mosse speciali sono le mosse che appaiono meno spesso o solo in situazioni specifiche. Anch’esse sono alla base di ciò che i personaggi fanno in Dungeon World — in particolare ciò che fanno mentre non esplorano dungeon o s&#8217;imbarcano in spettacolari avventure.</p>
+
+<h3 id='ultimo_respiro'>Ultimo Respiro</h3>
+<hr />
+<p>Quando <strong>stai per morire</strong> vedi uno scorcio di ciò che giace oltre i Neri Cancelli del Regno della Morte (il GM lo descriverà). Poi tira (solo un tiro, +niente — già, alla Morte non importa quanto sei tosto o affascinante). ✴Con un 10+, l&#8217;hai fatta franca alla Morte: sei in una brutta situazione ma sei ancora vivo. ✴Con un 7–9, la Morte stessa ti offrirà un patto. Accettalo e riprendi conoscenza o rifiutalo e attraversa i Neri Cancelli per andare incontro a qualunque destino ti attenda. ✴Con un 6-, il tuo destino è segnato. Sei marchiato come proprietà della Morte e presto passerai la soglia. Il GM ti dirà quando.</p>
+<hr />
+<p>L’<em>ultimo respiro</em> è quel momento che si frappone tra la vita e la morte. Il tempo si ferma, e la Morte appare per rivendicare le anime dei vivi. Anche coloro che non oltrepassano i Neri Cancelli riescono a vedere uno scorcio dell’aldilà e di ciò che potrebbe aspettarli: amici e nemici passati, ricompense o punizioni per le azioni compiute in vita o altri più inconsueti panorami. Questo momento cambia chiunque — anche quelli che scampano alla Morte.</p>
+
+<p>Ci sono tre esiti di questa mossa. ✴Con un 10+, il personaggio l’ha fatta franca alla morte in qualche modo significativo. È fuggito via con qualcosa che, di diritto, non è più suo. La Morte non ha il potere di fermare questa cosa, ma si ricorderà lo sgarbo. ✴Con un 7–9, il GM dovrebbe offrire una vera scelta con delle conseguenze significative. Pensa al comportamento del personaggio e a ciò che hai imparato di lui durante il gioco. La Morte sa e vede tutto e confeziona i suoi accordi su misura per ciascuno. Ricorda, questo è uno scambio. Offri qualcosa che sarà una sfida da portare a termine ma che condurrà il gioco in nuove emozionanti direzioni. ✴Con un fallimento, la morte è inevitabile. L’approccio più semplice è dire «La Morte ti conduce attraverso la soglia che conduce al suo regno tetro» e andare avanti. A volte, però, la Morte arriva lentamente. Potresti dire «hai una settimana da vivere» oppure «riesci a sentire la fredda mano della Morte su di te&#8230;» e lasciar le cose così, per ora. Il giocatore dovrà arrendersi e accettare la morte a questo punto — va bene. Fagli creare un nuovo personaggio come di norma. La cosa fondamentale da ricordare è che sfiorare la morte, che si sfugga o si cada tra le sue grinfie, è un momento significativo che dovrebbe sempre condurre a un cambiamento.</p>
+
+<blockquote>
+<p><strong>GM</strong>: Sparrow, mentre la lama del pugnale si infila nel tuo ventre, il mondo svanisce e ti ritrovi davanti ai Neri Cancelli della Morte. Tra le torme di anime senza riposo, vedi Lord Hwyn, quello schifoso cane bastardo. Sembra che tutte le sue cattive azioni gli si siano rivoltate contro, alla fine. Ti vede dall’altra parte del baratro e senti nella tua anima il freddo della sua fame. Prendi il tuo <em>ultimo respiro</em>.</p>
+
+<p><strong>Sparrow</strong>: Forte. Ho fatto 9.</p>
+
+<p><strong>GM</strong>: La Morte ti appare, drappi di tessuto nero che si attorcigliano attorno alla sua forma oscura. Una mano pallida ti tocca la faccia. Senti la sua voce nella tua testa: «Sei venuto da me così preso, piccolo Sparrow? Segui un fiume di anime, mandate qui dalla tua lama. Ti sono molto grato per avermele portate. Ti restituirò al mondo, ma devi farmi una promessa. Nell’ombra ti nascondi, quindi ombra diventerai. Rifuggi la luce del giorno per sempre o fai un rapido viaggio per tornare qui, in mia compagnia. Che dici, ladruncolo?».</p>
+
+<p><strong>Sparrow</strong>: (gulp)</p>
+</blockquote>
+
+<h3 id='ingombro'>Ingombro</h3>
+<hr />
+<p>Quando <strong>fai una mossa mentre trasporti peso</strong> potresti essere sovraccarico. Se il peso che trasporti è:</p>
+
+<ul>
+<li>Uguale o minore al tuo carico, non soffri penalità</li>
+
+<li>Minore o uguale del tuo carico+2, prendi -1 continuato finché non alleggerisci il tuo fardello</li>
+
+<li>Maggiore del tuo carico+2, hai una scelta: lascia giù un peso di almeno 1 e tira con -1, o fallisci automaticamente.</li>
+</ul>
+<hr />
+<p>Il carico di un PG è derivato dalla sua classe e dalla sua FOR. Potersi portare più roba dietro è un chiaro beneficio sia quando si cerca di portare un tesoro via da un dungeon sia quando si cerca solamente di portarsi dietro ciò che serve.</p>
+
+<p>Questa mossa si applica solo alle cose che una persona può portarsi dietro e comunque agire. Portare un masso sulla schiena non è un <em>ingombro</em>: non puoi davvero agire o muoverti mentre lo tieni. Determina invece quali mosse puoi fare appropriatamente nella fiction.</p>
+
+<h3 id='accamparsi'>Accamparsi</h3>
+<hr />
+<p>Quando ti <strong>prepari al riposo</strong> consumi una razione. Se sei in un luogo pericoloso decidi i turni di guardia. Se hai abbastanza PE puoi salire di livello. Quando ti risvegli da almeno qualche ora di sonno ininterrotto guarisci danno pari alla metà dei tuoi PF massimi.</p>
+<hr />
+<p>Solitamente ti <em>accampi</em> per fare altre cose, come <em>preparare incantesimi</em> o <em>comunione</em> col proprio dio. O semplicemente per dormire della grossa di notte. Ogniqualvolta ti fermi a riposare per più di un’ora circa, probabilmente ti stai <em>accampando</em>.</p>
+
+<p>Stare una notte in una locanda o in una casa è <em>accamparsi</em>. Recupera i tuoi punti ferita come al solito, ma consuma una razione solo quando stai mangiando il cibo che ti porti dietro, non quando paghi per un pasto o sei ospite di qualcuno.</p>
+
+<h3 id='fare_la_guardia'>Fare la guardia</h3>
+<hr />
+<p>Quando <strong>sei di guardia e qualcosa si avvicina al campo</strong> tira+SAG. ✴Con un 10+, riesci a svegliare il campo e a preparare una risposta adeguata, tutti prendono +1 immediato. ✴Con un 7–9, te ne accorgi un momento troppo tardi; i tuoi compagni sono svegli ma non hanno avuto il tempo di prepararsi. Hanno le armi e l&#8217;armatura ma poco altro. ✴Con un fallimento, siete alla mercé di qualunque cosa si aggiri lontano dalla luce del fuoco.</p>
+<hr />
+<h3 id='intraprendere_un_viaggio_pericoloso'>Intraprendere un viaggio pericoloso</h3>
+<hr />
+<p>Quando <strong>viaggi per un territorio ostile</strong>, scegli un membro del gruppo per fare da <em>apripista</em>, uno che vada davanti in <em>esplorazione</em>, e uno che sia il <em>quartiermastro</em>. Ogni personaggio che ha un compito tira+SAG. ✴Con un 10+:</p>
+
+<ul>
+<li>il quartiermastro riduce di uno le razioni consumate da ciascun personaggio.</li>
+
+<li>l&#8217;apripista riduce la quantità di tempo che serve a raggiungere la destinazione (il GM dirà quanto tempo, e dunque quante razioni)</li>
+
+<li>l&#8217;esploratore si accorgerà di eventuali pericoli abbastanza rapidamente da permettervi di prenderli di sprovvista.</li>
+</ul>
+
+<p>✴Con un 7–9, ciascuno esegue il proprio compito come previsto: il normale numero di razioni viene consumato, il viaggio richiede il tempo previsto, e nessuno vi prende di sorpresa, ma neanche voi sorprendete nessuno.</p>
+<hr />
+<p>Non puoi assegnare più di un compito per personaggio. Se non hai abbastanza membri del gruppo, o scegli di non assegnare un compito, tratta quel compito come se fosse stato assegnato e il giocatore responsabile avesse fatto 6.</p>
+
+<p>Le distanze in Dungeon World si misurano in razioni. Una razione è la quantità di provviste che consumi in un giorno. I viaggi consumano più razioni quando sono lunghi o il viaggiare è lento.</p>
+
+<p>Un <em>viaggio pericoloso</em> comprende tutta la strada tra due luoghi. Non tiri per viaggiare un giorno, ti <em>accampi</em> e poi tiri per viaggiare anche il giorno dopo. Fai un solo tiro per tutto il viaggio.</p>
+
+<p>Questa mossa si applica solo quando sai dove stai andando. Mettersi in marcia per esplorare non è un <em>viaggio pericoloso</em>. È andare in giro cercando cose interessanti da scoprire. Usa le razioni quando ti <em>accampi</em> e il GM ti descriverà il mondo man mano che lo esplori.</p>
+
+<h3 id='fine_sessione'>Fine sessione</h3>
+<hr />
+<p>Quando <strong>arrivi alla fine di una sessione</strong> scegli uno dei tuoi legami che credi sia risolto (completamente esplorato, non più rilevante o altro). Chiedi al giocatore del personaggio con cui hai il legame se è d&#8217;accordo. Se lo è, guadagna un PE e scrivi un nuovo legame con un personaggio qualsiasi.</p>
+
+<p>Una volta che i legami sono stati aggiornati, controlla il tuo allineamento. Se hai perseguito il tuo allineamento almeno una volta in questa sessione, guadagna un PE. Poi rispondete a queste domande come gruppo:</p>
+
+<ul>
+<li>Abbiamo imparato qualcosa di importante e nuovo a proposito del mondo?</li>
+
+<li>Abbiamo sconfitto un nemico o un mostro degno di nota?</li>
+
+<li>Abbiamo saccheggiato un tesoro memorabile?</li>
+</ul>
+
+<p>Per ogni domanda a cui rispondete &#8220;sì&#8221;, ciascuno guadagna un PE.</p>
+<hr />
+<h3 id='salire_di_livello'>Salire di livello</h3>
+<hr />
+<p>Quando <strong>hai tempo libero (ore o giorni) e PE pari o superiori al tuo livello+7</strong>, puoi riflettere sulle tue esperienze e affinare le tue abilità.</p>
+
+<ul>
+<li>Sottrai il tuo livello attuale+7 dai tuoi PE.</li>
+
+<li>Aumenta il tuo livello di 1.</li>
+
+<li>Scegli una nuova mossa avanzata della tua classe.</li>
+
+<li>Se sei il mago, aggiungi un incantesimo al tuo libro degli incantesimi.</li>
+
+<li>Scegli una capacità e aumentala di 1 (questo potrebbe cambiare il rispettivo modificatore). Cambiare la Costituzione aumenta anche i tuoi PF massimi e attuali. Una capacità non può mai essere superiore a 18.</li>
+</ul>
+<hr />
+<h3 id='fare_baldoria'>Fare baldoria</h3>
+<hr />
+<p>Quando <strong>torni trionfante e dai una grande festa</strong>, spendi 100 monete e tira +1 per ogni altre 100 monete aggiuntive spese. ✴Con un 10+, scegli tre. ✴Con un 7–9, scegli una. ✴Con un fallimento, scegli comunque una, ma le cose ti sfuggono decisamente di mano (il GM ti dirà come).</p>
+
+<ul>
+<li>Ti fai amico un PNG utile.</li>
+
+<li>Senti voce di un&#8217;opportunità.</li>
+
+<li>Ottieni delle informazioni utili.</li>
+
+<li>Non finisci imbrogliato, invischiato in affari loschi o ammaliato da una stregoneria.</li>
+</ul>
+<hr />
+<h3 id='fare_rifornimento'>Fare rifornimento</h3>
+<hr />
+<p>Quando <strong>vai a comprare qualcosa con l&#8217;oro in mano</strong>, se è prontamente reperibile nell&#8217;insediamento in cui ti trovi, puoi comprarla al prezzo di mercato. Se è qualcosa di speciale, al di là di quanto normalmente disponibile in questo luogo, o straordinario, tira+CAR. ✴Con 10+, trovi ciò che stai cercando a un prezzo onesto. ✴Con 7–9 dovrai pagare di più o accontentarti di qualcosa che non è esattamente ciò che vuoi, ma si avvicina. Il GM ti dirà quali sono le tue opzioni.</p>
+<hr />
+<h3 id='recuperare_le_forze'>Recuperare le Forze</h3>
+<hr />
+<p>Quando <strong>non fai altro che riposare in sicurezza e tranquillità</strong> dopo un giorno di riposo recuperi tutti i tuoi PF. Dopo tre giorni di riposo rimuovi una debilitazione a tua scelta. Se sei sotto la cura di un guaritore (magico o meno) guarisci invece una debilitazione ogni due giorni di riposo.</p>
+<hr />
+<h3 id='reclutare'>Reclutare</h3>
+<hr />
+<p>Quando <strong>diffondi la voce che sei in cerca di qualcuno da assumere</strong>, tira:</p>
+
+<ul>
+<li>+1 se fai sapere che la paga è abbondante</li>
+
+<li>+1 se fai sapere che cosa ti stai preparando a fare</li>
+
+<li>+1 se fai sapere che chi accettà avrà una parte del bottino</li>
+
+<li>+1 se hai una reputazione utile da queste parti</li>
+</ul>
+
+<p>✴Con un 10+, hai da scegliere tra un buon numero di candidati abili, scegli tu chi assumere e non c&#8217;è penalità se non porti con te qualcuno. ✴Con un 7–9, dovrai accontentarti di qualcuno che non è proprio quello che cercavi o respingerlo. ✴Con un fallimento qualcuno di influente e inadatto dichiara di volersi unire a te (un giovane spericolato, una testa calda o un nemico sotto mentite spoglie), portalo con te e accetta le conseguenze o respingilo. Se respingi dei candidati prendi -1 immediato a <em>reclutare</em>.</p>
+<hr />
+<h3 id='ricercato'>Ricercato</h3>
+
+<blockquote>
+<p><strong>NdT</strong>: In altre traduzioni questa mossa è chiamata &#8220;WANTED&#8221;</p>
+</blockquote>
+<hr />
+<p>Quando <strong>torni in un luogo civilizzato dove hai causato problemi in passato</strong>, tira+CAR. ✴Con un 10+, si è diffusa voce dei tuoi atti e tutti ti riconoscono. ✴Con un 7–9, come sopra, e il GM sceglie una complicazione:</p>
+
+<ul>
+<li>La polizia locale ha un mandato per il tuo arresto.</li>
+
+<li>Qualcuno ha messo una taglia sulla tua testa.</li>
+
+<li>Qualcuno di importante per te è stato messo in difficolta per via delle tue azioni.</li>
+</ul>
+<hr />
+<p>Questa mossa serve solo quando torni in un luogo dove hai causato problemi, non per ogni area civilizzata che visiti. Essere pubblicamente coinvolto nei problemi di qualcun altro attiva comunque questa mossa.</p>
+
+<p>Civilizzato significa solitamente i villaggi, i paesi e le città degli uomini, elfi, nani e mezzuomini, ma può anche significare qualunque insediamento relativamente ordinato di specie mostruose, come orchi e goblin. Se i PG hanno passato del tempo come parte della comunità, conta come civilizzato.</p>
+
+<h3 id='prepararsi'>Prepararsi</h3>
+<hr />
+<p>Quando <strong>passi il tuo tempo libero a studiare, meditare o allenarti duramente,</strong> ottieni addestramento. Se ti prepari per una settimana o più, ottieni addestramento 1. Se ti prepari per un mese o più, ottieni invece addestramento 3. Quando la preparazione ti torna utile, spendi 1 addestramento per avere +1 a qualsiasi tiro. Puoi spendere 1 addestramento al massimo per tiro.</p>
+<hr />
+    </div>
+	<div id="push"></div>
+  <div class="wrap">
+  
+  <!--
+  
+  <div id="footer">
+    <div class="container">
+		<p class="muted credit">Libera traduzione del <a href="https://github.com/Sagelt/Dungeon-World" target="_blank">lavoro originale</a> di <a href="https://plus.google.com/u/0/112484087750169360510"><b>Adam Koebel</b></a> e <b><a href="https://plus.google.com/u/0/117415966179711277938">Sage LaTorra</a>.
+		</b></p>
+		<p class="muted credit"><b>Da un'idea di&nbsp;</b><a href="https://plus.google.com/u/0/112991578095647299350" target="_blank"><b>Claudio Freda</b></a></p>
+		<p class="muted credit"><b>Traduttori</b>:&nbsp;<a href="https://plus.google.com/u/0/112991578095647299350" target="_blank">Claudio Freda</a>,&nbsp;Daniel Schiavo,&nbsp;<a href="https://plus.google.com/113536342334278411258" style="text-align:start" target="_blank">Mauro Ghisoni</a>.&nbsp;</p>
+		<p class="muted credit"><b>Revisori:&nbsp;</b><a href="https://plus.google.com/107667343404799785520" target="_blank">Antonio Amato</a>,&nbsp;<a href="https://plus.google.com/112991578095647299350" target="_blank">Claudio Freda</a>, Daniel Schiavo, <a href="https://plus.google.com/u/0/105434214058733883957" target="_blank">Dario Delfino</a>,&nbsp;<a href="https://plus.google.com/118033451148976345230" target="_blank">Diego Delfino</a>,&nbsp;<a href="https://plus.google.com/113383799827204001261" target="_blank">Giorgia Menozzi</a>,&nbsp;<a href="https://plus.google.com/107861607091405146379" target="_blank">Giovanni Vinci</a>, <a href="https://plus.google.com/u/0/117946773352558942341" target="_blank">Giulio Robecchi</a>,&nbsp;<a href="https://plus.google.com/108007955567460306563" target="_blank">Luca Maiorani</a>,&nbsp;<a href="https://plus.google.com/113536342334278411258" target="_blank">Mauro Ghisoni</a>, <a href="https://plus.google.com/u/0/100891656436184215243" target="_blank">Paride Papadia</a>, Stefano Franzini.</p>
+		<p class="muted credit">Quest'opera è distribuita con Licenza <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/it/" rel="license"><b>Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Italia</b></a></p>
+	</div>
+  </div>
+  
+  -->
+  
+  <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+  <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+  <!-- <script src="js/dwbook.js"></script> -->
+  
+  
+	<!-- Place this tag after the last widget tag. -->
+	<script type="text/javascript">
+	  window.___gcfg = {lang: 'it'};
+
+	  (function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>
+  
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44648946-1', 'dungeonworld.it');
+  ga('send', 'pageview');
+
+  </script>
+</body>
+</html>

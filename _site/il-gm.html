@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il GM &ndash; Dungeon World in Italiano </title>
+    <meta name="description" content="La traduzione italiana, libera e gratuita, di Dungeon World, il gioco di ruolo di Adam Koebel e Sage LaTorra.">
+	<meta name="keywords" content="Dungeon World,GDR,RPG,traduzione,Italiano,storygames">
+	<meta name="author" content="Claudio Freda">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="HandheldFriendly" content="true" />
+	<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/all.css">
+    <link href="http://fonts.googleapis.com/css?family=Neuton:200,300,400,700,400italic|Josefin+Sans:700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]><script src="js/html5shiv.js"></script><![endif]-->
+</head>
+<body>
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="brand" href="/">Dungeon World in Italiano</a>
+        <div class="nav-collapse collapse">
+          <ul class="nav">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Il Gioco <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="introduzione">Introduzione</a></li>
+                <li><a href="come-giocare">Come Giocare</a></li>
+                <li><a href="esempio">Esempio di Partita</a></li>
+                <li><a href="creazione-personaggio">Creazione del Personaggio</a></li>
+                <li><a href="mosse">Mosse</a></li>
+                <li><a href="equipaggiamento">Equipaggiamento</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Classi <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+				<li><a href="classi-temp">Le Classi</a></li>
+				<!--
+				<li class="nav-header">Classi Base</li>
+				<li><a href="barbaro">Barbaro</a></li>
+                <li><a href="bardo">Bardo</a></li>
+                <li><a href="chierico">Chierico</a></li>
+                <li><a href="chierico-incantesimi"><em>Incantesimi da Chierico</em></a></li>
+                <li><a href="druido">Druido</a></li>
+                <li><a href="guerriero">Guerriero</a></li>
+                <li><a href="ladro">Ladro</a></li>
+                <li><a href="mago">Mago</a></li>
+                <li><a href="mago-incantesimi"><em>Incantesimi da Mago</em></a></li>
+                <li><a href="paladino">Paladino</a></li>
+                <li><a href="ramingo">Ramingo</a></li>
+				<li class="nav-header">Classi Aggiuntive</li>
+				<li><a href="eroe-cortese">Eroe Cortese</a></li>
+				<li><a href="monaco">Monaco</a></li>
+				<li><a href="sciamano">Sciamano</a></li>
+				<li><a href="stregone">Stregone</a></li>
+				-->
+			</ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Fare il GM <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="il-gm">Il GM</a></li>
+                <li><a href="prima-sessione">Prima Sessione</a></li>
+                <li><a href="fronti">Fronti</a></li>
+                <li><a href="il-mondo">Il Mondo</a></li>
+                <li><a href="tecniche-avanzate">Tecniche Avanzate</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mostri <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="mostri">Panoramica</a></li>
+				<!--
+				<li class="nav-header">Ambientazioni</li>
+                <li><a href="mostri-caverne">Abitanti delle Caverne</a></li>
+                <li><a href="mostri-palude">Abitanti delle Paludi</a></li>
+                <li><a href="mostri-esperimenti">Esperimenti Perversi</a></li>
+                <li><a href="mostri-foreste">Foreste Intricate</a></li>
+                <li><a href="mostri-gente">Genti del Reame</a></li>
+                <li><a href="mostri-nonmorti">Legioni dei Non Morti</a></li>
+                <li><a href="mostri-orde">Orde Fameliche</a></li>
+                <li><a href="mostri-piani">Poteri Planari</a></li>
+                <li><a href="mostri-profondità">Profondità della Terra</a></li>
+				-->
+              </ul>
+            </li>
+			<li>
+				<a href="crediti">Crediti</a>
+			<li>
+            <!-- per ora non le abbiamo tradotte
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Appendici <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="appendice-convertire">Convertire le Avventure</a></li>
+                <li><a href="appendice-insegnare">Insegnare il Gioco</a></li>
+                <li><a href="appendice-png">PNG istantanei</a></li>
+				<li><a href="appendice-ringraziamenti">Ringraziamenti</a></li>
+              </ul>
+            </li>
+			-->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Collegamenti <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li class="nav-header">Ufficiali</li>
+                <li><a href="http://book.dwgazetteer.com">Dungeon World in Inglese</a></li>
+				<li><a href="https://plus.google.com/111364257065306273820">Pagina Google+</a></li>
+                <li class="nav-header">Community</li>
+                <li><a href="https://plus.google.com/communities/111025024217909545768">Locanda di Dungeon World (G+)</a></li>
+                <li><a href="http://www.gentechegioca.it">GenteCheGioca</a></li>
+              </ul>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="wrap">
+    <div id="content" class="container"> 
+		
+		
+		<div class="page-header">
+		
+		<h1> Il GM </h1>
+		</div>
+		
+		<p>Ci sono molti e diversi generi di fantasy, ognuno con il suo stile e i suoi consigli per fare il GM. Dungeon World è progettato, in particolare, per uno di questi stili: un mondo di elfi, orchi, draghi e magia dove oscuri pericoli si mescolano con avventure scanzonate. Le regole di questo capitolo ti aiuteranno a dirigere il gioco in questo stile.</p>
+
+<p>I personaggi hanno delle regole da seguire quando tirano i dadi e agiscono. Anche il GM ha delle regole da seguire. Dovrai arbitrare, fare da giudice e descrivere il mondo man mano che procedi — Dungeon World ti offre una struttura per aiutarti a fare proprio questo.</p>
+
+<p>Ciò che troverai in questo capitolo non sono consigli per il GM o dei suggerimenti facoltativi per aiutarti a giocare meglio a Dungeon World. Questo capitolo presenta le regole e le procedure da seguire per chiunque ricopra il ruolo di GM.</p>
+
+<h2 id='fare_il_gm_di_dungeon_world_una_struttura'>Fare il GM di Dungeon World: Una Struttura</h2>
+
+<p>Dirigere una partita di Dungeon World si basa su tre cose: gli <strong>obiettivi</strong>, i <strong>princìpi</strong> e le <strong>mosse</strong> del GM. Gli obiettivi sono ciò che hai intenzione di fare quando ti siedi al tavolo. I princìpi sono le linee guida che ti fanno restare concentrato sugli obiettivi. Le mosse del GM sono le cose concrete che fai, momento per momento, per far procedere il gioco. Farai le mosse quando i PG falliscono i tiri, quando le regole lo richiedono, e quando i giocatori ti guardano per sapere che succede. Le tue mosse devono mantenere la fiction in accordo con se stessa e l&#8217;azione del gioco in costante movimento.</p>
+
+<p>Gli obiettivi del GM, i princìpi e le mosse sono regole come lo sono i danni, le capacità o i PF. Devi avere la stessa cautela ad alterarle o ignorarle che avresti con qualunque altra regola.</p>
+
+<h2 id='come_fare_il_gm'>Come fare il GM</h2>
+
+<p>Quando ti siedi al tavolo come GM fai queste cose:</p>
+
+<ul>
+<li>Descrivi la situazione</li>
+
+<li>Segui le regole</li>
+
+<li>Fai delle mosse</li>
+
+<li>Sfrutta ciò che hai preparato</li>
+</ul>
+
+<p>I giocatori hanno la vita un po&#8217; più facile—semplicemente dicono ciò che i loro personaggi dicono, pensano e fanno. Per te è un po&#8217; più difficile. Tu devi descrivere tutto il resto. Che cosa comporta questo?</p>
+
+<p>Prima di tutto, devi <strong>sempre descrivere la situazione in cui si trovano i giocatori</strong>. In questo modo inizi una sessione, fai ripartire il gioco dopo la pausa merenda, riprendi il filo dopo una battuta divertente: di&#8217; loro qual&#8217;è la situazione, in termini concreti.</p>
+
+<p>Usa il dettaglio e i loro sensi per coinvolgerli. La situazione non è semplicemente un orco che ti corre incontro, è un orco bagnato di sangue che agita un martello lanciando grida omicide. Puoi far leva anche sulla mancanza di informazioni. Il suono dello strascicare di piedi o il clangore di un&#8217;armatura, per esempio.</p>
+
+<p>La situazione che li circonda non è quasi mai &#8220;va tutto bene, nulla di cui preoccuparsi&#8221;. Si tratta di avventurieri in cerca di avventura—da&#8217; loro qualcosa a cui reagire.</p>
+
+<p>Quando descrivi la situazione, concludi sempre con &#8220;Che cosa fai?&#8221;. Dungeon World significa azione e avventura! Dipingi una situazione che esiga una risposta.</p>
+
+<p>Sin dall&#8217;inizio, assicurati di <strong>seguire le regole</strong>. Questo vale per le regole del GM, certo, ma tieni anche d&#8217;occhio le mosse dei giocatori. È responsabilità di tutti accorgersi di quando le mosse vengono attivate, te incluso. Ferma i giocatori e chiedigli se hanno davvero intenzione di attivare le regole, se sembra che ciò che stanno per fare lo richieda.</p>
+
+<p>Parte di seguire le regole è <strong>fare le mosse</strong>. Le tue mosse sono diverse da quelle dei PG e le descriveremo in dettaglio tra un secondo. Le tue mosse sono azioni specifiche che puoi fare per cambiare il corso del gioco.</p>
+
+<p>In ogni caso, <strong>sfrutta ciò che hai preparato</strong>. A volte saprai qualcosa che i giocatori non sanno ancora. Puoi usare questi dati per aiutarti a fare le mosse. Ad esempio, il mago potrebbe lanciare un incantesimo e attirare attenzioni indesiderate. Lui non sa che queste attenzioni sono lo sguardo infausto di un demone che li aspetta due piani più in basso, ma tu sì.</p>
+
+<h2 id='obiettivi'><strong>Obiettivi</strong></h2>
+
+<p>I tuoi obiettivi sono le cose che devi sempre cercare di fare mentre fai il GM a Dungeon World:</p>
+
+<ul>
+<li>Dipingi un mondo fantastico</li>
+
+<li>Riempi di avventura le vite dei personaggi</li>
+
+<li>Gioca per scoprire cosa accadrà</li>
+</ul>
+
+<p>Tutto ciò che fai e dici al tavolo (e lontano dal tavolo) esiste per perseguire questi obiettivi e nessun altro. Altre cose non sulla lista non sono i tuoi obiettivi. Non stai cercando di sconfiggere i giocatori né di mettere alla prova la loro abilità a risolvere indovinelli e trappole. Non sei qui per permettere ai giocatori di esplorare la tua fantastica ambientazione. Non stai cercando di uccidere i personaggi (anche se i mostri potrebbero). Non sei certamente qui per raccontare a tutti una storia già scritta.</p>
+
+<p>Il tuo primo obiettivo è di <strong>dipingere un mondo fantastico</strong>. Dungeon world significa istinto, astuzia e coraggio contro l&#8217;oscurità e la sventura. Significa personaggi che hanno deciso di intraprendere una vita di avventure sperando in qualche magnifica ricompensa. Il tuo compito è di partecipare a tutto questo mostrando ai giocatori un mondo dove i loro personaggi possano trovare queste avventure. Senza i personaggi giocanti il mondo potrebbe finire nel caos e nella distruzione—potrebbe farlo anche con il loro aiuto. Sta a te ritrarre gli elementi fantastici di quel mondo. Mostra ai giocatori le meraviglie del mondo che attraversano e incoraggia le loro risposte.</p>
+
+<p><strong>Riempire di avventura le vite dei personaggi</strong> significa lavorare insieme ai giocatori per creare un mondo avvincente e dinamico. Le avventure sono sempre incastrate in qualche pericolo da fine del mondo—incoraggia e promuovi questo tipo di dinamiche nel gioco.</p>
+
+<p>Le avventure di Dungeon World non presumono <strong>mai</strong> ciò che faranno i PG. Un&#8217;avventura di Dungeon World ritrae un&#8217;ambientazione in movimento—qualche posto importante pieno di creature grandi e piccole che perseguono i propri, diversi, obiettivi. Quando i giocatori entrano in conflitto con l&#8217;ambientazione e i suoi abitanti, il sorgere dell&#8217;azione è inevitabile. Dovrai onestamente descrivere le conseguenze di tale azione.</p>
+
+<p>È in questo modo che si <strong>gioca per scoprire cosa accadrà</strong>. Sei coinvolto anche tu nel divertimento di scoprire come i personaggi reagiranno e cambieranno il mondo che stai rappresentando. Siete tutti partecipanti nella grande avventura che sta per svolgersi. Quindi, non fare troppi progetti per il futuro, o le regole ti ostacoleranno. Fidati, è più divertente scoprire le cose mentre accadono.</p>
+
+<h2 id='princpi'><strong>Princìpi</strong></h2>
+
+<ul>
+<li>Disegna mappe, lascia spazi da riempire</li>
+
+<li>Rivolgiti ai personaggi, non ai giocatori</li>
+
+<li>Fai tuo ciò che è fantastico</li>
+
+<li>Fai una mossa che abbia senso</li>
+
+<li>Non pronunciare mai il nome della tua mossa</li>
+
+<li>Rendi vivo ogni mostro</li>
+
+<li>Dai un nome a ogni persona</li>
+
+<li>Fai domande e usa le risposte</li>
+
+<li>Sii un fan dei personaggi</li>
+
+<li>Pensa pericoloso</li>
+
+<li>Inizia e finisci con la fiction</li>
+
+<li>Pensa ai retroscena</li>
+</ul>
+
+<p>I tuoi princìpi sono le tue linee guida. Spesso, quando dovrai fare una mossa, avrai già un&#8217;idea di che cosa sia più appropriato. Consideralo alla luce dei princìpi e, se opportuno, usalo.</p>
+
+<h3 id='disegna_mappe_lascia_spazi_da_riempire'>Disegna mappe, lascia spazi da riempire</h3>
+
+<p>Dungeon World esiste principalmente nella fantasia delle persone che ci giocano; le mappe aiutano tutti a stare sulla stessa lunghezza d&#8217;onda. Non le disegnerai sempre tu, ma assicurati che ogni volta che visitate un luogo venga segnato sulla mappa.</p>
+
+<p>Quando disegni la mappa, non dev&#8217;essere completa. Lascia spazio per l&#8217;ignoto. Mentre giochi ti verranno altre idee e i giocatori ti daranno l&#8217;ispirazione per lavorarci sopra. Lascia che le mappe si espandano e cambino.</p>
+
+<h3 id='rivolgiti_ai_personaggi_non_ai_giocatori'>Rivolgiti ai personaggi, non ai giocatori</h3>
+
+<p>Rivolgersi ai personaggi e non ai giocatori significa che invece di dire &#8220;Alberto, cosa fa Dunwick con lo spettro?&#8221; dirai &#8220;Dunwick, cosa fai con lo spettro?&#8221;. Parlare in questo modo aiuta a mantenere il gioco concentrato sulla fiction e non sul tavolo. In aggiunta, è importante per il flusso del gioco. Se parli ai giocatori potresti tralasciare dei dettagli importanti per scegliere quali mosse fare. Siccome le mosse sono sempre basate sulle azioni dei personaggi, devi pensare a cosa sta accadendo in termini di personaggi—non dei giocatori che li interpretano.</p>
+
+<h3 id='fai_tuo_ci_che__fantastico'>Fai tuo ciò che è fantastico</h3>
+
+<p>Magia, panorami esotici, dèi, demoni e abomini: il mondo è pieno di mistero e magia. Fai tutto ciò tuo mentre ti prepari e durante il gioco. Pensa al &#8220;fantastico&#8221; su vari livelli. Pensa a città volanti o isole create dal corpo di un dio morto. Pensa a saggi rurali e ai loro famigli spiritici o alla statua che i banditi del luogo toccano come portafortuna. I personaggi sono gente interessante, che prendono il loro potere dagli dèi, dalla loro abilità con le armi, o dal loro addestramento mistico. Il mondo dovrebbe essere altrettanto avvincente.</p>
+
+<h3 id='fai_una_mossa_che_abbia_senso'>Fai una mossa che abbia senso</h3>
+
+<p>Quando fai una mossa, quello che stai facendo è prendere un elemento della fiction e portarlo a scontrarsi con i personaggi. La tua mossa dovrebbe sempre conseguire dalla fiction. Le mosse ti fanno concentrare su un punto della situazione attuale per sfruttarlo e fare qualcosa di interessante. Che sta succedendo? Che mossa ha senso fare qui?</p>
+
+<h3 id='non_pronunciare_mai_il_nome_della_tua_mossa'>Non pronunciare mai il nome della tua mossa</h3>
+
+<p>Non c&#8217;è modo migliore di rovinare la coerenza di Dungeon World che dire ai giocatori quale mossa stai facendo. Le mosse sono delle indicazioni per te, non cose che dici ad alta voce.</p>
+
+<p>Non devi mai mostrare ai giocatori che stai prendendo una mossa da una lista. Sai che la ragione per cui gli schiavisti hanno trascinato via Omar è perché hai fatto la mossa &#8220;metti qualcuno in difficoltà&#8221;, ma lo mostri ai giocatori come una conseguenza diretta delle loro azioni, perché lo è.</p>
+
+<h3 id='dai_vita_a_ogni_mostro'>Dai vita a ogni mostro</h3>
+
+<p>I mostri sono creature fantastiche, ciascuno con le proprie motivazioni, che siano semplici o complesse. Insisti sui dettagli di ogni mostro per renderlo vivo: odore, vista, udito. Dai ad ognuno abbastanza dettaglio da farlo sembrare reale, ma non disperarti quando viene sconfitto o riempito di botte. È ciò che fanno i PG, d&#8217;altronde.</p>
+
+<h3 id='dai_un_nome_ad_ogni_persona'>Dai un nome ad ogni persona</h3>
+
+<p>Qualunque persona con cui i giocatori parlano ha un nome. Probabilmente, ha anche una personalità e degli obiettivi propri, ma puoi inventarteli mentre giochi. Inizia con il nome. Il resto verrà da sé.</p>
+
+<h3 id='fai_domande_e_usa_le_risposte'>Fai domande e usa le risposte</h3>
+
+<p>Giocare per scoprire cosa accadrà significa anche non conoscere esattamente tutto, e avere un po&#8217; di curiosità. Se non sai qualcosa, o ti manca l&#8217;idea giusta, fai una domanda ai giocatori e usa la risposta.</p>
+
+<p>La domanda più facile è &#8220;Che cosa fai?&#8221;. Ogni volta che fai una mossa, termina dicendo &#8220;Che cosa fai?&#8221;. Non devi nemmeno chiedere alla persona contro la quale hai fatto la mossa. Cogli l&#8217;occasione di spostare i riflettori da qualche altra parte: &#8221;L&#8217;incantesimo di Rath è dissolto con un colpo di bacchetta del mago nemico. Finnegan, quell&#8217;incantesimo stava aiutando te. Che cosa fai ora che non c&#8217;è più?&#8221;.</p>
+
+<h3 id='sii_un_fan_dei_personaggi'>Sii un fan dei personaggi</h3>
+
+<p>Pensa ai PG come ai protagonisti di una storia che potresti vedere in TV. Esulta per le loro vittorie e piangi per le loro sconfitte. Non sei qua per spingerli in una direzione o nell&#8217;altra, ma solamente per avere una parte nella fiction che tratta di loro e delle loro azioni.</p>
+
+<h3 id='pensa_pericoloso'>Pensa pericoloso</h3>
+
+<p>Qualunque cosa nel mondo è un bersaglio. Devi pensare come un signore del male: nessuna vita ha valore e nulla è sacro. Ogni cosa può essere messa in pericolo, ogni cosa può essere distrutta. Niente di ciò che crei è mai protetto. Ogni volta che il tuo sguardo cade su qualcosa che hai creato, pensa a come può essere messa in pericolo, sgretolarsi e crollare. Il mondo cambia. Senza l&#8217;intervento dei personaggi, cambia in peggio.</p>
+
+<h3 id='inizia_e_finisci_con_la_fiction'>Inizia e finisci con la fiction</h3>
+
+<p>Tutto ciò che tu e i giocatori fate in Dungeon World è causa e conseguenza di avvenimenti nella fiction. Quando i giocatori fanno una mossa, descrivono un evento nella fiction per attivarla, applicano le regole, e ottengono da queste un effetto nella fiction. Quando tu fai una mossa essa ha sempre base nella fiction.</p>
+
+<h3 id='pensa_ai_retroscena'>Pensa ai retroscena</h3>
+
+<p>Solo perché sei un fan dei personaggi non significa che tutto debba accadere di fronte a loro. A volte la mossa migliore che puoi fare è nella stanza adiacente, o in un&#8217;altra parte del dungeon, o anche più indietro, in città. Fai la tua mossa altrove e mostra i suoi effetti quando finiscono sotto i riflettori.</p>
+
+<h2 id='mosse'>Mosse</h2>
+
+<p>Quando tutti ti guardano per sapere cosa succede scegli una di queste. Ogni mossa è qualcosa che accade nella fiction del gioco—non sono parole in codice o terminologia specifica. Ad esempio, &#8220;Consuma le loro risorse&#8221; significa letteralmente che devi far spendere ai personaggi le loro risorse.</p>
+
+<ul>
+<li>Usa la mossa di un mostro, un pericolo, o un luogo.</li>
+
+<li>Rivela una verità sgradita</li>
+
+<li>Mostra i segni di una minaccia incombente</li>
+
+<li>Infliggi danno</li>
+
+<li>Consuma le loro risorse</li>
+
+<li>Rivoltagli contro le loro mosse</li>
+
+<li>Separali</li>
+
+<li>Crea un&#8217;opportunità appropriata alle capacità di una classe</li>
+
+<li>Mostra il lato negativo delle loro classi, razze o oggetti</li>
+
+<li>Offri un&#8217;opportunità, con o senza un costo</li>
+
+<li>Metti qualcuno in difficoltà</li>
+
+<li>Spiega le conseguenze o il prezzo da pagare e chiedi di nuovo</li>
+</ul>
+
+<p>Non dire mai il nome delle mosse che fai (è uno dei tuoi princìpi). Fai in modo che sia una cosa reale che accade ai personaggi: &#8220;Mentre schivi la mazza dell&#8217;ogre che torreggia su di te, scivoli e cadi sul duro. La tua spada si perde nell&#8217;oscurità. Pensi di aver visto dov&#8217;è andata a finire ma l&#8217;ogre sta avanzando verso di te. Che cosa fai?&#8221;.</p>
+
+<p>Non importa che mossa tu faccia, concludi sempre con &#8220;Che cosa fai?&#8221;. Le tue mosse sono un modo per perseguire i tuoi obiettivi, uno dei quali è riempire di avventura la vita dei personaggi. Quando un incantesimo impazzisce o il pavimento gli scompare da sotto i piedi, gli avventurieri devono reagire o soffire le conseguenze dell&#8217;inazione.</p>
+
+<h3 id='quando_fare_una_mossa'>Quando Fare una Mossa</h3>
+
+<p>Fai una mossa:</p>
+
+<ul>
+<li>Quando tutti ti guardano per sapere cosa succede</li>
+
+<li>Quando i giocatori ti danno un&#8217;opportunità d&#8217;oro</li>
+
+<li>Quando tirano un 6-</li>
+</ul>
+
+<p>Solitamente, quando i giocatori ti guardano per sapere cosa succede fai una mossa leggera, in caso contrario fai una mossa pesante.</p>
+
+<p>Una mossa leggera è una mossa che non ha conseguenze immediate e irreversibili. Solitamente significa che è qualcosa di non completamente negativo, ad esempio mostrare ulteriori ricchezze da conquistare oltrepassando un golem (offrire un&#8217;opportunità con un costo). Può anche significare che è qualcosa di negativo, ma hanno il tempo di evitarlo, ad esempio far scagliare una raffica di freccie a dei goblin arcieri (mostra i segni di una minaccia incombente) con la possibilità di schivarle e allontanarsi dal pericolo.</p>
+
+<p>Ignorare una mossa leggera diventa un&#8217;opportunità d&#8217;oro per fare una mossa pesante. Se i giocatori non fanno nulla mentre il nugolo di frecce li raggiunge, è un&#8217;opportunità d&#8217;oro per usare la mossa <em>infliggi danno</em>.</p>
+
+<p>Le mosse pesanti, al contrario, hanno delle conseguenze immediate. Infliggere danni è quasi sempre una mossa pesante, perché si tratta una perdita di PF che non potrà essere colmata senza intervento da parte dei giocatori.</p>
+
+<p>Quando hai la possibilità di fare una mossa pesante puoi fare una mossa leggera al suo posto, se è più appropriata alla situazione. A volte le cose si risolvono per il meglio.</p>
+
+<h3 id='scegliere_una_mossa'>Scegliere una Mossa</h3>
+
+<p>Per scegliere una mossa, inizia considerando le conseguenze ovvie dell&#8217;evento che l&#8217;ha attivata. Se hai già un&#8217;idea, pensaci un attimo e assicurati che si conformi ai tuoi obiettivi e principi, poi prosegui. <strong>Lascia che le tue mosse influenzino le mosse successive</strong>. Costruisci sul successo o sul fallimento delle mosse dei personaggi e sulle tue stesse mosse.</p>
+
+<p>Se il tuo primo istinto è di non fargli del male ora, ma di sorprenderli più tardi, ottimo! È parte dei tuoi principi (pensa ai retroscena). Prendine nota e rivelalo al momento giusto.</p>
+
+<h3 id='fare_la_mossa'>Fare la Mossa</h3>
+
+<p>Quando fai una mossa, tieni a mente i tuoi principi. In particolare, non pronunciare mai il nome della tua mossa e rivolgiti ai personaggi, non ai giocatori. Le tue mosse non sono azioni meccaniche che avvengono al tavolo. Sono eventi concreti che avvengono ai personaggi nel mondo della fiction che stai descrivendo.</p>
+
+<p>È vero che &#8220;Infliggi danno&#8221; è una mossa, ma anche altre mosse possono comportare l&#8217;infliggimento di danni. Quando un ogre ti lancia contro un muro prendi danno come se ti avesse colpito con un pugno.</p>
+
+<p>Dopo ogni mossa che fai, chiedi sempre &#8220;Che cosa fai?&#8221;.</p>
+
+<h4 id='usa_la_mossa_di_un_mostro_un_pericolo_o_un_luogo'>Usa la mossa di un mostro, un pericolo, o un luogo.</h4>
+
+<p>Ciascun mostro in un&#8217;avventura ha delle mosse ad esso associate, come le hanno molti luoghi. La mossa di un mostro o di un luogo è solo una descrizione di che cosa fa quel mostro o quel luogo, ad esempio &#8220;scagliare persone&#8221; o &#8220;creare un collegamento tra piani&#8221;. Se la mossa di un giocatore (ad esempio <em>taglia e spacca</em>) dice che il mostro ha diritto a un attacco, fai una mossa offensiva con quel mostro.</p>
+
+<p>Anche i pericoli ricorrenti dell&#8217;avventura hanno delle mosse a loro associate. Usa queste mosse per mettere quel pericolo in gioco, il che potrebbe voler dire altri mostri.</p>
+
+<h4 id='rivela_una_verit_sgradita'>Rivela una verità sgradita</h4>
+
+<p>Una verità sgradita è un&#8217;informazione che i giocatori vorrebbero non fosse vera: ad esempio, che la stanza è piena di trappole, o che il goblin servizievole è in realtà una spia. Fai capire ai giocatori in quali guai si sono cacciati.</p>
+
+<h4 id='mostra_i_segni_di_una_minaccia_incombente'>Mostra i segni di una minaccia incombente</h4>
+
+<p>Questa è una delle tue mosse più versatili. Una &#8220;minaccia&#8221; può essere qualunque cosa brutta che sta per avverarsi. Con questa mossa, mostri ai giocatori che qualcosa accadrà a meno che non facciano qualcosa per evitarlo.</p>
+
+<h4 id='infliggi_danno'>Infliggi danno</h4>
+
+<p>Quando infliggi danno, scegli una fonte di danno nella fiction che minaccia un personaggio e sfruttala. Stai combattendo con un lucertoloide? Ti accoltella. Hai fatto scattare una trappola? Ti cadono dei massi in testa.</p>
+
+<p>La quantità di danni è decisa dalla fonte. In alcuni casi, questa mossa può comportare uno scambio di danni in entrambe le direzioni, con anche il personaggio che infligge danni.</p>
+
+<p>La maggior parte dei danni si basa sul tiro di un dado. Quando un personaggio prende danni, digli che cosa tirare. Non devi mai toccare i dadi. Se il giocatore è troppo codardo per scoprire da solo il proprio destino, può chiedere a un altro giocatore di tirare per lui.</p>
+
+<h4 id='consuma_le_loro_risorse'>Consuma le loro risorse</h4>
+
+<p>Sopravvivere in un dungeon, o in qualsiasi luogo pericoloso, spesso ha a che vedere con le provviste. Con questa mossa, fai accadere qualcosa che consuma una qualche risorsa: armi, armatura, guarigione, incantesimi attivi. Non devi per forza consumarla permanentemente. Una spada potrebbe semplicemente essere scagliata dall&#8217;altra parte di una stanza, senza danneggiarsi.</p>
+
+<h4 id='rivoltagli_contro_le_loro_mosse'>Rivoltagli contro le loro mosse</h4>
+
+<p>Pensa ai benefici che una mossa accorda a un personaggio e capovolgili in modo negativo. In alternativa, accorda gli stessi benefici a qualcuno che agisce contro i personaggi. Se Ivy ha scoperto che gli uomini del Duca Horst si avvicinano dall&#8217;Est, magari anche un loro esploratore è riuscito a individuarla.</p>
+
+<h4 id='separali'>Separali</h4>
+
+<p>Non ci sono molte cose peggiori di essere nel mezzo di una battaglia furiosa con orsogufi assetati di sangue che incombono da tutti i lati — una di queste cose è trovarsi in quella stessa battaglia con nessuno al tuo fianco.</p>
+
+<p>Separare i personaggi può voler dire venir spinti via nella foga della battaglia, oppure essere teletrasportati a estremità opposte del dungeon, o qualunque via di mezzo. In qualsiasi modo accada, sarà senz&#8217;altro fonte di guai.</p>
+
+<h4 id='crea_unopportunit_appropriata_alle_capacit_di_una_classe'>Crea un&#8217;opportunità appropriata alle capacità di una classe</h4>
+
+<p>Il ladro disattiva trappole, si muove furtivamente, e scassina serrature. Il chierico si occupa delle divinità e dei morti. Ogni classe ha delle cose in cui brilla—presenta un&#8217;opportunità che metta in gioco una di queste cose.</p>
+
+<p>Non dev&#8217;essere per forza una classe attualmente in gioco. A volte una porta chiusa è posta a guardia di un tesoro, e non c&#8217;è alcun ladro a disposizione. Questo è un&#8217;invito all&#8217;inventiva, alla creatività, e al compromesso. Se tutto quello che hai è un&#8217;ascia insanguinata ogni problema non è forse un altro cranio da sfondare?</p>
+
+<h4 id='mostra_il_lato_negativo_delle_loro_classi_razze_o_oggetti'>Mostra il lato negativo delle loro classi, razze o oggetti</h4>
+
+<p>Allo stesso modo in cui ha modo di brillare, ogni classe ha anche le sue debolezze. Forse gli orchi hanno una particolare sete di sangue elfico. Forse la magia del chierico sta disturbando delle entità pericolose. O ancora, la torcia che illumina la via attira anche l&#8217;attenzione degli occhi che si nascondono nell&#8217;ombra.</p>
+
+<h4 id='offri_unopportunit_con_o_senza_un_costo'>Offri un&#8217;opportunità, con o senza un costo</h4>
+
+<p>Mostragli quello che vogliono: ricchezze, potere, gloria. Se ti va, puoi ovviamente associarvi un prezzo da pagare.</p>
+
+<p>Ricorda di iniziare con la narrazione. Non dire &#8220;Quest&#8217;area non è molto pericolosa quindi potete accamparvi qui, se vi fermate per il tempo necessario.&#8221;</p>
+
+<h4 id='metti_qualcuno_in_difficolt'>Metti qualcuno in difficoltà</h4>
+
+<p>Mettere qualcuno in difficoltà significa metterlo in una situazione in cui deve fare scelte difficili. Metti loro, o qualcosa a loro cara, di fronte alla distruzione incombente. Più difficile sarà la scelta, peggiore la situazione.</p>
+
+<h4 id='spiega_le_conseguenze_o_il_prezzo_da_pagare_e_chiedi_di_nuovo'>Spiega le conseguenze o il prezzo da pagare e chiedi di nuovo</h4>
+
+<p>Questa mossa è particolarmente utile quando i giocatori vogliono fare qualcosa che non è previsto da alcuna mossa, oppure quando falliscono una mossa. Possono farlo, certo, ma dovranno pagare un prezzo. Oppure, possono farlo, ma ci saranno delle conseguenze. Ad esempio, potrebbero attraversare il fossato infestato di squali senza venire prima divorati, ma dovranno creare una distrazione. Ovviamente, ciò dev&#8217;esser reso chiaro ai personaggi, non solo ai giocatori: gli squali sono affamati e furiosi.</p>
+
+<h2 id='mosse_del_dungeon'>Mosse del Dungeon</h2>
+
+<p>Le mosse del dungeon sono un particolare sottoinsieme che viene usato per creare o modificare un dungeon al volo. Usale se i tuoi giocatori stanno esplorando un&#8217;area ostile che non hai ancora progettato per intero.</p>
+
+<p>Disegna una mappa di quest&#8217;area quando fai queste mosse. La maggior parte di esse ti faranno aggiungere una nuova stanza o elemento alla tua mappa.</p>
+
+<ul>
+<li>Cambia l&#8217;ambiente</li>
+
+<li>Indica una minaccia incombente</li>
+
+<li>Introduci una nuova fazione o tipo di creatura</li>
+
+<li>Usa un pericolo di una fazione o di un tipo di creatura già esistente</li>
+
+<li>Falli tornare sulle proprie tracce</li>
+
+<li>Offri ricchezze in cambio di qualcosa</li>
+
+<li>Offri una sfida a uno dei personaggi</li>
+</ul>
+
+<p>Puoi fare queste mosse ogni volta che tutti ti guardano per sapere cosa succede, quando i giocatori ti offrono un&#8217;opportunità, o quando i giocatori falliscono un tiro. Il momento perfetto in cui usarle è quando i personaggi vogliono sapere cosa trovano una volta entrati in una nuova stanza o in un nuovo corridoio.</p>
+
+<h3 id='cambia_lambiente'>Cambia l&#8217;ambiente</h3>
+
+<p>L&#8217;ambiente è in generale l&#8217;atmosfera dell&#8217;area in cui si trovano i giocatori: gallerie scavate, alberi curvi, piste sicure, o qualsiasi altra cosa. Questa è la tua opportunità per presentargli un nuovo ambiente: le gallerie da artificiali diventano naturali, gli alberi sono rinsecchiti e inquietanti, o la pista si perde tra le terre selvagge.</p>
+
+<h3 id='indica_una_minaccia_incombente'>Indica una minaccia incombente</h3>
+
+<p>Se sai che qualcosa si nasconde, aspettando solo che i giocatori vi si imbattano, questa mossa ne mostra i segni e gli indizi. Con questa mossa puoi mostrare le impronte del drago nel fango o la scia melmosa del cubo gelatinoso.</p>
+
+<h3 id='introduci_una_nuova_fazione_o_tipo_di_creatura'>Introduci una nuova fazione o tipo di creatura</h3>
+
+<p>Con tipo di creatura s’intende una categoria ampia: orchi, goblin, lucertoloidi, non-morti, etc.</p>
+
+<p>Una fazione è un gruppo di creature unite per un obiettivo comune. Una volta introdotte nel gioco, puoi usare queste creature e PNG per fare mosse e mettere i giocatori nei guai.</p>
+
+<p>Introdurre significa dare qualche chiara prova sensoriale o delle informazioni concrete. Non essere timido: i giocatori dovrebbero avere un&#8217;idea di ciò di cui stai manifestando la presenza. Puoi, tuttavia, avere un approccio più misurato. Non c&#8217;è bisogno che ogni volta il capo supremo dei cultisti agiti un cartello strillando frasi in lingua infernale.</p>
+
+<h3 id='usa_un_pericolo_di_una_fazione_o_di_un_tipo_di_creatura_gi_esistente'>Usa un pericolo di una fazione o di un tipo di creatura già esistente</h3>
+
+<p>Una volta che i personaggi hanno avvertito la presenza di una fazione o di un tipo di creatura puoi usare le mosse dei mostri di quel tipo.</p>
+
+<p>Tratta le fazioni e i tipi in senso ampio. Gli orchi sono accompagnati dai loro worg da caccia. Una setta di folli probabilmente avrà dei servitori non-morti o qualche bestia evocata dalle fosse dell&#8217;Abisso. Questa è una mossa che spesso farai senza pensarci—si tratta soltanto di utilizzare gli strumenti che ti sei preparato in modo chiaro ed efficace.</p>
+
+<h3 id='falli_tornare_sulle_proprie_tracce'>Falli tornare sulle proprie tracce</h3>
+
+<p>Osserva le aree che hai disegnato sulla mappa. C&#8217;è qualcosa di utile e non ancora scoperto? Puoi aggiungere un nuovo ostacolo che può essere superato solo tornando indietro? C&#8217;è una porta chiusa la cui chiave giace in una stanza precedente?</p>
+
+<p>Mentre tornano indietro, mostragli gli effetti che il tempo ha avuto sulle aree che si sono lasciati alle spalle. Quali nuove minaccie sono sorte in conseguenza alle loro azioni? Che cosa hanno trascurato e adesso attende il loro ritorno?</p>
+
+<p>Usa questa mossa per rendere il dungeon un posto vivo e dinamico. Le cose non possono restare immobili dopo il passaggio dei personaggi. Aggiungi rinforzi, abbatti mura, provoca il caos. Il dungeon si evolve in conseguenza alle azioni dei personaggi.</p>
+
+<h3 id='offri_ricchezze_in_cambio_di_qualcosa'>Offri ricchezze in cambio di qualcosa</h3>
+
+<p>Che cosa vogliono i giocatori? Che cosa sacrificherebbero per averlo?</p>
+
+<p>Metti qualche oggetto invitante poco fuori dalla loro portata. Trova qualcosa di cui sono a corto: tempo, PF, equipaggiamento, qualsiasi cosa. Trova un modo per dargli ciò che vogliono se rinunciano a ciò che hanno.</p>
+
+<p>Il modo più semplice per usare questa mossa è offrire dell&#8217;oro al di fuori dell&#8217;obiettivo principale. Si fermeranno i giocatori a staccare gli occhi di rubino dall&#8217;idolo sapendo che il sacrificio incombe sempre più vicino? Usa questa mossa per scoprirlo.</p>
+
+<h3 id='offri_una_sfida_a_uno_dei_personaggi'>Offri una sfida a uno dei personaggi</h3>
+
+<p>Sfida un personaggio osservando ciò in cui è più bravo. Dai al ladro un lucchetto da scassinare, mostra al chierico dei servitori di un dio nemico da combattere. Dai al mago dei misteri magici su cui indagare. Mostra al guerriero dei crani da spaccare. Dai a qualcuno un&#8217;opportunità per brillare.</p>
+
+<p>In alternativa, sfida un personaggio osservando ciò in cui non è bravo o che ha lasciato in sospeso. Se il bardo ha una bugia complicata sulla coscienza, che cosa farà per nasconderla quando qualcuno lo scopre? Se il mago si è messo a evocare demoni, che cosa succede quando la voce si sparge?</p>
+
+<p>Questa mossa può mettere un personaggio sotto i riflettori—anche se solo per un momento. Cerca di dare a tutti una possibilità di essere al centro dell&#8217;attenzione usando questa mossa da sessione a sessione.</p>
+
+<h2 id='situazioni_comuni'>Situazioni Comuni</h2>
+
+<p>Ci sono delle situazioni comuni che accadono spesso in Dungeon World. Ecco come gestirle adeguatamente.</p>
+
+<h4 id='combattimenti'>Combattimenti</h4>
+
+<p>Prima o poi si sguaineranno le spade e si verserà del sangue. Quando questo accade i personaggi probabilmente cominceranno a <em>tagliare e spaccare</em>, fare <em>raffiche</em> e <em>difendere</em>. Pensa oltre al semplice scambio di danni. Forse i mostri stanno cercando di catturare i personaggi o di proteggere qualcosa da loro. Concentrati sull&#8217;obiettivo dello scontro; gli obiettivi di ciascuna parte e in che modo potrebbe modificare l&#8217;equilibrio della battaglia.</p>
+
+<p>Nessun mostro che si rispetti sta fermo a farsi picchiare. Il combattimento è una cosa dinamica, con creature che si muovono dentro e fuori portata, si mettono al riparo e si ritirano. A volte è il campo di battaglia stesso a cambiare. Fai in modo che i tuoi mostri facciano delle azioni a cui i giocatori devono rispondere. Fai in modo di non usare solo la mossa <em>infliggi danno</em>, anche in un combattimento.</p>
+
+<p>Assicurati che ciascuno abbia la possibilità di agire, e di sapere dove ogni giocatore si trova nella foga della battaglia. Se la battaglia è complessa, fai una mappa in modo che tutti sappiano che cosa succede e possano descrivere le proprie azioni al meglio.</p>
+
+<h4 id='trappole'>Trappole</h4>
+
+<p>Puoi preparare le trappole in anticipo, o puoi improvvisarle basandoti sulle tue mosse. Se niente ha specificato che il luogo è sicuro, le trappole sono sempre un&#8217;opzione.</p>
+
+<p>I giocatori possono trovare le trappole con piani ingegnosi, <em>percependo trappole</em>, o <em>discernendo</em><em>realtà</em>. Se un personaggio descrive un&#8217;azione che non attiva una mossa, ma l&#8217;azione svelerebbe una trappola, non nasconderglielo. Le trappole non hanno il permesso di infrangere le regole.</p>
+
+<h4 id='persone'>Persone</h4>
+
+<p>Fabbri nanici, saggi elfici, umani di tutte le forme e dimensioni abitano il mondo attorno ai personaggi. Non sono dei lacché senza cervello da maltrattare come si vuole, ma non sono nemmeno ciò che vogliamo scoprire quando giochiamo. I PNG sono persone: hanno obiettivi e gli strumenti per impegnarsi a ottenerli. Usali per mostrare com&#8217;è il mondo. Mostra ai tuoi giocatori la gente comune che lotta per affrancarsi o le classi nobili che cercano di accontentare il popolo. Alcune avventure potrebbero avvenire per intero in un&#8217;ambiente pieno di persone invece che in un dungeon lontano dalla civilità. Alcune classi, il bardo in particolare, sono atte a manipolare e usare le persone come risorse. Non tirarti indietro di fronte a queste situazioni. Sii un fan di questi personaggi, offrigli delle persone interessanti e dettagliate con cui interagire.</p>
+
+<p>Le persone, come i dungeon, cambiano nel tempo. L&#8217;aver incontrato i personaggi durante la loro vita potrebbe affascinarli o adirarli. Le azioni dei personaggi faranno in modo che il mondo cambi, in bene o in male, e le persone che incontrano si ricorderanno di questo cambiamento. Quando i personaggi ritornano a una città in cui si erano comportanti in modo non molto gentile, mostragli come le persone sono diverse da prima. Sono forse più caute? Si sono convertite a una nuova religone? Sono assetate di vendetta?</p>
+
+<p>Il rapporto tra i personaggi è rappresentato dai legami, ma il rapporto con i PNG è più esile. Se i personaggi vogliono avere dei rapporti veri e duraturi con le persone del mondo, devono passare all&#8217;azione. Ricorda, &#8220;Che cosa fai?&#8221; è una domanda legittima sia quando si affrontano le speranze e le paure di un potenziale alleato o nemico che quando ci si trova dal lato sbagliato di una spada lunga.</p>
+    </div>
+	<div id="push"></div>
+  <div class="wrap">
+  
+  <!--
+  
+  <div id="footer">
+    <div class="container">
+		<p class="muted credit">Libera traduzione del <a href="https://github.com/Sagelt/Dungeon-World" target="_blank">lavoro originale</a> di <a href="https://plus.google.com/u/0/112484087750169360510"><b>Adam Koebel</b></a> e <b><a href="https://plus.google.com/u/0/117415966179711277938">Sage LaTorra</a>.
+		</b></p>
+		<p class="muted credit"><b>Da un'idea di&nbsp;</b><a href="https://plus.google.com/u/0/112991578095647299350" target="_blank"><b>Claudio Freda</b></a></p>
+		<p class="muted credit"><b>Traduttori</b>:&nbsp;<a href="https://plus.google.com/u/0/112991578095647299350" target="_blank">Claudio Freda</a>,&nbsp;Daniel Schiavo,&nbsp;<a href="https://plus.google.com/113536342334278411258" style="text-align:start" target="_blank">Mauro Ghisoni</a>.&nbsp;</p>
+		<p class="muted credit"><b>Revisori:&nbsp;</b><a href="https://plus.google.com/107667343404799785520" target="_blank">Antonio Amato</a>,&nbsp;<a href="https://plus.google.com/112991578095647299350" target="_blank">Claudio Freda</a>, Daniel Schiavo, <a href="https://plus.google.com/u/0/105434214058733883957" target="_blank">Dario Delfino</a>,&nbsp;<a href="https://plus.google.com/118033451148976345230" target="_blank">Diego Delfino</a>,&nbsp;<a href="https://plus.google.com/113383799827204001261" target="_blank">Giorgia Menozzi</a>,&nbsp;<a href="https://plus.google.com/107861607091405146379" target="_blank">Giovanni Vinci</a>, <a href="https://plus.google.com/u/0/117946773352558942341" target="_blank">Giulio Robecchi</a>,&nbsp;<a href="https://plus.google.com/108007955567460306563" target="_blank">Luca Maiorani</a>,&nbsp;<a href="https://plus.google.com/113536342334278411258" target="_blank">Mauro Ghisoni</a>, <a href="https://plus.google.com/u/0/100891656436184215243" target="_blank">Paride Papadia</a>, Stefano Franzini.</p>
+		<p class="muted credit">Quest'opera è distribuita con Licenza <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/it/" rel="license"><b>Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Italia</b></a></p>
+	</div>
+  </div>
+  
+  -->
+  
+  <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+  <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+  <!-- <script src="js/dwbook.js"></script> -->
+  
+  
+	<!-- Place this tag after the last widget tag. -->
+	<script type="text/javascript">
+	  window.___gcfg = {lang: 'it'};
+
+	  (function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>
+  
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44648946-1', 'dungeonworld.it');
+  ga('send', 'pageview');
+
+  </script>
+</body>
+</html>
