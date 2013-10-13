@@ -12,7 +12,7 @@ Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, p
 
 Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
-<img src="/images/barbaro.jpg" class="image-right"></img>
+![Il Barbaro](/images/barbaro.jpg){.image-right}
 
 # Il Barbaro
 
@@ -64,8 +64,7 @@ Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma
 
 Dal tuo castello. Pieno d'oro. Furfante che non sei altro.
 
-<img src="/images/mago.jpg" class=”image-right”>
-</img>
+![Il Mago](/images/mago.jpg){.image-right}
 
 # Il Mago
 

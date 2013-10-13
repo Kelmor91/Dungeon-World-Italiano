@@ -4,13 +4,13 @@ layout: default
 ---
 Libera traduzione del [lavoro originale](book.dwgazetteer.com) di **[Adam Koebel][adam]** e **[Sage LaTorra][sage]**.
 
-**Da un'idea di [Claudio Freda]**
+**Da un'idea di [Claudio Freda][]**
 
-**Traduttori**: [Claudio Freda], [Daniel Schiavo], [Mauro Ghisoni]
+**Traduttori**: [Claudio Freda][], [Daniel Schiavo][], [Mauro Ghisoni][]
 
-**Revisori**: [Antonio Amato], [Claudio Freda], [Daniel Schiavo], [Dario Delfino], [Diego Delfino], [Giorgia Menozzi], [Giovanni Vinci], [Giulio Robecchi], [Luca Maiorani], [Mauro Ghisoni], [Paride Papadia], [Stefano Franzini].
+**Revisori**: [Antonio Amato][], [Claudio Freda][], [Daniel Schiavo][], [Dario Delfino][], [Diego Delfino][], [Giorgia Menozzi][], [Giovanni Vinci][], [Giulio Robecchi][], [Luca Maiorani][], [Mauro Ghisoni][], [Paride Papadia][], [Stefano Franzini][].
 
-**Introduzione sul Barbaro** di [Luca Maiorani].
+**Introduzione sul Barbaro** di [Luca Maiorani][].
 
 Quest'opera è distribuita con Licenza **[Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Italia][cc]**.
 
