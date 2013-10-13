@@ -54,7 +54,8 @@ Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma
 
 Dal tuo castello. Pieno d'oro. Furfante che non sei altro.
 
-<img src="/images/mago.jpg" style="margin:10px; float:right; display:block; width: 30%"></img>
+<img src="/images/mago.jpg" style="margin:10px; float:right; display:block; width: 30%;">
+</img>
 
 # Il Mago
 
