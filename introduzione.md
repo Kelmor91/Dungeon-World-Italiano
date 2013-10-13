@@ -12,7 +12,7 @@ Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, p
 
 Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
-<img src="/images/barbaro.jpg" class=”image-right”>
+<img src="/images/barbaro.jpg" class="image-right">
 </img>
 
 # Il Barbaro
