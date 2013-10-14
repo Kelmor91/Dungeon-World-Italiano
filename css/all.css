@@ -17,6 +17,7 @@ blockquote p {
 	max-width: 50%;
 	margin: 0;
 	text-align: center;
+	border: solid 1px white;
 }
 
 .frame.left {
