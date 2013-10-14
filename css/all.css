@@ -10,7 +10,7 @@ blockquote p {
 	padding: 0.5em 0;
 }
 
-.image.right {
+.frame.right {
 	display: block;
 	float: right;
 	width: 350px;
@@ -18,7 +18,7 @@ blockquote p {
 	margin: 0;
 }
 
-.image.left {
+.frame.left {
 	display: block;
 	float: left;
 	width: 350px;
@@ -26,7 +26,12 @@ blockquote p {
 	margin: 0;
 }
 
-.caption {
+.frame img {
+	width: 100%;
+	margin: 0;
+}
+
+.frame p {
 	text-align: center;
 	font-weight: bold;
 	font-style: italic;
