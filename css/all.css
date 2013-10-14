@@ -44,8 +44,7 @@ blockquote p {
 }
 
 .frame img {
-	width: 100%;
-	margin: 10px;
+	width: auto;
 }
 
 .frame p:last-child {
