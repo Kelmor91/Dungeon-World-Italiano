@@ -36,7 +36,6 @@ blockquote p {
 	
 	.frame.bigger {
 		width: 240px;
-		max-width: 54%;
 	}
 	
 	.frame p:last-child  {
