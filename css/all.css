@@ -33,8 +33,8 @@ blockquote p {
 
 .frame p {
 	text-align: center;
-	font-weight: bold;
 	font-style: italic;
+	background-color: #DDD;
 }
 
 blockquote { margin: 0 0 1em; }
