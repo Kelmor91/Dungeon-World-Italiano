@@ -35,6 +35,7 @@ blockquote p {
 	text-align: center;
 	font-style: italic;
 	border-bottom: 1px solid #ddd;
+	margin: 0 auto;
 }
 
 blockquote { margin: 0 0 1em; }
