@@ -12,8 +12,6 @@ Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, p
 
 Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
-<div class="clear-container" markdown="1">
-
 <div class="frame right" markdown="1">
 ![Il Barbaro](/images/clovis-spaccaossa-barbaro.jpg){.image .right}
 
@@ -27,8 +25,6 @@ Guarda questa gente imbellettata. Ti osservano e hanno paura di te. Fanno bene, 
 Tu insegui cose più succulente di una casa tranquilla o di una manciata di monete: tu vuoi la gloria, la fama e un mucchio di ricchezze, tante da non poterle contare. Perché tu non sai contare. C'è solo una cosa che sai fare bene: spaccare la testa di chi si mette tra te e i tuoi appetiti. I tuoi compagni d'avventura potranno trattarti come uno straniero rozzo e ignorante. Che lo pensino pure, che ti importa? Quando le cose si metteranno male piangeranno chiedendo il tuo aiuto.
 
 Perchè nessuno di loro è forte come te. Nessuno.
-
-</div>
 
 # Il Bardo
 
@@ -72,8 +68,6 @@ Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma
 
 Dal tuo castello. Pieno d'oro. Furfante che non sei altro.
 
-<div class="clear-container" markdown="1">
-
 <div class="frame right" markdown="1">
 ![Il Mago](/images/liliastre-maga.jpg){.image .right}
 
@@ -92,10 +86,6 @@ Lascia che ti guardino con occhi biechi. Lascia che ti chiamino stregone o negro
 
 Esatto. Non avevo dubbi.
 
-</div>
-
-<div class="clear-container" markdown="1">
-
 <div class="frame left" markdown="1">
 ![Il Mago](/images/adrian-paladino.jpg){.image .left}
 
@@ -111,8 +101,6 @@ Tu sei gli occhi, le mani degli dèi, pietoso esecutore del loro giudizio di mor
 Perciò guida questi sciocchi, paladino. Imbraccia le armi per la tua nobile causa e porta la salvezza a questo mondo scellerato.
 
 Vae victis, giusto?
-
-</div>
 
 # Il Ramingo
 
