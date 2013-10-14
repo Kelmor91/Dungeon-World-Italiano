@@ -13,8 +13,8 @@ blockquote p {
 .frame {
 	display: block;
 	float: right;
-	width: 350px;
-	max-width: 50%;
+	width: 300px;
+	max-width: 45%;
 	margin: 0;
 	text-align: center;
 	border: solid 1px white;
