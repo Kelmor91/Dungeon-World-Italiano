@@ -34,7 +34,9 @@ blockquote p {
 .frame p {
 	text-align: center;
 	font-style: italic;
-	background-color: #DDD;
+	background-color: #EEE;
+	padding: 0 10px;
+	margin-down: 10px;
 }
 
 blockquote { margin: 0 0 1em; }

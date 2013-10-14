@@ -12,7 +12,7 @@ Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, p
 
 Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
-<div class="frame left" markdown="1">
+<div class="frame right" markdown="1">
 ![Il Barbaro](/images/clovis-spaccaossa-barbaro.jpg){.image .right}
 
 Il barbaro umano Clovis Spaccaossa
