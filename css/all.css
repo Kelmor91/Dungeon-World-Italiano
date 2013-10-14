@@ -33,7 +33,7 @@ blockquote p {
 	margin: 10px;
 }
 
-.frame p:last-child {
+.frame p{
 	text-align: center;
 	font-style: italic;
 	border-bottom: 1px solid #ddd;
