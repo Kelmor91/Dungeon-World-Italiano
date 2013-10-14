@@ -28,6 +28,10 @@ blockquote p {
 		width: 200px;
 		max-width: 45%;
 	}
+	
+	.frame p:last-child  {
+		font-size: 0.8em;
+	}
 }
 
 .frame.left {
