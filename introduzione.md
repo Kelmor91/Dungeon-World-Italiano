@@ -8,7 +8,7 @@ Dungeon World è un mondo di avventure fantastiche. Un mondo di magia, dèi e de
 
 Un avventuriero può avere molte forme in Dungeon World. Le razze degli elfi, uomini, nani e mezzuomini hanno tutte i loro eroi. Alcuni sono bestie da guerra quasi invincibili, ingabbiate in un'armatura d'acciaio. Altri sono più misteriosi, evocatori e manipolatori delle potenti forze della magia. Che siano sacri chierici, scaltri furfanti, o possenti paladini, tutti ambiscono alle ricchezze e alla gloria.
 
-Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, però. Ogni volta che il ramingo guida i suoi compagni attraverso un'antica foresta, mille esseri sono lì in attesa di staccargli la testa a morsi. Bavose orde di truppe goblin, forse. Oppure questo è il Bosco Maledetto, dimora della Strega Grigia? Oppure qui risiedono le moltitudini dei morti accecati dall'odio, desiderosi di trascinare un succulento corpo nella loro tana? Tutto ciò è certamente terrificante, ma ci sono anche i tesori. Oro e gioielli e magie dimenticate dall'uomo sono scomparsi nelle crepe oscure del mondo, più di quanti se ne possano immaginare. Chi meglio di una banda di eroi senza paura per ritrovarli?
+Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, però. Ogni volta che il ramingo guida i suoi compagni attraverso un'antica foresta, mille esseri sono lì in attesa di staccargli la testa a morsi. Bavose orde di truppe goblin, forse. Oppure questo è il Bosco Maledetto, dimora della Strega Grigia? Oppure qui risiedono le moltitudini dei morti accecati dall'odio, desiderosi di trascinare un succulento corpo nella loro tana? Tutto ciò è certamente terrificante, ma ci sono anche i tesori. Oro e gioielli e magie dimenticate dall'uomo sono scomparsi nelle crepe oscure del mondo, più di quanti se ne possano immaginare. Chi meglio di una compagnia di impavidi eroi per ritrovarli?
 
 Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
@@ -58,7 +58,7 @@ Tu sei la muraglia: lascia che ogni pericolo si sfracelli in polvere scontrandos
 
 # Il Ladro
 
-Li hai sentiti, seduti attorno al fuoco. Si vantano di questa o quella battaglia, o di come i loro dèi sorridano sulla vostra allegra banda. Tu conti le tue monete e sorridi a te stesso — questa è l'emozione più forte. Solo tu conosci il segreto di Dungeon World: sporco, sporco guadagno.
+Li hai sentiti, seduti attorno al fuoco. Si vantano di questa o quella battaglia, o di come i loro dèi sorridano sulla vostra allegra compagnia. Tu conti le tue monete e sorridi a te stesso — questa è l'emozione più forte. Solo tu conosci il segreto di Dungeon World: sporco, sporco guadagno.
 
 Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma senza di te, ciascuno di loro sarebbe stato diviso in due da una ghigliottina, o avvelenato a morte da qualche antica trappola ad aghi. Perciò, lascia che si lagnino. Quando avrai finito con questa vita di esplorazione e saccheggio brinderai alle loro tombe da eroi.
 
@@ -76,7 +76,7 @@ Hai passato così tanto tempo chino sui tuoi tomi. Hai portato a termine esperim
 
 Lascia che ti guardino con occhi biechi. Lascia che ti chiamino stregone o negromante. Chi tra loro può lanciare palle di fuoco dagli occhi?
 
-Esattamente: nessuno.
+Esatto. Non avevo dubbi.
 
 # Il Paladino
 
@@ -95,6 +95,16 @@ Questa gente di città con cui viaggi. Hanno udito loro il richiamo del lupo? Ha
 Guida. Cacciatore. Creatura selvaggia. Sei tutte queste cose e anche più. Hai vissuto nelle terre selvagge da solo fino a ora, ma il richiamo di qualcosa più grande, chiamalo destino se vuoi, ti ha unito a questa gente. Coraggiosi, certamente. Possenti e forti, anche. Ma solo tu conosci i segreti degli spazi inesplorati.
 
 Senza di te, sarebbero persi. Fai strada tra il sangue e l'oscurità, grampasso.
+
+# Lo Spadaccino
+
+Ci sono mostri che si aggirano per Dungeon World. Temibili draghi, terrificanti demoni e possenti giganti. Ahimé! Quale eroe impavido oserebbe mai sfidare bestie tanto orribili? Chi si arrischierebbe a combattere il male, mentre sfoggia il proprio fantastico aspetto? Tu, ovviamente. Che sia a dorso di un nobile destriero o appeso a una corda o a un candelabro, ti getti sempre in battaglia per salvare la situazione.
+
+È quello che fanno gli eroi, giusto?
+
+Quando la sventura cala sul mondo, sei sempre lì, con una spada in mano e un nuovo amore nell’altra. Quando i demoni vengono a bussare, tu apri la porta. Quando i draghi radono al suolo la città, tu sei lì per punzecchiarli a dovere. Quando il gigante sfonda le mura e la gente corre al riparo, tu gli voli addosso saltando da un parapetto.
+
+Sei lo Spadaccino, e sei sempre lì per fare l’eroe.
 
 # Perché?
 

@@ -201,7 +201,7 @@ Difendere te stesso è sempre un'opzione. Significa rinunciare a fare attacchi p
 >
 > **Avon**: Squittisco con impotenza?
 >
-> **Lux**: Arrivo io. Spendo un punto di riserva per redirigere l’attacco verso me: spingo Avon di lato e faccio in modo che la furia completa della mia dea si manifesti a ondate, infuriando i non-morti. Per essere sicura, faccio un movimento ad arco col mio martello e infliggo i miei danni. Già che ci sono, consumo tutta la riserva e riduco i danni a metà. La mia dea ci protegge!
+> **Lux**: Arrivo io. Spendo un punto di riserva per redirigere l’attacco verso me: spingo Avon di lato e lascio erompere la furia completa della mia bontà, facendo infuriare i non-morti. Per essere sicura, faccio un movimento ad arco col mio martello e infliggo i miei danni. Già che ci sono, consumo tutta la riserva e riduco i danni a metà. La mia dea ci protegge!
 
 <!-- separatore --> 
 
@@ -215,7 +215,7 @@ Difendere te stesso è sempre un'opzione. Significa rinunciare a fare attacchi p
 >
 > **Adrian**: Neanche per sogno, ho ancora un po’ di riserva. La voglio spendere per redirigere quell’attacco su di me.
 >
-> **GM**: Voi due sete separati, adesso. Come fai a difenderla se sei lontano 20 metri? Hai perso la riserva quando hai attaccato il coccodrillo, amico.
+> **GM**: Voi due siete separati, adesso. Come fai a difenderla se sei lontano 20 metri? Hai perso la riserva quando hai attaccato il coccodrillo, amico.
 >
 > **Adrian**: Hai ragione, non sono proprio “rimasto a difendere” alla fine. Fa niente, sei da sola, Durga!
 
@@ -367,11 +367,11 @@ Non importa quante persone *aiutino o ostacolino*, il bersaglio prende il modifi
 
 > **GM**: Ozruk, sei in piedi solo e sanguinante di fronte a un branco di segugi infernali inferociti. Dietro di te si nasconde il Principe di Lescia, che piange dalla paura.
 >
-> **Ozruk**: Sto fermo e alzo lo scuo. Nonostante il mio fato inevitabile, farò il mio dovere e difenderò il principino.
+> **Ozruk**: Sto fermo e alzo lo scudo. Nonostante il mio fato inevitabile, farò il mio dovere e difenderò il principino.
 >
-> **Aronwe**: Sbuco dalle ombre ed estraggo la mia spada! «Il fato non è così inevitabile, nano!». Mi metto di fianco a lui. Voglio aiutarlo a *difendere*. «Anche se non ti conosco bene, ti ho visto combattere, Ozruk. Se dobbiamo morire oggi, moriremo come fratelli!». Non ho legami con lui ma voglio provare lo stesso.
+> **Aronwe**: Sbuco dalle ombre ed estraggo la mia spada! «Non è ancora detta l’ultima parola, nano!». Mi metto di fianco a lui. Voglio aiutarlo a *difendere*. «Anche se non ti conosco bene, ti ho visto combattere, Ozruk. Se dobbiamo morire oggi, moriremo come fratelli!». Non ho legami con lui ma voglio provare lo stesso.
 >
-> **GM**: Commonvente, davvero. Bene, tira+0 e se hai successo, Ozruk, tu prendi +1 al tuo tiro di *difendere*. Si comincia!
+> **GM**: Commovente, davvero. Bene, tira+0 e se hai successo, Ozruk, tu prendi +1 al tuo tiro di *difendere*. Si comincia!
 
 # **Mosse Speciali**
 
@@ -389,11 +389,11 @@ L’*ultimo respiro* è quel momento che si frappone tra la vita e la morte. Il 
 
 Ci sono tre esiti di questa mossa. ✴Con un 10+, il personaggio l’ha fatta franca alla morte in qualche modo significativo. È fuggito via con qualcosa che, di diritto, non è più suo. La Morte non ha il potere di fermare questa cosa, ma si ricorderà lo sgarbo. ✴Con un 7–9, il GM dovrebbe offrire una vera scelta con delle conseguenze significative. Pensa al comportamento del personaggio e a ciò che hai imparato di lui durante il gioco. La Morte sa e vede tutto e confeziona i suoi accordi su misura per ciascuno. Ricorda, questo è uno scambio. Offri qualcosa che sarà una sfida da portare a termine ma che condurrà il gioco in nuove emozionanti direzioni. ✴Con un fallimento, la morte è inevitabile. L’approccio più semplice è dire «La Morte ti conduce attraverso la soglia che conduce al suo regno tetro» e andare avanti. A volte, però, la Morte arriva lentamente. Potresti dire «hai una settimana da vivere» oppure «riesci a sentire la fredda mano della Morte su di te...» e lasciar le cose così, per ora. Il giocatore dovrà arrendersi e accettare la morte a questo punto — va bene. Fagli creare un nuovo personaggio come di norma. La cosa fondamentale da ricordare è che sfiorare la morte, che si sfugga o si cada tra le sue grinfie, è un momento significativo che dovrebbe sempre condurre a un cambiamento.
 
-> **GM**: Sparrow, mentre la lama del pugnale si infila nel tuo ventre, il mondo svanisce e ti ritrovi davanti ai Neri Cancelli della Morte. Tra le torme di anime senza riposo, vedi Lord Hwyn, quello schifoso cane bastardo. Sembra che tutte le sue cattive azioni gli si siano rivoltate contro, alla fine. Ti vede dall’altra parte del baratro e senti nella tua anima il freddo della sua fame. Prendi il tuo *ultimo respiro*.
+> **GM**: Sparrow, mentre la lama del pugnale ti si infila nel ventre, il mondo svanisce e ti ritrovi davanti ai Neri Cancelli della Morte. Tra le torme di anime senza riposo, vedi Lord Hwyn, quello schifoso cane bastardo. Sembra che tutte le sue cattive azioni gli si siano rivoltate contro, alla fine. Ti vede dall’altra parte del baratro e senti nella tua anima il freddo della sua fame. Prendi il tuo *ultimo respiro*.
 >
 > **Sparrow**: Forte. Ho fatto 9.
 >
-> **GM**: La Morte ti appare, drappi di tessuto nero che si attorcigliano attorno alla sua forma oscura. Una mano pallida ti tocca la faccia. Senti la sua voce nella tua testa: «Sei venuto da me così preso, piccolo Sparrow? Segui un fiume di anime, mandate qui dalla tua lama. Ti sono molto grato per avermele portate. Ti restituirò al mondo, ma devi farmi una promessa. Nell’ombra ti nascondi, quindi ombra diventerai. Rifuggi la luce del giorno per sempre o fai un rapido viaggio per tornare qui, in mia compagnia. Che dici, ladruncolo?».
+> **GM**: La Morte ti appare, drappeggiata in vesti nere che si attorcigliano attorno alla sua forma oscura. Una mano pallida ti tocca la faccia. Senti la sua voce nella tua testa: «Sei venuto da me così presto, piccolo Sparrow? Ti precede un fiume di anime, mandate qui dalla tua lama. Ti sono molto grato per avermele portate. Ti restituirò al mondo, ma devi farmi una promessa. Nell’ombra ti nascondi, quindi ombra diventerai. Rifuggi la luce del giorno per sempre o farai un rapido viaggio per tornare qui, in mia compagnia. Che ne dici, ladruncolo?».
 >
 > **Sparrow**: (gulp)
 
@@ -417,7 +417,7 @@ Questa mossa si applica solo alle cose che una persona può portarsi dietro e co
 
 ---
 
-Quando ti **prepari al riposo** consumi una razione. Se sei in un luogo pericoloso decidi i turni di guardia. Se hai abbastanza PE puoi salire di livello. Quando ti risvegli da almeno qualche ora di sonno ininterrotto guarisci danno pari alla metà dei tuoi PF massimi.
+Quando ti **prepari al riposo** consuma una razione. Se sei in un luogo pericoloso decidi i turni di guardia. Se hai abbastanza PE puoi salire di livello. Quando ti risvegli da almeno qualche ora di sonno ininterrotto guarisci danno pari alla metà dei tuoi PF massimi.
 
 ---
 
@@ -555,3 +555,4 @@ Civilizzato significa solitamente i villaggi, i paesi e le città degli uomini, 
 Quando **passi il tuo tempo libero a studiare, meditare o allenarti duramente,** ottieni addestramento. Se ti prepari per una settimana o più, ottieni addestramento 1. Se ti prepari per un mese o più, ottieni invece addestramento 3. Quando la preparazione ti torna utile, spendi 1 addestramento per avere +1 a qualsiasi tiro. Puoi spendere 1 addestramento al massimo per tiro.
 
 ---
+
