@@ -84,7 +84,7 @@ Lascia che ti guardino con occhi biechi. Lascia che ti chiamino stregone o negro
 
 Esatto. Non avevo dubbi.
 
-<div class="frame right">
+<div class="frame left">
 	<img src="/images/adrian-paladino.jpg" />
 	<p>Il paladino umano Adrian</p>
 </div>
