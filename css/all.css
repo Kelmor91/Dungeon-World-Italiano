@@ -1,3 +1,5 @@
+
+
 blockquote p {
 	font-style: italic !important;
     font-size: 1em !important;
@@ -18,6 +20,13 @@ blockquote p {
 	margin: 0;
 	text-align: center;
 	border: solid 1px white;
+}
+
+media (max-width:992px) {
+	.frame {
+		width: 200px;
+		max-width: 45%;
+	}
 }
 
 .frame.left {
