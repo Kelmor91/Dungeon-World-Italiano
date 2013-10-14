@@ -22,7 +22,8 @@ blockquote p {
 	border: solid 1px white;
 }
 
-media (max-width:992px) {
+@media (max-width:992px)
+{
 	.frame {
 		width: 200px;
 		max-width: 45%;
