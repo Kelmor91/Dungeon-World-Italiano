@@ -20,6 +20,7 @@ blockquote p {
 	margin: 0;
 	text-align: center;
 	border: solid 1px white;
+	padding: 0.5em;
 }
 
 @media (max-width:979px)
