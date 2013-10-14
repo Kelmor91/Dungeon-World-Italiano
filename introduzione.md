@@ -2,6 +2,15 @@
 title: Introduzione
 layout: default
 ---
+# Dungeon World
+
+Dungeon World è un mondo di avventure fantastiche. Un mondo di magia, dèi e demoni, di bene e male, legge e caos. Coraggiosi eroi si avventurano nei più pericolosi angoli della terra in cerca di oro e gloria.
+
+Un avventuriero può avere molte forme in Dungeon World. Le razze degli elfi, uomini, nani e mezzuomini hanno tutte i loro eroi. Alcuni sono bestie da guerra quasi invincibili, ingabbiate in un'armatura d'acciaio. Altri sono più misteriosi, evocatori e manipolatori delle potenti forze della magia. Che siano sacri chierici, scaltri furfanti, o possenti paladini, tutti ambiscono alle ricchezze e alla gloria.
+
+Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, però. Ogni volta che il ramingo guida i suoi compagni attraverso un'antica foresta, mille esseri sono lì in attesa di staccargli la testa a morsi. Bavose orde di truppe goblin, forse. Oppure questo è il Bosco Maledetto, dimora della Strega Grigia? Oppure qui risiedono le moltitudini dei morti accecati dall'odio, desiderosi di trascinare un succulento corpo nella loro tana? Tutto ciò è certamente terrificante, ma ci sono anche i tesori. Oro e gioielli e magie dimenticate dall'uomo sono scomparsi nelle crepe oscure del mondo, più di quanti se ne possano immaginare. Chi meglio di una compagnia di impavidi eroi per ritrovarli?
+
+Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
 <div class="frame right" markdown="1">
 
@@ -14,16 +23,6 @@ La maga elfa Liliastre
 ![Il Mago](/images/adrian-paladino.jpg){.image .left}
 Il paladino umano Adrian
 </div>
-
-# Dungeon World
-
-Dungeon World è un mondo di avventure fantastiche. Un mondo di magia, dèi e demoni, di bene e male, legge e caos. Coraggiosi eroi si avventurano nei più pericolosi angoli della terra in cerca di oro e gloria.
-
-Un avventuriero può avere molte forme in Dungeon World. Le razze degli elfi, uomini, nani e mezzuomini hanno tutte i loro eroi. Alcuni sono bestie da guerra quasi invincibili, ingabbiate in un'armatura d'acciaio. Altri sono più misteriosi, evocatori e manipolatori delle potenti forze della magia. Che siano sacri chierici, scaltri furfanti, o possenti paladini, tutti ambiscono alle ricchezze e alla gloria.
-
-Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, però. Ogni volta che il ramingo guida i suoi compagni attraverso un'antica foresta, mille esseri sono lì in attesa di staccargli la testa a morsi. Bavose orde di truppe goblin, forse. Oppure questo è il Bosco Maledetto, dimora della Strega Grigia? Oppure qui risiedono le moltitudini dei morti accecati dall'odio, desiderosi di trascinare un succulento corpo nella loro tana? Tutto ciò è certamente terrificante, ma ci sono anche i tesori. Oro e gioielli e magie dimenticate dall'uomo sono scomparsi nelle crepe oscure del mondo, più di quanti se ne possano immaginare. Chi meglio di una compagnia di impavidi eroi per ritrovarli?
-
-Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
 # Il Barbaro
 
