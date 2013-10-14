@@ -10,11 +10,26 @@ blockquote p {
 	padding: 0.5em 0;
 }
 
-.image-right {
+.image.right {
 	display: block;
 	float: right;
 	width: 350px;
 	max-width: 50%;
+	margin: 0;
+}
+
+.image.left {
+	display: block;
+	float: left;
+	width: 350px;
+	max-width: 50%;
+	margin: 0;
+}
+
+.caption {
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
 }
 
 blockquote { margin: 0 0 1em; }
