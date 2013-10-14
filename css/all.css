@@ -1,8 +1,7 @@
 @media (max-width:992px) {
-    .clear-container {
-		border: 1px solid #000000;
-		overflow: auto;
-		width: 100%
+    .frame:before {
+		content: "&nbsp;"
+		clear: both;
 	}
 }​
 
