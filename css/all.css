@@ -23,11 +23,20 @@ blockquote p {
 	padding: 0.5em;
 }
 
+.frame.bigger {
+	width: 360px;
+}
+
 @media (max-width:979px)
 {
 	.frame {
 		width: 200px;
 		max-width: 45%;
+	}
+	
+	.frame.bigger {
+		width: 240px;
+		max-width: 54%;
 	}
 	
 	.frame p:last-child  {
