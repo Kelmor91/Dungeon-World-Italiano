@@ -13,7 +13,7 @@ Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, p
 Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
 <div class="frame right">
-	<img src="/images/clovis-spaccaossa-barbaro.jpg">Il barbaro umano Clovis Spaccaossa</img>
+	<img src="/images/clovis-spaccaossa-barbaro.jpg"/>
 	<p>Il barbaro umano Clovis Spaccaossa</p>
 </div>
 
@@ -68,7 +68,7 @@ Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma
 Dal tuo castello. Pieno d'oro. Furfante che non sei altro.
 
 <div class="frame right">
-	<img src="/images/liliastre-maga.jpg">La maga elfa Liliastre</img>
+	<img src="/images/liliastre-maga.jpg" />
 	<p>La maga elfa Liliastre</p>
 </div>
 
@@ -85,7 +85,7 @@ Lascia che ti guardino con occhi biechi. Lascia che ti chiamino stregone o negro
 Esatto. Non avevo dubbi.
 
 <div class="frame right">
-	<img src="/images/adrian-paladino.jpg">Il paladino umano Adrian</img>
+	<img src="/images/adrian-paladino.jpg" />
 	<p>Il paladino umano Adrian</p>
 </div>
 
