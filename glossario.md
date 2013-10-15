@@ -2,14 +2,13 @@
 name: Glossario
 layout: default
 ---
-
 <table class="table table-condensed table-hover table-responsive">
 	<tr>
 		<th>Dungeonworld.it</th>
 		<th>Narrattiva</th>
 		<th>Originale</th>
 		<th>Categoria</th>
-	<tr>
+	</tr>
 	<tr>
 		<td>Taglia e Spacca</td>
 		<td>Assalire</td>
