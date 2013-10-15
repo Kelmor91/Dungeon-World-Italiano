@@ -292,7 +292,7 @@ Costi di **mantenimento per un mese** *1% del costo originale*
 
 **”Protezione” per una piccola impresa** *100-Carisma monete*
 
-**Corrompere il governo** *50-Carisma monete*
+**Corrompere un funzionario governativo** *50-Carisma monete*
 
 **Una mazzetta convincente** *80-Carisma monete*
 
@@ -322,7 +322,7 @@ Costi di **mantenimento per un mese** *1% del costo originale*
 
 **Una spada «inestimabile»** *80 monete*
 
-**Il tributo di un condottiero orco** *250 monete*
+**Le razzie di un condottiero orco** *250 monete*
 
 **La montagna di monete e gemme di un drago** *130.000 monete*
 
@@ -372,16 +372,16 @@ Una volta usata, la Ruota Infuocata comincia a bruciare ed emette una luce accec
 
 Un corno navale d’ottone, ricurvo e decorato, inciso con i simboli degli dei dell’Abbondanza. Quando ci soffi dentro, in aggiunta al suono il corno emette cibo. Abbastanza per dare un pasto a chiunque ne senta il suono.
 
-**La Cuspide di Carcosa** *da lancio, peso 3*
+**La Spira di Carcosa** *lunga, da lancio, peso 3*
 
-Nessuno sa da dove venga questa lancia ricoperta da fiori di corallo bianco. Coloro che la impugnano per troppo tempo scoprono la propria mente piena di sogni che non gli appartengono e cominciano a percepire gli strani pensieri degli Estranei. Nessuno è immune. Usata contro qualunque bersaglio “naturale” (uomini, goblin, orsogufi e simili), la Cuspide si comporta come una normale lancia mortale. Il suo vero scopo è di danneggiare quelle cose la cui natura inconsueta le protegge dalle armi ordinarie. Se usata in questo modo, la Cuspide può ferire nemici solitamente invulnerabili al danno. Chi la brandisce riconoscerà questi nemici corrotti alla vista: la Cuspide conosce i suoi bersagli.
+Nessuno sa da dove venga questa lancia di corallo bianco intrecciato. Coloro che la portano con se per troppo tempo si ritrovano con la mente pervasa da sogni che non le appartengono e cominciano a percepire gli strani pensieri degli Estranei. Nessuno è immune. Usata contro qualunque bersaglio “naturale” (uomini, goblin, orsogufi e simili), la Cuspide si comporta come una normale lancia mortale. Il suo vero scopo è di danneggiare quelle cose la cui natura inconsueta le protegge dalle armi ordinarie. Se usata in questo modo, la Cuspide può ferire nemici solitamente invulnerabili al danno. Chi la brandisce riconoscerà questi nemici corrotti alla vista: la Cuspide conosce i suoi bersagli.
 
 **Manto delle Stelle Silenti** *peso 1*
-Un mantello di pregiato velluto, nero all’esterno e punteggiato di piccole luci all’interno; questo manto piega il fato, il tempo e la realtà attorno a sé per proteggere il suo portatore, che può sempre sfidare il pericolo con la capacità che preferisce. Per fare ciò, il portatore invoca la magia del mantello e il giocatore spiega come il mantello lo aiuta a “infrangere le regole”. Può deviare una palla di fuoco con CAR convincendola che merita di vivere o evitare una caduta applicando la logica ferrea della sua INT per provare che la caduta non gli farà male. Il mantello fa in modo che si avveri. Può essere usato una volta per ciascuna capacità prima che la sua magia si dissolva.
+Un mantello di pregiato velluto nero all’esterno e punteggiato di piccole luci all’interno; questo manto piega il fato, il tempo e la realtà attorno a sé per proteggere il suo portatore, che può sempre sfidare il pericolo con la capacità che preferisce. Per fare ciò, il portatore invoca la magia del mantello e il giocatore spiega come il mantello lo aiuta a “infrangere le regole”. Può deviare una palla di fuoco con CAR convincendola che merita di vivere o evitare una caduta applicando la logica ferrea della sua INT per provare che la caduta non gli farà male. Il mantello fa in modo che si avveri. Può essere usato una volta per ciascuna capacità prima che la sua magia si dissolva.
 
-**Moneta della Memoria** *peso 0*
+**Moneta dei Ricordi** *peso 0*
 
-Ciò che sembra, all’apparenza, una semplice moneta di rame è, in verità, una moneta incantata. Il suo portatore può, in qualsiasi momento, spendere la moneta per ricordare qualcosa che è stato dimenticato. La moneta scompare subito dopo. Non dev’essere qualcosa di dimenticato dal portatore, ma non può essere qualcosa di “conosciuto”. L’interpretazione di ciò è lasciata agli dei. Se la moneta non ha successo, proietterà comunque nella mente del portatore l’immagine di qualcuno che ricorda il dato cercato.
+Ciò che sembra, all’apparenza, una semplice moneta di rame è, in verità, una moneta incantata. Il suo portatore può, in qualsiasi momento, spendere la moneta per ricordare qualcosa che è stato dimenticato. La moneta scompare subito dopo. Non dev’essere qualcosa di dimenticato dal portatore, ma non può essere qualcosa di “conosciuto”. L’interpretazione di ciò è lasciata agli dei. Se la moneta non ha successo, proietterà comunque nella mente del portatore l’immagine di qualcuno o qualcosa che porti con se il ricordo del dato cercato.
 
 **Pergamena Comune** *1 utilizzo, peso 0*
 
@@ -395,36 +395,36 @@ Se applicato ai bordi di un portale o spalmato a cerchio, l’olio respingerà l
 
 **Cera dell’Estorsione Auricolare** *1 utilizzo, peso 0*
 
-Una candela giallastra. Sembra che non si consumi mai e la luce che emette è debole e bizzarra. Inoltre, la sua cera è sempre fredda. Versa la cera nell’orecchio di un bersaglio e ottieni riserva 3. Spendi la riserva per fare una domanda al bersaglio. Sorprendentemente per se, ti racconterà tutta la verità, nonostante il proprio volere. Le conseguenze, più tardi? Quelle dovrai gestirtele da solo.
+Una candela giallastra. Sembra che non si consumi mai e la luce che emette è debole e bizzarra. Inoltre, la sua cera è sempre fredda. Versa la cera nell’orecchio di un bersaglio e ottieni riserva 3. Spendi la riserva per fare una domanda al bersaglio. Sorprendentemente per lui, ti racconterà tutta la verità, nonostante il proprio volere. Le conseguenze, più tardi? Quelle dovrai gestirtele da solo.
 
 **L’Eco** *peso 0*
 
-Una bottiglia apparentemente vuota. Una volta stappata, i sussuri di un altro piano d’esistenza risuonano un’unica volta e giacciono poi in silenzio. Nel silenzio, il portatore vede, nel profondo della sua anima, l’arrivo di un grande pericolo e come può evitarlo. In qualunque momento dopo che hai usato l’Eco, puoi ignorare i risultati di un qualsiasi tiro di dado, che sia il tuo o di un altro giocatore, e tirare di nuovo. Una volta aperto, l’Eco è liberato e perso per sempre.
+Una bottiglia apparentemente vuota. Una volta stappata, i sussuri di un altro piano d’esistenza risuonano un’unica volta e giacciono poi in silenzio. Nel silenzio, il portatore vede, nel profondo della sua anima, l’arrivo di un grande pericolo e come può evitarlo. In qualunque momento dopo che hai usato l’Eco, puoi ignorare i risultati di un qualsiasi tiro di dado, che sia il tuo o di un altro giocatore, e tirare di nuovo. Una volta aperta la bottiglia, l’Eco è liberato e perso per sempre.
 
 **Lente delle Epoche** *peso 1*
 
-Un arcimago, vecchio e troppo fragile per lasciare la sua torre, fabbricò questo intricato e delicato dispositivo di vetro e oro per esaminare la storia e le reliquie che tanto amava. Guardare un oggetto attraverso la lente conferisce una visione del suo creatore e della sua provenienza.
+Un arcimago, vecchio e troppo gracile per lasciare la sua torre, fabbricò questo intricato e delicato dispositivo di vetro e oro per esaminare i documenti e le reliquie che tanto amava. Guardare un oggetto attraverso la lente conferisce una visione del suo creatore e della sua provenienza.
 
 **Pietra della Lungimiranza** *peso 1*
 
-Vorticose nuvole riempiono questo globo fumoso, e coloro che sono in sua presenza spesso sentono degli strani sussurri. Nei tempi antichi, era parte di una rete di simili pietre, usate per comunicare e spiare a grandi distanze. Quando guardi dentro la pietra, dì il nome di un luogo e tira+SAG. ✴Con un 10+, hai una chiara visione del luogo e puoi mantenerla fintanto che ti concentri sul globo. ✴Con un 7–9, hai comunque la visione, ma attrai l’attenzione di qualcos’altro (un angelo, un demone, o il possessore di un’altra Pietra della Lungimiranza) che sta usando a sua volta la pietra per controllarti.
+Vorticose nuvole riempiono questo globo fumoso, e coloro che sono in sua presenza spesso sentono degli strani sussurri. Nei tempi antichi, era parte di una rete di simili pietre, usate per comunicare e osservare a grandi distanze. Quando guardi dentro la pietra, dì il nome di un luogo e tira+SAG. ✴Con un 10+, hai una chiara visione del luogo e puoi mantenerla fintanto che ti concentri sul globo. ✴Con un 7–9, hai comunque la visione, ma attrai l’attenzione di qualcos’altro (un angelo, un demone, o il possessore di un’altra Pietra della Lungimiranza) che sta usando a sua volta la pietra per controllarti.
 
 **Il Codice dei Fiaschi** *peso 0*
 
-Un pesante tomo, con la parola "Fiasco" in copertina, che si racconta sia stato scritto nel sangue di poveri sciocchi e baroni briganti da qualche principe demoniaco posseduto da un bieco senso dell’umorismo. Questo volume riporta in dettaglio le storie e i racconti di coloro le cui ambizioni superavano la propria ragione. Leggere da questo libri impartisce il valore del raziocinio, ma lascia un profondo senso d’orrore. Quando leggi dal Codice dei Fiaschi, tira+SAG. ✴Con un 10+, fai due domande dalla lista sotto. ✴Con un 7–9, fanne una.
+Un pesante tomo, con la parola "Fiasco" in copertina, che si racconta sia stato scritto col sangue di poveri sciocchi e baroni briganti da qualche principe demoniaco posseduto da un bieco senso dell’umorismo. Questo volume riporta in dettaglio le storie e i racconti di coloro le cui ambizioni superavano la propria ragione. Leggere da questo libro insegna ad apprezzare il valore del raziocinio, ma lascia dietro di sé un alone di terrore. Quando leggi dal Codice dei Fiaschi, tira+SAG. ✴Con un 10+, fai due domande dalla lista sotto. ✴Con un 7–9, fanne una.
 
-- Qual’è la mia più grande opportunità in questo momento?
+- Qual è la mia più grande opportunità in questo momento?
 - Chi potrei tradire per ottenere un beneficio?
 - Chi è un alleato di cui non dovrei fidarmi?
 
 Il codice dà le sue risposte una sola volta per lettore e richiede due o tre ore per essere letto. 
 
 **Fiaschetta del Respiro** *peso 0*
-Un’oggetto semplice, ma utile quando hai bisogno di un soffio d’aria fresca. La fiaschetta sembra vuota, ma non può essere riempita: qualunque cosa ci venga versata dentro semplicemente tracima. Questo è perché la fiaschetta è eternamente piena d’aria. Se messa sott’acqua, farà bolle per sempre. Se avvicinata alla bocca, permette di respirare normalmente: il fumo non è un problema, ad esempio. Sono sicuro che riuscirai a trovare ogni genere di modi strambi per usarla.
+Un oggetto semplice, ma utile quando hai bisogno di una boccata d’aria fresca. La fiaschetta sembra vuota, ma non può essere riempita: qualunque cosa ci venga versata dentro semplicemente strabocca. Questo è perché la fiaschetta è eternamente piena d’aria. Se messa sott’acqua, farà bolle per sempre. Se avvicinata alla bocca, permette di respirare normalmente: il fumo non è un problema, ad esempio. Sono sicuro che riuscirai a trovare ogni genere di modi strambi per usarla.
 
 **Follia Sospesa in Aria, Le Ali di Cera, Un Grosso Sbaglio** *peso 1*
 
-Chi non ha mai sognato di librarsi in volo nel bel cielo blu? Queste ali magiche furono create nel tentativo di soddisfare i desideri delle persone costrette a terra. Conosciute con molti nomi e fabbricate da altrettanti maghi, solitamente prendono la forma delle ali di qualunque uccello goda della popolarita tra i locali. Sono indossate per via di un’imbracatura o, in alcuni casi estremi, tramite un intervento chirurgico.
+Chi non ha mai sognato di librarsi in volo nel bel cielo blu? Queste ali magiche furono create nel tentativo di soddisfare i desideri delle persone costrette a terra. Conosciute con molti nomi e fabbricate da altrettanti maghi, solitamente prendono la forma delle ali di qualunque uccello del luogo ti venga in mente Sono indossate per via di un’imbracatura o, in alcuni casi estremi, tramite un intervento chirurgico.
 
 Quando ti sollevi in aria grazie a queste ali magiche, tira+DES. ✴Con un 10+, il tuo volo è stabile e riesci a stare in aria per quanto vuoi. ✴Con un 7–9, riesci a sollevarti ma il tuo volo è breve o incostante e imprevedibile, a tua scelta. ✴Con un 6-, riesci a sollevarti in aria, ma la discesa e tutto ciò che avviene nel frattempo sono nelle mani del GM.
 
@@ -434,21 +434,21 @@ Un bizzarro bastone di metallo con un bottone. Premi il bottone e il bastone si 
 
 **Libro Infinito** *peso 0*
 
-Questo libro ha un numero infinito di pagine in uno spazio finito. Siccome non c’è limite alle pagine, qualunque cosa fu, è o sarà scritta è contenuta da qualche parte in questo libro. Grazie al cielo l’indice è ben fatto.
+Questo libro ha un numero infinito di pagine in uno spazio finito. Siccome non c’è limite alle pagine, qualunque cosa fu, è o sarà è contenuta da qualche parte in questo libro. Grazie al cielo l’indice è ben fatto.
 
 Quando *declami conoscenze* mentre consulti il libro hai un esito aggiuntivo: ✴Con un 12+, il GM ti darà la soluzione a un problema o alla situazione in cui ti trovi.
 
 **Controllenti** *peso 0*
 
-Due vetri rozzamente tagliati incastrati in una montatura di legno. Tutte ammaccate e sul punto di staccarsi, in qualche modo consentono all’utilizzatore di vedere molto più di quanto non potrebbe a occhio nudo. Quando *discerni realtà* mentre indossi queste lenti eccezionali, puoi piegare un pochino le regole. ✴Con un 10+, puoi fare tre domande che vuoi. Non c’è bisogno che siano sulla lista. Fintanto che è la vista a fornirti le risposte, il GM ti dirà ciò che vuoi sapere.
+Due lenti di vetro rozzamente levigate incastrate in una montatura di legno. Tutte ammaccate e sul punto di staccarsi, in qualche modo consentono all’utilizzatore di vedere molto più di quanto non potrebbe a occhio nudo. Quando *discerni realtà* mentre indossi queste lenti eccezionali, puoi piegare un pochino le regole. ✴Con un 10+, puoi fare tre domande che vuoi. Non c’è bisogno che siano sulla lista. Fintanto che è la vista a fornirti le risposte, il GM ti dirà ciò che vuoi sapere.
 
-**La Strategia Ku’meh** *peso 1*
+**La Manovra di Ku’meh** *peso 1*
 
 Un grande tomo di pelle consumato e lisciato dalle mani di cento grandi generali, questo libro è spesso passato da guerriero a guerriero, da padre a figlio lungo le linee delle grandi battaglie che hanno diviso il passato di Dungeon World. Chiunque lo legga può, dopo averlo finito per la prima volta, tirare+INT. ✴Con un 10+, riserva 3. ✴Con un 7–9, riserva 1. Puoi spendere la riserva per dare un consiglio a un compagno d’avventura su qualche questione d’importanza strategica o tattica. Questo consiglio ti permette, in qualsiasi momento, indipendentemente dalla distanza, di tirare per aiutarlo su qualunque tiro. ✴Con un fallimento, il GM può riservare 1 e spenderlo per dare un -2 al tuo tiro o al tiro del poveraccio che ha ascoltato i tuoi consigli.
 
 **Reliquia del Compianto** *peso 0*
 
-Avente la forma di un singolo ciuffo di capelli rossi, legato con un nastro nero e immune al deterioramento, la Reliquia del Compianto è portatrice di un cupo incantesimo. In essa si trovano i ricordi e le emozioni di una ragazza che ha incontrato la Morte ai Cancelli Neri così tante volte che, alla fine, si sono innamorati e lei ha lasciato il mondo dei vivi per stare con lui per un po’ di tempo. Il ricordo della ragazza protegge il portatore. Quando ti trovi ai Cancelli, la Reliquia può essere scambiata per un risultato automatico di 10+ sul tiro di *ultimo respiro*.
+Sotto forma di un singolo ciuffo di capelli rossi, legato con un nastro nero e immune al deterioramento, la Reliquia del Compianto è portatrice di un cupo incantesimo. In essa si trovano i ricordi e le emozioni di una ragazza che ha incontrato la Morte ai Cancelli Neri così tante volte che, alla fine, si sono innamorati e lei ha lasciato il mondo dei vivi per stare con lui per un po’ di tempo. Il ricordo della ragazza protegge il portatore. Quando ti trovi ai Cancelli, la Reliquia può essere scambiata per un risultato automatico di 10+ sul tiro di *ultimo respiro*.
 
 **Scudo di Magnetite** *+1 armatura, peso 1*
 
@@ -460,7 +460,7 @@ Un antico ordine di coraggiosi raminghi un tempo sorvegliava la terra, proteggen
 
 **Teschio di Ned** *peso 1*
 
-Un vecchio teschio, senza mascella e molto consumato dalle intemperie. Il teschio ricorda la follia del suo precedente possessore, un uomo con più onore che senso pratico. Una volta a notte, il possessore del teschio più chiedere «Chi ce l’ha con me?» e il teschio risponderà con un nome, detto con voce triste e solitaria. Se il proprietario del teschio dovesse morire, esso scompare senza lasciar tracce. Nessuno sa dove potrebbe apparire di nuovo. 
+Un vecchio teschio, senza mascella e molto consumato dalle intemperie. Il teschio ricorda la follia del suo precedente possessore, un uomo con più onore che buon senso. Una volta a notte, il possessore del teschio può chiedere «Chi ce l’ha con me?» e il teschio risponderà con un nome, detto con voce triste e solitaria. Se il proprietario del teschio muore, esso scompare senza lasciar tracce. Nessuno sa dove potrebbe apparire di nuovo. 
 
 **Chiave del Nottambulo** *peso 0*
 
@@ -492,7 +492,7 @@ Una candela di strutto color avorio e rame con un lieve tocco d’argento. Quand
 
 **Corda Arguta** *peso 1*
 
-Una corda che ascolta. Fa anche dei giochetti, come farebbe un serpente più intelligente e docile del normale. Digli «Annòdati», «Lascia andare» o «Corda, torna qui» e lo farà.
+Una corda che ascolta. Fa anche dei giochetti, come farebbe un serpente più intelligente e docile del normale. Digli «Arrotolati», «Srotolati» o «Vieni Corda» e lo farà.
 
 **La Mano Argentata** *peso 0*
 
@@ -508,4 +508,4 @@ Una lama leggendaria che si dice sia stata lanciata indietro nel tempo e proveng
 
 **Spada Bigralace**, altresì detta **Spada Vorpal** *media, perforante 3, peso 2*
 
-«Scric-scrac trinciava il bigralace brando», e tutto il resto. Affilata come nient’altro, questa spada apparentemente ordinaria serve a separare una cosa dall’altra: un braccio dal corpo, o una persona dalla sua vita. Quando infliggi danno con la Spada Vorpal, il tuo nemico deve scegliere qualcosa (un oggetto, un vantaggio, un arto) e perderlo, permanentemente.
+«Scric-scrac trinciava il bigralace brando». Affilata come nient’altro, questa spada apparentemente ordinaria serve a separare una cosa dall’altra: un braccio dal corpo, o una persona dalla sua vita. Quando infliggi danno con la Spada Vorpal, il tuo nemico deve scegliere qualcosa (un oggetto, un vantaggio, un arto) e perderlo, permanentemente.
