@@ -512,6 +512,3 @@ Civilizzato significa solitamente i villaggi, i paesi e le città degli uomini, 
 
 Quando **passi il tuo tempo libero a studiare, meditare o allenarti duramente,** ottieni addestramento. Se ti prepari per una settimana o più, ottieni addestramento 1. Se ti prepari per un mese o più, ottieni invece addestramento 3. Quando la preparazione ti torna utile, spendi 1 addestramento per avere +1 a qualsiasi tiro. Puoi spendere 1 addestramento al massimo per tiro.
 
----
-
-

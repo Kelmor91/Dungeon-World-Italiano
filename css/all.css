@@ -69,6 +69,10 @@ blockquote { margin: 0 0 1em; }
 	display: block;
 }
 
+.footnotes p {
+	display: inline-block;
+	}
+
 @media (max-width: 979px) {
 	.googlebadge {
 		display:none;
