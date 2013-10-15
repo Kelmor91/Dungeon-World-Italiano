@@ -11,117 +11,117 @@ layout: default
 		<th>Categoria</th>
 	<tr>
 	<tr>
-		<ti>Taglia e Spacca</ti>
-		<ti>Assalire</ti>
-		<ti>Hack and Slash</ti>
-		<ti>Mosse Base</ti>
+		<td>Taglia e Spacca</td>
+		<td>Assalire</td>
+		<td>Hack and Slash</td>
+		<td>Mosse Base</td>
 	</tr>
 	<tr>
-		<ti>Raffica</ti>
-		<ti>Tirare</ti>
-		<ti>Volley</ti>
-		<ti>Mosse Base</ti>
+		<td>Raffica</td>
+		<td>Tirare</td>
+		<td>Volley</td>
+		<td>Mosse Base</td>
 	</tr>
 	<tr>
-		<ti>Discernere Realtà</ti>
-		<ti>Percepire la Realtà</ti>
-		<ti>Discern Realities</ti>
-		<ti>Mosse Base</ti>
+		<td>Discernere Realtà</td>
+		<td>Percepire la Realtà</td>
+		<td>Discern Realities</td>
+		<td>Mosse Base</td>
 	</tr>
 	<tr>
-		<ti>Declamare Conoscenze</ti>
-		<ti>Rivelare Conoscenze</ti>
-		<ti>Spout Lore</ti>
-		<ti>Mosse Base</ti>
+		<td>Declamare Conoscenze</td>
+		<td>Rivelare Conoscenze</td>
+		<td>Spout Lore</td>
+		<td>Mosse Base</td>
 	</tr>
 	<tr>
-		<ti>Parlamentare</ti>
-		<ti>Parlé</ti>
-		<ti>Parley</ti>
-		<ti>Mosse Base</ti>
+		<td>Parlamentare</td>
+		<td>Parlé</td>
+		<td>Parley</td>
+		<td>Mosse Base</td>
 	</tr>
 	<tr>
-		<ti>Recuperare le Forze</ti>
-		<ti>Recuperare</ti>
-		<ti>Recover</ti>
-		<ti>Mosse Speciali</ti>
+		<td>Recuperare le Forze</td>
+		<td>Recuperare</td>
+		<td>Recover</td>
+		<td>Mosse Speciali</td>
 	</tr>
 	<tr>
-		<ti>Reclutare</ti>
-		<ti>Assoldare</ti>
-		<ti>Recruit</ti>
-		<ti>Mosse Speciali</ti>
+		<td>Reclutare</td>
+		<td>Assoldare</td>
+		<td>Recruit</td>
+		<td>Mosse Speciali</td>
 	</tr>
 	<tr>
-		<ti>Ricercato</ti>
-		<ti>WANTED</ti>
-		<ti>Outstanding Warrants</ti>
-		<ti>Mosse Speciali</ti>
+		<td>Ricercato</td>
+		<td>WANTED</td>
+		<td>Outstanding Warrants</td>
+		<td>Mosse Speciali</td>
 	</tr>
 	<tr>
-		<ti>+1 immediato</ti>
-		<ti>+1 prossimo</ti>
-		<ti>+1 forward</ti>
-		<ti>Terminologia</ti>
+		<td>+1 immediato</td>
+		<td>+1 prossimo</td>
+		<td>+1 forward</td>
+		<td>Terminologia</td>
 	</tr>
 	<tr>
-		<ti>Ramingo</ti>
-		<ti>Ranger</ti>
-		<ti>Ranger</ti>
-		<ti>Classe</ti>
+		<td>Ramingo</td>
+		<td>Ranger</td>
+		<td>Ranger</td>
+		<td>Classe</td>
 	</tr>
 	<tr>
-		<ti>Mezzuomo</ti>
-		<ti>Halfling</ti>
-		<ti>Halfling</ti>
-		<ti>Razza</ti>
+		<td>Mezzuomo</td>
+		<td>Halfling</td>
+		<td>Halfling</td>
+		<td>Razza</td>
 	</tr>
 	<tr>
-		<ti>Possente</ti>
-		<ti>Impatto</ti>
-		<ti>Forceful</ti>
-		<ti>Etichetta Armi</ti>
+		<td>Possente</td>
+		<td>Impatto</td>
+		<td>Forceful</td>
+		<td>Etichetta Armi</td>
 	</tr>
 	<tr>
-		<ti>Corta</ti>
-		<ti>Intimo</ti>
-		<ti>Hand</ti>
-		<ti>Etichetta Armi (Portata)</ti>
+		<td>Corta</td>
+		<td>Intimo</td>
+		<td>Hand</td>
+		<td>Etichetta Armi (Portata)</td>
 	</tr>
 	<tr>
-		<ti>Media</ti>
-		<ti>Corpo-a-corpo</ti>
-		<ti>Close</ti>
-		<ti>Etichetta Armi (Portata)</ti>
+		<td>Media</td>
+		<td>Corpo-a-corpo</td>
+		<td>Close</td>
+		<td>Etichetta Armi (Portata)</td>
 	</tr>
 	<tr>
-		<ti>Lunga</ti>
-		<ti>Portata</ti>
-		<ti>Reach</ti>
-		<ti>Etichetta Armi (Portata)</ti>
+		<td>Lunga</td>
+		<td>Portata</td>
+		<td>Reach</td>
+		<td>Etichetta Armi (Portata)</td>
 	</tr>
 	<tr>
-		<ti>Benestante</ti>
-		<ti>Ricca</ti>
-		<ti>Wealthy</ti>
-		<ti>Etichetta Insediamenti</ti>
+		<td>Benestante</td>
+		<td>Ricca</td>
+		<td>Wealthy</td>
+		<td>Etichetta Insediamenti</td>
 	</tr>
 	<tr>
-		<ti>Ricca</ti>
-		<ti>Lussuosa</ti>
-		<ti>Rich</ti>
-		<ti>Etichetta Insediamenti</ti>
+		<td>Ricca</td>
+		<td>Lussuosa</td>
+		<td>Rich</td>
+		<td>Etichetta Insediamenti</td>
 	</tr>
 	<tr>
-		<ti>Anarchico</ti>
-		<ti>Fuorilegge</ti>
-		<ti>Lawless</ti>
-		<ti>Etichetta Insediamenti</ti>
+		<td>Anarchico</td>
+		<td>Fuorilegge</td>
+		<td>Lawless</td>
+		<td>Etichetta Insediamenti</td>
 	</tr>
 	<tr>
-		<ti>Accumulatore</ti>
-		<ti>Avido</ti>
-		<ti>Hoarder</ti>
-		<ti>Etichetta Mostri</ti>
+		<td>Accumulatore</td>
+		<td>Avido</td>
+		<td>Hoarder</td>
+		<td>Etichetta Mostri</td>
 	</tr>
 </table>
