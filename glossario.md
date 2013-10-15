@@ -2,6 +2,7 @@
 name: Glossario
 layout: default
 ---
+
 <table class="table table-condensed table-hover table-responsive">
 	<tr>
 		<th>Dungeonworld.it</th>
