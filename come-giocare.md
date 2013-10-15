@@ -76,9 +76,9 @@ Alcune mosse hanno degli effetti meccanici immediati, come infliggere danno o da
 
 **… Usano la frase "infliggi danno".** Infliggere danni significa che tiri i dadi di danno della tua classe; a volte anche la tua arma aggiungerà o sottrarrà dei danni. Usi i tuoi danni ogniqualvolta fai un attacco che potrebbe ragionevolmente far del male al tuo bersaglio. Solitamente questo significa che hai un'arma in mano, ma anche i pugni possono essere armi con il giusto addestramento o in una situazione interessante.
 
-**… Dicono «prendi +1 immediato».** Questo significa che aggiungi +1 al prossimo tiro di una mossa (non un tiro di danni). Il bonus può essere più grande di +1, o anche una penalità, ad esempio -1. Potrebbe esserci anche un prerequisito, come "prendi +1 immediato a *taglia e spacca*", nel qual caso il bonus si applica solo alla tua prossima mossa di *taglia e spacca*, e a nessun'altra.
+**… Dicono «prendi +1 al prossimo tiro».** Questo significa che aggiungi +1 al prossimo tiro di una mossa (non un tiro di danni). Il bonus può essere più grande di +1, o anche una penalità, ad esempio -1. Potrebbe esserci anche un prerequisito, come «prendi +1 al prossimo tiro di *taglia e spacca*», nel qual caso il bonus si applica solo alla tua prossima mossa di *taglia e spacca*, e a nessun'altra.
 
-**… Dicono «prendi +1 continuato».** Questo significa che aggiungi +1 ai tiri di tutte le mosse (non i tiri di danni). Il bonus può essere più grande di +1, o anche una penalità, ad esempio -1. Potrebbe esserci anche un prerequisito, come "prendi +1 continuato a *tirare*". Un bonus continuato specifica anche che cosa ne causa il termine, ad esempio "finché non sciogli l'incantesimo" o "finché non ti redimi agli occhi del tuo dio".
+**… Dicono «prendi +1 continuato».** Questo significa che aggiungi +1 ai tiri di tutte le mosse (non i tiri di danni). Il bonus può essere più grande di +1, o anche una penalità, ad esempio -1. Potrebbe esserci anche un prerequisito, come «prendi +1 continuato a *raffica*». Un bonus continuato specifica anche che cosa ne causa il termine, ad esempio «finché non sciogli l'incantesimo» o «finché non ti redimi agli occhi del tuo dio».
 
 **… Ti danno «riserva».** La riserva è una valuta che puoi spendere per fare delle scelte più tardi spendendola come descritto dalla mossa. La riserva è sempre relativa alla mossa che l'ha generata; ad esempio, non puoi spendere la riserva di *difendere* per *esperto di trappole* o viceversa.
 
@@ -159,7 +159,7 @@ Indipendentemente dal tipo di guarigione, i PF di un personaggio non possono mai
 
 ## Morte
 
-La morte aleggia tetra sopra ogni campo di battaglia. Un personaggio che viene ridotto a 0 PF immediatamente esala il suo *ultimo respiro*. La morte arriva egualmente per il re e per il villano — nessun modificatore è aggiunto al tiro di *ultimo respiro*.
+La morte aleggia tetra sopra ogni campo di battaglia. Un personaggio che viene ridotto a 0 PF immediatamente esala il suo *ultimo respiro*. La morte arriva egualmente per il re e per il contadino — nessun modificatore è aggiunto al tiro di *ultimo respiro*.
 
 Nessuno sa cosa giace oltre ai Neri Cancelli della Morte, ma si dice che molti segreti del mondo mortale siano svelati una volta messo piede nei suoi domini. Quando muori, potresti avere la possibilità di vederli.
 
@@ -217,7 +217,7 @@ Il percorso fondamentale per usare la magia è: conosci, prepara, lancia e dimen
 
 Gli incantesimi conosciuti sono quelli che un incantatore padroneggia abbastanza da poterli preparare. Il chierico conosce tutti gli incantesimi del proprio livello o inferiori, comprese le orazioni. Il mago inizia il gioco con la conoscenza dei trucchetti e di tre incantesimi di primo livello. Ogni volta che il mago ottiene un livello, impara un nuovo incantesimo. Il mago scrive gli incantesimi conosciuti nel proprio libro degli incantesimi.
 
-Anche quando un incantatore conosce un incantesimo, deve prepararlo prima di poterlo lanciare. Con abbastanza tempo a disposizione, come descritto nelle mosse *comunione* e*preparare incantesimi*, l'incantatore può preparare un numero di incantesimi che conosce il cuo livello totale sia uguale o inferiore al livello dell'incantatore più 1. Il mago prepara sempre i trucchetti, il chierico prepara sempre le orazioni. Un'incantesimo preparato è pronto per essere lanciato.
+Anche quando un incantatore conosce un incantesimo, deve prepararlo prima di poterlo lanciare. Con abbastanza tempo a disposizione, come descritto nelle mosse *comunione* e*preparare incantesimi*, l'incantatore può preparare un numero di incantesimi che conosce il cui livello totale sia uguale o inferiore al livello dell'incantatore più 1. Il mago prepara sempre i trucchetti, il chierico prepara sempre le orazioni. Un'incantesimo preparato è pronto per essere lanciato.
 
 Lanciare un incantesimo può comportare l’invocazione di una divinità, salmodiare, agitare le mani, appellarsi a forze mistiche, e così via. Per lanciare un incantesimo solitamente devi fare la mossa *lancia un incantesimo*. Su un risultato di 10+ l'incantesimo ha effetto, con un 7–9 l'incantatore è nei guai e deve fare una scelta, ma l'incantesimo è comunque lanciato. Alcuni incantesimi hanno un effetto continuato: una volta lanciati, restano attivi fino a quando qualcosa vi pone fine.
 
@@ -257,7 +257,7 @@ Una mossa che sostituisce un'altra mossa può essere scelta soltanto se hai già
 
 ### Oltre il Decimo Livello
 
-Quando raggiungi il decimo livello le cose cominciano a cambiare. Quando hai abbastanza PE per raggiungere l'undicesimo livello, scegli uno di questi tre:
+Quando raggiungi il decimo livello le cose cominciano a cambiare. Quando hai abbastanza PE per raggiungere l'undicesimo livello, scegli un’opzione:
 
 * Ti ritiri dall'avventura in un luogo sicuro
 * Prendi con te un apprendista
@@ -387,7 +387,7 @@ I gregari sono facili da fare al volo. Quando qualcuno viene assunto dai giocato
 
 Inizia con un punteggio in base a dove è stato incontrato il gregario. I gregari di villaggio iniziano con 2–5. I gregari di città iniziano con 4–6. I gregari di fortezza iniziano con 5–8. I gregari di una grande città iniziano con 6–10. Distribuisci il punteggio tra la lealtà, un'abilità principale, ed eventuali altre abilità secondarie. Una lealtà iniziale più alta di 2 è rara, così come una lealtà pari a 0. Scegli un costo per il gregario e hai finito.
 
-Le statistiche di un gregario, specialmente la lealtà, possono cambiare durante il gioco come riflesso delle cose che accadono. Un gesto di gentilezza o una lauta ricompensa da parte dei giocatori vale +1 lealtà immediato. Una mancanza di rispetto vale -1 lealtà immediato. Se è passato molto tempo dall'ultima volta che il suo costo è stato soddisfatto, hanno -1 lealtà continuato fino a quando il costo non viene pagato. La lealtà di un gregario può aumentare permanentemente quando raggiunge un obiettivo importante insieme ai giocatori. Un fallimento importante o una batosta può invece ridurre permanentemente la lealta del gregario.
+Le statistiche di un gregario, specialmente la lealtà, possono cambiare durante il gioco come riflesso delle cose che accadono. Un gesto di gentilezza o una lauta ricompensa da parte dei giocatori vale +1 lealtà al prossimo tiro. Una mancanza di rispetto vale -1 lealtà al prossimo tiro. Se è passato molto tempo dall'ultima volta che il suo costo è stato soddisfatto, hanno -1 lealtà continuato fino a quando il costo non viene pagato. La lealtà di un gregario può aumentare permanentemente quando raggiunge un obiettivo importante insieme ai giocatori. Un fallimento importante o una batosta può invece ridurre permanentemente la lealta del gregario.
 
 ## Costi
 
@@ -442,7 +442,7 @@ I sacerdoti sono il clero di basso rango di una religione, officiano funzioni mi
 
 *Sacerdozio* — Quando ti *accampi* con un sacerdote, tutti gli effetti di guarigione guariscono +abilità PF.
 
-*Primo Soccorso* — Quando un sacerdote ti rammenda le ferite, guarisci 2×abilità PF. Prendi -1 immediato essendo la guarigione dolorosa e impacciata.
+*Primo Soccorso* — Quando un sacerdote ti rammenda le ferite, guarisci 2×abilità PF. Prendi -1 al prossimo tiro essendo la guarigione dolorosa e impacciata.
 
 ### Scassinatore
 
@@ -478,7 +478,7 @@ Alcuni non hanno nemmeno bisogno di armi e armatura. Uno scaltro stregone o un p
 
 Quando si combattono i mostri, è una scommessa alla pari: la tua vita contro la loro. Devi saperlo quando li affronti. Se puoi evitarlo, non combattere mai equamente. A meno che tu sia in una posizione di vantaggio è meglio mettersi a cercarne una piuttosto che tentare la sorte in un combattimento. Trova le loro debolezze, sfrutta i tuoi punti di forza, e vivrai abbastanza da goderti il bottino.
 
-Combattere spesso significa attivare mosse come *taglia e spacca*, *difendere* o *tirare*. Anche*sfidare il pericolo* può apparire facilmente, così come mosse di classe come *lanciare incantesimi*. Il combattimento migliore è quello dove prendi di sorpresa il tuo avversario — siccome *taglia e spacca* si attiva quando attacchi in mischia, e un nemico indifeso non è davvero in mischia, la mossa non si attiva — semplicemente gli infilzi un'arma o un incantesimo nella schiena e infliggi i tuoi danni.
+Combattere spesso significa attivare mosse come *taglia e spacca*, *difendere* o *raffica*. Anche*sfidare il pericolo* può apparire facilmente, così come mosse di classe come *lanciare incantesimi*. Il combattimento migliore è quello dove prendi di sorpresa il tuo avversario — siccome *taglia e spacca* si attiva quando attacchi in mischia, e un nemico indifeso non è davvero in mischia, la mossa non si attiva — semplicemente gli infilzi un'arma o un incantesimo nella schiena e infliggi i tuoi danni.
 
 I mostri solitamente appartengono ad alcune categorie. Gli umanoidi ti assomigliano per forma: orchi, goblin, e così via. Le bestie sono animali, ma non docili come Bessie la mucca: pensa a corna lunghe mezzo metro e sacche piene di acido. I costrutti sono vita artificiale. Mostri planari che vengono da oltre questo mondo, da luoghi che si possono soltanto immaginare. I non-morti sono i peggiori: ciò che è già morto è terribilmente difficile da uccidere ancora.
 
@@ -508,6 +508,7 @@ Ricordati che non tutto il potere è puramente fisico. Anche se potresti sconfig
 
 ## Il Mondo
 
-Sei un avventuriero; sei una persona importante. Ma ci sono altre forze in gioco. Il mondo andrà avanti sena di te. Se non poni fine all'infestazione di goblin nelle fogne magari lo farà qualcun altro. O forse i goblin prenderanno il controllo della città. Vuoi davvero scoprirlo?
+Sei un avventuriero; sei una persona importante. Ma ci sono altre forze in gioco. Il mondo andrà avanti senza di te. Se non poni fine all'infestazione di goblin nelle fogne magari lo farà qualcun altro. O forse i goblin prenderanno il controllo della città. Vuoi davvero scoprirlo?
 
 Un mondo in costante movimento è un mondo che aspetta di essere cambiato. Le tue scelte di chi uccidere (e chi no), dove andare, quali patti stringere — tutto cambia il mondo in cui ti trovi. Cambiare il mondo significa agire su di esso: fare mosse, cercare tesori e esplorare. Il cambiamento appare sotto molte forme, compresi i PE che usi per salire di livello e ottenere nuove capacità. Potrai poi usare queste capacità nel mondo per scombinare ancora le cose. È un ciclo di cambiamento e crescita sia per te che per il mondo in cui vivi.
+

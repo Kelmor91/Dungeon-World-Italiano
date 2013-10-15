@@ -4,7 +4,7 @@ layout: default
 ---
 La prima sessione di una campagna di Dungeon World inizia con la creazione dei personaggi. Creare i personaggi significa anche creare il loro mondo: i dettagli sulla scheda del personaggio e le domande che vi porrete stabiliranno l'aspetto del mondo, chi lo abita e cosa vi sta succedendo.
 
-Questa sezione è dedicata al GM e quindi ci si rivolgerà direttamente a te — il GM. Per i giocatori la prima sessione è uguale a tutte le altre, devono solo giocare il loro personaggio come se fosse una persona reale ed esplorare l’universo di Dungeon World. Tu invece hai qualcosa in più da fare, devi definire il mondo e le minacce che i personaggi affronteranno.
+Questa sezione è dedicata al GM e quindi ci si rivolgerà direttamente a te, il GM. Per i giocatori la prima sessione è uguale a tutte le altre, devono solo giocare il loro personaggio come se fosse una persona reale ed esplorare l’universo di Dungeon World. Tu invece hai qualcosa in più da fare, devi definire il mondo e le minacce che i personaggi affronteranno.
 
 # Preparazione
 
@@ -113,3 +113,4 @@ I PNG rendono vivo il mondo. Se ogni mostro non facesse altro che attaccare e se
 Quando avrete finito con la prima sessione, prenditi un po’ di tempo per riposare. Lascia che le idee maturino, non lanciarti subito verso la prossima sessione.
 
 Dopo un po’ di riposo e di tempo passato a ripensare all’avventura sarà ora di preparare la prossima partita. Preparare la seconda sessione prende qualche minuto, o magari anche un’ora se è la prima volta che lo fai. Creerai i fronti, magari inventerai qualche mostro o mossa personalizzata, e ti farai un’idea di massima di ciò che sta accadendo nel mondo.
+

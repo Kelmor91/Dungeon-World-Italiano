@@ -58,7 +58,7 @@ layout: default
 		<td>Mosse Speciali</td>
 	</tr>
 	<tr>
-		<td>+1 immediato</td>
+		<td>+1 al prossimo tiro</td>
 		<td>+1 prossimo</td>
 		<td>+1 forward</td>
 		<td>Terminologia</td>

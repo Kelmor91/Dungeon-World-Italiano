@@ -16,7 +16,7 @@ Queste sono le etichette generali applicabili a più o meno qualunque oggetto. L
 
 *Scomodo:* È poco maneggevole e difficile da usare.
 
-*+Bonus*: Modifica la tua efficacia in una determinata situazione. Potrebbe essere "+1 immediato a *declamare conoscenze*" oppure “-1 continuato a *taglia e spacca*”.
+*+Bonus*: Modifica la tua efficacia in una determinata situazione. Potrebbe essere «+1 al prossimo tiro di *declamare conoscenze*» oppure «-1 continuato a *taglia e spacca*».
 
 *n monete:* Quanto costa comprarlo normalmente. Se il costo include "-Carisma", negoziando un po’ si può sottrarre il punteggio di Carisma (non il modificatore) dal prezzo.
 
@@ -186,7 +186,7 @@ Solo ai migliori amici degli Elfi è concesso assaggiare questa delicatezza rara
 
 **Erba Pipa dei Mezzuomini** *6 utilizzi, 5 monete, peso 0*
 
-Quando fumi l’erba pipa dei Mezzuomini con qualcuno, spendi due utilizzi e prendi +1 immediato a parlamentare con questa persona.
+Quando fumi l’erba pipa dei Mezzuomini con qualcuno, spendi due utilizzi e prendi +1 al prossimo tiro di parlamentare con questa persona.
 
 # Veleni
 
@@ -395,7 +395,7 @@ Se applicato ai bordi di un portale o spalmato a cerchio, l’olio respingerà l
 
 **Cera dell’Estorsione Auricolare** *1 utilizzo, peso 0*
 
-Una candela giallastra. Sembra che non si consumi mai e la luce che emette è debole e bizzarra. Inoltre, la sua cera è sempre fredda. Versa la cera nell’orecchio di un bersaglio e ottieni riserva 3. Spendi la riserva per fare una domanda al bersaglio. Sorprendentemente per lui, ti racconterà tutta la verità, nonostante il proprio volere. Le conseguenze, più tardi? Quelle dovrai gestirtele da solo.
+Una candela giallastra. Sembra che non si consumi mai e la luce che emette è debole e bizzarra. Inoltre, la sua cera è sempre fredda. Versa la cera nell’orecchio di un bersaglio e prendi 3. Spendi la presa per fare una domanda al bersaglio. Sorprendentemente per lui, ti racconterà tutta la verità, nonostante il proprio volere. Le conseguenze, più tardi? Quelle dovrai gestirtele da solo.
 
 **L’Eco** *peso 0*
 
@@ -444,7 +444,7 @@ Due lenti di vetro rozzamente levigate incastrate in una montatura di legno. Tut
 
 **La Manovra di Ku’meh** *peso 1*
 
-Un grande tomo di pelle consumato e lisciato dalle mani di cento grandi generali, questo libro è spesso passato da guerriero a guerriero, da padre a figlio lungo le linee delle grandi battaglie che hanno diviso il passato di Dungeon World. Chiunque lo legga può, dopo averlo finito per la prima volta, tirare+INT. ✴Con un 10+, riserva 3. ✴Con un 7–9, riserva 1. Puoi spendere la riserva per dare un consiglio a un compagno d’avventura su qualche questione d’importanza strategica o tattica. Questo consiglio ti permette, in qualsiasi momento, indipendentemente dalla distanza, di tirare per aiutarlo su qualunque tiro. ✴Con un fallimento, il GM può riservare 1 e spenderlo per dare un -2 al tuo tiro o al tiro del poveraccio che ha ascoltato i tuoi consigli.
+Un grande tomo di pelle consumato e lisciato dalle mani di cento grandi generali, questo libro è spesso passato da guerriero a guerriero, da padre a figlio lungo le linee delle grandi battaglie che hanno diviso il passato di Dungeon World. Chiunque lo legga può, dopo averlo finito per la prima volta, tirare+INT. ✴Con un 10+, prendi 3. ✴Con un 7–9, prendi 1. Puoi spendere la presa per dare un consiglio a un compagno d’avventura su qualche questione d’importanza strategica o tattica. Questo consiglio ti permette, in qualsiasi momento, indipendentemente dalla distanza, di tirare per aiutarlo su qualunque tiro. ✴Con un fallimento, il GM può prendere 1 e spenderlo per dare un -2 al tuo tiro o al tiro del poveraccio che ha ascoltato i tuoi consigli.
 
 **Reliquia del Compianto** *peso 0*
 
@@ -452,7 +452,7 @@ Sotto forma di un singolo ciuffo di capelli rossi, legato con un nastro nero e i
 
 **Scudo di Magnetite** *+1 armatura, peso 1*
 
-Quale idiota senza cervello avrebbe inventato una cosa del genere? Gli scudi servono a respingere il metallo, non ad attrarlo! Lo Scudo di Magnetite raffigura un leone rampante, e ha il potere di attrarre lame e frecce a sé. Quando *difendi* contro nemici che impugnano armi di metallo, puoi spendere un punto di riserva a bersaglio per disarmarli. In aggiunta, a volte troverai una manciata di monetine che ci è rimasta attaccata.
+Quale idiota senza cervello avrebbe inventato una cosa del genere? Gli scudi servono a respingere il metallo, non ad attrarlo! Lo Scudo di Magnetite raffigura un leone rampante, e ha il potere di attrarre lame e frecce a sé. Quando *difendi* contro nemici che impugnano armi di metallo, puoi spendere 1 presa per bersaglio per disarmarli. In aggiunta, a volte troverai una manciata di monetine che ci è rimasta attaccata.
 
 **Mappa dell’Ultima Pattuglia** *peso 0*
 
@@ -509,3 +509,4 @@ Una lama leggendaria che si dice sia stata lanciata indietro nel tempo e proveng
 **Spada Bigralace**, altresì detta **Spada Vorpal** *media, perforante 3, peso 2*
 
 «Scric-scrac trinciava il bigralace brando». Affilata come nient’altro, questa spada apparentemente ordinaria serve a separare una cosa dall’altra: un braccio dal corpo, o una persona dalla sua vita. Quando infliggi danno con la Spada Vorpal, il tuo nemico deve scegliere qualcosa (un oggetto, un vantaggio, un arto) e perderlo, permanentemente.
+

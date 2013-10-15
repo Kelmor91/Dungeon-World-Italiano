@@ -18,8 +18,6 @@ Ciascuna mossa è descritta con il suo nome e le regole della mossa. Alcune sono
 
 > **NdT**: In altre traduzioni questa mossa è chiamata "Assalire"
 
----
-
 Quando **attacchi un nemico in mischia**, tira+FOR. ✴Con un 10+, infliggi i tuoi danni al nemico ed eviti il suo attacco. A tua scelta, puoi decidere di infliggere +1d6 danni ed esporti all'attacco del nemico. ✴Con un 7&ndash;9, infliggi i tuoi danni al nemico, ma il nemico effettua un attacco contro di te. 
 
 ---
@@ -28,21 +26,21 @@ Quando **attacchi un nemico in mischia**, tira+FOR. ✴Con un 10+, infliggi i tu
 
 Il contrattacco del nemico può essere qualunque mossa del GM fatta direttamente attraverso quella creatura. Un goblin potrebbe semplicemente contrattaccarti o infilarti un ago avvelenato nelle vene. La vita è dura, non credi?
 
-Tieni presente che un "attacco" è qualunque azione intrapresa da un giocatore che abbia la possibilità di arrecare danno a qualcuno. Attaccare un drago con scaglie cariche di energia magica e spesse un pollice con una spada qualunque è come colpire un carrarmato con una mannaia: semplicemente, non ha la possibilità di arrecare alcun danno, e *taglia e spacca* non si attiva. Ovviamente, le circostanze possono cambiare: se sei in una posizione da dove puoi infilzare il drago nella sua pancia soffice (buona fortuna ad arrivare lì sotto) potrebbe fare male, quindi conta come attacco.
+Tieni presente che un "attacco" è qualunque azione intrapresa da un giocatore che abbia la possibilità di arrecare danno a qualcuno. Attaccare un drago con scaglie cariche di energia magica e spesse un dito con una spada qualunque è come colpire un carrarmato con una mannaia: semplicemente, non ha la possibilità di arrecare alcun danno, e *taglia e spacca* non si attiva. Ovviamente, le circostanze possono cambiare: se sei in una posizione da dove puoi infilzare il drago nella sua pancia soffice (buona fortuna ad arrivare lì sotto) potrebbe fare male, quindi conta come attacco.
 
 Se l'azione che attiva può ragionevolmente fare del male a più di un bersaglio, tira una sola volta e applica i danni a ciascun bersaglio (ciascuno applica la propria armatura).
 
 Alcuni attacchi potrebbero avere degli effetti aggiuntivi a seconda dell'azione nella fiction che li ha innescati, le circostanze, o le armi utilizzate. Un attacco potrebbe mandare qualcuno al tappeto, immobilizzarlo, o lasciare una grande macchia di sangue.
 
-> **GM**: Jarl, il tumulto di bavosi goblin è arrivato fino alla tua considerevole pancia. Ti hanno circondato e hanno estratto i coltelli. Che cosa fai?
+> **GM**: Jarl, la folla di bavosi goblin è arrivata fino alla tua considerevole pancia. Ti hanno circondato e hanno estratto i coltelli. Che cosa fai?
 >
-> **Jarl**: Ne ho avuto abbastanza! Percuoto il goblin più vicino con il mio martello.
+> **Jarl**: Ne ho avuto abbastanza! Pesto il goblin più vicino con il mio martello.
 >
 > **GM**: Va bene. Questo è sicuramente un combattimento, quindi stai usando *taglia e spacca*. Tira+FOR.
 >
 > **Jarl**: Ho fatto 11. Dice qua che posso scegliere. La paura è per i deboli, venite a me goblin!
 >
-> **GM**: Schianti il tuo martello sul goblin più vicino e senti il catartico suono delle sue ossa che si sfracellano. Quello, e il dolore di una ferita del suo coltello, quando ti contrattacca. Ti infligge 4 danni. Che cosa fai?
+> **GM**: Schianti il tuo martello sul goblin più vicino e senti il soddisfacente suono delle sue ossa che si sfracellano. Quello, e il dolore di una ferita del suo coltello, quando ti contrattacca. Ti infligge 4 danni. Che cosa fai?
 
 <!--separatore-->
 
@@ -72,11 +70,9 @@ Alcuni attacchi potrebbero avere degli effetti aggiuntivi a seconda dell'azione 
 
 > **NdT**: In altre traduzioni questa mossa è chiamata "Tirare"
 
----
-
 Quando **prendi la mira per colpire un nemico a distanza**, tira+DES. ✴Con un 10+, è un colpo sicuro&mdash;infliggi i tuoi danni. ✴Con un 7&ndash;9, scegli un'opzione (infliggi comunque i danni qualunque opzione tu scelga):
 
-* Devi spostarti per trovare la giusta linea di tiro. Incappi in un pericolo descritto dal GM. 
+* Devi spostarti per trovare la giusta linea di tiro. Ti esponi a un pericolo descritto dal GM. 
 * Devi accontentarti: -1d6 danni.
 * Devi tirare più volte per colpire, spendendo un punto di munizioni.
 
@@ -86,13 +82,13 @@ Per *raffica* s'intende nella sua completezza l'atto di estrarre, mirare e tirar
 
 Sul 7–9, intendi "pericolo" con un senso ampio. Forse è una perdita d'equilibrio, o forse significa finire sulla traiettoria di una lama, o ancora rivelare il tuo bel nascondiglio da cecchino ai nemici. Qualunque cosa sia, è incombente ed è sempre qualcosa che fa in modo che il GM dica "Che cosa fai?". Molto spesso, il pericolo sarà qualcosa che ti obbligherà a dedicare la tua attenzione a evitarlo o a *sfidare il pericolo*.
 
-Se stai lanciando qualcosa che non ha munizioni (ad esempio, se hai una mossa che ti permette di lanciare lo scudo) non può scegliere di spendere un punto munizioni. Scegli una delle altre due opzioni.
+Se stai lanciando qualcosa che non ha munizioni (ad esempio, se hai una mossa che ti permette di lanciare lo scudo) non puoi scegliere di spendere un punto munizioni. Scegli una delle altre due opzioni.
 
 > **Aranwe**: Bene, sono bloccata qua sul pavimento della sala consacrata e quell'orco cavaocchi sta recitando il rituale sul piedistallo? Siccome Thelian si sta occupando del resto della marmaglia, miro col mio arco e provo a colpire l'orco ritualista.
 >
 > **GM**: Ottima scelta — mi sembra una *raffica*.
 >
-> **Aranwe**: Diamine, ho fatto 8. Be, ho poche freccie e ancora meno PF. Meglio accontentarsi. Tiro i miei danni, poi sottraggo il risultato di 1d6, giusto? Ho fatto 3. Basta almeno a distrarlo?
+> **Aranwe**: Diamine, ho fatto 8. Be, ho poche frecce e ancora meno PF. Meglio accontentarsi. Tiro i miei danni, poi sottraggo il risultato di 1d6, giusto? Ho fatto 3. Basta almeno a distrarlo?
 >
 > **GM**: Certo! La freccia si infila nella gamba del cavaocchi, che emette un ruggito di dolore, interrompendo per il momento il rituale. Sfortunatamente, sembra che l'interruzione possa essere ancora più pericolosa: si sente il terrificante eco di un crollo dalla fossa sotto il piedistallo e i mattoni della stanza cominciano a tremare. Che cosa fai?
 
@@ -112,9 +108,7 @@ Se stai lanciando qualcosa che non ha munizioni (ad esempio, se hai una mossa ch
 
 ## Sfidare il Pericolo
 
----
-
-Quando **agisci nonostante una minaccia incombente** o **sei messo in pericolo dalla sventura**, spiega come affronti la situazione e tira. Se lo fai…
+Quando **agisci nonostante una minaccia incombente** o **ti esponi al pericolo**, spiega come affronti la situazione e tira. Se lo fai…
 
 * …grazie alla forza bruta, +FOR
 * …levandoti di mezzo o agendo rapidamente, +DES
@@ -123,7 +117,7 @@ Quando **agisci nonostante una minaccia incombente** o **sei messo in pericolo d
 * …con la forza di volontà, +SAG
 * …con il fascino e l'eleganza sociale, +CAR
 
-✴Con un 10+, riesci a fare ciò che hai descritto e il pericolo rimane incompiuto. ✴Con un 7–9 inciampi, esiti o indietreggi: il GM ti offrirà un esito inferiore, un prezzo da pagare, o una scelta difficile.
+✴Con un 10+, riesci a fare ciò che hai descritto ed eviti la minaccia. ✴Con un 7–9 inciampi, esiti o indietreggi: il GM ti proporrà un esito inferiore, un prezzo da pagare, o una scelta difficile.
 
 ---
 
@@ -167,22 +161,20 @@ Quale sia la capacità da applicare dipende dalle azioni che fai, e le tue azion
 
 ## Difendere
 
----
-
-Quando **difendi dal pericolo una persona, un oggetto o un luogo**, tira+COS. ✴Con un 10+, riserva 3. ✴Con un 7–9, riserva 1. Fintanto che rimani a difendere, quando tu o la cosa che difendi subisce un attacco puoi spendere la riserva, un punto alla volta, per scegliere un'opzione:
+Quando **difendi dal pericolo una persona, un oggetto o un luogo**, tira+COS. ✴Con un 10+, prendi 3. ✴Con un 7–9, prendi 1. Fintanto che rimani a difendere, quando tu o ciò che difendi subisce un attacco puoi spendere la presa, un punto alla volta, per scegliere un'opzione:
 
 * Dirotta verso te stesso un attacco diretto alla cosa che difendi
 * Dimezza i danni o l'effetto dell'attacco
-* Esponi l'attaccante a un alleato, dando all'alleato +1 immediato contro di esso.
+* Esponi l'attaccante a un alleato, dando all'alleato +1 al prossimo tiro contro il nemico.
 * Infliggi danno pari al tuo livello all'attaccante
 
 ---
 
-Difendere qualcosa significa starvi vicino e concentrarsi sull'impedire che essa sia attaccata o che chiunque vi si avvicini. Quando ti allontani o smetti di dedicare la tua attenzione agli attacchi che arrivano, perdi tutta la tua riserva.
+Difendere qualcosa significa starci vicino e concentrarsi sull'impedire che essa sia attaccata o che chiunque vi si avvicini. Quando ti allontani o smetti di dedicare la tua attenzione agli attacchi che arrivano, perdi tutta la tua presa.
 
-Puoi spendere la riserva solo quando qualcuno fa un attacco su di te o sulla cosa che stai difendendo. Le scelte che puoi fare dipendono dall'attaccante e dal tipo di attacco. In particolare, non puoi infliggere danni a un attaccante che non puoi raggiungere con la tua arma.
+Puoi spendere la presa solo quando qualcuno fa un attacco su di te o sulla cosa che stai difendendo. Le scelte che puoi fare dipendono dall'attaccante e dal tipo di attacco. In particolare, non puoi infliggere danni a un attaccante che non puoi raggiungere con la tua arma.
 
-Un attacco è qualsiasi azione dagli effetti dannosi che puoi ostacolare. Spade e freccie sono attacchi, ovviamente, ma anche lanciare un incantesimo, afferrare o caricare.
+Un attacco è qualsiasi azione dagli effetti dannosi che puoi ostacolare. Spade e frecce sono attacchi, ovviamente, ma anche lanciare un incantesimo, afferrare o caricare.
 
 Se l'attacco non infligge danni allora dimezzare l'attacco significa che l'attaccante ottiene una parte di ciò che vuole, ma non tutto. Sta a te e al GM determinare che cosa significhi in base alle circostanze. Se stai difendendo l'Occhio Gemmato di Oro-Uht e un orco cerca di sollevarlo dal suo piedistallo, un effetto dimezzato può significare che la gemma cade a terra, ma l'orco non riesce a prenderla, non ora. O magari l'orco riesce a prenderla, ma ci riesci anche tu, e adesso ve la state contendendo con le unghie e i denti. Se tu e il GM non riuscite a mettervi d'accordo su un effetto dimezzato non potete scegliere quell'opzione.
 
@@ -194,14 +186,14 @@ Difendere te stesso è sempre un'opzione. Significa rinunciare a fare attacchi p
 >
 > **GM**: E anche con gusto. Tira+COS.
 >
-> **Lux**: Faccio 11, riserva tre, giusto?
+> **Lux**: Faccio 11, prendo tre, giusto?
 >
 > **Avon**: Meglio che ti prepari a usarla, Lux. Ho fatto 8 sul mio tiro di *lanciare incantesimi* — scelgo di mettermi in pericolo.
 > **GM**: Ovviamente lo fai. Gli zombie sono attratti dal disturbo che sentono nella magia, e barcollano verso di te per attaccarti. Improvvisamente, sei circondato, sono ovunque! Che cosa fai?
 >
 > **Avon**: Squittisco con impotenza?
 >
-> **Lux**: Arrivo io. Spendo un punto di riserva per redirigere l’attacco verso me: spingo Avon di lato e lascio erompere la furia completa della mia bontà, facendo infuriare i non-morti. Per essere sicura, faccio un movimento ad arco col mio martello e infliggo i miei danni. Già che ci sono, consumo tutta la riserva e riduco i danni a metà. La mia dea ci protegge!
+> **Lux**: Arrivo io. Spendo presa 1 per redirigere l’attacco verso me: spingo Avon di lato e lascio erompere la furia completa della mia bontà, facendo infuriare i non-morti. Per essere sicura, faccio un movimento ad arco col mio martello e infliggo i miei danni. Già che ci sono, consumo tutta la presa e riduco i danni a metà. La mia dea ci protegge!
 
 <!-- separatore --> 
 
@@ -213,9 +205,9 @@ Difendere te stesso è sempre un'opzione. Significa rinunciare a fare attacchi p
 >
 > **GM**: OK, Durga, i trogloditi ti assaltano con le loro clave.
 >
-> **Adrian**: Neanche per sogno, ho ancora un po’ di riserva. La voglio spendere per redirigere quell’attacco su di me.
+> **Adrian**: Neanche per sogno, ho ancora un po’ di presa. La voglio spendere per redirigere quell’attacco su di me.
 >
-> **GM**: Voi due siete separati, adesso. Come fai a difenderla se sei lontano 20 metri? Hai perso la riserva quando hai attaccato il coccodrillo, amico.
+> **GM**: Voi due siete separati, adesso. Come fai a difenderla se sei lontano 20 metri? Hai perso la presa quando hai attaccato il coccodrillo, amico.
 >
 > **Adrian**: Hai ragione, non sono proprio “rimasto a difendere” alla fine. Fa niente, sei da sola, Durga!
 
@@ -224,19 +216,17 @@ Difendere te stesso è sempre un'opzione. Significa rinunciare a fare attacchi p
 
 > **NdT**: In altre traduzioni questa mossa è chiamata "Rivelare Conoscenze"
 
----
-
 Quando **consulti la tua conoscenza accumulata a proposito di qualcosa**, tira+INT. ✴Con un 10+, il GM ti dirà qualcosa di interessante e utile di un argomento relativo alla tua situazione. ✴Con un 7–9 il GM ti dirà qualcosa di interessante — sta a te renderlo utile. Il GM potrebbe chiederti come fai a saperlo. Raccontagli la verità, adesso.
 
 ---
 
 *Declami conoscenze* ogni volta che vuoi scandagliare i tuoi ricordi alla ricerca di conoscenza o dati significativi a proposito di qualcosa. Ti prendi un attimo per considerare ciò che sai sulle Tribù degli Orchi o sulla Torre di Ul'dammar e poi riveli la tua conoscenza.
 
-La conoscenza che ottieni è come quella di un bestiario, una guida del viaggiatore o una biblioteca. Ottieni dei dati a proposito di un argomento. Con un 10+ il GM ti mostrerà come questi dati possono tornarti immediatamente utili, con un 7–9 sono solo dati.
+La conoscenza che ottieni è come quella di un bestiario, una guida del viaggiatore o una biblioteca. Ottieni delle informazioni a proposito di un argomento. Con un 10+ il GM ti mostrerà come questi dati possono tornarti immediatamente utili, con un 7–9 sono solo dei semplici fatti.
 
 Con un fallimento, la mossa del GM spesso sfrutterà il tempo che hai speso a pensare. Magari non ti sei accorto di quel goblin che si muoveva dietro di te, o del filo di una trappola lungo il corridoio. È anche un'ottimo momento per svelare una verità sgradita.
 
-Nel caso non fosse chiaro, le risposte sono sempre vere, anche se il GM se l'è dovute inventare al momento. Sii sempre onesto in ciò che dici.
+Nel caso non fosse chiaro, le risposte sono sempre vere, anche se il GM le ha dovute inventare al momento. Sii sempre onesto in ciò che dici.
 
 > **Fenfaril**: Il pavimento era un’illusione? Dannati gnomi. Che possano andare a finire in qualunque posto gli gnomi vadano quando sono morti.
 >
@@ -268,15 +258,13 @@ Nel caso non fosse chiaro, le risposte sono sempre vere, anche se il GM se l'è 
 
 > **NdT**: In altre traduzioni questa mossa è chiamata "Percepire la Realtà"
 
----
-
 Quando **studi attentamente una situazione o una persona**, tira+SAG. ✴Con un 10+, fai al GM tre domande dalla lista sotto. ✴Con un 7–9, fai una domanda.
 
-In ogni caso, prendi +1 immediato quando agisci in base alle risposte.
+In ogni caso, prendi +1 al prossimo tiro quando agisci in base alle risposte.
 
 * Che cos'è accaduto qui di recente?
 * Cosa sta per accadere?
-* Da chi o cosa dovrei guardarmi le spalle?
+* Da chi o cosa dovrei stare all’erta?
 * Cosa qua è utile o di valore per me?
 * Chi ha davvero il controllo della situazione?
 * Che cosa qui non è ciò che sembra?
@@ -313,9 +301,7 @@ Ovviamente, alcune domande potrebbero avere una risposta negativa, va bene. Se d
 
 > **NdT**: In altre traduzioni questa mossa è chiamata "Parlé"
 
----
-
-Quando **hai influenza su un personaggio del GM e lo manipoli**, tira+CAR. L'influenza dev'essere qualcosa che vuole o di cui ha bisogno. ✴Con un 10+, farà quello che dici se prometti di dargli ciò che chiedono. ✴Con un 7–9, farà ciò che dici, ma dovrai dargli una garanzia concreta della tua promessa, subito.
+Quando **hai qualche tipo di influenza su un personaggio del GM e lo manipoli**, tira+CAR. L'influenza dev'essere qualcosa che vuole o di cui ha bisogno. ✴Con un 10+, farà quello che dici se prometti di dargli ciò che chiedono. ✴Con un 7–9, farà ciò che dici, ma dovrai dargli una garanzia concreta della tua promessa, subito.
 
 ---
 
@@ -345,13 +331,11 @@ In alcuni casi, quando descrivi ciò che vuoi, puoi proporre una promessa alla c
 
 <!-- separatore -->
 
-> **Pendrell**: Questo è il posto dove l’Unico Occhio gioca le sue carte, giusto? Bene, mi avvicino alla guardia. «Ehilà amici, vi va di, non so, aprire la porta e farmi entrare?» e sto facendo il gentile e disinvolto, quindi mi faranno passare. *Parlamentare* è tira+CAR, giusto?
+> **Pendrell**: Questo è il posto dove il Guercio gioca le sue carte, giusto? Bene, mi avvicino alla guardia. «Ehilà amici, vi va di, non so, aprire la porta e farmi entrare?» e sto facendo il gentile e disinvolto, quindi mi faranno passare. *Parlamentare* è tira+CAR, giusto?
 >
 > **GM**: Fermo lì, furbetto. Tutto ciò che hai fatto è dire cosa vuoi. Quello grosso e puzzolente si piazza davanti a te dicendo «Mi spiace signore, partita privata», con aria annoiata. È come se odiasse il suo lavoro e volesse essere da qualche altra parte. Se vuoi *parlamentare*, hai bisogno di qualche forma d’influenza. Magari una mazzetta?
 
 ## Aiutare o Ostacolare
-
----
 
 Quando **aiuti o ostacoli qualcuno**, tira+legame con quella persona. ✴Con un 10+, prende +1 o -2 al tiro, a tua scelta. ✴Con un 7–9, subirà comunque il modificatore, ma ti esponi al pericolo, a una punizione o a un prezzo da pagare.
 
@@ -379,8 +363,6 @@ Le mosse speciali sono le mosse che appaiono meno spesso o solo in situazioni sp
 
 ## Ultimo Respiro
 
----
-
 Quando **stai per morire** vedi uno scorcio di ciò che giace oltre i Neri Cancelli del Regno della Morte (il GM lo descriverà). Poi tira (solo un tiro, +niente — già, alla Morte non importa quanto sei tosto o affascinante). ✴Con un 10+, l'hai fatta franca alla Morte: sei in una brutta situazione ma sei ancora vivo. ✴Con un 7–9, la Morte stessa ti offrirà un patto. Accettalo e riprendi conoscenza o rifiutalo e attraversa i Neri Cancelli per andare incontro a qualunque destino ti attenda. ✴Con un 6-, il tuo destino è segnato. Sei marchiato come proprietà della Morte e presto passerai la soglia. Il GM ti dirà quando.
 
 ---
@@ -399,8 +381,6 @@ Ci sono tre esiti di questa mossa. ✴Con un 10+, il personaggio l’ha fatta fr
 
 ## Ingombro
 
----
-
 Quando **fai una mossa mentre trasporti peso** potresti essere sovraccarico. Se il peso che trasporti è:
 
 * Uguale o minore al tuo carico, non soffri penalità
@@ -415,8 +395,6 @@ Questa mossa si applica solo alle cose che una persona può portarsi dietro e co
 
 ## Accamparsi
 
----
-
 Quando ti **prepari al riposo** consuma una razione. Se sei in un luogo pericoloso decidi i turni di guardia. Se hai abbastanza PE puoi salire di livello. Quando ti risvegli da almeno qualche ora di sonno ininterrotto guarisci danno pari alla metà dei tuoi PF massimi.
 
 ---
@@ -427,15 +405,11 @@ Stare una notte in una locanda o in una casa è *accamparsi*. Recupera i tuoi pu
 
 ## Fare la guardia
 
----
-
-Quando **sei di guardia e qualcosa si avvicina al campo** tira+SAG. ✴Con un 10+, riesci a svegliare il campo e a preparare una risposta adeguata, tutti prendono +1 immediato. ✴Con un 7–9, te ne accorgi un momento troppo tardi; i tuoi compagni sono svegli ma non hanno avuto il tempo di prepararsi. Hanno le armi e l'armatura ma poco altro. ✴Con un fallimento, siete alla mercé di qualunque cosa si aggiri lontano dalla luce del fuoco.
+Quando **sei di guardia e qualcosa si avvicina al campo** tira+SAG. ✴Con un 10+, riesci a svegliare il campo e a preparare una risposta adeguata, tutti prendono +1 al prossimo tiro. ✴Con un 7–9, te ne accorgi un momento troppo tardi; i tuoi compagni sono svegli ma non hanno avuto il tempo di prepararsi. Hanno le armi e l'armatura ma poco altro. ✴Con un fallimento, siete alla mercé di qualunque cosa si aggiri lontano dalla luce del fuoco.
 
 ---
 
 ## Intraprendere un viaggio pericoloso
-
----
 
 Quando **viaggi per un territorio ostile**, scegli un membro del gruppo per fare da *apripista*, uno che vada davanti in *esplorazione*, e uno che sia il *quartiermastro*. Ogni personaggio che ha un compito tira+SAG. ✴Con un 10+:
 
@@ -458,8 +432,6 @@ Questa mossa si applica solo quando sai dove stai andando. Mettersi in marcia pe
 
 ## Fine sessione
 
----
-
 Quando **arrivi alla fine di una sessione** scegli uno dei tuoi legami che credi sia risolto (completamente esplorato, non più rilevante o altro). Chiedi al giocatore del personaggio con cui hai il legame se è d'accordo. Se lo è, guadagna un PE e scrivi un nuovo legame con un personaggio qualsiasi.
 
 Una volta che i legami sono stati aggiornati, controlla il tuo allineamento. Se hai perseguito il tuo allineamento almeno una volta in questa sessione, guadagna un PE. Poi rispondete a queste domande come gruppo:
@@ -474,8 +446,6 @@ Per ogni domanda a cui rispondete "sì", ciascuno guadagna un PE.
 
 ## Salire di livello
 
----
-
 Quando **hai tempo libero (ore o giorni) e PE pari o superiori al tuo livello+7**, puoi riflettere sulle tue esperienze e affinare le tue abilità.
 
 * Sottrai il tuo livello attuale+7 dai tuoi PE.
@@ -488,8 +458,6 @@ Quando **hai tempo libero (ore o giorni) e PE pari o superiori al tuo livello+7*
 
 ## Fare baldoria
 
----
-
 Quando **torni trionfante e dai una grande festa**, spendi 100 monete e tira +1 per ogni altre 100 monete aggiuntive spese. ✴Con un 10+, scegli tre. ✴Con un 7–9, scegli una. ✴Con un fallimento, scegli comunque una, ma le cose ti sfuggono decisamente di mano (il GM ti dirà come).
 
 * Ti fai amico un PNG utile.
@@ -501,23 +469,17 @@ Quando **torni trionfante e dai una grande festa**, spendi 100 monete e tira +1 
 
 ## Fare rifornimento
 
----
-
 Quando **vai a comprare qualcosa con l'oro in mano**, se è prontamente reperibile nell'insediamento in cui ti trovi, puoi comprarla al prezzo di mercato. Se è qualcosa di speciale, al di là di quanto normalmente disponibile in questo luogo, o straordinario, tira+CAR. ✴Con 10+, trovi ciò che stai cercando a un prezzo onesto. ✴Con 7–9 dovrai pagare di più o accontentarti di qualcosa che non è esattamente ciò che vuoi, ma si avvicina. Il GM ti dirà quali sono le tue opzioni.
 
 ---
 
 ## Recuperare le Forze
 
----
-
 Quando **non fai altro che riposare in sicurezza e tranquillità** dopo un giorno di riposo recuperi tutti i tuoi PF. Dopo tre giorni di riposo rimuovi una debilitazione a tua scelta. Se sei sotto la cura di un guaritore (magico o meno) guarisci invece una debilitazione ogni due giorni di riposo.
 
 ---
 
 ## Reclutare
-
----
 
 Quando **diffondi la voce che sei in cerca di qualcuno da assumere**, tira:
 
@@ -526,15 +488,13 @@ Quando **diffondi la voce che sei in cerca di qualcuno da assumere**, tira:
 * +1 se fai sapere che chi accettà avrà una parte del bottino
 * +1 se hai una reputazione utile da queste parti
 
-✴Con un 10+, hai da scegliere tra un buon numero di candidati abili, scegli tu chi assumere e non c'è penalità se non porti con te qualcuno. ✴Con un 7–9, dovrai accontentarti di qualcuno che non è proprio quello che cercavi o respingerlo. ✴Con un fallimento qualcuno di influente e inadatto dichiara di volersi unire a te (un giovane spericolato, una testa calda o un nemico sotto mentite spoglie), portalo con te e accetta le conseguenze o respingilo. Se respingi dei candidati prendi -1 immediato a *reclutare*.
+✴Con un 10+, hai da scegliere tra un buon numero di candidati abili, scegli tu chi assumere e non c'è penalità se non porti con te qualcuno. ✴Con un 7–9, dovrai accontentarti di qualcuno che non è proprio quello che cercavi o respingerlo. ✴Con un fallimento qualcuno di influente e inadatto dichiara di volersi unire a te (un giovane spericolato, una testa calda o un nemico sotto mentite spoglie), portalo con te e accetta le conseguenze o respingilo. Se respingi dei candidati prendi -1 al prossimo tiro di *reclutare*.
 
 ---
 
 ## Ricercato
 
 > **NdT**: In altre traduzioni questa mossa è chiamata "WANTED"
-
----
 
 Quando **torni in un luogo civilizzato dove hai causato problemi in passato**, tira+CAR. ✴Con un 10+, si è diffusa voce dei tuoi atti e tutti ti riconoscono. ✴Con un 7–9, come sopra, e il GM sceglie una complicazione:
 
@@ -550,9 +510,8 @@ Civilizzato significa solitamente i villaggi, i paesi e le città degli uomini, 
 
 ## Prepararsi
 
----
-
 Quando **passi il tuo tempo libero a studiare, meditare o allenarti duramente,** ottieni addestramento. Se ti prepari per una settimana o più, ottieni addestramento 1. Se ti prepari per un mese o più, ottieni invece addestramento 3. Quando la preparazione ti torna utile, spendi 1 addestramento per avere +1 a qualsiasi tiro. Puoi spendere 1 addestramento al massimo per tiro.
 
 ---
+
 

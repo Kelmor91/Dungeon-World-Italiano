@@ -38,11 +38,11 @@ Paolo salta su "Mi metto tra Rath e i goblin inferociti in modo da fare da bersa
 
 "Sembrerebbe essere Difendere" dico.
 
-"Ok, ho tirato un 7, quindi riservo 1."
+"Ok, ho tirato un 7, quindi prendo 1."
 
 "Ottimo. I tre goblin drogati dai fumi finiscono addosso a Rath e lo sbattono a terra, colpendo furiosamente con le loro daghe."
 
-"No che non lo fanno!" dice Paolo "Spendo la mia riserva per mettermi in mezzo e dirotto i loro attacchi su di me"
+"No che non lo fanno!" dice Paolo "Spendo la mia presa per mettermi in mezzo e dirotto i loro attacchi su di me"
 
 "Così Brianne si tuffa davanti a Rath all'ultimo momento spingendolo via, e i goblin si scagliano su di lei anzichè lui. Fanno 5 danni. Nora, Brianne si ritrova addosso sti tre goblin psicotici, Rath ha appena addormentato la sacerdotessa, il coccodrillo si sta agitando e Omar non si sa dove sia finito. Che fai?"
 
