@@ -14,9 +14,9 @@ Tutti i personaggi giocanti hanno a disposizione le mosse basilari e le mosse sp
 
 Ciascuna mossa è descritta con il suo nome e le regole della mossa. Alcune sono accompagnate da una breve spiegazione di come usare la mossa e da alcuni esempi di utilizzo durante il gioco.
 
-## Taglia e Spacca
+## Taglia e Spacca[^assalire]
 
-> **NdT**: In altre traduzioni questa mossa è chiamata "Assalire"
+[^assalire]: *NdT*: In altre traduzioni questa mossa è chiamata "Assalire"
 
 Quando **attacchi un nemico in mischia**, tira+FOR. ✴Con un 10+, infliggi i tuoi danni al nemico ed eviti il suo attacco. A tua scelta, puoi decidere di infliggere +1d6 danni ed esporti all'attacco del nemico. ✴Con un 7&ndash;9, infliggi i tuoi danni al nemico, ma il nemico effettua un attacco contro di te. 
 
@@ -66,9 +66,9 @@ Alcuni attacchi potrebbero avere degli effetti aggiuntivi a seconda dell'azione 
 >
 > **GM**: Bene, lo infilzi subito perché non può nemmeno difendersi e ... aspetta un attimo. Sai cosa, non è in mischia con te. È indifeso, lascia stare *taglia e spacca*, è morto. Cade a terra, sputando sangue, ma il suono dell'allarme della guardia compare in lontananza. Che cosa fai?
 
-## Raffica
+## Raffica[^tirare]
 
-> **NdT**: In altre traduzioni questa mossa è chiamata "Tirare"
+[^tirare]: *NdT*: In altre traduzioni questa mossa è chiamata "Tirare"
 
 Quando **prendi la mira per colpire un nemico a distanza**, tira+DES. ✴Con un 10+, è un colpo sicuro&mdash;infliggi i tuoi danni. ✴Con un 7&ndash;9, scegli un'opzione (infliggi comunque i danni qualunque opzione tu scelga):
 
@@ -212,9 +212,9 @@ Difendere te stesso è sempre un'opzione. Significa rinunciare a fare attacchi p
 > **Adrian**: Hai ragione, non sono proprio “rimasto a difendere” alla fine. Fa niente, sei da sola, Durga!
 
 
-## Declamare Conoscenze
+## Declamare Conoscenze[^rivelare]
 
-> **NdT**: In altre traduzioni questa mossa è chiamata "Rivelare Conoscenze"
+[^rivelare]: *NdT*: In altre traduzioni questa mossa è chiamata "Rivelare Conoscenze"
 
 Quando **consulti la tua conoscenza accumulata a proposito di qualcosa**, tira+INT. ✴Con un 10+, il GM ti dirà qualcosa di interessante e utile di un argomento relativo alla tua situazione. ✴Con un 7–9 il GM ti dirà qualcosa di interessante — sta a te renderlo utile. Il GM potrebbe chiederti come fai a saperlo. Raccontagli la verità, adesso.
 
@@ -254,9 +254,9 @@ Nel caso non fosse chiaro, le risposte sono sempre vere, anche se il GM le ha do
 >
 > **Vitus**: Dardi incantati di fuoco, urrà!
 
-## Discernere Realtà
+## Discernere Realtà[^percepire]
 
-> **NdT**: In altre traduzioni questa mossa è chiamata "Percepire la Realtà"
+[^percepire]: *NdT*: In altre traduzioni questa mossa è chiamata "Percepire la Realtà"
 
 Quando **studi attentamente una situazione o una persona**, tira+SAG. ✴Con un 10+, fai al GM tre domande dalla lista sotto. ✴Con un 7–9, fai una domanda.
 
@@ -297,9 +297,9 @@ Ovviamente, alcune domande potrebbero avere una risposta negativa, va bene. Se d
 >
 > **GM**: Tombola.
 
-## Parlamentare
+## Parlamentare[^parle]
 
-> **NdT**: In altre traduzioni questa mossa è chiamata "Parlé"
+[^parle]: *NdT*: In altre traduzioni questa mossa è chiamata "Parlé"
 
 Quando **hai qualche tipo di influenza su un personaggio del GM e lo manipoli**, tira+CAR. L'influenza dev'essere qualcosa che vuole o di cui ha bisogno. ✴Con un 10+, farà quello che dici se prometti di dargli ciò che chiedono. ✴Con un 7–9, farà ciò che dici, ma dovrai dargli una garanzia concreta della tua promessa, subito.
 
@@ -492,9 +492,9 @@ Quando **diffondi la voce che sei in cerca di qualcuno da assumere**, tira:
 
 ---
 
-## Ricercato
+## Ricercato[^wanted]
 
-> **NdT**: In altre traduzioni questa mossa è chiamata "WANTED"
+[^wanted]: *NdT*: In altre traduzioni questa mossa è chiamata "WANTED"
 
 Quando **torni in un luogo civilizzato dove hai causato problemi in passato**, tira+CAR. ✴Con un 10+, si è diffusa voce dei tuoi atti e tutti ti riconoscono. ✴Con un 7–9, come sopra, e il GM sceglie una complicazione:
 
