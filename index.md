@@ -3,9 +3,9 @@ title: Dungeon World in Italiano
 layout: default
 ---
 
-<div class="alert">
+<div class="alert alert-info" markdown="1">
 <button type="button" class="close" data-dismiss="alert">×</button>
-<strong>12 ottobre 2013:</strong> Benvenuti al nostro nuovo sito! Da adesso, anche leggibile su smartphone e tablet.
+**16 ottobre 2013:** Da oggi disponibile il **[il glossario delle differenze](/glossario)** con l'edizione di Narrattiva.
 </div>
 
 Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo di [Adam Koebel][adam] e [Sage Latorra][sage], vincitore del premio **Best Rules** agli ENnies 2013! Dungeon World è derivato dal Mondo dell'Apocalisse di Vincent Baker: Adam e Sage hanno preso il sistema di Baker e l'hanno adattato, superando l'originale in popolarità e successo, a un'estetica fantasy simile a quella proposta dai più popolari giochi di ruolo in commercio.
