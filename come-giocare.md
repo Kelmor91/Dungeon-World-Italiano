@@ -145,7 +145,7 @@ Lo stesso vale per quando devi sottrarre i danni, sottrai il numero indicato dal
 
 Alcuni mostri e mosse ti chiedono di tirare i dadi più di una volta e di prendere il migliore o il peggior risultato. In questo caso tira normalmente e applica il miglior (o il peggior) risultato.
 
-Se un mostro tira per d6 danni due volte e prende il miglior risultato si scrive m[2d6]. La m[] significa "migliore". Allo stesso modo, p[] significa "peggiore", quindi p[3d10] significa "tira per d10 danni tre volte e tieni il peggior risultato".
+Se un mostro tira per d6 danni due volte e prende il miglior risultato si scrive m\[2d6\]. La m\[\] significa "migliore". Allo stesso modo, p\[\] significa "peggiore", quindi p\[3d10\] significa "tira per d10 danni tre volte e tieni il peggior risultato".
 
 ## Guarigione
 

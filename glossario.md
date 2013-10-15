@@ -1,4 +1,5 @@
 ---
+title: Glossario
 layout: default
 ---
 <table class="table table-condensed table-hover table-responsive">
@@ -21,8 +22,8 @@ layout: default
 		<td>Mosse Base</td>
 	</tr>
 	<tr>
-		<td>Discernere Realt‡</td>
-		<td>Percepire la Realt‡</td>
+		<td>Discernere Realt√†</td>
+		<td>Percepire la Realt√†</td>
 		<td>Discern Realities</td>
 		<td>Mosse Base</td>
 	</tr>
@@ -34,7 +35,7 @@ layout: default
 	</tr>
 	<tr>
 		<td>Parlamentare</td>
-		<td>ParlÈ</td>
+		<td>Parl√©</td>
 		<td>Parley</td>
 		<td>Mosse Base</td>
 	</tr>

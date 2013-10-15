@@ -1,3 +1,5 @@
+
+
 blockquote p {
 	font-style: italic !important;
     font-size: 1em !important;
@@ -10,11 +12,53 @@ blockquote p {
 	padding: 0.5em 0;
 }
 
-image-right {
+.frame {
 	display: block;
 	float: right;
 	width: 300px;
-	max-width: 50%;
+	max-width: 45%;
+	margin: 0;
+	text-align: center;
+	border: solid 1px white;
+	padding: 0.5em;
+}
+
+.frame.bigger {
+	width: 360px;
+}
+
+@media (max-width:979px)
+{
+	.frame {
+		width: 200px;
+		max-width: 45%;
+	}
+	
+	.frame.bigger {
+		width: 240px;
+	}
+}
+
+.frame.left {
+	float: left;
+}
+
+.frame.right {
+	float: right;
+}
+
+.frame img {
+	width: auto;
+}
+
+.frame p {
+	text-align: center;
+	font-style: italic;
+	font-size: 0.8em;
+	display: inline-block;
+	padding: 0;
+	margin: 0.5em;
+	line-height: 1;
 }
 
 blockquote { margin: 0 0 1em; }
