@@ -20,7 +20,7 @@ Vi rimando all'[Introduzione](introduzione) per una descrizione più approfondit
 
 # Perché una traduzione?
 
-Ho deciso di fare questa traduzione per aiutare a diffondere Dungeon World nel mio paese natìo, l'Italia. Il lavoro è indipendente e anteriore a quello effettuato da [Narrattiva](www.narrattiva.it) e si pone come alternativa gratuitamente consultabile online.
+Ho deciso di fare questa traduzione per aiutare a diffondere Dungeon World nel mio paese natìo, l'Italia. Il lavoro è indipendente e anteriore a quello effettuato da [Narrattiva](www.narrattiva.it) e si pone come alternativa gratuitamente consultabile online. Qui **[il glossario delle differenze](/glossario)** con la loro edizione di Dungeon World.
 
 Considero questo sito una risorsa pubblica, e il testo completo è disponibile su [github][git], come il gioco in lingua originale. Chiunque è libero di mandarmi un'email o un messaggio su Google+ ([visita la nostra community][community]) per segnalarmi un errore o suggerirmi delle traduzioni migliori, e prometto che risponderò e mi metterò in discussione con ciascuno.
 
