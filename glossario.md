@@ -3,7 +3,7 @@ title: Glossario
 layout: default
 ---
 <div class="panel panel-primary">
-<div class="panel-heading>Glossario delle differenze con l'edizione di Narrattiva</div>
+<div class="panel-heading">Glossario delle differenze con l'edizione di Narrattiva</div>
 <table class="table table-condensed table-striped table-responsive">
 	<tr>
 		<th>Dungeonworld.it</th>
