@@ -40,8 +40,8 @@ La traduzione è attualmente **incompleta**, sono stati tradotti i seguenti capi
 	</ul>
 	<li>Parte II, <b>Le Classi</b></li>
 	<ul>
-		<li>Nessuna classe è stata tradotta da noi, ma per ora potete far riferimento alle <a href="classi-temp">altre traduzioni</a>.</li>
-	</ul>
+		<li>Nessuna classe è stata tradotta da noi, ma per ora potete far riferimento alle <a href="https://drive.google.com/folderview?id=0B6-j3YBM7u0pMTNnNW0zV0VtOGM&usp=sharing">traduzioni di Luca Maiorani.</a>.</li>	
+    </ul>
 	<li>Parte III, <b>Fare il GM</b></li>
 	<ul>
 		<li><a href="il-gm">Il GM</a></li>
