@@ -1,1 +1,5 @@
+---
+title: Il Bardo
+layout: default
+---
 Il Bardo non è ancora stato tradotto dal team di dungeonworld.it. Puoi appoggiarti all'ottima **[traduzione di Luca Maiorani](/pdf/bardo.pdf)** nel frattempo.
