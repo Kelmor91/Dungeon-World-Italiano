@@ -2,11 +2,11 @@
 title: Equipaggiamento
 layout: default
 ---
-Le tombe ammuffite e i tesori dimenticati e riscoperti del mondo sono colmi di oggetti utili. Il guerriero potrebbe trovare una spada nuova e affilata, oppure il ladro potrebbe trovare per caso un veleno mortale. La maggior parte degli oggetti sono ordinari — né magici né intrinsecamente unici in alcun modo. Qualunque oggetto che sia magico o unico nel suo genere non è ordinario ai fini delle mosse. L’arma caratteristica del guerriero non è mai ordinaria.
+Le tombe ammuffite e i tesori dimenticati e riscoperti del mondo sono colmi di oggetti utili. Il guerriero potrebbe trovare una spada nuova e affilata, oppure il ladro potrebbe trovare per caso un veleno mortale. La maggior parte degli oggetti sono ordinari:né magici né intrinsecamente unici in alcun modo. Qualunque oggetto che sia magico o unico nel suo genere non è ordinario ai fini delle mosse. L’arma caratteristica del guerriero non è mai ordinaria.
 
 Ciascuno degli oggetti che compongono l’equipaggiamento avrà un certo numero di etichette. Le etichette spiegano come l’equipaggiamento influenzi il personaggio che lo usa (come *+armatura*) o indicano il modo in cui devono essere usati (come le etichette di Portata). Come ogni cosa in Dungeon World, le etichette guidano la creazione della fiction durante il gioco. Se un’arma è *scomoda*, potrebbe significare che è più probabile che tu la faccia cadere quando fallisci quel tiro di *taglia e spacca*.
 
-Questa non è affatto una lista completa — sentitevi liberi di creare le vostre etichette.
+Questa non è affatto una lista completa: sentitevi liberi di creare le vostre etichette.
 
 # Etichette Generali dell’Equipaggiamento
 
@@ -409,9 +409,9 @@ Un arcimago, vecchio e troppo gracile per lasciare la sua torre, fabbricò quest
 
 Vorticose nuvole riempiono questo globo fumoso, e coloro che sono in sua presenza spesso sentono degli strani sussurri. Nei tempi antichi, era parte di una rete di simili pietre, usate per comunicare e osservare a grandi distanze. Quando guardi dentro la pietra, dì il nome di un luogo e tira+SAG. ✴Con un 10+, hai una chiara visione del luogo e puoi mantenerla fintanto che ti concentri sul globo. ✴Con un 7–9, hai comunque la visione, ma attrai l’attenzione di qualcos’altro (un angelo, un demone, o il possessore di un’altra Pietra della Lungimiranza) che sta usando a sua volta la pietra per controllarti.
 
-**Il Codice dei Fiaschi** *peso 0*
+**Il Codice del Fiasco** *peso 0*
 
-Un pesante tomo, con la parola "Fiasco" in copertina, che si racconta sia stato scritto col sangue di poveri sciocchi e baroni briganti da qualche principe demoniaco posseduto da un bieco senso dell’umorismo. Questo volume riporta in dettaglio le storie e i racconti di coloro le cui ambizioni superavano la propria ragione. Leggere da questo libro insegna ad apprezzare il valore del raziocinio, ma lascia dietro di sé un alone di terrore. Quando leggi dal Codice dei Fiaschi, tira+SAG. ✴Con un 10+, fai due domande dalla lista sotto. ✴Con un 7–9, fanne una.
+Un pesante tomo, che si racconta sia stato scritto col sangue di poveri sciocchi e baroni briganti da qualche principe demoniaco posseduto da un bieco senso dell’umorismo. Questo volume riporta in dettaglio le storie e i racconti di coloro le cui ambizioni superavano la propria ragione. Leggere da questo libro insegna ad apprezzare il valore del raziocinio, ma lascia dietro di sé un alone di terrore. Quando leggi dal Codice dei Fiaschi, tira+SAG. ✴Con un 10+, fai due domande dalla lista sotto. ✴Con un 7–9, fanne una.
 
 - Qual è la mia più grande opportunità in questo momento?
 - Chi potrei tradire per ottenere un beneficio?
@@ -434,7 +434,7 @@ Un bizzarro bastone di metallo con un bottone. Premi il bottone e il bastone si 
 
 **Libro Infinito** *peso 0*
 
-Questo libro ha un numero infinito di pagine in uno spazio finito. Siccome non c’è limite alle pagine, qualunque cosa fu, è o sarà è contenuta da qualche parte in questo libro. Grazie al cielo l’indice è ben fatto.
+Questo libro ha un numero infinito di pagine in uno spazio contenuto. Siccome non c’è limite alle pagine, qualunque cosa fu, è o sarà è contenuta da qualche parte in questo libro. Grazie al cielo l’indice è ben fatto.
 
 Quando *declami conoscenze* mentre consulti il libro hai un esito aggiuntivo: ✴Con un 12+, il GM ti darà la soluzione a un problema o alla situazione in cui ti trovi.
 
@@ -444,7 +444,7 @@ Due lenti di vetro rozzamente levigate incastrate in una montatura di legno. Tut
 
 **La Manovra di Ku’meh** *peso 1*
 
-Un grande tomo di pelle consumato e lisciato dalle mani di cento grandi generali, questo libro è spesso passato da guerriero a guerriero, da padre a figlio lungo le linee delle grandi battaglie che hanno diviso il passato di Dungeon World. Chiunque lo legga può, dopo averlo finito per la prima volta, tirare+INT. ✴Con un 10+, prendi 3. ✴Con un 7–9, prendi 1. Puoi spendere la presa per dare un consiglio a un compagno d’avventura su qualche questione d’importanza strategica o tattica. Questo consiglio ti permette, in qualsiasi momento, indipendentemente dalla distanza, di tirare per aiutarlo su qualunque tiro. ✴Con un fallimento, il GM può prendere 1 e spenderlo per dare un -2 al tuo tiro o al tiro del poveraccio che ha ascoltato i tuoi consigli.
+Un grande tomo di pelle consumato reso liscio e lucido dalle mani di cento grandi generali, questo libro è spesso passato da guerriero a guerriero, da padre a figlio lungo le linee delle grandi battaglie che hanno diviso il passato di Dungeon World. Chiunque lo legga può, dopo averlo finito per la prima volta, tirare+INT. ✴Con un 10+, prendi 3. ✴Con un 7–9, prendi 1. Puoi spendere la presa per dare un consiglio a un compagno d’avventura su qualche questione d’importanza strategica o tattica. Questo consiglio ti permette, in qualsiasi momento, indipendentemente dalla distanza, di tirare per aiutarlo su qualunque tiro. ✴Con un fallimento, il GM può prendere 1 e spenderlo per dare un -2 al tuo tiro o al tiro del poveraccio che ha ascoltato i tuoi consigli.
 
 **Reliquia del Compianto** *peso 0*
 
@@ -456,19 +456,19 @@ Quale idiota senza cervello avrebbe inventato una cosa del genere? Gli scudi ser
 
 **Mappa dell’Ultima Pattuglia** *peso 0*
 
-Un antico ordine di coraggiosi raminghi un tempo sorvegliava la terra, proteggendo villaggi e avvertendo re e regine dei pericoli incombenti. Sono scomparsi da molto tempo, adesso, ma il loro lascito rimane. Questa mappa, quando segnata con il sangue di un gruppo di persone, mostrerà sempre la loro ubicazione, fintanto che rimangono entro i limiti della mappa.
+Un antico ordine di coraggiosi raminghi un tempo sorvegliava la terra, proteggendo villaggi e avvertendo re e regine dei pericoli incombenti. Sono scomparsi da molto tempo, adesso, ma il loro lascito rimane. Questa mappa, quando macchiata con il sangue di un gruppo di persone, mostrerà sempre la loro ubicazione, fintanto che rimangono entro i limiti della mappa.
 
-**Teschio di Ned** *peso 1*
+**Testa di Ned** *peso 1*
 
-Un vecchio teschio, senza mascella e molto consumato dalle intemperie. Il teschio ricorda la follia del suo precedente possessore, un uomo con più onore che buon senso. Una volta a notte, il possessore del teschio può chiedere «Chi ce l’ha con me?» e il teschio risponderà con un nome, detto con voce triste e solitaria. Se il proprietario del teschio muore, esso scompare senza lasciar tracce. Nessuno sa dove potrebbe apparire di nuovo. 
+Un vecchio teschio, senza mascella e in pessime condizioni. Il teschio ricorda la follia del suo precedente possessore, un uomo con più onore che buon senso. Una volta a notte, il possessore del teschio può chiedere «Chi ce l’ha con me?» e il teschio risponderà con un nome, detto con voce triste e solitaria. Se il proprietario del teschio muore, esso scompare senza lasciar tracce. Nessuno sa dove potrebbe apparire di nuovo. 
 
 **Chiave del Nottambulo** *peso 0*
 
-Questa chiave ti aprirà qualunque porta, purché tu stia andando dove non dovresti andare. Fintanto che non fai niente che farebbe notare la tua presenza a qualcun altro (rimanendo non udito, non visto e non notato) e portandoti fuori nient'altro che i tuoi ricordi, la magia della chiave farà in modo che la tua intrusione non sia mai scoperta. È come se non fossi mai stato lì.
+Questa chiave ti aprirà qualunque porta, purché tu abbia intenzione di andare dove non dovresti. Fintanto che non fai niente che farebbe notare la tua presenza a qualcun altro (rimanendo non udito, non visto e non notato) e portandoti fuori nient'altro che i tuoi ricordi, la magia della chiave farà in modo che la tua intrusione non sia mai scoperta. È come se non fossi mai stato lì.
 
 **Erbe Consacrate** *peso 0*
 
-Le erbe consacrate, raccolte e preparate da un ordine perduto di maghi monaci, possono essere rinvenute in fasci da due o tre utilizzi. Se tenute lontano dall’umidità, si conservano indefinitamente. Quando le si fuma in una pipa o le si brucia in un fornello da incenso, e si inala il denso fumo blu che esalano, queste erbe provocheranno bizzarre visioni di posti lontani in tempi lontani. Se ti concentri su una persona, un posto o una cosa in particolare, le erbe ti risponderanno: tira +SAG. ✴Con un 10+, la visione è limpida e utile, e ne ricavi delle valide informazioni. ✴Con un 7–9, la visione riguarda la cosa che cerchi, ma è poco chiara, piena di metafore o difficile da capire. ✴Con un fallimento, il GM ti chiederà: «Qual’è la cosa che temi di più?». Devi rispondere con onestà, ovviamente.
+Le erbe consacrate, raccolte e preparate da un ordine perduto di maghi monaci, possono essere rinvenute in fasci da due o tre utilizzi. Se tenute lontano dall’umidità, si conservano indefinitamente. Quando le si fuma in una pipa o le si consuma in un bruciatore da incenso, e si inala il denso fumo blu che esalano, queste erbe provocheranno bizzarre visioni di posti lontani in tempi lontani. Se ti concentri su una persona, un posto o una cosa in particolare, le erbe ti risponderanno: tira +SAG. ✴Con un 10+, la visione è limpida e utile, e ne ricavi delle valide informazioni. ✴Con un 7–9, la visione riguarda la cosa che cerchi, ma è poco chiara, piena di metafore o difficile da capire. ✴Con un fallimento, il GM ti chiederà: «Qual è la cosa che temi di più?». Devi rispondere con onestà, ovviamente.
 
 **Anatra di Sartar** *peso 0*
 
@@ -480,7 +480,7 @@ Gemme di un rosso torbido e della dimensione di un’unghia, le Lacrime di Annal
 
 **Stanza del Teletrasporto** *lento*
 
-James Nove Dita, un mago eccentrico e geniale, creò questi dispositivi magici delle dimensioni di una stanza. Una camera di legno, incisa di rune e di scritte, che emette una debole luce blu. Quando entri e dici ad alta voce il nome di un luogo, tira+INT. ✴Con un 10+, arrivi esattamente dove volevi. ✴Con un 7–9, il GM sceglie un luogo sicuro lì vicino. ✴Con un fallimento, finisci da qualche parte. Forse lì vicino? Sicuramente non un posto sicuro. 
+James Nove Dita, un mago eccentrico e geniale, creò questi dispositivi magici delle dimensioni di una stanza. Una camera di pietra, incisa di rune e scarabocchi, che emette una debole luce blu. Quando entri e dici ad alta voce il nome di un luogo, tira+INT. ✴Con un 10+, arrivi esattamente dove volevi. ✴Con un 7–9, il GM sceglie un luogo sicuro lì vicino. ✴Con un fallimento, finisci da qualche parte. Forse lì vicino? Sicuramente non un posto sicuro. Strane cose a volte accadono a coloro che piegano il tempo e lo spazio con questi dispositivi.
 
 **Armatura di Timunn** *armatura 1, peso 1*
 
@@ -500,7 +500,7 @@ Forgiata da fabbri nanici lavoratori d’argento, questa mano di metallo lucidat
 
 **Guanti di Vellus** *peso 1*
 
-Fabbricati in nome di Vellus l’Impacciato, Vellus Mani di Burro, Vellus lo Sciocco, questi guanti di semplice cuoio ti impediscono di lasciare qualunque oggetto dal quale tu non abbia intenzione di separarti. Non puoi essere disarmato e non cadrai da alcuna corda o scala, ad esempio. Questo oggetto può diventare particolarmente devastante se hai qualcosa di molto forte che ti tira le gambe mentre ti aggrappi a qualcosa di solido.
+Fabbricati in nome di Vellus l’Impacciato, Vellus Mani di Burro, Vellus lo Sciocco, questi guanti di semplice stoffa ti impediscono di lasciare qualunque oggetto dal quale tu non abbia intenzione di separarti. Non puoi essere disarmato e non cadrai da alcuna corda o scala, ad esempio. Questo oggetto può diventare particolarmente devastante se hai qualcosa di molto forte che ti tira le gambe mentre ti aggrappi a qualcosa di solido.
 
 **Falcione del Turbamento** *peso 2*
 
@@ -508,5 +508,4 @@ Una lama leggendaria che si dice sia stata lanciata indietro nel tempo e proveng
 
 **Spada Bigralace**, altresì detta **Spada Vorpal** *media, perforante 3, peso 2*
 
-«Scric-scrac trinciava il bigralace brando». Affilata come nient’altro, questa spada apparentemente ordinaria serve a separare una cosa dall’altra: un braccio dal corpo, o una persona dalla sua vita. Quando infliggi danno con la Spada Vorpal, il tuo nemico deve scegliere qualcosa (un oggetto, un vantaggio, un arto) e perderlo, permanentemente.
-
+Scric-scrac trinciava il bigralace brando! Affilata come nient’altro, questa spada apparentemente ordinaria serve a separare una cosa dall’altra: un braccio dal corpo, o una persona dalla sua vita. Quando infliggi danno con la Spada Vorpal, il tuo nemico deve scegliere qualcosa (un oggetto, un vantaggio, un arto) e perderlo, permanentemente.

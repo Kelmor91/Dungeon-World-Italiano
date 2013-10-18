@@ -113,4 +113,3 @@ I PNG rendono vivo il mondo. Se ogni mostro non facesse altro che attaccare e se
 Quando avrete finito con la prima sessione, prenditi un po’ di tempo per riposare. Lascia che le idee maturino, non lanciarti subito verso la prossima sessione.
 
 Dopo un po’ di riposo e di tempo passato a ripensare all’avventura sarà ora di preparare la prossima partita. Preparare la seconda sessione prende qualche minuto, o magari anche un’ora se è la prima volta che lo fai. Creerai i fronti, magari inventerai qualche mostro o mossa personalizzata, e ti farai un’idea di massima di ciò che sta accadendo nel mondo.
-

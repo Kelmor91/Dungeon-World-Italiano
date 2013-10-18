@@ -12,7 +12,7 @@ Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, p
 
 Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
- <div class="frame right bigger">
+<div class="frame right bigger">
     <img src="/images/clovis-spaccaossa-barbaro.jpg"/>
     <p>Il barbaro umano Clovis Spaccaossa</p>
 </div>
@@ -27,9 +27,9 @@ Perchè nessuno di loro è forte come te. Nessuno.
 
 # Il Bardo
 
-I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e della gloria di battaglie vinte e di ricchezze conquistate. Le storie che si raccontano in ogni taverna affollata di villici e braccianti dovranno pur avere un fondo di verità, non è vero? Le canzoni che ispirano ugualmente nobili e pezzenti, per placare le bestie selvagge o spingere gli uomini alla furia, dovranno pur avere un'origine.
+I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e della gloria di battaglie vinte e di ricchezze conquistate. Le storie che si raccontano in ogni taverna affollata di villici e braccianti dovranno pur avere una parvenza di verità, non è vero? Le canzoni che ispirano ugualmente nobili e pezzenti, per placare le bestie selvagge o spingere gli uomini alla furia, dovranno pur avere un'origine.
 
-È qui che arriva il bardo. Tu, con la tua lingua sciolta e il tuo acume. Tu, che racconti favole e canti canzoni. Un semplice menestrello può ripetere una storia, ma ci vuole un bardo per viverla. Metti gli stivali, nobile oratore. Affila la tua daga celata e rispondi all’appello. Qualcuno dev'essere lì, a lottare fianco a fianco con i picchiatori e i delinquenti e i futuri eroi. Chi meglio di te per scrivere la storia del tuo stesso eroismo?
+È qui che arriva il bardo. Tu, con la tua lingua sciolta e il tuo acume. Tu, che racconti favole e canti canzoni. Un semplice menestrello può ripetere una storia, ma ci vuole un bardo per viverla. Metti gli stivali, nobile oratore. Affila la tua daga celata e rispondi all’appello. Qualcuno dev'essere lì, a lottare fianco a fianco con picchiatori e mercenari e futuri eroi. Chi meglio di te per scrivere la storia del tuo stesso eroismo?
 
 Nessuno. Dai inizio all'avventura.
 
@@ -121,7 +121,7 @@ Terzo, perché **il mondo ha ancora tantissimi luoghi da esplorare**. Ci sono to
 
 Questo libro ti insegnerà a giocare a Dungeon World. Se hai intenzione di essere il GM, dovrai leggerlo tutto, anche se puoi semplicemente sfogliare le pagine dei mostri e leggere il capitolo Avventure Avanzate più tardi, quando ne avrai bisogno. Stampa gli aiuti di gioco, ti aiuteranno a vedere a colpo d'occhio le cose più importanti. Se sei un giocatore, dovrai leggere soltanto Come Giocare: la maggior parte delle regole che ti troverai a usare saranno scritte nella scheda personaggio che usi mentre giochi. Tornerai a leggere il libro occasionalmente per fare riferimento ad alcune regole, ma dovrebbe essere un evento raro.
 
-# Prepararazione
+# Preparazione
 
 Per giocare a Dungeon World, basti tu e altri 2–5 amici. Insomma, un gruppo da 4 a 6 persone, incluso te, è la scelta migliore. Scegliete una persona che dovrà essere il Game Master (GM). Tutti gli altri saranno i giocatori e interpreteranno il ruolo dei personaggi principali del gioco (li chiameremo Personaggi Giocanti o PG). Durante il gioco, i giocatori dicono quello che i loro personaggi dicono, pensano e fanno. Il GM descrive tutto il resto di ciò che accade nel mondo.
 

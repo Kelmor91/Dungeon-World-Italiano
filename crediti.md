@@ -10,15 +10,16 @@ Libera traduzione del [lavoro originale](book.dwgazetteer.com) di **[Adam Koebel
 
 **Revisori**: [Antonio Amato][], [Claudio Freda][], [Daniel Schiavo][], [Dario Delfino][], [Diego Delfino][], [Giorgia Menozzi][], [Giovanni Vinci][], [Giulio Robecchi][], [Luca Maiorani][], [Mauro Ghisoni][], [Paride Papadia][], [Pawel Longoni][], [Stefano Franzini][].
 
+**Illustrazioni** di [Luca Maiorani][].
+
 **Introduzione sul Barbaro** di [Luca Maiorani][].
 
-**Una Moneta di Cioccolato** a [Dario Delfino][], [Giorgia Menozzi][] e [Paride Papadia][]
+**Una Moneta di Cioccolato** a [Dario Delfino][], [Diego Delfino][], [Giorgia Menozzi][] e [Paride Papadia][]
 
 **Insigne Linguista** [Diego Delfino][]
 
-<!--
 **Ringraziamenti Speciali a** [Daniele di Rubbo][]
--->
+
 Quest'opera è distribuita con Licenza **[Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Italia][cc]**.
 
 [adam]: https://plus.google.com/112484087750169360510
