@@ -6,11 +6,16 @@ Libera traduzione del [lavoro originale](book.dwgazetteer.com) di **[Adam Koebel
 
 **Da un'idea di [Claudio Freda][]**
 
-**Traduttori**: [Claudio Freda][], [Daniel Schiavo][], [Mauro Ghisoni][]
+**Traduttori**: [Claudio Freda][], [Daniel Schiavo][], [Mauro Ghisoni][], [Luca Maiorani][]
 
 **Revisori**: [Antonio Amato][], [Claudio Freda][], [Daniel Schiavo][], [Dario Delfino][], [Diego Delfino][], [Giorgia Menozzi][], [Giovanni Vinci][], [Giulio Robecchi][], [Luca Maiorani][], [Mauro Ghisoni][], [Paride Papadia][], [Pawel Longoni][], [Stefano Franzini][].
 
 **Introduzione sul Barbaro** di [Luca Maiorani][].
+
+**Una Moneta di Cioccolato** a [Dario Delfino][], [Giorgia Menozzi][] e [Paride Papadia][]
+
+**Insigne Linguista** [Diego Delfino][]
+
 <!--
 **Ringraziamenti Speciali a** [Daniele di Rubbo][]
 -->
