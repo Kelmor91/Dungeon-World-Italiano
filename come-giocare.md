@@ -511,4 +511,3 @@ Ricordati che non tutto il potere è puramente fisico. Anche se potresti sconfig
 Sei un avventuriero; sei una persona importante. Ma ci sono altre forze in gioco. Il mondo andrà avanti senza di te. Se non poni fine all'infestazione di goblin nelle fogne magari lo farà qualcun altro. O forse i goblin prenderanno il controllo della città. Vuoi davvero scoprirlo?
 
 Un mondo in costante movimento è un mondo che aspetta di essere cambiato. Le tue scelte di chi uccidere (e chi no), dove andare, quali patti stringere — tutto cambia il mondo in cui ti trovi. Cambiare il mondo significa agire su di esso: fare mosse, cercare tesori e esplorare. Il cambiamento appare sotto molte forme, compresi i PE che usi per salire di livello e ottenere nuove capacità. Potrai poi usare queste capacità nel mondo per scombinare ancora le cose. È un ciclo di cambiamento e crescita sia per te che per il mondo in cui vivi.
-

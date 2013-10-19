@@ -10,7 +10,7 @@ Le mosse basilari sono il pane quotidiano della vita da avventuriero. Comprendon
 
 Le mosse speciali sono un po' più rare. Comprendono azioni come salire di livello, intraprendere un lungo viaggio, o tornare in città tra un'avventura e un'altra.
 
-Tutti i personaggi giocanti hanno a disposizione le mosse basilari e le mosse speciali. Ogni PG avrà anche alcune mosse provenienti dalla sua classe — di quelle parleremo più avanti.
+Tutti i personaggi giocanti hanno a disposizione le mosse basilari e le mosse speciali. Ogni PG avrà anche alcune mosse provenienti dalla sua classe, ma di quelle parleremo più avanti.
 
 Ciascuna mossa è descritta con il suo nome e le regole della mossa. Alcune sono accompagnate da una breve spiegazione di come usare la mossa e da alcuni esempi di utilizzo durante il gioco.
 
@@ -86,7 +86,7 @@ Se stai lanciando qualcosa che non ha munizioni (ad esempio, se hai una mossa ch
 
 > **Aranwe**: Bene, sono bloccata qua sul pavimento della sala consacrata e quell'orco cavaocchi sta recitando il rituale sul piedistallo? Siccome Thelian si sta occupando del resto della marmaglia, miro col mio arco e provo a colpire l'orco ritualista.
 >
-> **GM**: Ottima scelta — mi sembra una *raffica*.
+> **GM**: Ottima scelta, mi sembra una *raffica*.
 >
 > **Aranwe**: Diamine, ho fatto 8. Be, ho poche frecce e ancora meno PF. Meglio accontentarsi. Tiro i miei danni, poi sottraggo il risultato di 1d6, giusto? Ho fatto 3. Basta almeno a distrarlo?
 >
@@ -104,7 +104,7 @@ Se stai lanciando qualcosa che non ha munizioni (ad esempio, se hai una mossa ch
 >
 > **Halek**: 12 danni? Questo sarebbe il pericolo?
 >
-> **GM**: Hai ragione, non è solo un pericolo. Va bene, non sei ancora una frittella — ma l'ogre è dietro di te e la sua clava sta volando verso la tua testa! Che cosa fai?
+> **GM**: Hai ragione, non è solo un pericolo. Va bene, non sei ancora una frittella, ma l'ogre è dietro di te e la sua clava sta volando verso la tua testa! Che cosa fai?
 
 ## Sfidare il Pericolo
 
@@ -271,7 +271,7 @@ In ogni caso, prendi +1 al prossimo tiro quando agisci in base alle risposte.
 
 ---
 
-Per *discernere realtà* devi osservare da vicino il tuo bersaglio. Solitamente ciò significa interagire con esso o guardare qualcuno che lo fa. Non basta infilare la tua testa oltre una porta per *discernere realtà* su una stanza. Non stai semplicemente cercando indizi — devi guardare sotto e attorno alle cose, bussare contro i muri, e cercare figure strane nella polvere della libreria. Quel genere di cose.
+Per *discernere realtà* devi osservare da vicino il tuo bersaglio. Solitamente ciò significa interagire con esso o guardare qualcuno che lo fa. Non basta infilare la tua testa oltre una porta per *discernere realtà* su una stanza. Non stai semplicemente cercando indizi: devi guardare sotto e attorno alle cose, bussare contro i muri, e cercare figure strane nella polvere della libreria. Quel genere di cose.
 
 *Discernere realtà* non significa solo notare i dettagli, ma anche capirne il contesto. Il GM descrive sempre onestamente ciò che i personaggi percepiscono, quindi durante un combattimento il GM dirà che il mago coboldo si trova dall'altro lato del salone. *Discernendo realtà* potresti rivelarne il motivo: i movimenti del coboldo lasciano intendere che stia traendo energia dalla stanza accanto, e che non può avvicinarsi.
 
@@ -359,7 +359,7 @@ Non importa quante persone *aiutino o ostacolino*, il bersaglio prende il modifi
 
 # **Mosse Speciali**
 
-Le mosse speciali sono le mosse che appaiono meno spesso o solo in situazioni specifiche. Anch’esse sono alla base di ciò che i personaggi fanno in Dungeon World — in particolare ciò che fanno mentre non esplorano dungeon o s'imbarcano in spettacolari avventure.
+Le mosse speciali sono le mosse che appaiono meno spesso o solo in situazioni specifiche. Anch’esse sono alla base di ciò che i personaggi fanno in Dungeon World, in particolare ciò che fanno mentre non esplorano dungeon o s'imbarcano in spettacolari avventure.
 
 ## Ultimo Respiro
 
@@ -367,7 +367,7 @@ Quando **stai per morire** vedi uno scorcio di ciò che giace oltre i Neri Cance
 
 ---
 
-L’*ultimo respiro* è quel momento che si frappone tra la vita e la morte. Il tempo si ferma, e la Morte appare per rivendicare le anime dei vivi. Anche coloro che non oltrepassano i Neri Cancelli riescono a vedere uno scorcio dell’aldilà e di ciò che potrebbe aspettarli: amici e nemici passati, ricompense o punizioni per le azioni compiute in vita o altri più inconsueti panorami. Questo momento cambia chiunque — anche quelli che scampano alla Morte.
+L’*ultimo respiro* è quel momento che si frappone tra la vita e la morte. Il tempo si ferma, e la Morte appare per rivendicare le anime dei vivi. Anche coloro che non oltrepassano i Neri Cancelli riescono a vedere uno scorcio dell’aldilà e di ciò che potrebbe aspettarli: amici e nemici passati, ricompense o punizioni per le azioni compiute in vita o altri più inconsueti panorami. Questo momento cambia chiunque, anche quelli che scampano alla Morte.
 
 Ci sono tre esiti di questa mossa. ✴Con un 10+, il personaggio l’ha fatta franca alla morte in qualche modo significativo. È fuggito via con qualcosa che, di diritto, non è più suo. La Morte non ha il potere di fermare questa cosa, ma si ricorderà lo sgarbo. ✴Con un 7–9, il GM dovrebbe offrire una vera scelta con delle conseguenze significative. Pensa al comportamento del personaggio e a ciò che hai imparato di lui durante il gioco. La Morte sa e vede tutto e confeziona i suoi accordi su misura per ciascuno. Ricorda, questo è uno scambio. Offri qualcosa che sarà una sfida da portare a termine ma che condurrà il gioco in nuove emozionanti direzioni. ✴Con un fallimento, la morte è inevitabile. L’approccio più semplice è dire «La Morte ti conduce attraverso la soglia che conduce al suo regno tetro» e andare avanti. A volte, però, la Morte arriva lentamente. Potresti dire «hai una settimana da vivere» oppure «riesci a sentire la fredda mano della Morte su di te...» e lasciar le cose così, per ora. Il giocatore dovrà arrendersi e accettare la morte a questo punto — va bene. Fagli creare un nuovo personaggio come di norma. La cosa fondamentale da ricordare è che sfiorare la morte, che si sfugga o si cada tra le sue grinfie, è un momento significativo che dovrebbe sempre condurre a un cambiamento.
 
@@ -512,3 +512,4 @@ Civilizzato significa solitamente i villaggi, i paesi e le città degli uomini, 
 
 Quando **passi il tuo tempo libero a studiare, meditare o allenarti duramente,** ottieni addestramento. Se ti prepari per una settimana o più, ottieni addestramento 1. Se ti prepari per un mese o più, ottieni invece addestramento 3. Quando la preparazione ti torna utile, spendi 1 addestramento per avere +1 a qualsiasi tiro. Puoi spendere 1 addestramento al massimo per tiro.
 
+---

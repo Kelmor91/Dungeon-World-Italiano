@@ -1,5 +1,5 @@
 ---
-title: Esempio di Partita
+title: Esempio di Gioco
 layout: default
 ---
 Sto facendo il GM in una partita con Marco (che gioca Omar), Paolo (che gioca Brianne), Amanda (Nora) e Daniele (Rath). Il gruppo è incappato in una tribù di goblin che si prepara a sacrificare un raro e prezioso esemplare di coccodrillo albino (razza tenuta in gran considerazione come animale da compagnia dai facoltosi della città).
@@ -69,4 +69,3 @@ Do un altro sguardo alle mie note ed alla mappa, per assicurarmi di fornirgli tu
 Marco riflette "Allora, potrei provare ad andarmene sfidando il pericolo, a quanto pare. Oppure... Strappo un pezzo del mio mantello e lo inzuppo versandoci una intera dose del mio veleno di radice dorata. È un veleno *applicato* ma se riesco a farlo inghiottire a questo gigantesco coccodrillo prima che lui inghiotta me, mi considererà un compagno fidato, e potrò sfruttarlo contro i goblin."
 
 “Ok!” Sembra un piano pericoloso, ma abbastanza folle da funzionare. Tempo di tornare su qualcun altro. “Omar sta inzuppando di veleno un pezzo del suo mantello, Brianne si sta facendo scorticare da tre goblin drogati, Nora sta cercando di localizzare Omar, ci sono goblin che stanno muovendosi di soppiatto nell’ombra, un goblin arciere vicino all’altare, il coccodrillo si sta svegliando e Rath si è appena preso una freccia nel ginocchio. Wow. Rath che hai intenzione di fare riguardo a quella freccia?”
-
