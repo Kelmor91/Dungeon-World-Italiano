@@ -28,7 +28,7 @@ Queste sono le etichette generali applicabili a più o meno qualunque oggetto. L
 
 *Lento:* Ci vogliono minuti o più per usarlo.
 
-*Tocco:* Si usa mettendolo a contatto con la pelle del bersaglio.
+*A contatto:* Si usa mettendolo a contatto con la pelle del bersaglio.
 
 *A due mani:* Ci vogliono due mani per usarlo efficacemente.
 
@@ -194,11 +194,11 @@ Quando fumi l’erba pipa dei Mezzuomini con qualcuno, spendi due utilizzi e pre
 
 Il bersaglio cade in un sonno leggero.
 
-**Erba Sanguigna** *pericoloso, tocco, 12 monete, peso 0*
+**Ambrosia Rossa** *pericoloso, tocco, 12 monete, peso 0*
 
 Finché non viene curato, quando l’avvelenato tira i danni, tira un d4 aggiuntivo e sottrae il risultato dai suoi danni normali.
 
-**Radice Dorata** *pericoloso, applicato, 20 monete, peso 0*
+**Radiola Dorata** *pericoloso, applicato, 20 monete, peso 0*
 
 Il bersaglio tratta la prossima creatura che vede come un alleato fidato, finché non ha prova del contrario.
 
@@ -464,15 +464,15 @@ Un vecchio teschio, senza mascella e in pessime condizioni. Il teschio ricorda l
 
 **Chiave del Nottambulo** *peso 0*
 
-Questa chiave ti aprirà qualunque porta, purché tu abbia intenzione di andare dove non dovresti. Fintanto che non fai niente che farebbe notare la tua presenza a qualcun altro (rimanendo non udito, non visto e non notato) e portandoti fuori nient'altro che i tuoi ricordi, la magia della chiave farà in modo che la tua intrusione non sia mai scoperta. È come se non fossi mai stato lì.
+Questa chiave ti aprirà qualunque porta, purché tu abbia intenzione di andare dove non dovresti. Fintanto che non fai niente che farebbe notare la tua presenza a qualcun altro (senza farti vedere, notare o sentire) e portandoti fuori nient'altro che i tuoi ricordi, la magia della chiave farà in modo che la tua intrusione non sia mai scoperta. È come se non fossi mai stato lì.
 
 **Erbe Consacrate** *peso 0*
 
-Le erbe consacrate, raccolte e preparate da un ordine perduto di maghi monaci, possono essere rinvenute in fasci da due o tre utilizzi. Se tenute lontano dall’umidità, si conservano indefinitamente. Quando le si fuma in una pipa o le si consuma in un bruciatore da incenso, e si inala il denso fumo blu che esalano, queste erbe provocheranno bizzarre visioni di posti lontani in tempi lontani. Se ti concentri su una persona, un posto o una cosa in particolare, le erbe ti risponderanno: tira +SAG. ✴Con un 10+, la visione è limpida e utile, e ne ricavi delle valide informazioni. ✴Con un 7–9, la visione riguarda la cosa che cerchi, ma è poco chiara, piena di metafore o difficile da capire. ✴Con un fallimento, il GM ti chiederà: «Qual è la cosa che temi di più?». Devi rispondere con onestà, ovviamente.
+Le erbe consacrate, raccolte e preparate da un ordine perduto di maghi monaci, possono essere rinvenute in fasci da due o tre utilizzi. Se tenute lontano dall’umidità, si conservano indefinitamente. Quando le si fuma in una pipa o le si consuma in un bruciatore per incenso, e si inala il denso fumo blu che esalano, queste erbe provocheranno bizzarre visioni di posti lontani in tempi lontani. Se ti concentri su una persona, un posto o una cosa in particolare, le erbe ti risponderanno: tira +SAG. ✴Con un 10+, la visione è limpida e utile, e ne ricavi delle valide informazioni. ✴Con un 7–9, la visione riguarda la cosa che cerchi, ma è poco chiara, piena di metafore o difficile da capire. ✴Con un fallimento, il GM ti chiederà: «Qual è la cosa che temi di più?». Devi rispondere con onestà, ovviamente.
 
 **Anatra di Sartar** *peso 0*
 
-Una strana anatra di legno lavorata a mano. Chi avrebbe mai costruito un oggetto così ridicolo? Mentre lo tieni in mano, ti accorgi di diventare un raccontastorie di grande talento: non importa la lingua, puoi far capire te stesso e la tua storia a qualunque pubblico. Capiranno il significato, non le parole.
+Una strana anatra di legno lavorata a mano. Chi avrebbe mai costruito un oggetto così buffo? Mentre lo tieni in mano, ti accorgi di diventare un raccontastorie di grande talento: non importa la lingua, puoi far capire te stesso e la tua storia a qualunque pubblico. Anche se non capiranno le parole, capiranno il significato.
 
 **Lacrime di Annalise** *peso 0*
 
@@ -480,7 +480,7 @@ Gemme di un rosso torbido e della dimensione di un’unghia, le Lacrime di Annal
 
 **Stanza del Teletrasporto** *lento*
 
-James Nove Dita, un mago eccentrico e geniale, creò questi dispositivi magici delle dimensioni di una stanza. Una camera di pietra, incisa di rune e scarabocchi, che emette una debole luce blu. Quando entri e dici ad alta voce il nome di un luogo, tira+INT. ✴Con un 10+, arrivi esattamente dove volevi. ✴Con un 7–9, il GM sceglie un luogo sicuro lì vicino. ✴Con un fallimento, finisci da qualche parte. Forse lì vicino? Sicuramente non un posto sicuro. Strane cose a volte accadono a coloro che piegano il tempo e lo spazio con questi dispositivi.
+James Novedita, un mago eccentrico e geniale, creò questi dispositivi magici delle dimensioni di una stanza. Una camera di pietra, incisa di rune e scarabocchi, che emette una debole luce blu. Quando entri e dici ad alta voce il nome di un luogo, tira+INT. ✴Con un 10+, arrivi esattamente dove volevi. ✴Con un 7–9, il GM sceglie un luogo sicuro lì vicino. ✴Con un fallimento, finisci da qualche parte. Forse lì vicino? Sicuramente non un posto sicuro. Strane cose a volte accadono a coloro che piegano il tempo e lo spazio con questi dispositivi.
 
 **Armatura di Timunn** *armatura 1, peso 1*
 
@@ -498,9 +498,9 @@ Una corda che ascolta. Fa anche dei giochetti, come farebbe un serpente più int
 
 Forgiata da fabbri nanici lavoratori d’argento, questa mano di metallo lucidato a specchio è incisa profondamente di rune di potere e di rinvigorimento. Pensata per sostituire le braccia ferite o perdute durante gli incidenti in miniera, la Mano Argentata si lega alla ferita, che sia vecchia o nuova, ed è forte e resistente. Può essere usata come arma (portata *media*) ed è fatta di argento abbastanza puro da nuocere alle creature vulnerabili a questo metallo.
 
-**Guanti di Vellus** *peso 1*
+**Guanti di Vellius** *peso 1*
 
-Fabbricati in nome di Vellus l’Impacciato, Vellus Mani di Burro, Vellus lo Sciocco, questi guanti di semplice stoffa ti impediscono di lasciare qualunque oggetto dal quale tu non abbia intenzione di separarti. Non puoi essere disarmato e non cadrai da alcuna corda o scala, ad esempio. Questo oggetto può diventare particolarmente devastante se hai qualcosa di molto forte che ti tira le gambe mentre ti aggrappi a qualcosa di solido.
+Fabbricati in nome di Vellius l’Impacciato, Vellius Mani di Burro, Vellius lo Sciocco, questi guanti di semplice stoffa ti impediscono di lasciare qualunque oggetto dal quale tu non abbia intenzione di separarti. Non puoi essere disarmato e non cadrai da alcuna corda o scala, ad esempio. Questo oggetto può diventare particolarmente devastante se hai qualcosa di molto forte che ti tira le gambe mentre ti aggrappi a qualcosa di solido.
 
 **Falcione del Turbamento** *peso 2*
 
@@ -509,3 +509,6 @@ Una lama leggendaria che si dice sia stata lanciata indietro nel tempo e proveng
 **Spada Bigralace**, altresì detta **Spada Vorpal** *media, perforante 3, peso 2*
 
 Scric-scrac trinciava il bigralace brando! Affilata come nient’altro, questa spada apparentemente ordinaria serve a separare una cosa dall’altra: un braccio dal corpo, o una persona dalla sua vita. Quando infliggi danno con la Spada Vorpal, il tuo nemico deve scegliere qualcosa (un oggetto, un vantaggio, un arto) e perderlo, permanentemente.
+
+_Complimenti, hai finito di leggere la prima parte di Dungeon World! Se vuoi solo fare il giocatore, puoi fermarti qui, e magari leggere le classi presentate nell’[introduzione](/introduzione). Se hai intenzione di ricoprire il ruolo del GM, invece, [ti consigliamo di proseguire leggendo la sezione relativa.](/il-gm)_
+

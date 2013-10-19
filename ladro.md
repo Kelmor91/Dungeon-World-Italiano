@@ -9,6 +9,5 @@ Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma
 
 Dal tuo castello. Pieno d'oro. Furfante che non sei altro.
 
----
+**[Clicca qui per vedere la scheda del Ladro.](/pdf/ladro.pdf)**
 
-Il Ladro non è ancora stato tradotto dal team di dungeonworld.it. Puoi appoggiarti all'ottima **[traduzione di Luca Maiorani](/pdf/ladro.pdf)** nel frattempo.
