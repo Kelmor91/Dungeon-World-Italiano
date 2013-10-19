@@ -18,6 +18,6 @@ Lascia che ti guardino con occhi biechi. Lascia che ti chiamino stregone o negro
 
 Esatto. Non avevo dubbi.
 
----
+**[Clicca qui per vedere la scheda del Mago.](/pdf/mago.pdf)**
 
-Il Mago non è ancora stato tradotto dal team di dungeonworld.it. Puoi appoggiarti all'ottima **[traduzione di Luca Maiorani](/pdf/mago.pdf)** nel frattempo.
+**[Clicca qui per vedere gli incantesimi del Mago.](/pdf/mago-incantesimi.pdf)**

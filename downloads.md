@@ -14,5 +14,6 @@ Per comodo riferimento, vengono qui elencati tutti i materiali scaricabili e sta
 - [Scheda del Guerriero](/pdf/guerriero.pdf)
 - [Scheda del Ladro](/pdf/ladro.pdf)
 - [Scheda del Mago](/pdf/mago.pdf)
+- [Incantesimi del Mago](/pdf/mago-incantesimi.pdf)
 - [Scheda del Paladino](/pdf/paladino.pdf)
 - [Scheda del Ramingo](/pdf/ramingo.pdf)

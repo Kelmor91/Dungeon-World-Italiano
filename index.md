@@ -56,7 +56,7 @@ Sono stati tradotti i seguenti capitoli:
     	<li><a href="/druido">Il Druido</a> (traduzione di Luca Maiorani)</li>	
     	<li><a href="/guerriero">Il Guerriero <span class="label label-default">Completato!</span></a></li>	
     	<li><a href="/ladro">Il Ladro <span class="label label-default">Completato!</span></a></li>	
-    	<li><a href="/mago">Il Mago</a> (traduzione di Luca Maiorani)</li>	
+    	<li><a href="/mago">Il Mago <span class="label label-default">Completato!</span></a></li>	
     	<li><a href="/paladino">Il Paladino</a> (traduzione di Luca Maiorani)</li>	
     	<li><a href="/ramigo">Il Ramingo <span class="label label-default">Completato!</span></a></li>	
     </ul>
