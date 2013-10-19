@@ -14,4 +14,4 @@ Tu insegui cose più succulente di una casa tranquilla o di una manciata di mone
 
 Perchè nessuno di loro è forte come te. Nessuno.
 
-**[Clicca qui per vedere la scheda del barbaro.](/pdf/barbaro.pdf)**
+**[Clicca qui per vedere la scheda del Barbaro.](/pdf/barbaro.pdf)**
