@@ -15,7 +15,7 @@ layout: default
 
 Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo di [Adam Koebel][adam] e [Sage Latorra][sage], vincitore del premio **Best Rules** agli ENnies 2013! Dungeon World è derivato dal Mondo dell'Apocalisse di Vincent Baker: Adam e Sage hanno preso il sistema di Baker e l'hanno adattato, superando l'originale in popolarità e successo, a un'estetica fantasy simile a quella proposta dai più popolari giochi di ruolo in commercio.
 
-**Ecco come lo vende proprio Adam Koebel, coprogettista del gioco:**
+**Ecco come lo presenta proprio Adam Koebel, coprogettista del gioco:**
 
 > Alle persone abituate ad altri giochi di ruolo, di solito chiedo: «Raccontami dell'ultima volta che hai giocato ad AD&D / Pathfinder / D&D 4E, e poi li ascolto mentre ricordano. Mi raccontano della loro **fantastica avventura**: nemici sconfitti con noncuranza, salti rocamboleschi su precipizi, e quell'idea geniale dell'ultimo minuto che ha salvato il gruppo. Quando hanno finito, gli faccio notare che non si sono ricordati le regole, ma ciò che è **avvenuto durante il gioco** ai personaggi. Si ricordano la *fiction*, gli eventi, la storia.
 > 
@@ -25,7 +25,7 @@ Vi rimando all'[Introduzione](introduzione) per una descrizione più approfondit
 
 # Perché una traduzione?
 
-Ho deciso di fare questa traduzione per aiutare a diffondere Dungeon World nel mio paese natìo, l'Italia. Il lavoro è indipendente e anteriore a quello effettuato da [Narrattiva](www.narrattiva.it) e si pone come alternativa gratuitamente consultabile online. Qui **[il glossario delle differenze](/glossario)** con la loro edizione di Dungeon World.
+Ho deciso di fare questa traduzione per aiutare a diffondere Dungeon World nel mio paese natìo, l'Italia. Il lavoro è indipendente e anteriore a quello effettuato da [Narrattiva](www.narrattiva.it) (con cui non siamo associati) e si pone come alternativa gratuitamente consultabile online. Qui **[il glossario delle differenze](/glossario)** con la loro edizione di Dungeon World.
 
 Considero questo sito una risorsa pubblica, e il testo completo è disponibile su [github][git], come il gioco in lingua originale. Chiunque è libero di mandarmi un'email o un messaggio su Google+ ([visita la nostra community][community]) per segnalarmi un errore o suggerirmi delle traduzioni migliori, e prometto che risponderò e mi metterò in discussione con ciascuno.
 
@@ -56,8 +56,8 @@ Sono stati tradotti i seguenti capitoli:
     	<li><a href="/druido">Il Druido</a> (traduzione di Luca Maiorani)</li>	
     	<li><a href="/guerriero">Il Guerriero <span class="label label-default">Completato!</span></a></li>	
     	<li><a href="/ladro">Il Ladro <span class="label label-default">Completato!</span></a></li>	
-    	<li><a href="/mago">Il Mago <span class="label label-default">Completato!</span></a></li>	
-    	<li><a href="/paladino">Il Paladino</a> (traduzione di Luca Maiorani)</li>	
+    	<li><a href="/mago">Il Mago <span class="label label-success">Completato!</span></a></li>	
+    	<li><a href="/paladino">Il Paladino <span class="label label-success">Completato!</span></a></li>	
     	<li><a href="/ramigo">Il Ramingo <span class="label label-default">Completato!</span></a></li>	
     </ul>
 	<li>Parte III, <b>Fare il GM</b></li>

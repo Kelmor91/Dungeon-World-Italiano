@@ -16,6 +16,4 @@ Perciò guida questi sciocchi, paladino. Imbraccia le armi per la tua nobile cau
 
 Vae victis, giusto?
 
----
-
-Il Paladino non è ancora stato tradotto dal team di dungeonworld.it. Puoi appoggiarti all'ottima **[traduzione di Luca Maiorani](/pdf/paladino.pdf)** nel frattempo.
+**[Clicca qui per vedere la scheda del Paladino.](/pdf/paladino.pdf)**
