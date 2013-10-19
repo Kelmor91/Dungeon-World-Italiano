@@ -33,6 +33,8 @@ Considero questo sito una risorsa pubblica, e il testo completo è disponibile s
 
 La traduzione è **quasi completa**, mancano solo i capitoli relativi alle ambientazioni mostruose. È comunque presente tutto il necessario per iniziare a giocare!
 
+Oltre alle schede delle classi, sono disponibili le schede delle [mosse base](pdf/mosse.pdf) e del [riassunto del gm](pdf/gm.pdf), dell'ottima traduzione di Luca Maiorani. Differiscono leggermente dalla nostra traduzione, ma verranno adattati a tempo debito. Cominciate a usarli per giocare!
+
 Sono stati tradotti i seguenti capitoli:
 
 <ul>

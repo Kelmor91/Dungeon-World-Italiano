@@ -1,511 +1,330 @@
 ---
-title: Equipaggiamento
+title: Il GM
 layout: default
 ---
-Le tombe ammuffite e i tesori dimenticati e riscoperti del mondo sono colmi di oggetti utili. Il guerriero potrebbe trovare una spada nuova e affilata, oppure il ladro potrebbe trovare per caso un veleno mortale. La maggior parte degli oggetti sono ordinari:né magici né intrinsecamente unici in alcun modo. Qualunque oggetto che sia magico o unico nel suo genere non è ordinario ai fini delle mosse. L’arma caratteristica del guerriero non è mai ordinaria.
+Ci sono molti e diversi generi di fantasy, ognuno con il suo stile e i suoi consigli per fare il GM. Dungeon World è progettato, in particolare, per uno di questi stili: un mondo di elfi, orchi, draghi e magia dove oscuri pericoli si mescolano con avventure scanzonate. Le regole di questo capitolo ti aiuteranno a dirigere il gioco in questo stile.
 
-Ciascuno degli oggetti che compongono l’equipaggiamento avrà un certo numero di etichette. Le etichette spiegano come l’equipaggiamento influenzi il personaggio che lo usa (come *+armatura*) o indicano il modo in cui devono essere usati (come le etichette di Portata). Come ogni cosa in Dungeon World, le etichette guidano la creazione della fiction durante il gioco. Se un’arma è *scomoda*, potrebbe significare che è più probabile che tu la faccia cadere quando fallisci quel tiro di *taglia e spacca*.
+I personaggi hanno delle regole da seguire quando tirano i dadi e agiscono. Anche il GM ha delle regole da seguire. Dovrai arbitrare, fare da giudice e descrivere il mondo man mano che procedi — Dungeon World ti offre una struttura per aiutarti a fare proprio questo.
 
-Questa non è affatto una lista completa: sentitevi liberi di creare le vostre etichette.
+Ciò che troverai in questo capitolo non sono consigli per il GM o dei suggerimenti facoltativi per aiutarti a giocare meglio a Dungeon World. Questo capitolo presenta le regole e le procedure da seguire per chiunque ricopra il ruolo di GM.
 
-# Etichette Generali dell’Equipaggiamento
+# Fare il GM di Dungeon World: Una Struttura
 
-Queste sono le etichette generali applicabili a più o meno qualunque oggetto. Le vedrai su armature, armi o altra attrezzatura generica da avventuriero.
+Dirigere una partita di Dungeon World si basa su tre cose: gli **obiettivi**, i **princìpi** e le **mosse** del GM. Gli obiettivi sono ciò che hai intenzione di fare quando ti siedi al tavolo. I princìpi sono le linee guida che ti fanno restare concentrato sugli obiettivi. Le mosse del GM sono le cose concrete che fai, momento per momento, per far procedere il gioco. Farai le mosse quando i PG falliscono i tiri, quando le regole lo richiedono, e quando i giocatori ti guardano per sapere che succede. Le tue mosse devono mantenere la fiction in accordo con se stessa e l'azione del gioco in costante movimento.
 
-*Applicato:* Ha effetto solo quando viene applicata con attenzione a una persona, o a qualcosa da bere o da mangiare.
+Gli obiettivi del GM, i princìpi e le mosse sono regole come lo sono i danni, le capacità o i PF. Devi avere la stessa cautela ad alterarle o ignorarle che avresti con qualunque altra regola.
 
-*Scomodo:* È poco maneggevole e difficile da usare.
+# Come fare il GM
 
-*+Bonus*: Modifica la tua efficacia in una determinata situazione. Potrebbe essere «+1 al prossimo tiro di *declamare conoscenze*» oppure «-1 continuato a *taglia e spacca*».
+Quando ti siedi al tavolo come GM fai queste cose:
 
-*n monete:* Quanto costa comprarlo normalmente. Se il costo include "-Carisma", negoziando un po’ si può sottrarre il punteggio di Carisma (non il modificatore) dal prezzo.
+* Descrivi la situazione
+* Segui le regole
+* Fai delle mosse
+* Sfrutta ciò che hai preparato
 
-*Pericoloso:* È facile che ti causi dei problemi. Se ci interagisci senza le opportune precauzioni il GM può invocare liberamente le conseguenze delle tue sciocche azioni.
+I giocatori hanno la vita un po' più facile—semplicemente dicono ciò che i loro personaggi dicono, pensano e fanno. Per te è un po' più difficile. Tu devi descrivere tutto il resto. Che cosa comporta questo?
 
-*Razione:* È commestibile, più o meno.
+Prima di tutto, devi **sempre descrivere la situazione in cui si trovano i giocatori**. In questo modo inizi una sessione, fai ripartire il gioco dopo la pausa merenda, riprendi il filo dopo una battuta divertente: di' loro qual'è la situazione, in termini concreti.
 
-*Richiede:* È utile solo ad alcune persone. Se non soddisfi i requisiti funziona male, o non funziona affatto.
+Usa il dettaglio e i loro sensi per coinvolgerli. La situazione non è semplicemente un orco che ti corre incontro, è un orco bagnato di sangue che agita un martello lanciando grida omicide. Puoi far leva anche sulla mancanza di informazioni. Il suono dello strascicare di piedi o il clangore di un'armatura, per esempio.
 
-*Lento:* Ci vogliono minuti o più per usarlo.
+La situazione che li circonda non è quasi mai "va tutto bene, nulla di cui preoccuparsi". Si tratta di avventurieri in cerca di avventura—da' loro qualcosa a cui reagire.
 
-*Tocco:* Si usa mettendolo a contatto con la pelle del bersaglio.
+Quando descrivi la situazione, concludi sempre con "Che cosa fai?". Dungeon World significa azione e avventura! Dipingi una situazione che esiga una risposta.
 
-*A due mani:* Ci vogliono due mani per usarlo efficacemente.
+Sin dall'inizio, assicurati di **seguire le regole**. Questo vale per le regole del GM, certo, ma tieni anche d'occhio le mosse dei giocatori. È responsabilità di tutti accorgersi di quando le mosse vengono attivate, te incluso. Ferma i giocatori e chiedigli se hanno davvero intenzione di attivare le regole, se sembra che ciò che stanno per fare lo richieda.
 
-*Peso n:* Aggiungi il peso indicato al totale da confrontare con il tuo carico massimo quando trasporti l’oggetto. Se non è indicato alcun peso l’oggetto non è fatto per essere trasportato. 100 monete nei tagli più comuni pesano 1. Lo stesso valore in gemme o in opere d’arte potrebbe pesare di più o di meno.
+Parte di seguire le regole è **fare le mosse**. Le tue mosse sono diverse da quelle dei PG e le descriveremo in dettaglio tra un secondo. Le tue mosse sono azioni specifiche che puoi fare per cambiare il corso del gioco.
 
-*Indossato:* Per usarlo, devi indossarlo.
+In ogni caso, **sfrutta ciò che hai preparato**. A volte saprai qualcosa che i giocatori non sanno ancora. Puoi usare questi dati per aiutarti a fare le mosse. Ad esempio, il mago potrebbe lanciare un incantesimo e attirare attenzioni indesiderate. Lui non sa che queste attenzioni sono lo sguardo infausto di un demone che li aspetta due piani più in basso, ma tu sì.
 
-*n Usi:* Può essere usato solo *n* volte.
+# **Obiettivi**
 
-# Armi
+I tuoi obiettivi sono le cose che devi sempre cercare di fare mentre fai il GM a Dungeon World:
 
-Le armi non uccidono i mostri, lo fanno le persone. È per questo che le armi di Dungeon World non hanno un danno assegnato. Un’arma è usata principalmente per le sue etichette, che descrivono a che cosa è più utile l’arma. Un pugnale non è utile perché fa più danni di una qualche altra arma. È utile perché è piccolo e facile da utilizzare a distanza ravvicinata. Un pugnale nelle mani di un mago non è nemmeno lontanamente pericoloso come quello nelle mani di un guerriero esperto.
+* Dipingi un mondo fantastico
+* Riempi di avventura le vite dei personaggi
+* Gioca per scoprire cosa accadrà
 
-## Etichette delle Armi
+Tutto ciò che fai e dici al tavolo (e lontano dal tavolo) esiste per perseguire questi obiettivi e nessun altro. Altre cose non sulla lista non sono i tuoi obiettivi. Non stai cercando di sconfiggere i giocatori né di mettere alla prova la loro abilità a risolvere indovinelli e trappole. Non sei qui per permettere ai giocatori di esplorare la tua fantastica ambientazione. Non stai cercando di uccidere i personaggi (anche se i mostri potrebbero). Non sei certamente qui per raccontare a tutti una storia già scritta.
 
-Le armi potrebbero avere delle etichette che esistono principalmente per aiutarti a descriverle (come *arrugginita *o *luminescente*) ma queste etichette hanno un preciso effetto meccanico.
+Il tuo primo obiettivo è di **dipingere un mondo fantastico**. Dungeon world significa istinto, astuzia e coraggio contro l'oscurità e la sventura. Significa personaggi che hanno deciso di intraprendere una vita di avventure sperando in qualche magnifica ricompensa. Il tuo compito è di partecipare a tutto questo mostrando ai giocatori un mondo dove i loro personaggi possano trovare queste avventure. Senza i personaggi giocanti il mondo potrebbe finire nel caos e nella distruzione—potrebbe farlo anche con il loro aiuto. Sta a te ritrarre gli elementi fantastici di quel mondo. Mostra ai giocatori le meraviglie del mondo che attraversano e incoraggia le loro risposte.
 
-*n Munizioni:* Conta come munizioni per le appropriate armi a distanza. Il numero indicato non rappresenta il numero di singole frecce o pietre, ma un'indicazione generale di quanto hai a portata di mano.
+**Riempire di avventura le vite dei personaggi** significa lavorare insieme ai giocatori per creare un mondo avvincente e dinamico. Le avventure sono sempre incastrate in qualche pericolo da fine del mondo—incoraggia e promuovi questo tipo di dinamiche nel gioco.
 
-*Possente*: Può spingere qualcuno indietro di un passo, facendolo addirittura cadere.
+Le avventure di Dungeon World non presumono **mai** ciò che faranno i PG. Un'avventura di Dungeon World ritrae un'ambientazione in movimento—qualche posto importante pieno di creature grandi e piccole che perseguono i propri, diversi, obiettivi. Quando i giocatori entrano in conflitto con l'ambientazione e i suoi abitanti, il sorgere dell'azione è inevitabile. Dovrai onestamente descrivere le conseguenze di tale azione.
 
-*+n Danni*: È particolarmente dannosa per i tuoi nemici. Quando infliggi danno, aggiungi ad esso *n*.
+È in questo modo che si **gioca per scoprire cosa accadrà**. Sei coinvolto anche tu nel divertimento di scoprire come i personaggi reagiranno e cambieranno il mondo che stai rappresentando. Siete tutti partecipanti nella grande avventura che sta per svolgersi. Quindi, non fare troppi progetti per il futuro, o le regole ti ostacoleranno. Fidati, è più divertente scoprire le cose mentre accadono.
 
-*Ignora Armatura*: Il bersaglio non sottrae l’armatura dai danni ricevuti.
+# **Princìpi**
 
-*Devastante*: Infligge danno in modo particolarmente distruttivo, riducendo in brandelli cose e persone.
+* Disegna mappe, lascia spazi da riempire
+* Rivolgiti ai personaggi, non ai giocatori
+* Fai tuo ciò che è fantastico
+* Fai una mossa che abbia senso
+* Non pronunciare mai il nome della tua mossa
+* Rendi vivo ogni mostro
+* Dai un nome a ogni persona
+* Fai domande e usa le risposte
+* Sii un fan dei personaggi
+* Pensa pericoloso
+* Inizia e finisci con la fiction 
+* Pensa ai retroscena
 
-*n Perforante*: Attraversa completamente l'armatura. Quando infliggi danno *n* perforante, sottrai *n* dall'armatura del nemico per questo attacco.
+I tuoi princìpi sono le tue linee guida. Spesso, quando dovrai fare una mossa, avrai già un'idea di che cosa sia più appropriato. Consideralo alla luce dei princìpi e, se opportuno, usalo.
 
-*Precisa*: Premia gli attacchi accurati. Usi DES per *tagliare e spaccare* con quest'arma, non FOR.
+## Disegna mappe, lascia spazi da riempire
 
-*Ricarica*: Dopo che l'hai usata per attaccare, ci vuole un po' di tempo per prepararla di nuovo all'uso.
+Dungeon World esiste principalmente nella fantasia delle persone che ci giocano; le mappe aiutano tutti a stare sulla stessa lunghezza d'onda. Non le disegnerai sempre tu, ma assicurati che ogni volta che visitate un luogo venga segnato sulla mappa.
 
-*Stordimento*: Quando la usi per attaccare, infligge danni da stordimento invece che danni normali.
+Quando disegni la mappa, non dev'essere completa. Lascia spazio per l'ignoto. Mentre giochi ti verranno altre idee e i giocatori ti daranno l'ispirazione per lavorarci sopra. Lascia che le mappe si espandano e cambino.
 
-*Da Lancio*: Lanciala a qualcuno per fargli del male. Se usi*raffica* con quest'arma, non puoi scegliere di spendere un punto di munizioni con un 7–9; una volta lanciata, è persa finché non riesci a recuperarla.
+## Rivolgiti ai personaggi, non ai giocatori
 
-Le armi hanno delle etichette per indicare la portata alla quale possono essere usate. Dungeon World non infligge penalità o assegna bonus per la «distanza ideale» o cose simili, ma se la tua arma è *corta* e il nemico è lontano dieci metri, ti sarà difficile spiegare come puoi usare quell'arma contro di lui.
+Rivolgersi ai personaggi e non ai giocatori significa che invece di dire "Alberto, cosa fa Dunwick con lo spettro?" dirai "Dunwick, cosa fai con lo spettro?". Parlare in questo modo aiuta a mantenere il gioco concentrato sulla fiction e non sul tavolo. In aggiunta, è importante per il flusso del gioco. Se parli ai giocatori potresti tralasciare dei dettagli importanti per scegliere quali mosse fare. Siccome le mosse sono sempre basate sulle azioni dei personaggi, devi pensare a cosa sta accadendo in termini di personaggi—non dei giocatori che li interpretano.
 
-*Corta*: È efficace per attaccare qualcuno che puoi raggiungere con le mani, e non oltre.
+## Fai tuo ciò che è fantastico
 
-*Media* È efficace per attaccare qualcuno alla distanza di un braccio, più circa mezzo metro.
+Magia, panorami esotici, dèi, demoni e abomini: il mondo è pieno di mistero e magia. Fai tutto ciò tuo mentre ti prepari e durante il gioco. Pensa al "fantastico" su vari livelli. Pensa a città volanti o isole create dal corpo di un dio morto. Pensa a saggi rurali e ai loro famigli spiritici o alla statua che i banditi del luogo toccano come portafortuna. I personaggi sono gente interessante, che prendono il loro potere dagli dèi, dalla loro abilità con le armi, o dal loro addestramento mistico. Il mondo dovrebbe essere altrettanto avvincente.
 
-*Lunga*: È utile per attaccare qualcuno lontano un paio di metri — magari anche tre.
+## Fai una mossa che abbia senso
 
-*Vicino*: È efficace per attaccare qualcuno di cui riesci a vedere il bianco degli occhi.
+Quando fai una mossa, quello che stai facendo è prendere un elemento della fiction e portarlo a scontrarsi con i personaggi. La tua mossa dovrebbe sempre conseguire dalla fiction. Le mosse ti fanno concentrare su un punto della situazione attuale per sfruttarlo e fare qualcosa di interessante. Che sta succedendo? Che mossa ha senso fare qui?
 
-*Lontano*: È efficace per attaccare qualcuno a una distanza a cui ci si può sentir urlare.
+## Non pronunciare mai il nome della tua mossa
 
-## Lista di Armi
+Non c'è modo migliore di rovinare la coerenza di Dungeon World che dire ai giocatori quale mossa stai facendo. Le mosse sono delle indicazioni per te, non cose che dici ad alta voce.
 
-Le statistiche qua sotto sono per gli oggetti più comuni. Possono esserci, ovviamente, delle variazioni sul tema. Una spada lunga poco affilata potrebbe avere *-1 danni* mentre un pugnale di ottima forgia potrebbe avere *+1 danni*. Considera i seguenti come gli attributi di un'arma comune di quel tipo — un'arma specifica potrebbe avere delle etichette diverse per rappresentare le sue particolarità.
+Non devi mai mostrare ai giocatori che stai prendendo una mossa da una lista. Sai che la ragione per cui gli schiavisti hanno trascinato via Omar è perché hai fatto la mossa "metti qualcuno in difficoltà", ma lo mostri ai giocatori come una conseguenza diretta delle loro azioni, perché lo è.
 
-**Arco Logoro** *vicino, 15 monete, peso 2*
+## Dai vita a ogni mostro
 
-**Arco Pregiato** *vicino, lontano, 60 monete, peso 2*
+I mostri sono creature fantastiche, ciascuno con le proprie motivazioni, che siano semplici o complesse. Insisti sui dettagli di ogni mostro per renderlo vivo: odore, vista, udito. Dai ad ognuno abbastanza dettaglio da farlo sembrare reale, ma non disperarti quando viene sconfitto o riempito di botte. È ciò che fanno i PG, d'altronde.
 
-**Arco da Cacciatore** *vicino, lontano, 100 monete, peso 1*
+## Dai un nome ad ogni persona
 
-**Balestra** *vicino, +1 danni, ricarica, 35 monete, peso 3*
+Qualunque persona con cui i giocatori parlano ha un nome. Probabilmente, ha anche una personalità e degli obiettivi propri, ma puoi inventarteli mentre giochi. Inizia con il nome. Il resto verrà da sé.
 
-**Fascio di Frecce** *munizioni 3, 1 moneta, peso 1*
+## Fai domande e usa le risposte
 
-**Frecce Elfiche** *munizioni 4, 20 monete, peso 1*
+Giocare per scoprire cosa accadrà significa anche non conoscere esattamente tutto, e avere un po' di curiosità. Se non sai qualcosa, o ti manca l'idea giusta, fai una domanda ai giocatori e usa la risposta.
 
-**Randello, Shillelagh** *media, 1 moneta, peso 2*
+La domanda più facile è "Che cosa fai?". Ogni volta che fai una mossa, termina dicendo "Che cosa fai?". Non devi nemmeno chiedere alla persona contro la quale hai fatto la mossa. Cogli l'occasione di spostare i riflettori da qualche altra parte: "L'incantesimo di Rath è dissolto con un colpo di bacchetta del mago nemico. Finnegan, quell'incantesimo stava aiutando te. Che cosa fai ora che non c'è più?".
 
-**Bastone** *media, a due mani, 1 moneta, peso 1*
+## Sii un fan dei personaggi
 
-**Daga, Coltello, Pugnale** *corta, 2 monete, peso 1*
+Pensa ai PG come ai protagonisti di una storia che potresti vedere in TV. Esulta per le loro vittorie e piangi per le loro sconfitte. Non sei qua per spingerli in una direzione o nell'altra, ma solamente per avere una parte nella fiction che tratta di loro e delle loro azioni.
 
-**Pugnale da Lancio** *vicino, da lancio, 1 moneta, peso 0*
+## Pensa pericoloso
 
-**Spada Corta, Ascia, Martello da Guerra, Mazza** *media, 8 monete, peso 1*
+Qualunque cosa nel mondo è un bersaglio. Devi pensare come un signore del male: nessuna vita ha valore e nulla è sacro. Ogni cosa può essere messa in pericolo, ogni cosa può essere distrutta. Niente di ciò che crei è mai protetto. Ogni volta che il tuo sguardo cade su qualcosa che hai creato, pensa a come può essere messa in pericolo, sgretolarsi e crollare. Il mondo cambia. Senza l'intervento dei personaggi, cambia in peggio.
 
-**Lancia** *lunga, da lancio, vicino, 5 monete, peso 1*
+## Inizia e finisci con la fiction 
 
-**Spada Lunga, Ascia da Battaglia, Mazzafrusto** *media, +1 danni, 15 monete, peso 2*
+Tutto ciò che tu e i giocatori fate in Dungeon World è causa e conseguenza di avvenimenti nella fiction. Quando i giocatori fanno una mossa, descrivono un evento nella fiction per attivarla, applicano le regole, e ottengono da queste un effetto nella fiction. Quando tu fai una mossa essa ha sempre base nella fiction.
 
-**Alabarda** *lunga, +1 danni, a due mani, 9 monete, peso 2*
+## Pensa ai retroscena
 
-**Spada a Striscia, Fioretto** *media, precisa, 25 monete, peso 1*
+Solo perché sei un fan dei personaggi non significa che tutto debba accadere di fronte a loro. A volte la mossa migliore che puoi fare è nella stanza adiacente, o in un'altra parte del dungeon, o anche più indietro, in città. Fai la tua mossa altrove e mostra i suoi effetti quando finiscono sotto i riflettori.
 
-**Spada da Duellante** *media, perforante 1, precisa, 50 monete, peso 2*
+# Mosse
 
-# Armatura
+Quando tutti ti guardano per sapere cosa succede scegli una di queste. Ogni mossa è qualcosa che accade nella fiction del gioco—non sono parole in codice o terminologia specifica. Ad esempio, "Consuma le loro risorse" significa letteralmente che devi far spendere ai personaggi le loro risorse.
 
-L’armatura è pesante, difficile da indossare e dannatamente scomoda. Alcune classi sono meglio addestrate a ignorare questi inconvenienti, ma chiunque può indossare un’armatura completa e godere dei suoi benefici.
+* Usa la mossa di un mostro, un pericolo, o un luogo.
+* Rivela una verità sgradita
+* Mostra i segni di una minaccia incombente
+* Infliggi danno
+* Consuma le loro risorse
+* Rivoltagli contro le loro mosse
+* Separali
+* Crea un'opportunità appropriata alle capacità di una classe
+* Mostra il lato negativo delle loro classi, razze o oggetti
+* Offri un'opportunità, con o senza un costo
+* Metti qualcuno in difficoltà
+* Spiega le conseguenze o il prezzo da pagare e chiedi di nuovo
 
-## Etichette delle Armature
+Non dire mai il nome delle mosse che fai (è uno dei tuoi princìpi). Fai in modo che sia una cosa reale che accade ai personaggi: "Mentre schivi la mazza dell'ogre che torreggia su di te, scivoli e cadi sul duro. La tua spada si perde nell'oscurità. Pensi di aver visto dov'è andata a finire ma l'ogre sta avanzando verso di te. Che cosa fai?".
 
-Le armature, come le armi, hanno delle etichette, Alcune sono unicamente descrittive, ma quelle qua sotto hanno degli effetti meccanici sul giocatore che le indossa.
+Non importa che mossa tu faccia, concludi sempre con "Che cosa fai?". Le tue mosse sono un modo per perseguire i tuoi obiettivi, uno dei quali è riempire di avventura la vita dei personaggi. Quando un incantesimo impazzisce o il pavimento gli scompare da sotto i piedi, gli avventurieri devono reagire o soffire le conseguenze dell'inazione.
 
-*Armatura n*: Ti protegge dalle ferite e assorbe i danni. Quando subisci danni, sottrai la tua armatura dal totale. Se hai più di un oggetto con *armatura n*, conta solo quello con il valore più alto.
+## Quando Fare una Mossa
 
-*+n Armatura*: Ti protegge e il suo effetto è cumultivo con il resto dell’armatura. Aggiungi questo valore alla tua armatura totale.
+Fai una mossa:
 
-*Ingombrante*: è difficile muoversi con quest’armatura addosso. Prendi -1 continuato fintanto che la usi. Questa penalità è cumulativa.
+* Quando tutti ti guardano per sapere cosa succede
+* Quando i giocatori ti danno un'opportunità d'oro
+* Quando tirano un 6-
 
-## Lista delle Armature
+Solitamente, quando i giocatori ti guardano per sapere cosa succede fai una mossa leggera, in caso contrario fai una mossa pesante.
 
-**Cuoio Rigido, Maglia di Ferro** *armatura 1, indossato, 10 monete, peso 1*
+Una mossa leggera è una mossa che non ha conseguenze immediate e irreversibili. Solitamente significa che è qualcosa di non completamente negativo, ad esempio mostrare ulteriori ricchezze da conquistare oltrepassando un golem (offrire un'opportunità con un costo). Può anche significare che è qualcosa di negativo, ma hanno il tempo di evitarlo, ad esempio far scagliare una raffica di freccie a dei goblin arcieri (mostra i segni di una minaccia incombente) con la possibilità di schivarle e allontanarsi dal pericolo.
 
-**Scaglie** *armatura 2, indossato, ingombrante, 50 monete, peso 3*
+Ignorare una mossa leggera diventa un'opportunità d'oro per fare una mossa pesante. Se i giocatori non fanno nulla mentre il nugolo di frecce li raggiunge, è un'opportunità d'oro per usare la mossa *infliggi danno*.
 
-**Piastre** *armatura 3, indossato, ingombrante, 350 monete, peso 4*
+Le mosse pesanti, al contrario, hanno delle conseguenze immediate. Infliggere danni è quasi sempre una mossa pesante, perché si tratta una perdita di PF che non potrà essere colmata senza intervento da parte dei giocatori.
 
-**Scudo** *+1 armatura, 15 monete, peso 2*
+Quando hai la possibilità di fare una mossa pesante puoi fare una mossa leggera al suo posto, se è più appropriata alla situazione. A volte le cose si risolvono per il meglio.
 
-# Attrezzatura da Dungeon
+## Scegliere una Mossa
 
-**Attrezzatura da Avventuriero** *5 utilizzi, 20 monete, peso 1*
+Per scegliere una mossa, inizia considerando le conseguenze ovvie dell'evento che l'ha attivata. Se hai già un'idea, pensaci un attimo e assicurati che si conformi ai tuoi obiettivi e principi, poi prosegui. **Lascia che le tue mosse influenzino le mosse successive**. Costruisci sul successo o sul fallimento delle mosse dei personaggi e sulle tue stesse mosse.
 
-Gli strumenti da avventuriero sono una raccolta di oggetti comuni e utili, come gesso, aste, spuntoni, corde, etc. Quando frughi nei tuoi strumenti da avventuriero per cercare un oggetto comune e utile, lo trovi e spendi un utilizzo.
+Se il tuo primo istinto è di non fargli del male ora, ma di sorprenderli più tardi, ottimo! È parte dei tuoi principi (pensa ai retroscena). Prendine nota e rivelalo al momento giusto.
 
-**Bende** *3 utilizzi, lento, 5 monete, peso 0*
+## Fare la Mossa
 
-Quando hai qualche minuto per bendare le ferite di qualcuno, guarisci 4 danni e spendi un utilizzo.
+Quando fai una mossa, tieni a mente i tuoi principi. In particolare, non pronunciare mai il nome della tua mossa e rivolgiti ai personaggi, non ai giocatori. Le tue mosse non sono azioni meccaniche che avvengono al tavolo. Sono eventi concreti che avvengono ai personaggi nel mondo della fiction che stai descrivendo.
 
-**Erbe e Unguenti** *2 utilizzi, lento, 10 monete, peso 1*
+È vero che "Infliggi danno" è una mossa, ma anche altre mosse possono comportare l'infliggimento di danni. Quando un ogre ti lancia contro un muro prendi danno come se ti avesse colpito con un pugno.
 
-Quando curi le ferite di qualcuno con erbe e unguenti, guarisci 7 danni e spendi un utilizzo.
+Dopo ogni mossa che fai, chiedi sempre "Che cosa fai?".
 
-**Pozione Curativa** *50 monete, peso 0*
+### Usa la mossa di un mostro, un pericolo, o un luogo.
 
-Quando bevi un’intera pozione curativa, guarisci 10 danni o cancella una debilitazione, a te la scelta.
+Ciascun mostro in un'avventura ha delle mosse ad esso associate, come le hanno molti luoghi. La mossa di un mostro o di un luogo è solo una descrizione di che cosa fa quel mostro o quel luogo, ad esempio "scagliare persone" o "creare un collegamento tra piani". Se la mossa di un giocatore (ad esempio *taglia e spacca*) dice che il mostro ha diritto a un attacco, fai una mossa offensiva con quel mostro.
 
-**Barile di Birra Scura Nanica** *10 monete, peso 4*
+Anche i pericoli ricorrenti dell'avventura hanno delle mosse a loro associate. Usa queste mosse per mettere quel pericolo in gioco, il che potrebbe voler dire altri mostri.
 
-Quando apri un barile di birra scura nanica e lasci che tutti ne bevano a volontà, prendi +1 al tuo tiro di fare baldoria. Se ti bevi una botte da solo, sei molto, molto ubriaco.
+### Rivela una verità sgradita
 
-**Borsa di Libri** *5 utilizzi, 10 monete, peso 2*
+Una verità sgradita è un'informazione che i giocatori vorrebbero non fosse vera: ad esempio, che la stanza è piena di trappole, o che il goblin servizievole è in realtà una spia. Fai capire ai giocatori in quali guai si sono cacciati.
 
-Quando la tua borsa di libri contiene proprio il libro giusto per l’argomento su cui stai *declamando conoscenze*, consulta il libro, spendi un utilizzo, e prendi +1 al tuo tiro.
+### Mostra i segni di una minaccia incombente
 
-**Antitossina** *10 monete, peso 0*
+Questa è una delle tue mosse più versatili. Una "minaccia" può essere qualunque cosa brutta che sta per avverarsi. Con questa mossa, mostri ai giocatori che qualcosa accadrà a meno che non facciano qualcosa per evitarlo.
 
-Quando bevi una dose di antitossina sei guarito da un veleno che sta avendo effetto su di te.
+### Infliggi danno
 
-**Razioni da Dungeon** *razione, 5 utilizzi, 3 monete, peso 1*
+Quando infliggi danno, scegli una fonte di danno nella fiction che minaccia un personaggio e sfruttala. Stai combattendo con un lucertoloide? Ti accoltella. Hai fatto scattare una trappola? Ti cadono dei massi in testa.
 
-Non sono buonissime, ma neanche così male.
+La quantità di danni è decisa dalla fonte. In alcuni casi, questa mossa può comportare uno scambio di danni in entrambe le direzioni, con anche il personaggio che infligge danni.
 
-**Razioni: Banchetto Personale** *1 utilizzo, 10 monete, peso 1*
+La maggior parte dei danni si basa sul tiro di un dado. Quando un personaggio prende danni, digli che cosa tirare. Non devi mai toccare i dadi. Se il giocatore è troppo codardo per scoprire da solo il proprio destino, può chiedere a un altro giocatore di tirare per lui.
 
-Fastose è dir poco.
+### Consuma le loro risorse
 
-**Gallette Naniche** *richiede Nano, razione, 7 utilizzi, 3 monete, peso 1*
+Sopravvivere in un dungeon, o in qualsiasi luogo pericoloso, spesso ha a che vedere con le provviste. Con questa mossa, fai accadere qualcosa che consuma una qualche risorsa: armi, armatura, guarigione, incantesimi attivi. Non devi per forza consumarla permanentemente. Una spada potrebbe semplicemente essere scagliata dall'altra parte di una stanza, senza danneggiarsi.
 
-I Nani dicono che hanno il sapore di casa. Tutti gli altri dicono che hanno il sapore di casa, se per casa intendi un porcile, che va a fuoco.
+### Rivoltagli contro le loro mosse
 
-**Razioni di Pane Elfico** *razione, 7 utilizzi, 10 monete, peso 1*
+Pensa ai benefici che una mossa accorda a un personaggio e capovolgili in modo negativo. In alternativa, accorda gli stessi benefici a qualcuno che agisce contro i personaggi. Se Ivy ha scoperto che gli uomini del Duca Horst si avvicinano dall'Est, magari anche un loro esploratore è riuscito a individuarla.
 
-Solo ai migliori amici degli Elfi è concesso assaggiare questa delicatezza rara.
+### Separali
 
-**Erba Pipa dei Mezzuomini** *6 utilizzi, 5 monete, peso 0*
+Non ci sono molte cose peggiori di essere nel mezzo di una battaglia furiosa con orsogufi assetati di sangue che incombono da tutti i lati — una di queste cose è trovarsi in quella stessa battaglia con nessuno al tuo fianco.
 
-Quando fumi l’erba pipa dei Mezzuomini con qualcuno, spendi due utilizzi e prendi +1 al prossimo tiro di parlamentare con questa persona.
+Separare i personaggi può voler dire venir spinti via nella foga della battaglia, oppure essere teletrasportati a estremità opposte del dungeon, o qualunque via di mezzo. In qualsiasi modo accada, sarà senz'altro fonte di guai.
 
-# Veleni
+### Crea un'opportunità appropriata alle capacità di una classe
 
-**Olio di Tagete** *pericoloso, applicato, 15 monete, peso 0*
+Il ladro disattiva trappole, si muove furtivamente, e scassina serrature. Il chierico si occupa delle divinità e dei morti. Ogni classe ha delle cose in cui brilla—presenta un'opportunità che metta in gioco una di queste cose.
 
-Il bersaglio cade in un sonno leggero.
+Non dev'essere per forza una classe attualmente in gioco. A volte una porta chiusa è posta a guardia di un tesoro, e non c'è alcun ladro a disposizione. Questo è un'invito all'inventiva, alla creatività, e al compromesso. Se tutto quello che hai è un'ascia insanguinata ogni problema non è forse un altro cranio da sfondare?
 
-**Erba Sanguigna** *pericoloso, tocco, 12 monete, peso 0*
+### Mostra il lato negativo delle loro classi, razze o oggetti
 
-Finché non viene curato, quando l’avvelenato tira i danni, tira un d4 aggiuntivo e sottrae il risultato dai suoi danni normali.
+Allo stesso modo in cui ha modo di brillare, ogni classe ha anche le sue debolezze. Forse gli orchi hanno una particolare sete di sangue elfico. Forse la magia del chierico sta disturbando delle entità pericolose. O ancora, la torcia che illumina la via attira anche l'attenzione degli occhi che si nascondono nell'ombra.
 
-**Radice Dorata** *pericoloso, applicato, 20 monete, peso 0*
+### Offri un'opportunità, con o senza un costo
 
-Il bersaglio tratta la prossima creatura che vede come un alleato fidato, finché non ha prova del contrario.
+Mostragli quello che vogliono: ricchezze, potere, gloria. Se ti va, puoi ovviamente associarvi un prezzo da pagare.
 
-**Lacrime di Serpente** *pericoloso, tocco, 10 monete, peso 0*
-Chiunque infligga danno al bersaglio tira due volte e sceglie il miglior risultato.
+Ricorda di iniziare con la narrazione. Non dire "Quest'area non è molto pericolosa quindi potete accamparvi qui, se vi fermate per il tempo necessario."
 
-# Servizi
+### Metti qualcuno in difficoltà
 
-**Soggiorno di una settimana in una locanda da contadini** *14-Carisma monete*
+Mettere qualcuno in difficoltà significa metterlo in una situazione in cui deve fare scelte difficili. Metti loro, o qualcosa a loro cara, di fronte alla distruzione incombente. Più difficile sarà la scelta, peggiore la situazione.
 
-**Soggiorno di una settimana in una locanda civilizzata** *30-Carisma monete*
+### Spiega le conseguenze o il prezzo da pagare e chiedi di nuovo
 
-**Soggiorno di una settimana nella migliore locanda in città** *43-Carisma monete*
+Questa mossa è particolarmente utile quando i giocatori vogliono fare qualcosa che non è previsto da alcuna mossa, oppure quando falliscono una mossa. Possono farlo, certo, ma dovranno pagare un prezzo. Oppure, possono farlo, ma ci saranno delle conseguenze. Ad esempio, potrebbero attraversare il fossato infestato di squali senza venire prima divorati, ma dovranno creare una distrazione. Ovviamente, ciò dev'esser reso chiaro ai personaggi, non solo ai giocatori: gli squali sono affamati e furiosi.
 
-**Manovalanza comune per una settimana** *10 monete*
+# Mosse del Dungeon
 
-**Paga di un mese per un soldato dell’esercito** *30 monete*
+Le mosse del dungeon sono un particolare sottoinsieme che viene usato per creare o modificare un dungeon al volo. Usale se i tuoi giocatori stanno esplorando un'area ostile che non hai ancora progettato per intero.
 
-**Oggetto su misura da un fabbro** *costo base dell'oggetto + 50 monete*
+Disegna una mappa di quest'area quando fai queste mosse. La maggior parte di esse ti faranno aggiungere una nuova stanza o elemento alla tua mappa.
 
-**«Compagnia» per una notte** *20-Carisma monete*
+* Cambia l'ambiente
+* Indica una minaccia incombente
+* Introduci una nuova fazione o tipo di creatura
+* Usa un pericolo di una fazione o di un tipo di creatura già esistente
+* Falli tornare sulle proprie tracce
+* Offri ricchezze in cambio di qualcosa
+* Offri una sfida a uno dei personaggi
 
-**Una serata di canzoni e danze** *18-Carisma monete*
+Puoi fare queste mosse ogni volta che tutti ti guardano per sapere cosa succede, quando i giocatori ti offrono un'opportunità, o quando i giocatori falliscono un tiro. Il momento perfetto in cui usarle è quando i personaggi vogliono sapere cosa trovano una volta entrati in una nuova stanza o in un nuovo corridoio.
 
-**Scorta per un giorno lungo una strada infestata da banditi** *20 monete*
+## Cambia l'ambiente
 
-**Scorta per un giorno lungo una strada infestata da mostri** *54 monete*
+L'ambiente è in generale l'atmosfera dell'area in cui si trovano i giocatori: gallerie scavate, alberi curvi, piste sicure, o qualsiasi altra cosa. Questa è la tua opportunità per presentargli un nuovo ambiente: le gallerie da artificiali diventano naturali, gli alberi sono rinsecchiti e inquietanti, o la pista si perde tra le terre selvagge.
 
-**Un comune omicidio** *5 monete*
+## Indica una minaccia incombente
 
-**Un assassinio** *120 monete*
+Se sai che qualcosa si nasconde, aspettando solo che i giocatori vi si imbattano, questa mossa ne mostra i segni e gli indizi. Con questa mossa puoi mostrare le impronte del drago nel fango o la scia melmosa del cubo gelatinoso.
 
-**Cure da un cerusico** *5 monete*
+## Introduci una nuova fazione o tipo di creatura
 
-**Preghiere per un mese per i defunti** *1 moneta*
+Con tipo di creatura s’intende una categoria ampia: orchi, goblin, lucertoloidi, non-morti, etc.
 
-**Riparazioni per un oggetto ordinario** *25% del costo dell'oggetto*
+Una fazione è un gruppo di creature unite per un obiettivo comune. Una volta introdotte nel gioco, puoi usare queste creature e PNG per fare mosse e mettere i giocatori nei guai.
 
-# Pasti
+Introdurre significa dare qualche chiara prova sensoriale o delle informazioni concrete. Non essere timido: i giocatori dovrebbero avere un'idea di ciò di cui stai manifestando la presenza. Puoi, tuttavia, avere un approccio più misurato. Non c'è bisogno che ogni volta il capo supremo dei cultisti agiti un cartello strillando frasi in lingua infernale.
 
-Un **pasto abbondante per uno** *1 moneta*
+## Usa un pericolo di una fazione o di un tipo di creatura già esistente
 
-Un **pasto scarso per una famiglia** *1 moneta*
+Una volta che i personaggi hanno avvertito la presenza di una fazione o di un tipo di creatura puoi usare le mosse dei mostri di quel tipo.
 
-Un **banchetto** *15 monete a persona*
+Tratta le fazioni e i tipi in senso ampio. Gli orchi sono accompagnati dai loro worg da caccia. Una setta di folli probabilmente avrà dei servitori non-morti o qualche bestia evocata dalle fosse dell'Abisso. Questa è una mossa che spesso farai senza pensarci—si tratta soltanto di utilizzare gli strumenti che ti sei preparato in modo chiaro ed efficace.
 
-# Trasporti
-**Asino e Carretto**, pronto a portare il tuo peso *50 monete, carico 20*
+## Falli tornare sulle proprie tracce
 
-**Cavallo** *75 monete, carico 10*
+Osserva le aree che hai disegnato sulla mappa. C'è qualcosa di utile e non ancora scoperto? Puoi aggiungere un nuovo ostacolo che può essere superato solo tornando indietro? C'è una porta chiusa la cui chiave giace in una stanza precedente?
 
-**Cavallo da guerra** *400 monete, carico 12*
+Mentre tornano indietro, mostragli gli effetti che il tempo ha avuto sulle aree che si sono lasciati alle spalle. Quali nuove minaccie sono sorte in conseguenza alle loro azioni? Che cosa hanno trascurato e adesso attende il loro ritorno?
 
-**Carro** *150 monete, carico 40*
+Usa questa mossa per rendere il dungeon un posto vivo e dinamico. Le cose non possono restare immobili dopo il passaggio dei personaggi. Aggiungi rinforzi, abbatti mura, provoca il caos. Il dungeon si evolve in conseguenza alle azioni dei personaggi.
 
-**Chiatta** *50 monete, carico 15*
+## Offri ricchezze in cambio di qualcosa
 
-**Barca Fluviale** *150 monete, carico 20*
+Che cosa vogliono i giocatori? Che cosa sacrificherebbero per averlo?
 
-**Nave Mercantile** *5.000 monete, carico 200*
+Metti qualche oggetto invitante poco fuori dalla loro portata. Trova qualcosa di cui sono a corto: tempo, PF, equipaggiamento, qualsiasi cosa. Trova un modo per dargli ciò che vogliono se rinunciano a ciò che hanno.
 
-**Nave da Guerra** *20.000 monete, carico 100*
+Il modo più semplice per usare questa mossa è offrire dell'oro al di fuori dell'obiettivo principale. Si fermeranno i giocatori a staccare gli occhi di rubino dall'idolo sapendo che il sacrificio incombe sempre più vicino? Usa questa mossa per scoprirlo.
 
-**Pedaggio su una strada sicura** *1 moneta*
+## Offri una sfida a uno dei personaggi
 
-**Pedaggio su una strada aspra** *10 monete*
+Sfida un personaggio osservando ciò in cui è più bravo. Dai al ladro un lucchetto da scassinare, mostra al chierico dei servitori di un dio nemico da combattere. Dai al mago dei misteri magici su cui indagare. Mostra al guerriero dei crani da spaccare. Dai a qualcuno un'opportunità per brillare.
 
-**Pedaggio su una strada pericolosa** *100 monete*
+In alternativa, sfida un personaggio osservando ciò in cui non è bravo o che ha lasciato in sospeso. Se il bardo ha una bugia complicata sulla coscienza, che cosa farà per nasconderla quando qualcuno lo scopre? Se il mago si è messo a evocare demoni, che cosa succede quando la voce si sparge?
 
-# Terre ed Edifici
+Questa mossa può mettere un personaggio sotto i riflettori—anche se solo per un momento. Cerca di dare a tutti una possibilità di essere al centro dell'attenzione usando questa mossa da sessione a sessione.
 
-**Un tugurio** *20 monete*
+# Situazioni Comuni
 
-**Una villetta** *500 monete* 
+Ci sono delle situazioni comuni che accadono spesso in Dungeon World. Ecco come gestirle adeguatamente.
 
-**Una casa** *2.500 monete*
+### Combattimenti
 
-**Una magione** *50.000 monete*
+Prima o poi si sguaineranno le spade e si verserà del sangue. Quando questo accade i personaggi probabilmente cominceranno a *tagliare e spaccare*, fare *raffiche* e *difendere*. Pensa oltre al semplice scambio di danni. Forse i mostri stanno cercando di catturare i personaggi o di proteggere qualcosa da loro. Concentrati sull'obiettivo dello scontro; gli obiettivi di ciascuna parte e in che modo potrebbe modificare l'equilibrio della battaglia.
 
-**Una fortezza** *75.000 monete*
+Nessun mostro che si rispetti sta fermo a farsi picchiare. Il combattimento è una cosa dinamica, con creature che si muovono dentro e fuori portata, si mettono al riparo e si ritirano. A volte è il campo di battaglia stesso a cambiare. Fai in modo che i tuoi mostri facciano delle azioni a cui i giocatori devono rispondere. Fai in modo di non usare solo la mossa *infliggi danno*, anche in un combattimento.
 
-**Un castello** *250.000 monete*
+Assicurati che ciascuno abbia la possibilità di agire, e di sapere dove ogni giocatore si trova nella foga della battaglia. Se la battaglia è complessa, fai una mappa in modo che tutti sappiano che cosa succede e possano descrivere le proprie azioni al meglio.
 
-**Un grande castello** *1.000.000 monete*
+### Trappole
 
-Costi di **mantenimento per un mese** *1% del costo originale*
+Puoi preparare le trappole in anticipo, o puoi improvvisarle basandoti sulle tue mosse. Se niente ha specificato che il luogo è sicuro, le trappole sono sempre un'opzione.
 
-# Mazzette
+I giocatori possono trovare le trappole con piani ingegnosi, *percependo trappole*, o *discernendo **realtà*. Se un personaggio descrive un'azione che non attiva una mossa, ma l'azione svelerebbe una trappola, non nasconderglielo. Le trappole non hanno il permesso di infrangere le regole.
 
-**La dote di un contadino** *20-Carisma monete*
+### Persone
 
-**”Protezione” per una piccola impresa** *100-Carisma monete*
+Fabbri nanici, saggi elfici, umani di tutte le forme e dimensioni abitano il mondo attorno ai personaggi. Non sono dei lacché senza cervello da maltrattare come si vuole, ma non sono nemmeno ciò che vogliamo scoprire quando giochiamo. I PNG sono persone: hanno obiettivi e gli strumenti per impegnarsi a ottenerli. Usali per mostrare com'è il mondo. Mostra ai tuoi giocatori la gente comune che lotta per affrancarsi o le classi nobili che cercano di accontentare il popolo. Alcune avventure potrebbero avvenire per intero in un'ambiente pieno di persone invece che in un dungeon lontano dalla civilità. Alcune classi, il bardo in particolare, sono atte a manipolare e usare le persone come risorse. Non tirarti indietro di fronte a queste situazioni. Sii un fan di questi personaggi, offrigli delle persone interessanti e dettagliate con cui interagire.
 
-**Corrompere un funzionario governativo** *50-Carisma monete*
+Le persone, come i dungeon, cambiano nel tempo. L'aver incontrato i personaggi durante la loro vita potrebbe affascinarli o adirarli. Le azioni dei personaggi faranno in modo che il mondo cambi, in bene o in male, e le persone che incontrano si ricorderanno di questo cambiamento. Quando i personaggi ritornano a una città in cui si erano comportanti in modo non molto gentile, mostragli come le persone sono diverse da prima. Sono forse più caute? Si sono convertite a una nuova religone? Sono assetate di vendetta?
 
-**Una mazzetta convincente** *80-Carisma monete*
-
-**Un’offerta che non puoi rifiutare** *500-Carisma monete*
-
-# Regali e Abiti Eleganti
-
-**Un regalo da contadino** *1 moneta*
-
-**Un regalo pregiato** *55 monete*
-
-**Un regalo nobile** *200 monete*
-
-**Un anello o un quadretto** *75 monete*
-
-**Abiti eleganti** *105 monete*
-
-**Un dipinto raffinato** *350+ monete*
-
-**Una corona degna di un re** *5.000 monete*
-
-# Bottino
-
-**I risparmi di un goblin** *2 monete*
-
-**I ciondoli di un lucertoloide** *5 monete*
-
-**Una spada «inestimabile»** *80 monete*
-
-**Le razzie di un condottiero orco** *250 monete*
-
-**La montagna di monete e gemme di un drago** *130.000 monete*
-
-# Oggetti Magici
-
-Ci sono cose nel mondo più inconsuete di spade e cuoio. Gli oggetti magici sono degli oggetti straordinari che hanno un potere intrinseco.
-
-Gli oggetti magici esistono per essere creati durante il gioco. I giocatori possono creare oggetti magici con il *rituale* del mago e altre mosse simili. Il GM può far trovare oggetti magici nel bottino di guerra o nelle ricompense per lavori e missioni. Questa lista può fornirti qualche idea, ma alla fine gli oggetti magici che usi dovrai determinarli tu.
-
-Quando crei i tuoi oggetti magici, ricordati che devono essere *magici*. Semplici modificatori, come *+1 danno*, sono nel campo dell’ordinario — gli oggetti magici dovrebbero avere dei benefici più interessanti.
-
-**Argo-Thaan, Vendicatore Sacro** *media, peso 2*
-
-Ci sono molte spade in questo mondo, ma c’è una sola Argo-thaan. È una lama d’oro, argento e luce, venerata come reliquia sacra da tutti gli ordini e religioni dediti al Bene. Il suo tocco è una benedizione e, a molti, la sua vista provoca lacrime di gioia.
-
-Nelle mani di un paladino, colpisce precisamente e con forza. Un paladino che la impugna alza il suo dado di danno a d12 e ha accesso a qualunque mossa da paladino. Allo stesso modo, Argo-thaan può ferire qualunque creatura del Male, a prescindere dalle difese che potrebbe avere. Nessuna creatura Malvagia può toccarla senza soffrire un dolore lancinante. Nelle mani di un non-paladino, è semplicemente una spada, più pesante e massiccia del normale — ottiene l’etichetta *scomoda*.
-
-**Frecce dell’Acheronte** *munizioni 1, peso 1*
-
-Fabbricate nell'oscurità da un artigiano cieco, queste frecce possono colpire il bersaglio anche nella più profonda oscurità. Un arciere le può scoccare alla cieca, nel buio, con gli occhi completamente bendati e comunque avere la possibilità di scoccare come se vedesse chiaramente (**NdT**: facendo una *raffica*). Se però la luce del sole dovesse mai toccarle, si dissolverebbero come polvere e ombra.
-
-**Ascia del Re Conquistatore** *media, peso 1*
-
-È fatta di acciaio lucente, brilla di una luce dorata ed è investita del mitico potere del comando. Quando impugni l’ascia, diventi un faro, una sorgente d’ispirazione per chi ti segue. Ogni gregario da te assunto ha +1 Lealtà, a prescindere dalla tua capacità di comando.
-
-**Barbiglio del Cancello Nero** *media, peso 1*
-
-Un chiodo o uno spuntone, attorcigliato ed eternamente freddo, che si racconta sia stato staccato dai Cancelli della Morte. Quando conficchi il barbiglio in un cadavere, scompare e fa in modo che quel cadavere non potrà mai essere resuscitato: nessuna magia a parte quella della Morte stessa potrà riaccendere nel corpo la fiamma della vita (naturale o innaturale che sia).
-
-**Borsa del Contenimento** *peso 0*
-Una borsa del contenimento è più grande all’interno che all’esterno, può contenere un infinito numero di oggetti, e il suo peso non aumenta mai. Quando cerchi di recuperare un oggetto da una borsa del contenimento, tira+SAG. ✴Con un 10+, è proprio lì. ✴Con un 7–9, scegli un’opzione tra:
-
-- Trovi l’oggetto che cerchi, ma ci vuole tempo.
-- Trovi un oggetto simile a scelta del GM, ma ci vuole soltanto un attimo.
-
-Non importa quanti oggetti contenga, una borsa del contenimento pesa sempre 0.
-
-**La Ruota Infuocata** *peso 2*
-
-Un’antica ruota di legno, come quella che potrebbe avere un carro da guerra, rinforzata d’acciaio. All’apparenza, non sembra essere niente di speciale: molti raggi sono spezzati e l’oggetto sembra ordinario. Quando analizzato tramite magia o dagli occhi di un esperto, la sua vera natura è rivelata: la Ruota Infuocata è un dono dal Dio del Fuoco e brucia nel suo nome.
-
-Quando reggi la Ruota Infuocata e pronunci il nome di un dio, tira+COS. ✴Con un 7+, il dio che hai chiamato si accorge di te e ti concede udienza. Un udienza da un dio non è priva di prezzo: con un 10+, scegli una delle tue capacità e riducila fino ad arrivare al modificatore inferiore (ad esempio, 14 ha un +1, verrebbe abbassato fino a 12, che ha un +0). ✴Con un 7–9, il GM sceglie che capacità abbassarti.
-
-Una volta usata, la Ruota Infuocata comincia a bruciare ed emette una luce accecante. Non conferisce alcuna protezione dalle sue fiamme, e non fornisce alcun bonus per nuotare.
-
-**Cornucopia del Capitan Bligh** *peso 1*
-
-Un corno navale d’ottone, ricurvo e decorato, inciso con i simboli degli dei dell’Abbondanza. Quando ci soffi dentro, in aggiunta al suono il corno emette cibo. Abbastanza per dare un pasto a chiunque ne senta il suono.
-
-**La Spira di Carcosa** *lunga, da lancio, peso 3*
-
-Nessuno sa da dove venga questa lancia di corallo bianco intrecciato. Coloro che la portano con se per troppo tempo si ritrovano con la mente pervasa da sogni che non le appartengono e cominciano a percepire gli strani pensieri degli Estranei. Nessuno è immune. Usata contro qualunque bersaglio “naturale” (uomini, goblin, orsogufi e simili), la Cuspide si comporta come una normale lancia mortale. Il suo vero scopo è di danneggiare quelle cose la cui natura inconsueta le protegge dalle armi ordinarie. Se usata in questo modo, la Cuspide può ferire nemici solitamente invulnerabili al danno. Chi la brandisce riconoscerà questi nemici corrotti alla vista: la Cuspide conosce i suoi bersagli.
-
-**Manto delle Stelle Silenti** *peso 1*
-Un mantello di pregiato velluto nero all’esterno e punteggiato di piccole luci all’interno; questo manto piega il fato, il tempo e la realtà attorno a sé per proteggere il suo portatore, che può sempre sfidare il pericolo con la capacità che preferisce. Per fare ciò, il portatore invoca la magia del mantello e il giocatore spiega come il mantello lo aiuta a “infrangere le regole”. Può deviare una palla di fuoco con CAR convincendola che merita di vivere o evitare una caduta applicando la logica ferrea della sua INT per provare che la caduta non gli farà male. Il mantello fa in modo che si avveri. Può essere usato una volta per ciascuna capacità prima che la sua magia si dissolva.
-
-**Moneta dei Ricordi** *peso 0*
-
-Ciò che sembra, all’apparenza, una semplice moneta di rame è, in verità, una moneta incantata. Il suo portatore può, in qualsiasi momento, spendere la moneta per ricordare qualcosa che è stato dimenticato. La moneta scompare subito dopo. Non dev’essere qualcosa di dimenticato dal portatore, ma non può essere qualcosa di “conosciuto”. L’interpretazione di ciò è lasciata agli dei. Se la moneta non ha successo, proietterà comunque nella mente del portatore l’immagine di qualcuno o qualcosa che porti con se il ricordo del dato cercato.
-
-**Pergamena Comune** *1 utilizzo, peso 0*
-
-Una pergamena comune ha un’incantesimo scritto su di essa. L’incantesimo dev’essere lanciabile da te o trovarsi sulla lista di incantesimi della tua classe perché tu possa lanciarlo. Quando lanci un’incantesimo da una pergamena, l’incantesimo ha effetto, semplicemente.
-
-**Olio del Flagello di Demoni** *1 utilizzo, peso 0*
-
-Un olio consacrato, fabbricato in quantità limitata da un’ordine di monaci di montagna votati al silenzio che, nelle epoche antiche, proteggeva l’umanità dalla potenza delle Fosse Infernali. Solo alcuni vasi ne rimangono. Quando è applicata su qualsiasi arma che viene usata per colpire un abitante di un piano esterno, l’olio dissolve la magia che lega la creatura al mondo. In alcuni casi, ciò lo riporterà al suo luogo d’origine. In altri, semplicemente dissolve la magia che lo controlla. L’olio resta sull’arma per qualche ora prima di asciugarsi e consumarsi.
-
-Se applicato ai bordi di un portale o spalmato a cerchio, l’olio respingerà le creature che provengono da qualunque piano esterno. Non possono attraversarlo. L’olio dura un giorno prima di venire assorbito dal terreno o evaporare.
-
-**Cera dell’Estorsione Auricolare** *1 utilizzo, peso 0*
-
-Una candela giallastra. Sembra che non si consumi mai e la luce che emette è debole e bizzarra. Inoltre, la sua cera è sempre fredda. Versa la cera nell’orecchio di un bersaglio e prendi 3. Spendi la presa per fare una domanda al bersaglio. Sorprendentemente per lui, ti racconterà tutta la verità, nonostante il proprio volere. Le conseguenze, più tardi? Quelle dovrai gestirtele da solo.
-
-**L’Eco** *peso 0*
-
-Una bottiglia apparentemente vuota. Una volta stappata, i sussuri di un altro piano d’esistenza risuonano un’unica volta e giacciono poi in silenzio. Nel silenzio, il portatore vede, nel profondo della sua anima, l’arrivo di un grande pericolo e come può evitarlo. In qualunque momento dopo che hai usato l’Eco, puoi ignorare i risultati di un qualsiasi tiro di dado, che sia il tuo o di un altro giocatore, e tirare di nuovo. Una volta aperta la bottiglia, l’Eco è liberato e perso per sempre.
-
-**Lente delle Epoche** *peso 1*
-
-Un arcimago, vecchio e troppo gracile per lasciare la sua torre, fabbricò questo intricato e delicato dispositivo di vetro e oro per esaminare i documenti e le reliquie che tanto amava. Guardare un oggetto attraverso la lente conferisce una visione del suo creatore e della sua provenienza.
-
-**Pietra della Lungimiranza** *peso 1*
-
-Vorticose nuvole riempiono questo globo fumoso, e coloro che sono in sua presenza spesso sentono degli strani sussurri. Nei tempi antichi, era parte di una rete di simili pietre, usate per comunicare e osservare a grandi distanze. Quando guardi dentro la pietra, dì il nome di un luogo e tira+SAG. ✴Con un 10+, hai una chiara visione del luogo e puoi mantenerla fintanto che ti concentri sul globo. ✴Con un 7–9, hai comunque la visione, ma attrai l’attenzione di qualcos’altro (un angelo, un demone, o il possessore di un’altra Pietra della Lungimiranza) che sta usando a sua volta la pietra per controllarti.
-
-**Il Codice del Fiasco** *peso 0*
-
-Un pesante tomo, che si racconta sia stato scritto col sangue di poveri sciocchi e baroni briganti da qualche principe demoniaco posseduto da un bieco senso dell’umorismo. Questo volume riporta in dettaglio le storie e i racconti di coloro le cui ambizioni superavano la propria ragione. Leggere da questo libro insegna ad apprezzare il valore del raziocinio, ma lascia dietro di sé un alone di terrore. Quando leggi dal Codice dei Fiaschi, tira+SAG. ✴Con un 10+, fai due domande dalla lista sotto. ✴Con un 7–9, fanne una.
-
-- Qual è la mia più grande opportunità in questo momento?
-- Chi potrei tradire per ottenere un beneficio?
-- Chi è un alleato di cui non dovrei fidarmi?
-
-Il codice dà le sue risposte una sola volta per lettore e richiede due o tre ore per essere letto. 
-
-**Fiaschetta del Respiro** *peso 0*
-Un oggetto semplice, ma utile quando hai bisogno di una boccata d’aria fresca. La fiaschetta sembra vuota, ma non può essere riempita: qualunque cosa ci venga versata dentro semplicemente strabocca. Questo è perché la fiaschetta è eternamente piena d’aria. Se messa sott’acqua, farà bolle per sempre. Se avvicinata alla bocca, permette di respirare normalmente: il fumo non è un problema, ad esempio. Sono sicuro che riuscirai a trovare ogni genere di modi strambi per usarla.
-
-**Follia Sospesa in Aria, Le Ali di Cera, Un Grosso Sbaglio** *peso 1*
-
-Chi non ha mai sognato di librarsi in volo nel bel cielo blu? Queste ali magiche furono create nel tentativo di soddisfare i desideri delle persone costrette a terra. Conosciute con molti nomi e fabbricate da altrettanti maghi, solitamente prendono la forma delle ali di qualunque uccello del luogo ti venga in mente Sono indossate per via di un’imbracatura o, in alcuni casi estremi, tramite un intervento chirurgico.
-
-Quando ti sollevi in aria grazie a queste ali magiche, tira+DES. ✴Con un 10+, il tuo volo è stabile e riesci a stare in aria per quanto vuoi. ✴Con un 7–9, riesci a sollevarti ma il tuo volo è breve o incostante e imprevedibile, a tua scelta. ✴Con un 6-, riesci a sollevarti in aria, ma la discesa e tutto ciò che avviene nel frattempo sono nelle mani del GM.
-
-**Bastone Inamovibile** *peso 0*
-
-Un bizzarro bastone di metallo con un bottone. Premi il bottone e il bastone si ferma. Si ferma e basta: per aria, in verticale, per terra. Non può essere spostato. Tiralo, spingilo, provaci quanto ti pare, il bastone resta fermo. Forse può essere distrutto, forse no. Spingi di nuovo il bottone e si libera, portalo con te. Potrebbe tornarti utile avere dietro un’oggetto così caparbio.
-
-**Libro Infinito** *peso 0*
-
-Questo libro ha un numero infinito di pagine in uno spazio contenuto. Siccome non c’è limite alle pagine, qualunque cosa fu, è o sarà è contenuta da qualche parte in questo libro. Grazie al cielo l’indice è ben fatto.
-
-Quando *declami conoscenze* mentre consulti il libro hai un esito aggiuntivo: ✴Con un 12+, il GM ti darà la soluzione a un problema o alla situazione in cui ti trovi.
-
-**Controllenti** *peso 0*
-
-Due lenti di vetro rozzamente levigate incastrate in una montatura di legno. Tutte ammaccate e sul punto di staccarsi, in qualche modo consentono all’utilizzatore di vedere molto più di quanto non potrebbe a occhio nudo. Quando *discerni realtà* mentre indossi queste lenti eccezionali, puoi piegare un pochino le regole. ✴Con un 10+, puoi fare tre domande che vuoi. Non c’è bisogno che siano sulla lista. Fintanto che è la vista a fornirti le risposte, il GM ti dirà ciò che vuoi sapere.
-
-**La Manovra di Ku’meh** *peso 1*
-
-Un grande tomo di pelle consumato reso liscio e lucido dalle mani di cento grandi generali, questo libro è spesso passato da guerriero a guerriero, da padre a figlio lungo le linee delle grandi battaglie che hanno diviso il passato di Dungeon World. Chiunque lo legga può, dopo averlo finito per la prima volta, tirare+INT. ✴Con un 10+, prendi 3. ✴Con un 7–9, prendi 1. Puoi spendere la presa per dare un consiglio a un compagno d’avventura su qualche questione d’importanza strategica o tattica. Questo consiglio ti permette, in qualsiasi momento, indipendentemente dalla distanza, di tirare per aiutarlo su qualunque tiro. ✴Con un fallimento, il GM può prendere 1 e spenderlo per dare un -2 al tuo tiro o al tiro del poveraccio che ha ascoltato i tuoi consigli.
-
-**Reliquia del Compianto** *peso 0*
-
-Sotto forma di un singolo ciuffo di capelli rossi, legato con un nastro nero e immune al deterioramento, la Reliquia del Compianto è portatrice di un cupo incantesimo. In essa si trovano i ricordi e le emozioni di una ragazza che ha incontrato la Morte ai Cancelli Neri così tante volte che, alla fine, si sono innamorati e lei ha lasciato il mondo dei vivi per stare con lui per un po’ di tempo. Il ricordo della ragazza protegge il portatore. Quando ti trovi ai Cancelli, la Reliquia può essere scambiata per un risultato automatico di 10+ sul tiro di *ultimo respiro*.
-
-**Scudo di Magnetite** *+1 armatura, peso 1*
-
-Quale idiota senza cervello avrebbe inventato una cosa del genere? Gli scudi servono a respingere il metallo, non ad attrarlo! Lo Scudo di Magnetite raffigura un leone rampante, e ha il potere di attrarre lame e frecce a sé. Quando *difendi* contro nemici che impugnano armi di metallo, puoi spendere 1 presa per bersaglio per disarmarli. In aggiunta, a volte troverai una manciata di monetine che ci è rimasta attaccata.
-
-**Mappa dell’Ultima Pattuglia** *peso 0*
-
-Un antico ordine di coraggiosi raminghi un tempo sorvegliava la terra, proteggendo villaggi e avvertendo re e regine dei pericoli incombenti. Sono scomparsi da molto tempo, adesso, ma il loro lascito rimane. Questa mappa, quando macchiata con il sangue di un gruppo di persone, mostrerà sempre la loro ubicazione, fintanto che rimangono entro i limiti della mappa.
-
-**Testa di Ned** *peso 1*
-
-Un vecchio teschio, senza mascella e in pessime condizioni. Il teschio ricorda la follia del suo precedente possessore, un uomo con più onore che buon senso. Una volta a notte, il possessore del teschio può chiedere «Chi ce l’ha con me?» e il teschio risponderà con un nome, detto con voce triste e solitaria. Se il proprietario del teschio muore, esso scompare senza lasciar tracce. Nessuno sa dove potrebbe apparire di nuovo. 
-
-**Chiave del Nottambulo** *peso 0*
-
-Questa chiave ti aprirà qualunque porta, purché tu abbia intenzione di andare dove non dovresti. Fintanto che non fai niente che farebbe notare la tua presenza a qualcun altro (rimanendo non udito, non visto e non notato) e portandoti fuori nient'altro che i tuoi ricordi, la magia della chiave farà in modo che la tua intrusione non sia mai scoperta. È come se non fossi mai stato lì.
-
-**Erbe Consacrate** *peso 0*
-
-Le erbe consacrate, raccolte e preparate da un ordine perduto di maghi monaci, possono essere rinvenute in fasci da due o tre utilizzi. Se tenute lontano dall’umidità, si conservano indefinitamente. Quando le si fuma in una pipa o le si consuma in un bruciatore da incenso, e si inala il denso fumo blu che esalano, queste erbe provocheranno bizzarre visioni di posti lontani in tempi lontani. Se ti concentri su una persona, un posto o una cosa in particolare, le erbe ti risponderanno: tira +SAG. ✴Con un 10+, la visione è limpida e utile, e ne ricavi delle valide informazioni. ✴Con un 7–9, la visione riguarda la cosa che cerchi, ma è poco chiara, piena di metafore o difficile da capire. ✴Con un fallimento, il GM ti chiederà: «Qual è la cosa che temi di più?». Devi rispondere con onestà, ovviamente.
-
-**Anatra di Sartar** *peso 0*
-
-Una strana anatra di legno lavorata a mano. Chi avrebbe mai costruito un oggetto così ridicolo? Mentre lo tieni in mano, ti accorgi di diventare un raccontastorie di grande talento: non importa la lingua, puoi far capire te stesso e la tua storia a qualunque pubblico. Capiranno il significato, non le parole.
-
-**Lacrime di Annalise** *peso 0*
-
-Gemme di un rosso torbido e della dimensione di un’unghia, le Lacrime di Annalise si trovano sempre in coppia. Quando vengono ingoiate da due persone diverse, legano i due insieme: quando uno qualsiasi dei due prova una forte emozione (in particolare tristezza, perdita, paura o desiderio) l’altro lo sente a sua volta. L’effetto dura fino a quando uno dei due versa il sangue dell’altro.
-
-**Stanza del Teletrasporto** *lento*
-
-James Nove Dita, un mago eccentrico e geniale, creò questi dispositivi magici delle dimensioni di una stanza. Una camera di pietra, incisa di rune e scarabocchi, che emette una debole luce blu. Quando entri e dici ad alta voce il nome di un luogo, tira+INT. ✴Con un 10+, arrivi esattamente dove volevi. ✴Con un 7–9, il GM sceglie un luogo sicuro lì vicino. ✴Con un fallimento, finisci da qualche parte. Forse lì vicino? Sicuramente non un posto sicuro. Strane cose a volte accadono a coloro che piegano il tempo e lo spazio con questi dispositivi.
-
-**Armatura di Timunn** *armatura 1, peso 1*
-
-Un'armatura poco vistosa, può apparire a ciascuno in modo diverso assumendo l'aspetto più appropriato. Chi la indossa sembra sempre vestito all’ultima moda a chiunque lo guardi.
-
-**Strutto della Verità di Titus** *peso 0*
-
-Una candela di strutto color avorio e rame con un lieve tocco d’argento. Quando accesa, nessuno di coloro che sono illuminati dalla sua luce riesce a dire una bugia. Possono restare in silenzio o dissimulare, ma quando gli si fa una domanda diretta, non possono dire altro che la verità.
-
-**Corda Arguta** *peso 1*
-
-Una corda che ascolta. Fa anche dei giochetti, come farebbe un serpente più intelligente e docile del normale. Digli «Arrotolati», «Srotolati» o «Vieni Corda» e lo farà.
-
-**La Mano Argentata** *peso 0*
-
-Forgiata da fabbri nanici lavoratori d’argento, questa mano di metallo lucidato a specchio è incisa profondamente di rune di potere e di rinvigorimento. Pensata per sostituire le braccia ferite o perdute durante gli incidenti in miniera, la Mano Argentata si lega alla ferita, che sia vecchia o nuova, ed è forte e resistente. Può essere usata come arma (portata *media*) ed è fatta di argento abbastanza puro da nuocere alle creature vulnerabili a questo metallo.
-
-**Guanti di Vellus** *peso 1*
-
-Fabbricati in nome di Vellus l’Impacciato, Vellus Mani di Burro, Vellus lo Sciocco, questi guanti di semplice stoffa ti impediscono di lasciare qualunque oggetto dal quale tu non abbia intenzione di separarti. Non puoi essere disarmato e non cadrai da alcuna corda o scala, ad esempio. Questo oggetto può diventare particolarmente devastante se hai qualcosa di molto forte che ti tira le gambe mentre ti aggrappi a qualcosa di solido.
-
-**Falcione del Turbamento** *peso 2*
-
-Una lama leggendaria che si dice sia stata lanciata indietro nel tempo e provenga da qualche futuro tetro, il falcione del turbamento è fatto di uno strano ferro verde. La lama colpisce la mente, oltre al corpo, di coloro che ne vengono feriti. Quando *tagli e spacchi* ✴con un 10+ hai un’opzione aggiuntiva: infliggi il tuo normale danno, permetti il contrattacco, e innesti un’emozione a tua scelta (ad esempio paura, venerazione o fiducia).
-
-**Spada Bigralace**, altresì detta **Spada Vorpal** *media, perforante 3, peso 2*
-
-Scric-scrac trinciava il bigralace brando! Affilata come nient’altro, questa spada apparentemente ordinaria serve a separare una cosa dall’altra: un braccio dal corpo, o una persona dalla sua vita. Quando infliggi danno con la Spada Vorpal, il tuo nemico deve scegliere qualcosa (un oggetto, un vantaggio, un arto) e perderlo, permanentemente.
+Il rapporto tra i personaggi è rappresentato dai legami, ma il rapporto con i PNG è più esile. Se i personaggi vogliono avere dei rapporti veri e duraturi con le persone del mondo, devono passare all'azione. Ricorda, "Che cosa fai?" è una domanda legittima sia quando si affrontano le speranze e le paure di un potenziale alleato o nemico che quando ci si trova dal lato sbagliato di una spada lunga.
