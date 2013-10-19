@@ -25,6 +25,8 @@ Tu insegui cose più succulente di una casa tranquilla o di una manciata di mone
 
 Perchè nessuno di loro è forte come te. Nessuno.
 
+_[Clicca qui per visitare la pagina del Barbaro](/barbaro)_
+
 # Il Bardo
 
 I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e della gloria di battaglie vinte e di ricchezze conquistate. Le storie che si raccontano in ogni taverna affollata di villici e braccianti dovranno pur avere una parvenza di verità, non è vero? Le canzoni che ispirano ugualmente nobili e pezzenti, per placare le bestie selvagge o spingere gli uomini alla furia, dovranno pur avere un'origine.
@@ -32,6 +34,8 @@ I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e 
 È qui che arriva il bardo. Tu, con la tua lingua sciolta e il tuo acume. Tu, che racconti favole e canti canzoni. Un semplice menestrello può ripetere una storia, ma ci vuole un bardo per viverla. Metti gli stivali, nobile oratore. Affila la tua daga celata e rispondi all’appello. Qualcuno dev'essere lì, a lottare fianco a fianco con picchiatori e mercenari e futuri eroi. Chi meglio di te per scrivere la storia del tuo stesso eroismo?
 
 Nessuno. Dai inizio all'avventura.
+
+_[Clicca qui per visitare la pagina del Bardo](/bardo)_
 
 # Il Chierico
 
@@ -41,6 +45,8 @@ Portare la gloria degli dèi ai selvaggi non è solo la tua natura, è la tua mi
 
 Mostra al mondo chi è il suo signore.
 
+_[Clicca qui per visitare la pagina del Chierico](/chierico)_
+
 # Il Druido
 
 Dai uno sguardo attorno al fuoco. Che cosa ti ha portato a viaggiare con questa gente, che puzza della polvere e del sudore della città? È una forma di bontà? Li proteggi forse come una mamma orso difende i suoi cuccioli? Sono loro il tuo branco, ora? Inconsueti sono i fratelli e sorelle che ti sei dato. Qualunque cosa ti abbia spinto ad aiutarli, certamente sarebbero perduti senza i tuoi sensi acuti e i tuoi artigli affilati.
@@ -48,6 +54,8 @@ Dai uno sguardo attorno al fuoco. Che cosa ti ha portato a viaggiare con questa 
 Tu appartieni agli ampi spazi consacrati, sei nato dalla terra e porti il marchio dei suoi spiriti sulla tua pelle. Forse avevi una vita prima, forse eri un abitante di città come loro, ma adesso non più. Hai rinunciato a quella forma statica. Ascolta i tuoi alleati pregare i loro dèi scolpiti nella pietra e guardali lucidare i loro simulacri d'argento. Parlano della gloria che troveranno in quella città marcia che vi siete lasciati alle spalle.
 
 I loro dèi sono infanti, il loro acciaio non li proteggerà. Tu segui le vecchie vie, indossi la pelle della terra stessa. Prenderai certo la tua parte del tesoro, ma camminerai mai come uno di loro? Solo il tempo lo dirà.
+
+_[Clicca qui per visitare la pagina del Druido](/druido)_
 
 # Il Guerriero
 
@@ -59,6 +67,8 @@ Tu lo fai per il coraggio e la gloria, per il rumore della battaglia e per il ca
 
 Tu sei la muraglia: lascia che ogni pericolo si sfracelli in polvere scontrandosi con te. Alla fine, sarai l'ultimo a stare in piedi.
 
+_[Clicca qui per visitare la pagina del Guerriero](/guerriero)_
+
 # Il Ladro
 
 Li hai sentiti, seduti attorno al fuoco. Si vantano di questa o quella battaglia, o di come i loro dèi sorridano sulla vostra allegra compagnia. Tu conti le tue monete e sorridi a te stesso — questa è l'emozione più forte. Solo tu conosci il segreto di Dungeon World: sporco, sporco guadagno.
@@ -67,7 +77,10 @@ Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma
 
 Dal tuo castello. Pieno d'oro. Furfante che non sei altro.
 
- <div class="frame right">
+_[Clicca qui per visitare la pagina del Ladro](/ladro)_
+
+
+<div class="frame right">
     <img src="/images/liliastre-maga.jpg" />
     <p>La maga elfa Liliastre</p>
 </div>
@@ -84,7 +97,9 @@ Lascia che ti guardino con occhi biechi. Lascia che ti chiamino stregone o negro
 
 Esatto. Non avevo dubbi.
 
- <div class="frame left">
+_[Clicca qui per visitare la pagina del Mago](/mago)_
+
+<div class="frame left">
     <img src="/images/adrian-paladino.jpg" />
     <p>Il paladino umano Adrian</p>
 </div>
@@ -99,6 +114,13 @@ Perciò guida questi sciocchi, paladino. Imbraccia le armi per la tua nobile cau
 
 Vae victis, giusto?
 
+_[Clicca qui per visitare la pagina del Paladino](/paladino)_
+
+<div class="frame right bigger">
+    <img src="/images/nora-raminga.jpg" />
+    <p>La raminga umana Nora e il suo lupo Garu</p>
+</div>
+
 # Il Ramingo
 
 Questa gente di città con cui viaggi. Hanno udito loro il richiamo del lupo? Hanno sentito i venti ululare nei tetri deserti dell'Est? Hanno cacciato la preda con l'arco e il coltello come te? Certo che no. È per questo che hanno bisogno di te.
@@ -106,6 +128,8 @@ Questa gente di città con cui viaggi. Hanno udito loro il richiamo del lupo? Ha
 Guida. Cacciatore. Creatura selvaggia. Sei tutte queste cose e anche più. Hai vissuto nelle terre selvagge da solo fino a ora, ma il richiamo di qualcosa più grande, chiamalo destino se vuoi, ti ha unito a questa gente. Coraggiosi, certamente. Possenti e forti, anche. Ma solo tu conosci i segreti degli spazi inesplorati.
 
 Senza di te, sarebbero persi. Fai strada tra il sangue e l'oscurità, grampasso.
+
+_[Clicca qui per visitare la pagina del Ramingo](/ramingo)_
 
 # Perché?
 
@@ -135,6 +159,8 @@ Dovrai stampare alcune cose. Prima di iniziare a giocare, trova o stampa almeno:
 * Una copia della scheda avventura e delle mosse del GM
 * Materiali vari come penne, matite, carta per mappe e appunti e al massimo qualche foglietto bianco *(NdT: index cards)*.
 
+_[Clicca qui per trovare i contenuti scaricabili da stampare](/downloads)_
+
 Ciascuna persona al tavolo avrà bisogno di uno strumento per scrivere e di qualche dado a sei facce. Due dadi è il minimo ma è meglio averne due per giocatore.
 
 Avrai anche bisogno di alcuni dadi speciali: a quattro facce, a otto facce, a dieci facce e a dodici facce. Uno di ciascuno solitamente basta ma è meglio averne di più: non dovrete passarveli ogni volta che servono.
@@ -146,3 +172,5 @@ Giocare a Dungeon World significa scoprire che cosa succede quando i tuoi person
 Mentre giochi i tuoi personaggi cambieranno a seguito delle loro avventure e diventeranno più esperti mentre imparano cose nuove sul mondo, sconfiggono mostri e raccolgono ricchezze. Scoprirai che cosa provano l'uno per l'altro e dove punta la loro bussola morale. Quando accumuleranno abbastanza esperienza otterrano dei livelli, che li renderanno più potenti e li doteranno di nuove opzioni tra cui scegliere.
 
 Puoi giocare a Dungeon World con lo stesso gruppo, sessione per sessione, lungo una serie concatenata di avventure, mentre guardi i tuoi personaggi cambiare e crescere insieme. Puoi giocarlo in una sola sessione, come gioco autocontenuto. Che sia una lunga campagna o una partita singola, le regole di Dungeon World sono qui per guidarti e aiutarti a creare un mondo di avventura fantasy. È ora di andare là fuori a esplorare!
+
+_[Prosegui al prossimo capitolo: Come Giocare!](come-giocare)_

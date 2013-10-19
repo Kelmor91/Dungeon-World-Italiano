@@ -33,7 +33,7 @@ Considero questo sito una risorsa pubblica, e il testo completo è disponibile s
 
 La traduzione è **quasi completa**, mancano solo i capitoli relativi alle ambientazioni mostruose. È comunque presente tutto il necessario per iniziare a giocare!
 
-Oltre alle schede delle classi, sono disponibili le schede delle [mosse base](pdf/mosse.pdf) e del [riassunto del gm](pdf/gm.pdf), dell'ottima traduzione di Luca Maiorani. Differiscono leggermente dalla nostra traduzione, ma verranno adattati a tempo debito. Cominciate a usarli per giocare!
+Oltre alle schede delle classi, sono disponibili le schede delle **[mosse base](pdf/mosse.pdf)** e del **[riassunto del gm](pdf/gm.pdf)**, adesso aggiornate alla nostra traduzione!
 
 Sono stati tradotti i seguenti capitoli:
 
@@ -49,8 +49,8 @@ Sono stati tradotti i seguenti capitoli:
 	</ul>
 	<li>Parte II, <b>Le Classi</b></li>    
     <ul>
-        <li>Le classi non sono ancora state tradotte dal team di dungeonworld.it, ma potete far riferimento alle traduzioni di Luca Maiorani</li>
-		<li><a href="/barbaro">Il Barbaro</a> (traduzione di Luca Maiorani)</li>	
+        <li>Non tutte le classi sono ancora state tradotte dal team di dungeonworld.it, ma per quelle mancanti potete far riferimento alle traduzioni di Luca Maiorani.</li>
+		<li><a href="/barbaro">Il Barbaro <span class="label label-default">Completato!</span></a></li>	
         <li><a href="/bardo">Il Bardo</a> (traduzione di Luca Maiorani)</li>	
     	<li><a href="/chierico">Il Chierico</a> (traduzione di Luca Maiorani)</li>	
     	<li><a href="/druido">Il Druido</a> (traduzione di Luca Maiorani)</li>	
@@ -58,18 +58,18 @@ Sono stati tradotti i seguenti capitoli:
     	<li><a href="/ladro">Il Ladro</a> (traduzione di Luca Maiorani)</li>	
     	<li><a href="/mago">Il Mago</a> (traduzione di Luca Maiorani)</li>	
     	<li><a href="/paladino">Il Paladino</a> (traduzione di Luca Maiorani)</li>	
-    	<li><a href="/ramigo">Il Ramingo</a> (traduzione di Luca Maiorani)</li>	
+    	<li><a href="/ramigo">Il Ramingo <span class="label label-default">Completato!</span></a></li>	
     </ul>
 	<li>Parte III, <b>Fare il GM</b></li>
 	<ul>
 		<li><a href="il-gm">Il GM</a></li>
 		<li><a href="prima-sessione">Prima Sessione</a></li>
-        <li><a href="fronti">Fronti</a></li>
-        <li><a href="il-mondo">Il Mondo</a></li>
+        <li><a href="fronti">Fronti <span class="label label-default">Nuovo!</span></a></li>
+        <li><a href="il-mondo">Il Mondo <span class="label label-default">Nuovo!</span></a></li>
 	</ul>
     <li>Parte IV, <b>I Mostri</b></li>
 	<ul>
-		<li><a href="mostri">Panoramica</a></li>
+		<li><a href="mostri">Panoramica <span class="label label-default">Nuovo!</span></a></li>
 	</ul>
 </ul>
 

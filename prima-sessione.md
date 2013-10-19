@@ -15,6 +15,8 @@ In preparazione alla prima sessione dovrai stampare un po' di materiale, ovvero:
 - una copia della scheda degli incantesimi dei maghi e una degli incantesimi dei chierici, entrambe fronte e retro
 - la scheda del GM
 
+_[Clicca qui per trovare i contenuti scaricabili da stampare](/downloads)_
+
 Dovrai anche leggere per intero questo libro, specialmente le sezioni che riguardano il GM (le mosse del GM) e le mosse base. È una buona idea anche prendere confidenza con le mosse delle varie classi, così da essere preparato al loro uso. Leggi anche le regole per i fronti ma non crearne nessuno, per ora.
 
 Immagina mondi fantastici, strane magie e mostri disgustosi. Ripensa a giochi che hai fatto e a storie che hai raccontato. Guarda qualche film, leggi qualche fumetto; fissati bene in mente il fantasy eroico.

@@ -3,6 +3,11 @@ title: Il Mago
 layout: default
 ---
 
+<div class="frame right">
+    <img src="/images/liliastre-maga.jpg" />
+    <p>La maga elfa Liliastre</p>
+</div>
+
 Dungeon World ha delle regole. Non sono le leggi degli uomini o la parola di un meschino tiranno. Regole più grandi, migliori. Lasci cadere qualcosa, in pochi attimi è per terra. Non si può creare la materia dal nulla. I morti restano morti, giusto?
 
 Ah, le cose che ci diciamo per stare meglio durante le lunghe notti buie.

@@ -60,6 +60,18 @@ layout: default
 		<td>Mosse Speciali</td>
 	</tr>
     <tr>
+		<td>Capacità</td>
+		<td>Caratteristiche</td>
+		<td>Abilities</td>
+		<td>Terminologia</td>
+	</tr>
+    <tr>
+		<td>Debilitazioni</td>
+		<td>Afflizioni</td>
+		<td>Debilities</td>
+		<td>Terminologia</td>
+	</tr>    
+    <tr>
 		<td>Gregario</td>
 		<td>Mercenario</td>
 		<td>Hireling</td>

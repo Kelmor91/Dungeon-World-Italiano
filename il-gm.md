@@ -2,6 +2,12 @@
 title: Il GM
 layout: default
 ---
+
+<div class="alert alert-info">
+    <button type="button" class="close" data-dismiss="alert">×</button>
+    Questo capitolo è anche disponibile in <a style="font-weight:bold" href="/pdf/gm.pdf">comoda scheda riassuntiva da stampare!</a>
+</div>
+
 Ci sono molti e diversi generi di fantasy, ognuno con il suo stile e i suoi consigli per fare il GM. Dungeon World è progettato, in particolare, per uno di questi stili: un mondo di elfi, orchi, draghi e magia dove oscuri pericoli si mescolano con avventure scanzonate. Le regole di questo capitolo ti aiuteranno a dirigere il gioco in questo stile.
 
 I personaggi hanno delle regole da seguire quando tirano i dadi e agiscono. Anche il GM ha delle regole da seguire. Dovrai arbitrare, fare da giudice e descrivere il mondo man mano che procedi — Dungeon World ti offre una struttura per aiutarti a fare proprio questo.

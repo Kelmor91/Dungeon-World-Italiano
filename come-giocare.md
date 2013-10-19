@@ -183,11 +183,11 @@ GM, quando dici ai giocatori che cosa devono fare per resuscitare il loro compag
 
 Perdere PF è un effetto generico, rappresenta lividi, tagli, fatica, e così via. Alcune ferite, però, fanno più male. Si tratta di debilitazioni.
 
-* **Indebolito (FOR)**: Non riesci ad esercitare molta forza. Potrebbe trattarsi della fatica o di una brutta ferita, o forse la tua energia è stata prosciugata da un incantesimo.
+* **Debole (FOR)**: Non riesci ad esercitare molta forza. Potrebbe trattarsi della fatica o di una brutta ferita, o forse la tua energia è stata prosciugata da un incantesimo.
 
-* **Instabile (DES)**: Non riesci a mantenere l'equilibrio e ti tremano le mani.
+* **Malfermo (DES)**: Non riesci a mantenere l'equilibrio e ti tremano le mani.
 
-* **Indisposto (COS)**: Qualcosa non va dentro di te. Forse sei ammalato o denutrito. O forse hai bevuto troppa birra ieri sera e questi sono i postumi da sbornia.
+* **Malato (COS)**: Qualcosa non va dentro di te. Forse sei ammalato o denutrito. O forse hai bevuto troppa birra ieri sera e questi sono i postumi da sbornia.
 
 * **Stordito (INT)**: Quell'ultima botta in testa deve aver mosso qualcosa. Cervello no funzionare bene.
 
@@ -511,3 +511,5 @@ Ricordati che non tutto il potere è puramente fisico. Anche se potresti sconfig
 Sei un avventuriero; sei una persona importante. Ma ci sono altre forze in gioco. Il mondo andrà avanti senza di te. Se non poni fine all'infestazione di goblin nelle fogne magari lo farà qualcun altro. O forse i goblin prenderanno il controllo della città. Vuoi davvero scoprirlo?
 
 Un mondo in costante movimento è un mondo che aspetta di essere cambiato. Le tue scelte di chi uccidere (e chi no), dove andare, quali patti stringere — tutto cambia il mondo in cui ti trovi. Cambiare il mondo significa agire su di esso: fare mosse, cercare tesori e esplorare. Il cambiamento appare sotto molte forme, compresi i PE che usi per salire di livello e ottenere nuove capacità. Potrai poi usare queste capacità nel mondo per scombinare ancora le cose. È un ciclo di cambiamento e crescita sia per te che per il mondo in cui vivi.
+
+_[Prosegui al prossimo capitolo: Esempio di Gioco!](esempio)_
