@@ -27,6 +27,11 @@ Perchè nessuno di loro è forte come te. Nessuno.
 
 _[Clicca qui per visitare la pagina del Barbaro](/barbaro)_
 
+<div class="frame left">
+    <img src="/images/florian-bardo.jpg"/>
+    <p>Il bardo umano Florian</p>
+</div>
+
 # Il Bardo
 
 I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e della gloria di battaglie vinte e di ricchezze conquistate. Le storie che si raccontano in ogni taverna affollata di villici e braccianti dovranno pur avere una parvenza di verità, non è vero? Le canzoni che ispirano ugualmente nobili e pezzenti, per placare le bestie selvagge o spingere gli uomini alla furia, dovranno pur avere un'origine.

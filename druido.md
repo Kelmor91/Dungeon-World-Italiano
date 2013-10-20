@@ -9,6 +9,4 @@ Tu appartieni agli ampi spazi consacrati, sei nato dalla terra e porti il marchi
 
 I loro dèi sono infanti, il loro acciaio non li proteggerà. Tu segui le vecchie vie, indossi la pelle della terra stessa. Prenderai certo la tua parte del tesoro, ma camminerai mai come uno di loro? Solo il tempo lo dirà.
 
----
-
-Il Druido non è ancora stato tradotto dal team di dungeonworld.it. Puoi appoggiarti all'ottima **[traduzione di Luca Maiorani](/pdf/druido.pdf)** nel frattempo.
+**[Clicca qui per vedere la scheda del Druido.](/pdf/druido.pdf)**

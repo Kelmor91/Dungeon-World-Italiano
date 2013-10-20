@@ -53,7 +53,7 @@ Sono stati tradotti i seguenti capitoli:
 		<li><a href="/barbaro">Il Barbaro <span class="label label-default">Completato!</span></a></li>	
         <li><a href="/bardo">Il Bardo <span class="label label-info">Nuovo!</span></a></li>	
     	<li><a href="/chierico">Il Chierico</a> (traduzione di Luca Maiorani)</li>	
-    	<li><a href="/druido">Il Druido</a> (traduzione di Luca Maiorani)</li>	
+    	<li><a href="/druido">Il Druido <span class="label label-info">Nuovo!</span></a></li>	
     	<li><a href="/guerriero">Il Guerriero <span class="label label-default">Completato!</span></a></li>	
     	<li><a href="/ladro">Il Ladro <span class="label label-default">Completato!</span></a></li>	
     	<li><a href="/mago">Il Mago <span class="label label-info">Nuovo!</span></a></li>	
@@ -64,12 +64,12 @@ Sono stati tradotti i seguenti capitoli:
 	<ul>
 		<li><a href="il-gm">Il GM</a></li>
 		<li><a href="prima-sessione">Prima Sessione</a></li>
-        <li><a href="fronti">Fronti <span class="label label-default">Nuovo!</span></a></li>
-        <li><a href="il-mondo">Il Mondo <span class="label label-default">Nuovo!</span></a></li>
+        <li><a href="fronti">Fronti</a></li>
+        <li><a href="il-mondo">Il Mondo</a></li>
 	</ul>
     <li>Parte IV, <b>I Mostri</b></li>
 	<ul>
-		<li><a href="mostri">Panoramica <span class="label label-default">Nuovo!</span></a></li>
+		<li><a href="mostri">Panoramica</a></li>
 	</ul>
 </ul>
 
