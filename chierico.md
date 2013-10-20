@@ -8,6 +8,6 @@ Portare la gloria degli dèi ai selvaggi non è solo la tua natura, è la tua mi
 
 Mostra al mondo chi è il suo signore.
 
----
+**[Clicca qui per vedere la scheda del Chierico.](/pdf/chierico.pdf)**
 
-Il Chierico non è ancora stato tradotto dal team di dungeonworld.it. Puoi appoggiarti all'ottima **[traduzione di Luca Maiorani](/pdf/chierico.pdf)** nel frattempo.
+**[Clicca qui per vedere gli incantesimi del Chierico.](/pdf/chierico-incantesimi.pdf)**

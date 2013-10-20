@@ -3,9 +3,9 @@ title: Dungeon World in Italiano
 layout: default
 ---
 
-<div class="alert alert-success">
+<div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>18 ottobre 2013:</strong> La traduzione libera di Dungeon World finalmente ha raggiunto la sua <strong>versione giocabile!</strong> È disponibile la traduzione di tutti i capitoli necessari a giocare.
+    <strong>21 ottobre 2013:</strong> Finalmente completate <strong><a href="/downloads">tutte le schede delle classi!</a></strong> Giocate a Dungeon World stampandovi le comode schede.
 </div>
 
 <div class="alert alert-info">
@@ -31,7 +31,7 @@ Considero questo sito una risorsa pubblica, e il testo completo è disponibile s
 
 # Siamo a buon punto!
 
-La traduzione è **quasi completa**, mancano solo i capitoli relativi alle ambientazioni mostruose. È comunque presente tutto il necessario per iniziare a giocare!
+La traduzione è **quasi completa**, mancano solo i capitoli relativi alle ambientazioni mostruose.
 
 Oltre alle schede delle classi, sono disponibili le schede delle **[mosse base](pdf/mosse.pdf)** e del **[riassunto del gm](pdf/gm.pdf)**, adesso aggiornate alla nostra traduzione!
 
@@ -49,16 +49,15 @@ Sono stati tradotti i seguenti capitoli:
 	</ul>
 	<li>Parte II, <b>Le Classi</b></li>    
     <ul>
-        <li>Non tutte le classi sono ancora state tradotte dal team di dungeonworld.it, ma per quelle mancanti potete far riferimento alle traduzioni di Luca Maiorani.</li>
 		<li><a href="/barbaro">Il Barbaro <span class="label label-default">Completato!</span></a></li>	
         <li><a href="/bardo">Il Bardo <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/chierico">Il Chierico</a> (traduzione di Luca Maiorani)</li>	
+    	<li><a href="/chierico">Il Chierico <span class="label label-info">Nuovo!</span></a></li>	
     	<li><a href="/druido">Il Druido <span class="label label-info">Nuovo!</span></a></li>	
     	<li><a href="/guerriero">Il Guerriero <span class="label label-default">Completato!</span></a></li>	
     	<li><a href="/ladro">Il Ladro <span class="label label-default">Completato!</span></a></li>	
     	<li><a href="/mago">Il Mago <span class="label label-info">Nuovo!</span></a></li>	
     	<li><a href="/paladino">Il Paladino <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/ramigo">Il Ramingo <span class="label label-default">Completato!</span></a></li>	
+    	<li><a href="/ramingo">Il Ramingo <span class="label label-default">Completato!</span></a></li>	
     </ul>
 	<li>Parte III, <b>Fare il GM</b></li>
 	<ul>
