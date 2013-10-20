@@ -9,6 +9,4 @@ I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e 
 
 Nessuno. Dai inizio all'avventura.
 
----
-
-Il Bardo non è ancora stato tradotto dal team di dungeonworld.it. Puoi appoggiarti all'ottima **[traduzione di Luca Maiorani](/pdf/bardo.pdf)** nel frattempo.
+**[Clicca qui per vedere la scheda del Bardo.](/pdf/bardo.pdf)**
