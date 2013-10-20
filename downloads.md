@@ -10,6 +10,7 @@ Per comodo riferimento, vengono qui elencati tutti i materiali scaricabili e sta
 - [Scheda del Barbaro](/pdf/barbaro.pdf)
 - [Scheda del Bardo](/pdf/bardo.pdf)
 - [Scheda del Chierico](/pdf/chierico.pdf)
+- [Incantesimi del Chierico](/pdf/chierico-incantesimi.pdf)
 - [Scheda del Druido](/pdf/druido.pdf)
 - [Scheda del Guerriero](/pdf/guerriero.pdf)
 - [Scheda del Ladro](/pdf/ladro.pdf)
