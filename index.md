@@ -23,13 +23,13 @@ Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo
 
 Vi rimando all'[Introduzione](introduzione) per una descrizione più approfondita.
 
-# Perché una traduzione?
+## Perché una traduzione?
 
 Ho deciso di fare questa traduzione per aiutare a diffondere Dungeon World nel mio paese natìo, l'Italia. Il lavoro è indipendente e anteriore a quello effettuato da [Narrattiva](www.narrattiva.it) (con cui non siamo associati) e si pone come alternativa gratuitamente consultabile online. Qui **[il glossario delle differenze](/glossario)** con la loro edizione di Dungeon World.
 
 Considero questo sito una risorsa pubblica, e il testo completo è disponibile su [github][git], come il gioco in lingua originale. Chiunque è libero di mandarmi un'email o un messaggio su Google+ ([visita la nostra community][community]) per segnalarmi un errore o suggerirmi delle traduzioni migliori, e prometto che risponderò e mi metterò in discussione con ciascuno.
 
-# Siamo a buon punto!
+# Indice Generale
 
 La traduzione è **quasi completa**, mancano solo i capitoli relativi alle ambientazioni mostruose.
 

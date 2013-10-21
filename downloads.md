@@ -5,6 +5,8 @@ layout: default
 
 Per comodo riferimento, vengono qui elencati tutti i materiali scaricabili e stampabili.
 
+**[Scarica tutte le schede in un unico archivio cliccando qui!](/pdf/dw-schede.zip)**
+
 - [Riassunto Mosse](/pdf/mosse.pdf)
 - [Riassunto del GM](/pdf/gm.pdf)
 - [Scheda del Barbaro](/pdf/barbaro.pdf)
