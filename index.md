@@ -23,7 +23,7 @@ Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo
 
 Vi rimando all'[Introduzione](introduzione) per una descrizione più approfondita.
 
-## Perché una traduzione?
+### Perché una traduzione?
 
 Ho deciso di fare questa traduzione per aiutare a diffondere Dungeon World nel mio paese natìo, l'Italia. Il lavoro è indipendente e anteriore a quello effettuato da [Narrattiva](www.narrattiva.it) (con cui non siamo associati) e si pone come alternativa gratuitamente consultabile online. Qui **[il glossario delle differenze](/glossario)** con la loro edizione di Dungeon World.
 
