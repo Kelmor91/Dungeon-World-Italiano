@@ -120,6 +120,12 @@ layout: default
 		<td>Etichetta Armi (Portata)</td>
 	</tr>
 	<tr>
+		<td>Misera</td>
+		<td>Sporca</td>
+		<td>Dirt</td>
+		<td>Etichetta Insediamenti</td>
+	</tr>
+	<tr>
 		<td>Benestante</td>
 		<td>Ricca</td>
 		<td>Wealthy</td>
@@ -135,6 +141,12 @@ layout: default
 		<td>Anarchico</td>
 		<td>Fuorilegge</td>
 		<td>Lawless</td>
+		<td>Etichetta Insediamenti</td>
+	</tr>
+>	<tr>
+		<td>Flagello</td>
+		<td>Rovina</td>
+		<td>Blight</td>
 		<td>Etichetta Insediamenti</td>
 	</tr>
 	<tr>
