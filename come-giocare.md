@@ -2,13 +2,13 @@
 title: Come Giocare
 layout: default
 ---
-Giocare a Dungeon World è come una conversazione; qualcuno dice qualcosa, poi tu rispondi, e magari qualcun'altro dice la sua. Ciò di cui si parla è la *fiction*: il mondo dei personaggi e delle cose che accadono attorno a loro. Mentre si gioca, anche le regole diranno la propria; anche loro hanno qualcosa da dire sul mondo. Non ci sono turni, round o giri in Dungeon World, non ci sono regole che dicono di chi sia il turno di parlare. Invece, i giocatori si alternano seguendo il flusso naturale della conversazione, che prevede sempre un po' di botta e risposta. Il GM dice qualcosa, i giocatori rispondono. I giocatori fanno domande o affermazioni, il GM gli dice cosa succede subito dopo. Dungeon World non è mai un monologo; è sempre una conversazione.
+Giocare a Dungeon World è come una conversazione; qualcuno dice qualcosa, poi tu rispondi, e magari qualcun altro dice la sua. Ciò di cui si parla è la *fiction*: il mondo dei personaggi e delle cose che accadono attorno a loro. Mentre si gioca, anche le regole diranno la propria; anche loro hanno qualcosa da dire sul mondo. Non ci sono turni, round o giri in Dungeon World, non ci sono regole che dicono di chi sia il turno di parlare. Invece, i giocatori si alternano seguendo il flusso naturale della conversazione, che prevede sempre un po' di botta e risposta. Il GM dice qualcosa, i giocatori rispondono. I giocatori fanno domande o affermazioni, il GM gli dice cosa succede subito dopo. Dungeon World non è mai un monologo; è sempre una conversazione.
 
 Le regole aiutano a dare forma alla conversazione durante il gioco. Mentre il GM e i giocatori parlano, anche le regole e la fiction parlano. Ciascuna regola si attiva esplicitamente a partire dalla fiction, dicendoti quando è il momento di portarla all'interno della conversazione.
 
 Come in ogni conversazione, il tempo che passi ad ascoltare è importante quanto il tempo che passi a parlare. I dettagli che vengono creati e decisi dalle altre persone al tavolo (il GM e gli altri giocatori) sono importanti per te: potrebbero cambiare le mosse che fai, fornire un'opportunità, o creare una sfida che devi superare. La conversazione funziona meglio quando tutti ascoltano, fanno domande e costruiscono sul contributo di ciascun altro.
 
-Questo capitolo ti spiegherà come giocare a Dungeon World. Qui potrai trovare una spiegazione delle regole — come si manifestano e danno un contributo al gioco. Parleremo sia di regole generali, come fare le mosse. e regole più specifiche, come quelle per gestire i danni e i punti ferita.
+Questo capitolo ti spiegherà come giocare a Dungeon World. Qui potrai trovare una spiegazione delle regole — come si manifestano e danno un contributo al gioco. Parleremo sia di regole generali, come fare le mosse e regole più specifiche, come quelle per gestire i danni e i punti ferita.
 
 # Punteggi di Capacità e Modificatori
 
@@ -30,7 +30,7 @@ Le mosse sono regole che ti dicono quando entrano in gioco e che effetto hanno. 
 
 Quando un giocatore descrive il suo personaggio fare qualcosa che innescherebbe una mossa, la mossa si attiva e le sue regole vengono applicate. Se la mossa richiede un tiro, essa dirà che dadi tirare e come leggerne i risultati.
 
-Un personaggio non può fare un'azione nella fiction che innescherebbe una mossa senza che quella mossa si inneschi. Per esempio, se Isaac dice al GM che il suo personaggio sfreccia di fianco a un orco inferocito e munito di ascia per dirigersi verso una porta, innesca la mossa *sfidare il pericolo* perché il suo innesco è "quando agisci nonostante una minaccia incombente". Isaac non può dire che il suo personaggio supera l'orco senza eseguire la mossa *sfidare il pericolo*, e non può eseguire la mossa *sfidare il pericolo* se non sussiste una minaccia incombente o una circostanza sventurata. Le mosse e la fiction procedono di pari passo.
+Un personaggio non può fare un'azione nella fiction che innescherebbe una mossa senza che essa si inneschi. Per esempio, se Isaac dice al GM che il suo personaggio sfreccia di fianco a un orco inferocito e munito di ascia per dirigersi verso una porta, innesca la mossa *sfidare il pericolo* perché il suo innesco è "quando agisci nonostante una minaccia incombente". Isaac non può dire che il suo personaggio supera l'orco senza eseguire la mossa *sfidare il pericolo*, e non può eseguire la mossa *sfidare il pericolo* se non sussiste una minaccia incombente o una circostanza sventurata. Le mosse e la fiction procedono di pari passo.
 
 Ciascuno al tavolo dovrebbe stare attento a quando si attivano le mosse. Se non è chiaro se una mossa sia stata innescata o meno, bisogna discuterne insieme per mettere in chiaro la situazione. Fai domande alle persone coinvolte finché tutti la vedono allo stesso modo, e poi tira i dadi, o non tirarli, a seconda della situazione.
 
@@ -62,7 +62,7 @@ Allo stesso modo, l'equipaggiamento può evitare di farti attivare una mossa. Sc
 
 In particolare, cambiando le armi è probabile che cambino anche le mosse che puoi fare. Un personaggio con un pugnale in mano può facilmente trafiggere il goblin che gli morde la gamba, attivando *taglia e spacca*, mentre un personaggio con un'alabarda avrà molta più difficoltà a colpire un avversario così vicino.
 
-Equipaggiamento e attrezzatura di ogni tipo sono dotati di etichette. Le etichette sono parole che descrivono gli oggetti. Alcune etichette hanno dei precisi effetti sulle regole (ad esempio, riduzione dei danni per l'armatura o un bonus magico a qualche mossa o attributo). Altre etichette hanno un significato solo nella fiction (come l'etichetta *vicino*, che descrive la lunghezza dell'arma e quanto vicino devono essere i tuoi nemici perché tu li possa attaccare). Le etichette ti aiutano a descrivere le azioni del tuo personaggio quando usa gli oggetti e danno informazioni al GM su come gli oggetti che usi possano ritorcerti contro o complicarti la vita quando fallisci un tiro.
+Equipaggiamento e attrezzatura di ogni tipo sono dotati di etichette. Le etichette sono parole che descrivono gli oggetti. Alcune etichette hanno dei precisi effetti sulle regole (ad esempio, riduzione dei danni per l'armatura o un bonus magico a qualche mossa o attributo). Altre etichette hanno un significato solo nella fiction (come l'etichetta *vicino*, che descrive la lunghezza dell'arma e quanto vicino devono essere i tuoi nemici perché tu li possa attaccare). Le etichette ti aiutano a descrivere le azioni del tuo personaggio quando usa gli oggetti e danno informazioni al GM su come gli oggetti che usi possano ritorcertisi contro o complicarti la vita quando fallisci un tiro.
 
 ## Gli Effetti delle Mosse
 
@@ -82,7 +82,7 @@ Alcune mosse hanno degli effetti meccanici immediati, come infliggere danno o da
 
 **… Ti danno «riserva».** La riserva è una valuta che puoi spendere per fare delle scelte più tardi spendendola come descritto dalla mossa. La riserva è sempre relativa alla mossa che l'ha generata; ad esempio, non puoi spendere la riserva di *difendere* per *esperto di trappole* o viceversa.
 
-**… Ti presentano una scelta.** La scelta che fai, come in tutti gli effetti delle mosse, detta anche ciò che accade nella fiction, in aggiunta ad eventuali effetti meccanici. Quando ottieni 10+ in *taglia e spacca*, la scelta che fai di infliggere più danni al costo di aprire le tue difese è esattamente quello che sta accadento al tuo personaggio: è abbastanza in vantaggio da poter andare sul sicuro o tentare la sorte.
+**… Ti presentano una scelta.** La scelta che fai, come in tutti gli effetti delle mosse, detta anche ciò che accade nella fiction, in aggiunta ad eventuali effetti meccanici. Quando ottieni 10+ in *taglia e spacca*, la scelta che fai di infliggere più danni al costo di aprire le tue difese è esattamente quello che sta accadendo al tuo personaggio: è abbastanza in vantaggio da poter andare sul sicuro o tentare la sorte.
 
 **… Ti danno la possibilità di raccontare** qualcosa del tuo personaggio e della sua storia. Quando *declami conoscenze* ti potrebbe essere chiesto come fai a sapere le informazioni che ti vengono rivelate dal GM. Usa questa opportunità per dare un contributo al gioco e mostrare chi è davvero il tuo personaggio. Ricordati solo quali sono i fatti prestabiliti e non contraddire nulla che è stato già detto.
 
@@ -121,7 +121,7 @@ L'armatura temporanea o circostanziale funziona allo stesso modo dell'armatura c
 
 I danni vengono inflitti in base alla fiction. Le mosse che infliggono danni, come *taglia e spacca*, sono semplicemente questo: la mossa dice che i danni vengono inflitti nella fiction. I danni possono essere inflitti anche senza una mossa, se ciò consegue dalla fiction.
 
-Spesso, la perdita di PF è solo parte dell'effetto. Se il danno è generico, come per il cadere in un fossato, perdere i PF è probabilmente l'unica conseguenza. Quando il danno è specifico, come per un'orco che ti tira un braccio lussandoti la spalla, i PF dovrebbero essere parte dell'effetto ma non tutto quanto. Il problema principale è sistemare il braccio slogato: come farai adesso a impugnare una spada o a lanciare un incantesimo? Allo stesso modo, se vieni decapitato non è una perdita di PF, sei morto e basta.
+Spesso, la perdita di PF è solo parte dell'effetto. Se il danno è generico, come per il cadere in un fossato, perdere i PF è probabilmente l'unica conseguenza. Quando il danno è specifico, come per un orco che ti tira un braccio lussandoti la spalla, i PF dovrebbero essere parte dell'effetto ma non tutto quanto. Il problema principale è sistemare il braccio slogato: come farai adesso a impugnare una spada o a lanciare un incantesimo? Allo stesso modo, se vieni decapitato non è una perdita di PF, sei morto e basta.
 
 ### Danni da molteplici creature
 
@@ -129,7 +129,7 @@ Spesso, la perdita di PF è solo parte dell'effetto. Se il danno è generico, co
 
 Se molteplici creature attaccano allo stesso momento, tira i danni più elevati tra i loro e aggiungi +1 danno per ciascun mostro oltre il primo.
 
-> Un orkantatore goblin (d10+1 danni *ignora armatura*) e tre goblin (d6 danni) tirano tutti insieme le loro armi — un globo magico di acido per l'orkantatore, lance per gli altri — contro Lux, mentre lei assalta la loro barricata. Tiro i danni più alti, ovvero d10+1 *ignora armatura*, e aggiungo +3 per ciascuno degli altri goblin. Dopo aver sommato tutto, dico a Lux che subisce 9 danni *ignora armatura* quando l'acido passa attraverso le fessure lasciate dai colpi di ascia.
+> Un orcantatore goblin (d10+1 danni *ignora armatura*) e tre goblin (d6 danni) tirano tutti insieme le loro armi — un globo magico di acido per l'orcantatore, lance per gli altri — contro Lux, mentre lei assalta la loro barricata. Tiro i danni più alti, ovvero d10+1 *ignora armatura*, e aggiungo +3 per ciascuno degli altri goblin. Dopo aver sommato tutto, dico a Lux che subisce 9 danni *ignora armatura* quando l'acido passa attraverso le fessure lasciate dai colpi di ascia.
 
 ### Danni da stordimento
 
@@ -183,11 +183,11 @@ GM, quando dici ai giocatori che cosa devono fare per resuscitare il loro compag
 
 Perdere PF è un effetto generico, rappresenta lividi, tagli, fatica, e così via. Alcune ferite, però, fanno più male. Si tratta di debilitazioni.
 
-* **Debole (FOR)**: Non riesci ad esercitare molta forza. Potrebbe trattarsi della fatica o di una brutta ferita, o forse la tua energia è stata prosciugata da un incantesimo.
+* **Indebolito (FOR)**: Non riesci ad esercitare molta forza. Potrebbe trattarsi della fatica o di una brutta ferita, o forse la tua energia è stata prosciugata da un incantesimo.
 
-* **Malfermo (DES)**: Non riesci a mantenere l'equilibrio e ti tremano le mani.
+* **Instabile (DES)**: Non riesci a mantenere l'equilibrio e ti tremano le mani.
 
-* **Malato (COS)**: Qualcosa non va dentro di te. Forse sei ammalato o denutrito. O forse hai bevuto troppa birra ieri sera e questi sono i postumi da sbornia.
+* **Indisposto (COS)**: Qualcosa non va dentro di te. Forse sei ammalato o denutrito. O forse hai bevuto troppa birra ieri sera e questi sono i postumi da sbornia.
 
 * **Stordito (INT)**: Quell'ultima botta in testa deve aver mosso qualcosa. Cervello no funzionare bene.
 
@@ -217,11 +217,11 @@ Il percorso fondamentale per usare la magia è: conosci, prepara, lancia e dimen
 
 Gli incantesimi conosciuti sono quelli che un incantatore padroneggia abbastanza da poterli preparare. Il chierico conosce tutti gli incantesimi del proprio livello o inferiori, comprese le orazioni. Il mago inizia il gioco con la conoscenza dei trucchetti e di tre incantesimi di primo livello. Ogni volta che il mago ottiene un livello, impara un nuovo incantesimo. Il mago scrive gli incantesimi conosciuti nel proprio libro degli incantesimi.
 
-Anche quando un incantatore conosce un incantesimo, deve prepararlo prima di poterlo lanciare. Con abbastanza tempo a disposizione, come descritto nelle mosse *comunione* e*preparare incantesimi*, l'incantatore può preparare un numero di incantesimi che conosce il cui livello totale sia uguale o inferiore al livello dell'incantatore più 1. Il mago prepara sempre i trucchetti, il chierico prepara sempre le orazioni. Un'incantesimo preparato è pronto per essere lanciato.
+Anche quando un incantatore conosce un incantesimo, deve prepararlo prima di poterlo lanciare. Con abbastanza tempo a disposizione, come descritto nelle mosse *comunione* e*preparare incantesimi*, l'incantatore può preparare un numero di incantesimi che conosce il cui livello totale sia uguale o inferiore al livello dell'incantatore più 1. Il mago prepara sempre i trucchetti, il chierico prepara sempre le orazioni. Un incantesimo preparato è pronto per essere lanciato.
 
 Lanciare un incantesimo può comportare l’invocazione di una divinità, salmodiare, agitare le mani, appellarsi a forze mistiche, e così via. Per lanciare un incantesimo solitamente devi fare la mossa *lancia un incantesimo*. Su un risultato di 10+ l'incantesimo ha effetto, con un 7–9 l'incantatore è nei guai e deve fare una scelta, ma l'incantesimo è comunque lanciato. Alcuni incantesimi hanno un effetto continuato: una volta lanciati, restano attivi fino a quando qualcosa vi pone fine.
 
-Un'opzione sul risultato di 7–9 è di dimenticare l'incantesimo o che ne venga negato l'utilizzo dalla propria divinità. Un incantesimo dimenticato o negato è considerato ancora conosciuto, ma non preparato, e quindi non lanciabile. Quando l'incantatore *prepara incantesimi* o fa *comunione* può preparare nuovamente l'incantesimo.
+Un'opzione sul risultato di 7–9 è di dimenticare l'incantesimo o averlo revocato dalla propria divinità. Un incantesimo dimenticato o revocato è considerato ancora conosciuto, ma non preparato, e quindi non lanciabile. Quando l'incantatore *prepara incantesimi* o fa *comunione* può preparare nuovamente l'incantesimo.
 
 # Evoluzione dei Personaggi
 
@@ -297,7 +297,7 @@ Quando scrivi un nuovo legame scegli un altro personaggio. Scegli qualcosa di at
 
 <!-- separatore -->
 
-> Xotoq ha vinto l'ascia delle Ossa Sussuranti con un tranello! Sarà mia, lo giuro.
+> Xotoq ha vinto l'ascia delle Ossa Sussurranti con un tranello! Sarà mia, lo giuro.
 
 Questi legami sono esattamente come quelli vecchi: usali, risolvili, sostituiscili.
 
@@ -307,7 +307,7 @@ L'allineamento è la bussola morale e il modo di pensare del tuo personaggio. Pe
 
 Gli allineamenti sono Buono, Legale, Neutrale, Caotico e Malvagio. Ciascuno rappresenta l'aspirazione a diventare un diverso tipo di persona.
 
-Le creature Legali ambiscono a imporre ordine al mondo, sia per il proprio beneficio che per quello degli altri. Le creature Caotiche accolgono in sé il cambiamento e idealizzano l'essenza disordinata del mondo, mettendo la libertà sopra ogni cosa. Le creature Buone cercano di porre gli altri prima di se stessi. Le creature Malvage pongono se stessi per primi, a discapito degli altri.
+Le creature Legali ambiscono a imporre ordine al mondo, sia per il proprio beneficio che per quello degli altri. Le creature Caotiche accolgono in sé il cambiamento e idealizzano l'essenza disordinata del mondo, mettendo la libertà sopra ogni cosa. Le creature Buone cercano di porre gli altri prima di se stessi. Le creature Malvagie pongono se stessi per primi, a discapito degli altri.
 
 Una creatura Neutrale pensa a se stessa fintanto che ciò non entri in conflitto con la felicità di qualcun altro. I personaggi Neutrali si accontentano di vivere la propria vita e seguire i propri obiettivi e lasciare che gli altri facciano lo stesso.
 
@@ -375,11 +375,9 @@ I gregari non lavorano gratis. Il costo di un gregario è quanto serve per tener
 
 Quando i gregari sono in gioco, i giocatori potrebbero dover fare la mossa *dare ordini a un gregario*. La mossa usa la lealtà del gregario coinvolto.
 
----
+## Dare Ordini a un Gregario
 
-I gregari fanno ciò che gli dici, fintanto che non sia evidentemente pericolosa, umiliante o stupida e che il loro costo sia soddisfatto. **Quando un gregario si trova in una situazione pericolosa, umiliante o semplicemente stupida a causa dei tuoi ordini**tira+lealtà. ✴Con un 10+ eseguono l'ordine senza remore. ✴Con un 7–9 lo fanno per ora, ma esigeranno qualcosa di importante più tardi. Concediglielo o vi abbandoneranno nel peggior modo possibile.
-
----
+I gregari fanno ciò che gli dici, fintanto che non sia evidentemente pericolosa, umiliante o stupida e che il loro costo sia soddisfatto. **Quando un gregario si trova in una situazione pericolosa, umiliante o semplicemente stupida a causa dei tuoi ordini** tira+lealtà. ✴Con un 10+ esegue l'ordine senza remore. ✴Con un 7–9 lo fa, per ora, ma esigerà qualcosa di importante più tardi. Concediglielo o ti abbandonerà nel peggior modo possibile.
 
 # Creare un Gregario
 
@@ -387,7 +385,7 @@ I gregari sono facili da fare al volo. Quando qualcuno viene assunto dai giocato
 
 Inizia con un punteggio in base a dove è stato incontrato il gregario. I gregari di villaggio iniziano con 2–5. I gregari di città iniziano con 4–6. I gregari di fortezza iniziano con 5–8. I gregari di una grande città iniziano con 6–10. Distribuisci il punteggio tra la lealtà, un'abilità principale, ed eventuali altre abilità secondarie. Una lealtà iniziale più alta di 2 è rara, così come una lealtà pari a 0. Scegli un costo per il gregario e hai finito.
 
-Le statistiche di un gregario, specialmente la lealtà, possono cambiare durante il gioco come riflesso delle cose che accadono. Un gesto di gentilezza o una lauta ricompensa da parte dei giocatori vale +1 lealtà al prossimo tiro. Una mancanza di rispetto vale -1 lealtà al prossimo tiro. Se è passato molto tempo dall'ultima volta che il suo costo è stato soddisfatto, hanno -1 lealtà continuato fino a quando il costo non viene pagato. La lealtà di un gregario può aumentare permanentemente quando raggiunge un obiettivo importante insieme ai giocatori. Un fallimento importante o una batosta può invece ridurre permanentemente la lealta del gregario.
+Le statistiche di un gregario, specialmente la lealtà, possono cambiare durante il gioco come riflesso delle cose che accadono. Un gesto di gentilezza o una lauta ricompensa da parte dei giocatori vale +1 lealtà al prossimo tiro. Una mancanza di rispetto vale -1 lealtà al prossimo tiro. Se è passato molto tempo dall'ultima volta che il suo costo è stato soddisfatto, hanno -1 lealtà continuato fino a quando il costo non viene pagato. La lealtà di un gregario può aumentare permanentemente quando raggiunge un obiettivo importante insieme ai giocatori. Un fallimento importante o una batosta può invece ridurre permanentemente la lealtà del gregario.
 
 ## Costi
 
@@ -496,7 +494,7 @@ Se intraprendi un *viaggio pericoloso* avrai bisogno di un apripista, un ricogni
 
 Sei un avventuriero, quindi la gente ti presterà attenzione. Non tutta l'attenzione che riceverai sarà positiva. Scoprirai che, soprattutto quando sei ricoperto da tesori antichi, parassiti di ogni tipo sbucheranno dalle abitazioni.
 
-Certo, puoi ottenere influenza su queste persone e *parlamentare* per ottenere ciò che vuoi, ma per costruire dei rapporti duraturi devi comportarti correttamente. Obbligare il Duca Alhoro a darti un castello in cambio di sua figlia ti procurerà la terra che cerchi, ma la reputazione che ti guadagnerai con questo losco affare non ti aiuterà a ricevere favori. La coercizione non è una forma di controllo mentale, quindi vedi di fare il bravo se vuoi farti degli amici.
+Certo, puoi trovare il modo di far leva su queste persone e *parlamentare* per ottenere ciò che vuoi, ma per costruire dei rapporti duraturi devi comportarti correttamente. Obbligare il Duca Alhoro a darti un castello in cambio di sua figlia ti procurerà la terra che cerchi, ma la reputazione che ti guadagnerai con questo losco affare non ti aiuterà a ricevere favori. La coercizione non è una forma di controllo mentale, quindi vedi di fare il bravo se vuoi farti degli amici.
 
 Con magia, d'altro canto, potrebbe davvero trattarsi di controllo mentale. La moralità di ciò è opinabile, ma puoi piegare qualcuno alla tua volontà se non ti dispiace gettare il loro libero arbitrio nel cestino.
 
@@ -512,4 +510,5 @@ Sei un avventuriero; sei una persona importante. Ma ci sono altre forze in gioco
 
 Un mondo in costante movimento è un mondo che aspetta di essere cambiato. Le tue scelte di chi uccidere (e chi no), dove andare, quali patti stringere — tutto cambia il mondo in cui ti trovi. Cambiare il mondo significa agire su di esso: fare mosse, cercare tesori e esplorare. Il cambiamento appare sotto molte forme, compresi i PE che usi per salire di livello e ottenere nuove capacità. Potrai poi usare queste capacità nel mondo per scombinare ancora le cose. È un ciclo di cambiamento e crescita sia per te che per il mondo in cui vivi.
 
-_[Prosegui al prossimo capitolo: Esempio di Gioco!](esempio)_
+_[Prosegui al prossimo capitolo: Esempio di Gioco!](/esempio)_
+

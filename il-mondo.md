@@ -10,7 +10,7 @@ Questo capitolo parla del grande mondo: i vasti e interminati spazi al di fuori 
 
 ## Insediamenti
 
-Chiamiamo tutte le comunità, fortezze e così via dove c’è un posto dove stare e un minimo di civilità **insediamenti**. Gli insediamenti sono luoghi con almeno uno sparuto gruppo di abitanti, solitamente umani, e qualche edificio stabile. Possono essere vasti come una capitale o ristretti come un pugno di edifici fatiscenti.
+Chiamiamo tutte le comunità, fortezze e così via dove c’è un posto dove stare e un minimo di civiltà **insediamenti**. Gli insediamenti sono luoghi con almeno uno sparuto gruppo di abitanti, solitamente umani, e qualche edificio stabile. Possono essere vasti come una capitale o ristretti come un pugno di edifici fatiscenti.
 
 # Creare il Mondo
 
@@ -24,7 +24,7 @@ Quando hai tempo (durante la prima sessione o durante una pausa, ad esempio) usa
 
 # Mentre Sei in Città...
 
-Quando i giocatori visitano un insediamento ci sono alcune mosse speciali che potranno fare. Queste seguono comunque il flusso della fiction del gioco. Quando i giocatori arrivano, chiedigli "Che cosa fate?". La maggior parte delle volte le azioni dei giocatori attiveranno una mossa da questa lista. Include il riposo, il rinvigorimento e il rifornirsi: sono opportunità per i giocatori di liberarsi dalle ansie e spendere il loro tesoro. Ricorda che un insediamento non è separato dallla realtà: devi continuare a fare mosse pesanti quando necessario e a pensare come le azioni (o l’inazione) dei giocatori portano avanti i tuoi fronti. Il disastro incombente è sempre lì, che i giocatori lo stiano combattendo nel dungoen o lo stiano ignorando mentre si ubriacano alla taverna del posto.
+Quando i giocatori visitano un insediamento ci sono alcune mosse speciali che potranno fare. Queste seguono comunque il flusso della fiction del gioco. Quando i giocatori arrivano, chiedigli "Che cosa fate?". La maggior parte delle volte le azioni dei giocatori attiveranno una mossa da questa lista. Include il riposo, il rinvigorimento e il rifornirsi: sono opportunità per i giocatori di liberarsi dalle ansie e spendere il loro tesoro. Ricorda che un insediamento non è separato dalla realtà: devi continuare a fare mosse pesanti quando necessario e a pensare come le azioni (o il non agire) dei giocatori portino avanti i tuoi fronti. Il disastro incombente è sempre lì, che i giocatori lo stiano combattendo nel dungeon o lo stiano ignorando mentre si ubriacano alla taverna del posto.
 
 Non lasciare che la visita a un insediamento si trasformi in un continuo oziare. Ricorda, Dungeon World è un posto pericoloso e terrificante. Se i giocatori scelgono di ignorarlo, ti stanno dando un’opportunità d’oro per fare una mossa pesante. Riempi d’avventura le vite dei personaggi, che ne siano in cerca o meno. Queste mosse esistono per rendere la visita alla città un evento interessante senza sprecare un’intera sessione contrattando per il prezzo di un nuovo fodero.
 
@@ -34,15 +34,15 @@ Un insediamento è qualunque luogo civilizzato che offra un minimo di sicurezza 
 
 Gli insediamenti sono differenziati in base alla dimensione, che indica più o meno quanta gente può trovarvi sostentamento. L’etichetta di popolazione ti dice se la popolazione attuale è maggiore o minore di questo valore.
 
-I villaggi sono gli insediamenti più piccoli. Sono solitamente isolati, lontano dalle strade più grandi. Se sono fortunati possono mettere insieme una forza difensiva, ma solitamente si tratta del popolino che impugna torce e forconi. Un villaggio si trova vicino a qualche risorsa facilmente sfruttabile: terra fertile, abbondanza di pesci, una vecchia foresta, una miniera. Potrebbe esserci un negozio di sorta ma solitamente le persone commerciano tra loro. I soldi scarseggiano.
+I villaggi sono gli insediamenti più piccoli. Sono solitamente isolati, lontano dalle strade più grandi. Se sono fortunati possono radunare degli uomini per difendersi, ma solitamente si tratta di villici che impugnano torce e forconi. Un villaggio si trova vicino a qualche risorsa facilmente sfruttabile: terra fertile, abbondanza di pesci, una vecchia foresta, una miniera. Potrebbe esserci un negozio di sorta ma è più probabile che gli abitanti commercino direttamente tra loro. I soldi scarseggiano.
 
-I borghi hanno un centinaio di abitanti. Sono quel genere di insediamento che sorge attorno a un mulino, una stazione commerciale o una locanda e solitamente hanno campi, fattorie e qualche tipo di bestiame. Potrebbero avere una milizia stabile di contadini abbastanza forti da impugnare una spada o tirare con l’arco. Nei borghi si vendono i beni fondamentali, ma nessun articolo inconsueto. Solitamente si concentrano su un prodotto locale o due e commerciano con i viaggiatori.
+I borghi hanno un centinaio di abitanti. Sono quel genere di insediamento che sorge attorno a un mulino, una stazione commerciale o una locanda e solitamente hanno campi, fattorie e qualche tipo di bestiame. Potrebbero avere una milizia stabile di contadini abbastanza forti da impugnare una spada o tirare con l’arco. Nei borghi si vendono i beni fondamentali, ma nessun articolo inconsueto. Solitamente si concentrano su uno o due prodotti locali e commerciano con i viaggiatori.
 
-Una fortezza è un insediamento costruito specificamente per la difesa, a volte di un luogo di particolare importanza come il delta di un fiume o una miniera ricca d’oro. Le fortezze si trovano nei luoghi di frontiera della civiltà. Gli abitanti sono abituati ai pericoli che tutti i giorni incombono sulla strada. Le fortezze spesso non hanno molto oltre alle loro provviste, che ottengono commerciando con i villaggi vicini, ma hanno quasi sicuramente armi e armature e magari un raro oggetto magico trovato nelle terre selvagge adiacenti.
+Una fortezza è un insediamento costruito specificamente per la difesa, a volte di un luogo di particolare importanza come il delta di un fiume o una miniera ricca d’oro. Le fortezze si trovano nei luoghi di frontiera della civiltà. Gli abitanti sono abituati ai pericoli che tutti i giorni incombono sulla strada. Le fortezze spesso non hanno molto oltre alle loro provviste, che ottengono commerciando con i villaggi vicini, ma hanno quasi sicuramente armi e armature e magari un raro oggetto magico trovato nelle terre selvagge circostanti.
 
-Da trafficato centro commerciale a metropoli in espansione, la città rappresenta il più grande tipo di insediamento in Dungeon World. Questi sono luoghi dove si può incontrare gente di ogni razza e tipo. Spesso le città si trovano all’incontrarsi di diverse rotte commerciali o in un luogo di grande importanza religiosa. Spesso non producono da sole le materie prime per il commercio, appoggiandosi ai rifornimenti dei villaggi vicini per avere cibo e risorse, ma avranno sempre prodotti d’artigianato e cose ben più bizzarre in vendita per coloro che le cercano.
+Dai trafficati centri di commercio alle metropoli in espansione, le città rappresentano il più grande tipo di insediamento in Dungeon World. Questi sono luoghi dove si può incontrare gente di ogni razza e tipo. Spesso le città si trovano al crocevia di diverse rotte commerciali o in un luogo di grande importanza religiosa. Spesso non producono da sole le materie prime per il commercio, appoggiandosi ai rifornimenti dei villaggi vicini per avere cibo e risorse, ma avranno sempre prodotti d’artigianato e cose ben più bizzarre in vendita per coloro che le cercano.
 
-La prosperità indica che tipo di oggetti sono normalmente reperibili. La popolazione indica il numero di abitati in relazione all’attuale dimensione dell’insediamento. Le difese indicano la vastità in generale delle forze militari a disposizione. Le etichette di queste categorie possono essere modificate. *−Categoria* significa cambiare l’etichetta della categoria indicata con quella immediatamente più bassa (quindi Moderata diventa Povera con −Prosperità). +Categoria significa cambiare l’etichetta della categoria indicata con quella immediatamente più alta (quindi In Diminuzione diventa Stabile con +Popolazione). Le etichette in queste categorie possono anche essere confrontate come numeri. Considera la prima etichetta nella categoria come 1 e ogni etichetta che segue come il numero successivo (quindi Sporca è 1, Povera è 2, etc.).
+La prosperità indica che tipo di oggetti sono normalmente reperibili. La popolazione indica il numero di abitati in relazione all’attuale dimensione dell’insediamento. Le difese indicano la vastità in generale delle forze militari a disposizione. Le etichette di queste categorie possono essere modificate. *−Categoria* significa cambiare l’etichetta della categoria indicata con quella immediatamente più bassa (quindi Moderata diventa Povera con −Prosperità). +Categoria significa cambiare l’etichetta della categoria indicata con quella immediatamente più alta (quindi In Diminuzione diventa Stabile con +Popolazione). Le etichette in queste categorie possono anche essere confrontate come numeri. Considera la prima etichetta nella categoria come 1 e ogni etichetta che segue come il numero successivo (quindi Misera è 1, Povera è 2, etc.).
 
 Le etichette cambieranno nel corso del gioco. Creare un insediamento fornisce un’istantanea della sua condizione *in questo momento*. Man mano che i giocatori ci spendono tempo e i tuoi fronti avanzano il mondo cambierà e i tuoi insediamenti con esso.
 
@@ -50,11 +50,11 @@ Le etichette cambieranno nel corso del gioco. Creare un insediamento fornisce un
 
 Aggiungi il tuo primo insediamento quando crei la mappa della campagna: è il luogo dove i giocatori vanno per riposarsi e recuperare le forze. Quando lo disegni per la prima volta sulla mappa tutto ciò che ti serve è un nome e un’ubicazione.
 
-Quando ne avrai il tempo, userai le regole qua sotto per creare l’insediamento. Il primo insediamento di solito è un villaggio, ma puoi usare un borgo se la prima avventura aveva un forte legame con gli umani (ad esempio, se i giocatori hanno combattuto dei cultisti umani). Crealo usando le regole sotto.
+Quando ne avrai il tempo, userai le regole qua sotto per creare l’insediamento. Il primo insediamento di solito è un villaggio, ma puoi usare un borgo se la prima avventura aveva un forte legame con gli umani (ad esempio, se i giocatori hanno combattuto dei cultisti umani). Crealo usando le regole qua sotto.
 
 Una volta creato il primo insediamento puoi aggiungere gli altri posti a cui fai riferimento nelle sue etichette (in particolare le etichette giuramento, commercio e ostilità) o qualunque altro luogo che avete nominato durante il gioco. Non aggiungere troppe cose nella prima sessione, lascia spazi da riempire e posti da esplorare.
 
-Man mano che il gioco va avanti i personaggi scopriranno nuove località e luoghi d’interesse sia direttamente, imbattendocisi nelle terre selvagge, che indirettamente, sentendone parlare attraverso voci e racconti. Aggiungi nuovi insediamenti, dungeon, e altre località alla mappa nel momento in cui vengono scoperti o se ne sente parlare. I villaggi sono spesso vicino a qualche risorsa utile. I borghi si trovano spesso nei dove villaggi diversi si incontrano per commerciare. Le fortezze sono a guardia di località importanti. Le città si basano sul commercio e sull’appoggio di insediamenti più piccoli. I dungeon si trovano ovunque sotto molte forme.
+Man mano che il gioco va avanti i personaggi scopriranno nuove località e luoghi d’interesse sia direttamente, imbattendocisi nelle terre selvagge, che indirettamente, sentendone parlare attraverso voci e racconti. Aggiungi nuovi insediamenti, dungeon, e altre località alla mappa nel momento in cui vengono scoperti o se ne sente parlare. I villaggi sono spesso vicino a qualche risorsa utile. I borghi si trovano spesso nei posti dove villaggi diversi si incontrano per commerciare. Le fortezze sono a guardia di località importanti. Le città si basano sul commercio e sull’appoggio di insediamenti più piccoli. I dungeon si trovano ovunque sotto molte forme.
 
 Ogni volta che aggiungi un nuovo insediamento usa le regole per decidere le sue etichette. Prendi in considerazione di aggiungere una caratteristica distintiva in un luogo vicino. Magari una foresta, qualche vecchio menhir, un castello abbandonato, o qualunque altra cosa catturi la tua immaginazione o abbia senso. Una mappa con solo insediamenti e rovine senza niente in mezzo è noiosa; non trascurare gli altri dettagli del mondo.
 
@@ -62,7 +62,7 @@ Ogni volta che aggiungi un nuovo insediamento usa le regole per decidere le sue 
 
 ### Prosperità
 
-*Sporca*: Niente in vendita, nessuno ha più dell’indispensabile (ed è fortunato se ce l’ha). La manodopera comune è economica.
+*Misera*: Niente in vendita, nessuno ha più dell’indispensabile (ed è fortunato se ce l’ha). La manodopera comune è economica.
 
 *Povera*: Solo l’essenziale in vendita. Le armi sono scarse a meno che l’insediamento non sia pesantemente difeso o militante.
 
@@ -90,7 +90,7 @@ Ogni volta che aggiungi un nuovo insediamento usa le regole per decidere le sue 
 
 *Milizia*: Ci sono degli uomini e donne abili con armi logore pronti per essere chiamati alle armi, ma nessuna forza militare permanente.
 
-*Sorveglianti*: Ci sono alcuni sorveglianti che fanno attenzione ai pericoli e risolvono le piccole contese, ma il loro compito principale è di convocare la milizia.
+*Sorveglianti*: Ci sono alcuni sorveglianti che stanno di guardia per individuare eventuali minacce e risolvono le piccole contese, ma il loro compito principale è di convocare la milizia.
 
 *Guardia*: Ci sono sempre dei difensori armati, in totale meno di 100 (o equivalente). C’è sempre almeno una pattuglia armata che gira per l’insediamento.
 
@@ -116,7 +116,7 @@ Ogni volta che aggiungi un nuovo insediamento usa le regole per decidere le sue 
 
 *Commercio*: L’insediamento commercia regolarmente con gli insediamenti indicati.
 
-*Mercato*: Tutti vengono qui per commerciare. Gli oggetti reperibili potrebbero, alcuni giorni, essere più reperibili di ciò che è normale per il livello di prosperità. Prendi +1 a *fare rifornimento*.
+*Mercato*: Tutti vengono qui per commerciare. Gli oggetti reperibili potrebbero, nei giorni di mercato, essere più reperibili di ciò che è normale per il livello di prosperità. Prendi +1 a *fare rifornimento*.
 
 *Ostilità*: L’insediamento porta rancore verso gli insediamenti indicati.
 
@@ -138,7 +138,7 @@ Ogni volta che aggiungi un nuovo insediamento usa le regole per decidere le sue 
 
 *Anarchico*: Il crimine dilaga, le autorità sono deboli.
 
-*Rovina*: L’insediamento ha un problema ricorrente, di solito un tipo di mostro.
+*Flagello*: L’insediamento ha un problema ricorrente, di solito un tipo di mostro.
 
 *Potere*: L’insediamento ha un’influenza di qualche tipo. Solitamente politica, divina o arcana.
 
@@ -162,7 +162,7 @@ Scegli un problema:
 - Il villaggio è posto su terra arida o incoltivabile: Scarsità (Cibo)
 - Il villaggio è dedicato a una divinità: Religione (quella divinità), Ostilità (un insediamento di un’altra divinità)
 - Il villaggio ha recentemente combattuto una battaglia: -Popolazione, -Prosperità se hanno combattuto fino alla fine, -Difese se hanno perso.
-- Il villaggio ha un problema coi mostri: Disastro (quei mostri), Scarsità (avventurieri)
+- Il villaggio ha un problema coi mostri: Flagello (quei mostri), Scarsità (avventurieri)
 - Il villaggio ha inglobato un altro villaggio: +Popolazione, Anarchico
 - Il villaggio è lontano e maldisposto: -Prosperità, Nanico o Elfico.
 
@@ -202,7 +202,7 @@ Scegli un problema:
 - La fortezza è costruita in una posizione naturalmente difendibile: Sicuro, -Popolazione
 - La fortezza è stata conquistata a un’altra nazione: Ostilità (insediamenti di quella nazione)
 - La fortezza è un rifugio sicuro per i briganti: Anarchico
-- La fortezza fu costruita per difendersi da una particolare minaccia: Rovina (quella minaccia)
+- La fortezza fu costruita per difendersi da una particolare minaccia: Flagello (quella minaccia)
 - Alla fortezza vengono inviati gli uomini peggiori: Scarsità (reclute abili)
 
 ## Creare una Città
@@ -222,12 +222,12 @@ Scegli un problema:
 - La città progetta di rivendicare i territori vicini: Ostilità (insediamenti vicini), +Difese
 - La città è governata da una teocrazia: -Difese, Potere (Divino)
 - La città è governata dalla gente: -Difese, +Popolazione
-- La città è dotata di difese sovrannaturali: +Difese, Rovina (creature sovrannaturali correlate)
-- La città è situata sopra un luogo di potere: Arcano, Personalità (chiunque sorvegli il luogo di potere), Rovina (creature arcane)
+- La città è dotata di difese sovrannaturali: +Difese, Flagello (creature sovrannaturali correlate)
+- La città è situata sopra un luogo di potere: Arcano, Personalità (chiunque sorvegli il luogo di potere), Flagello (creature arcane)
 
 ## I Fronti sulla Mappa della Campagna
 
-I tuoi insediamenti non sono l’unica cosa ad essere segnata sulla mappa della campagna. Oltre agli insediamenti e alle aree attorno, anche i tuoi fronti appariranno sulla mappa, sebbene indirettamente.
+I tuoi insediamenti non sono l’unica cosa ad essere segnata sulla mappa della campagna. Oltre agli insediamenti e alle aree attorno a questi, anche i tuoi fronti appariranno sulla mappa, sebbene indirettamente.
 
 I fronti sono strumenti organizzativi, non sono affare dei personaggi, quindi non segnarli direttamente sulla mappa. Gli orchi di Olg’gothal potrebbero essere un fronte ma non disegnarli sulla mappa. Al contrario, per ogni fronte aggiungi un dettaglio alla mappa che riveli la sua presenza. Puoi dargli un nome se vuoi, ma usa un nome che potrebbe essere usato dai personaggi, non il nome che hai dato al fronte.
 
@@ -237,7 +237,7 @@ Man mano che i tuoi fronti cambiano, cambia la mappa. Se i giocatori estirpano i
 
 ## Aggiornare la Mappa della Campagna
 
-La mappa della campagna viene aggiornata tra una sessione e l’altra o ogni volta che i giocatori passano una rilevante quantità di tempo in un luogo. Gli aggiornamenti sono sia prescrittivi che descrittivi: se per qualche motivo in un villaggio si radudano delle truppe, aggiorna le etichette di conseguenza. Allo stesso modo, se un cambio di etichette significa che il villaggio ha una più grande forza militare probabilmente vedrai più uomini in armatura per le strade.
+La mappa della campagna viene aggiornata tra una sessione e l’altra o ogni volta che i giocatori fanno una pausa abbastanza lunga in un luogo sicuro. Gli aggiornamenti sono sia prescrittivi che descrittivi: se per qualche motivo in un villaggio si radunano delle truppe, aggiorna le etichette di conseguenza. Allo stesso modo, se un cambio di etichette significa che il villaggio ha una più grande forza militare probabilmente vedrai più uomini in armatura per le strade.
 
 Tra una sessione e l’altra controlla se vengono soddisfatte le condizioni qui sotto. Scorri la lista e controlla ciascuna condizione per ciascun insediamento prima di passare alla successiva. Se una condizione è soddisfatta, applica i suoi effetti.
 
@@ -247,7 +247,7 @@ Quando **un villaggio o un borgo è in forte espansione e la sua prosperità è 
 
 ### Contrazione
 
-Quando **la popolazione di un insediamento è in esodo e la sua prosperità è povera o meno** si contrae. Una città diventa un borgo con una popolazione stabile e +prosperità. Una fortezza diventa una città con +difese e una popolazione stabile. Una città diventa un villaggio con una poplazione stabile e +prosperità. Un villaggio diventa una città fantasma.
+Quando **la popolazione di un insediamento è in esodo e la sua prosperità è povera o meno** si contrae. Una città diventa un borgo con una popolazione stabile e +prosperità. Una fortezza diventa una città con +difese e una popolazione stabile. Una città diventa un villaggio con una popolazione stabile e +prosperità. Un villaggio diventa una città fantasma.
 
 ### Mancanza
 
@@ -283,7 +283,7 @@ Quando **un insediamento è ostile a un insediamento più debole** può attaccar
 
 ### Conflitto
 
-Quando **due insediamenti si attaccano a vicenda** le loro forze si incontrano in un qualche luogo in mezzo alle due e combattono. Se sono alla pari entrambi prendono -difese e le truppe tornano a casa. Se uno ha un vantaggio sull’altro prende -difese mentre l’altro prende -2 difese.
+Quando **due insediamenti si attaccano a vicenda** le loro forze si incontrano in un qualche luogo in mezzo ai due e combattono. Se sono alla pari entrambi prendono -difese e le truppe tornano a casa. Se uno ha un vantaggio sull’altro prende -difese mentre l’altro prende -2 difese.
 
 ## Altre Modifiche
 

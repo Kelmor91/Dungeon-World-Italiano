@@ -2,12 +2,6 @@
 title: Mosse
 layout: default
 ---
-
-<div class="alert alert-info">
-    <button type="button" class="close" data-dismiss="alert">×</button>
-    Questo capitolo è anche disponibile in <a style="font-weight:bold" href="/pdf/mosse.pdf">comoda scheda riassuntiva da stampare!</a>
-</div>
-
 # Mosse Basilari
 
 Questo capitolo contiene le mosse disponibili ad ogni personaggio. Queste mosse sono divise in due categorie: basilari e speciali.
@@ -32,7 +26,7 @@ Quando **attacchi un nemico in mischia**, tira+FOR. ✴Con un 10+, infliggi i tu
 
 Il contrattacco del nemico può essere qualunque mossa del GM fatta direttamente attraverso quella creatura. Un goblin potrebbe semplicemente contrattaccarti o infilarti un ago avvelenato nelle vene. La vita è dura, non credi?
 
-Tieni presente che un "attacco" è qualunque azione intrapresa da un giocatore che abbia la possibilità di arrecare danno a qualcuno. Attaccare un drago con scaglie cariche di energia magica e spesse un dito con una spada qualunque è come colpire un carrarmato con una mannaia: semplicemente, non ha la possibilità di arrecare alcun danno, e *taglia e spacca* non si attiva. Ovviamente, le circostanze possono cambiare: se sei in una posizione da dove puoi infilzare il drago nella sua pancia soffice (buona fortuna ad arrivare lì sotto) potrebbe fare male, quindi conta come attacco.
+Tieni presente che un "attacco" è qualunque azione intrapresa da un giocatore che abbia la possibilità di arrecare danno a qualcuno. Attaccare un drago con scaglie cariche di energia magica e spesse un dito con una spada qualunque è come colpire un carro armato con una mannaia: semplicemente, non ha la possibilità di arrecare alcun danno, e *taglia e spacca* non si attiva. Ovviamente, le circostanze possono cambiare: se sei in una posizione da dove puoi infilzare il drago nella sua pancia soffice (buona fortuna ad arrivare lì sotto) potrebbe fare male, quindi conta come attacco.
 
 Se l'azione che attiva può ragionevolmente fare del male a più di un bersaglio, tira una sola volta e applica i danni a ciascun bersaglio (ciascuno applica la propria armatura).
 
@@ -135,9 +129,9 @@ Il pericolo, in questo caso, è qualunque cosa che richieda resistenza, concentr
 
 Quale sia la capacità da applicare dipende dalle azioni che fai, e le tue azioni devono innescare la mossa. Ciò significa che non puoi *sfidare il pericolo* del pavimento ghiacciato e scosceso con un sorriso affascinante solo per usare CAR, perché sorridere con fascino al pavimento non gli fa proprio niente. D'altro canto, fare un grande salto oltre il ghiaccio sarebbe FOR, misurare i passi con attenzione sarebbe DES, e così via. Fai la mossa per scoprire i risultati.
 
-> **GM**: Emory, mentre scali il lato del burrone scorgi un cultista su una piattaforma vicina che lancia un’incantesimo congelante e ricopre la scarpata di ghiaccio! Se vuoi continuare a scalare, dovrai *sfidare il pericolo* o cadrai.
+> **GM**: Emory, mentre scali il lato del burrone scorgi un cultista su una piattaforma vicina che lancia un incantesimo congelante e ricopre la scarpata di ghiaccio! Se vuoi continuare a scalare, dovrai *sfidare il pericolo* o cadrai.
 >
-> **Emory**: Neanche per sogno, sono troppo forte. Digrigno i denti e infilo le unghie nel muro, scalando con una mano alla volta. Sto usando COS, va bene? Ho fatto 8, però...
+> **Emory**: Neanche per sogno, sono troppo forte. Stringo i denti e infilo le unghie nel muro, scalando con una mano alla volta. Sto usando COS, va bene? Ho fatto 8, però...
 >
 > **GM**: Mm, bene, tipo forte, penso che l’unico modo per fare attrito sia infilare il tuo pugnale nel muro per tirarti su di quell’ultimo metro. Resterà conficcato là dentro finché non hai tempo di tirarlo fuori, e c’è un incantatore arrabbiato vicino a te.
 >
@@ -230,7 +224,7 @@ Quando **consulti la tua conoscenza accumulata a proposito di qualcosa**, tira+I
 
 La conoscenza che ottieni è come quella di un bestiario, una guida del viaggiatore o una biblioteca. Ottieni delle informazioni a proposito di un argomento. Con un 10+ il GM ti mostrerà come questi dati possono tornarti immediatamente utili, con un 7–9 sono solo dei semplici fatti.
 
-Con un fallimento, la mossa del GM spesso sfrutterà il tempo che hai speso a pensare. Magari non ti sei accorto di quel goblin che si muoveva dietro di te, o del filo di una trappola lungo il corridoio. È anche un'ottimo momento per svelare una verità sgradita.
+Con un fallimento, la mossa del GM spesso sfrutterà il tempo che hai speso a pensare. Magari non ti sei accorto di quel goblin che si muoveva dietro di te, o del filo di una trappola lungo il corridoio. È anche un ottimo momento per svelare una verità sgradita.
 
 Nel caso non fosse chiaro, le risposte sono sempre vere, anche se il GM le ha dovute inventare al momento. Sii sempre onesto in ciò che dici.
 
@@ -256,7 +250,7 @@ Nel caso non fosse chiaro, le risposte sono sempre vere, anche se il GM le ha do
 >
 > **Vitus**: ...e? Ho fatto 10!
 >
-> **GM**: Certo, ovviamente. Be’, riconosci alcuni glifi in particolare. Sono di origine efreet, segni di un’incantesimo di fuoco, ma è diverso, una specie di magia di trasmutazione. Scommetto che se lanci un incantesimo attraverso il teschio, lo trasformerà in un incantesimo di fuoco.
+> **GM**: Certo, ovviamente. Be’, riconosci alcuni glifi in particolare. Sono di origine efreet, segni di un incantesimo di fuoco, ma è diverso, una specie di magia di trasmutazione. Scommetto che se lanci un incantesimo attraverso il teschio, lo trasformerà in un incantesimo di fuoco.
 >
 > **Vitus**: Dardi incantati di fuoco, urrà!
 
@@ -297,7 +291,7 @@ Ovviamente, alcune domande potrebbero avere una risposta negativa, va bene. Se d
 >
 > **Omar**: Ok, voglio chiedertene un’altra: “Chi ha chiuso la stanza?”.
 >
-> **GM**: Non è sulla lista, quindi farò finta che tu mi abbia chiesto “Cos’è successo qui di recente?”. Guardando le pietre, ti accorgi che il muro in alcuni punti è storto. Il lavoro è frettoloso e mal fatto, ti sembra l’opera dei goblin. L’unico modo in cui può essersi stortato in quel modo, però, è che qualcosa lo spinga dall’interno.
+> **GM**: Non è sulla lista, quindi farò finta che tu mi abbia chiesto “Cos’è successo qui di recente?”. Guardando le pietre, ti accorgi che il muro in alcuni punti è storto. Il lavoro è frettoloso e mal fatto, ti sembra l’opera dei goblin. L’unico modo in cui può essersi stortoin quel modo, però, è che qualcosa l’abbia spinto dall’interno.
 >
 > **Omar**: Quindi o i goblin l’hanno chiuso dall’altro lato, o c’è qualcosa dentro che sta cercando di uscire.
 >
@@ -307,15 +301,15 @@ Ovviamente, alcune domande potrebbero avere una risposta negativa, va bene. Se d
 
 [^parle]: *NdT*: In altre traduzioni questa mossa è chiamata "Parlé"
 
-Quando **hai qualche tipo di influenza su un personaggio del GM e lo manipoli**, tira+CAR. L'influenza dev'essere qualcosa che vuole o di cui ha bisogno. ✴Con un 10+, farà quello che dici se prometti di dargli ciò che chiedono. ✴Con un 7–9, farà ciò che dici, ma dovrai dargli una garanzia concreta della tua promessa, subito.
+Quando **hai qualche modo per far leva su un personaggio del GM e lo manipoli**, tira+CAR. Devi far leva con qualcosa che vuole o di cui ha bisogno. ✴Con un 10+, farà quello che dici se prometti di dargli ciò che chiede. ✴Con un 7–9, farà ciò che dici, ma dovrai dargli una garanzia concreta della tua promessa, subito.
 
 ---
 
-*Parlamentare* comprende molte cose diverse, incluse vecchi classici come l'intimidazione e la diplomazia. Sai che stai *parlamentando* quando cerchi di far fare qualcosa a qualcuno grazie a una promessa o a una minaccia. L'influenza che hai può essere malevola o cordiale, il tono non ha importanza.
+*Parlamentare* comprende molte cose diverse, inclusi vecchi classici come l'intimidazione e la diplomazia. Sai che stai *parlamentando* quando cerchi di far fare qualcosa a qualcuno grazie a una promessa o a una minaccia. Il tuo modo di far leva può essere malevolo o cordiale, il tono non ha importanza.
 
-Chiedere a qualcuno gentilmente non è *parlamentare*. È solo parlare. Se dici: "Posso avere quella spada magica?" e Sir Telric ti risponde "Diavolo, no. Questa è la mia spada, mio padre l'ha forgiata e mia madre l'ha incantata" la cosa finisce lì. Per *parlamentare*, devi avere influenza. L'influenza è qualunque cosa che potrebbe convincere il tuo interlocutore a fare qualcosa per te. Magari è qualcosa che desidera o qualcosa che non vuole tu faccia. Come un sacco di soldi. O dargli un pugno in faccia. Se una cosa conta come influenza dipende dalle persone coinvolte e dalla richiesta che viene fatta. Minaccia di morte un goblin solo e hai influenza. Minaccialo quando ha alle spalle la sua banda e penserà di avere più possibilità combattendo.
+Chiedere a qualcuno gentilmente non è *parlamentare*. È solo parlare. Se dici: "Posso avere quella spada magica?" e Sir Telric ti risponde "Diavolo, no. Questa è la mia spada, mio padre l'ha forgiata e mia madre l'ha incantata" la cosa finisce lì. Per *parlamentare*, devi avere un modo di far leva. Puoi far leva con qualunque cosa che potrebbe convincere il tuo interlocutore a fare qualcosa per te. Magari è qualcosa che desidera o qualcosa che non vuole tu faccia. Come un sacco di soldi. O dargli un pugno in faccia. Se una cosa conta o meno come far leva dipende dalle persone coinvolte e dalla richiesta fatta. Minaccia di morte un goblin solo e stai facendo leva su di lui. Minaccialo quando ha alle spalle la sua banda e penserà di avere più possibilità combattendo.
 
-Con un 7+ ti verrà fatta una richiesta relativa all'influenza che hai. Se la tua influenza è lo stare davanti a lui, spiegandogli quanto ti piacerebbe usare il coltello che stai affilando per infilzarlo, potrebbe chiederti di lasciarlo andare. Se la tua influenza è il tuo alto rango di corte, potrebbe chiederti un favore in cambio.
+Con un 7+ ti verrà fatta una richiesta relativa al tuo modo di far leva. Se stai facendo leva restando davanti a lui, spiegandogli quanto ti piacerebbe usare il coltello che stai affilando per infilzarlo, potrebbe chiederti di lasciarlo andare. Se stai facendo leva usando il tuo alto rango di corte, potrebbe chiederti un favore in cambio.
 
 Qualunque cosa ti chieda, con un 10+ devi solo promettergliela chiaramente e senza ambiguità. Con un 7–9, non basta: dovrai anche dargli qualche garanzia, subito, prima che faccia ciò che vuoi. Se prometti di proteggerlo dai lupi se fa ciò che gli dici e ottieni un 7–9, non lo farà fin quando non gli porti una pelle di lupo appena scuoiata per provare la tua competenza. Non importa se non sei obbligato a mantenere la promessa. Sta a te decidere se farlo o meno. Ovviamente, infrangere le promesse porta guai. La gente non è benevola con i fedifraghi e non vorrà averci a che fare in futuro.
 
@@ -325,7 +319,7 @@ In alcuni casi, quando descrivi ciò che vuoi, puoi proporre una promessa alla c
 >
 > **GM**: Non è molto convinto: potrebbe essere un grosso colpo alla sua reputazione se lo imbarazzi. «Perché dovrei aiutarti, Leena?».
 >
-> **Leena**: Ah, e mentre gli parlo, giocherello distrattamente con l’anello con sigillo che abbiamo trovato su quell’assassion che abbiamo ammazzato. Quello che ha assunto per far fuori il principe. Mi assicuro che lo veda.
+> **Leena**: Ah, e mentre gli parlo, giocherello distrattamente con l’anello con sigillo che abbiamo trovato su quell’assassino che abbiamo ammazzato. Quello che ha assunto per far fuori il principe. Mi assicuro che lo veda.
 >
 > **GM**: Oddio. Tira per *parlamentare*.
 >
@@ -339,7 +333,7 @@ In alcuni casi, quando descrivi ciò che vuoi, puoi proporre una promessa alla c
 
 > **Pendrell**: Questo è il posto dove il Guercio gioca le sue carte, giusto? Bene, mi avvicino alla guardia. «Ehilà amici, vi va di, non so, aprire la porta e farmi entrare?» e sto facendo il gentile e disinvolto, quindi mi faranno passare. *Parlamentare* è tira+CAR, giusto?
 >
-> **GM**: Fermo lì, furbetto. Tutto ciò che hai fatto è dire cosa vuoi. Quello grosso e puzzolente si piazza davanti a te dicendo «Mi spiace signore, partita privata», con aria annoiata. È come se odiasse il suo lavoro e volesse essere da qualche altra parte. Se vuoi *parlamentare*, hai bisogno di qualche forma d’influenza. Magari una mazzetta?
+> **GM**: Fermo lì, furbetto. Tutto ciò che hai fatto è dire cosa vuoi. Quello grosso e puzzolente si piazza davanti a te dicendo «Mi spiace signore, partita privata», con aria annoiata. È come se odiasse il suo lavoro e volesse essere da qualche altra parte. Se vuoi *parlamentare*, hai bisogno di qualche modo per far leva. Magari una mazzetta?
 
 ## Aiutare o Ostacolare
 
@@ -347,7 +341,7 @@ Quando **aiuti o ostacoli qualcuno**, tira+legame con quella persona. ✴Con un 
 
 ---
 
-Ogni volta che ti sembra che due giocatori debbano scontrarsi e tirare ciascuno contro l'altro, il difensore *ostacola* il tiro dell'attaccante. Non significa per forza un sabotaggio, può significare qualunque cosa, da un'argomento contrario mentre si *parlamenta*, a essere una persona furtiva e difficile da *discernere*. Significa fare da ostacolo per il successo di un altro giocatore.
+Ogni volta che ti sembra che due giocatori debbano scontrarsi e tirare ciascuno contro l'altro, il difensore *ostacola* il tiro dell'attaccante. Non significa per forza un sabotaggio, può significare qualunque cosa, da un argomento contrario mentre si *parlamenta*, a essere una persona furtiva e difficile da *discernere*. Significa fare da ostacolo per il successo di un altro giocatore.
 
 Chiedi sempre alla persona che *aiuta o ostacola* come ha intenzione di farlo. Fintanto che possono dirti in che modo, la mossa si attiva. A volte, come GM, dovrai chiedere se l'intenzione è di *ostacolare*. A volte i giocatori non si accorgono di interferire l'uno con l'altro.
 
@@ -491,7 +485,7 @@ Quando **diffondi la voce che sei in cerca di qualcuno da assumere**, tira:
 
 * +1 se fai sapere che la paga è abbondante
 * +1 se fai sapere che cosa ti stai preparando a fare
-* +1 se fai sapere che chi accettà avrà una parte del bottino
+* +1 se fai sapere che chi accetta avrà una parte del bottino
 * +1 se hai una reputazione utile da queste parti
 
 ✴Con un 10+, hai da scegliere tra un buon numero di candidati abili, scegli tu chi assumere e non c'è penalità se non porti con te qualcuno. ✴Con un 7–9, dovrai accontentarti di qualcuno che non è proprio quello che cercavi o respingerlo. ✴Con un fallimento qualcuno di influente e inadatto dichiara di volersi unire a te (un giovane spericolato, una testa calda o un nemico sotto mentite spoglie), portalo con te e accetta le conseguenze o respingilo. Se respingi dei candidati prendi -1 al prossimo tiro di *reclutare*.
@@ -506,7 +500,7 @@ Quando **torni in un luogo civilizzato dove hai causato problemi in passato**, t
 
 * La polizia locale ha un mandato per il tuo arresto.
 * Qualcuno ha messo una taglia sulla tua testa.
-* Qualcuno di importante per te è stato messo in difficolta per via delle tue azioni.
+* Qualcuno di importante per te è stato messo in difficoltà per via delle tue azioni.
 
 ---
 
@@ -518,4 +512,5 @@ Civilizzato significa solitamente i villaggi, i paesi e le città degli uomini, 
 
 Quando **passi il tuo tempo libero a studiare, meditare o allenarti duramente,** ottieni addestramento. Se ti prepari per una settimana o più, ottieni addestramento 1. Se ti prepari per un mese o più, ottieni invece addestramento 3. Quando la preparazione ti torna utile, spendi 1 addestramento per avere +1 a qualsiasi tiro. Puoi spendere 1 addestramento al massimo per tiro.
 
----
+_[Prosegui al prossimo capitolo: Equipaggiamento!](/equipaggiamento)_
+
