@@ -20,3 +20,8 @@ Per comodo riferimento, vengono qui elencati tutti i materiali scaricabili e sta
 - [Incantesimi del Mago](/pdf/mago-incantesimi.pdf)
 - [Scheda del Paladino](/pdf/paladino.pdf)
 - [Scheda del Ramingo](/pdf/ramingo.pdf)
+
+### Classi Aggiuntive
+
+- [Scheda del Monaco](/pdf/monaco.pdf)
+- [Scheda dello Spadaccino](/pdf/spadaccino.pdf)

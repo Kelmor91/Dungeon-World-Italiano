@@ -5,12 +5,12 @@ layout: default
 
 <div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>22 ottobre 2013:</strong> Una nuova classe tradotta in Italiano: <strong><a href="/classi/monaco">il Monaco</a></strong> di James Mendez Hodes.
+    <strong>25 ottobre 2013:</strong> Una nuova classe tradotta in Italiano: <strong><a href="/classi/spadaccino">lo Spadaccino</a></strong> di Jacob Randolph.
 </div>
-
+>
 <div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>21 ottobre 2013:</strong> Finalmente completate <strong><a href="/downloads">tutte le schede delle classi!</a></strong> Giocate a Dungeon World stampandovi le comode schede.
+    <strong>22 ottobre 2013:</strong> Una nuova classe tradotta in Italiano: <strong><a href="/classi/monaco">il Monaco</a></strong> di James Mendez Hodes.
 </div>
 
 Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo di [Adam Koebel][adam] e [Sage Latorra][sage], vincitore del premio **Best Rules** agli ENnies 2013! Dungeon World è derivato dal Mondo dell'Apocalisse di Vincent Baker: Adam e Sage hanno preso il sistema di Baker e l'hanno adattato, superando l'originale in popolarità e successo, a un'estetica fantasy simile a quella proposta dai più popolari giochi di ruolo in commercio.
