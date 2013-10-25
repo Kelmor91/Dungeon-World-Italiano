@@ -49,15 +49,15 @@ Sono stati tradotti i seguenti capitoli:
 	</ul>
 	<li>Parte II, <b>Le Classi</b></li>    
     <ul>
-		<li><a href="/barbaro">Il Barbaro <span class="label label-default">Completato!</span></a></li>	
-        <li><a href="/bardo">Il Bardo <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/chierico">Il Chierico <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/druido">Il Druido <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/guerriero">Il Guerriero <span class="label label-default">Completato!</span></a></li>	
-    	<li><a href="/ladro">Il Ladro <span class="label label-default">Completato!</span></a></li>	
-    	<li><a href="/mago">Il Mago <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/paladino">Il Paladino <span class="label label-info">Nuovo!</span></a></li>	
-    	<li><a href="/ramingo">Il Ramingo <span class="label label-default">Completato!</span></a></li>	
+		<li><a href="/barbaro">Il Barbaro</a></li>	
+        <li><a href="/bardo">Il Bardo</a></li>	
+    	<li><a href="/chierico">Il Chierico</a></li>	
+    	<li><a href="/druido">Il Druido</a></li>	
+    	<li><a href="/guerriero">Il Guerriero</a></li>	
+    	<li><a href="/ladro">Il Ladro</a></li>	
+    	<li><a href="/mago">Il Mago</a></li>	
+    	<li><a href="/paladino">Il Paladino</a></li>	
+    	<li><a href="/ramingo">Il Ramingo</a></li>	
     </ul>
 	<li>Parte III, <b>Fare il GM</b></li>
 	<ul>
