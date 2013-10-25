@@ -7,7 +7,7 @@ layout: default
     <button type="button" class="close" data-dismiss="alert">×</button>
     <strong>25 ottobre 2013:</strong> Una nuova classe tradotta in Italiano: <strong><a href="/classi/spadaccino">lo Spadaccino</a></strong> di Jacob Randolph.
 </div>
->
+
 <div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
     <strong>22 ottobre 2013:</strong> Una nuova classe tradotta in Italiano: <strong><a href="/classi/monaco">il Monaco</a></strong> di James Mendez Hodes.
