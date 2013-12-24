@@ -1,5 +1,5 @@
 ---
-title: Il Monaco
+title: Lo Spadaccino
 layout: default
 ---
 
