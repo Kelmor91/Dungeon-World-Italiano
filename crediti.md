@@ -38,4 +38,4 @@ Quest'opera è distribuita con Licenza **[Creative Commons Attribuzione - Non co
 [Paride Papadia]: https://plus.google.com/100891656436184215243
 [Pawel Longoni]: https://plus.google.com/115757078838960100730
 [Stefano Franzini]: https://www.facebook.com/stefano.v.franzini
-[cc]: http://creativecommons.org/licenses/by-nc-sa/3.0/it/
+[cc]: http://creativecommons.org/licenses/by-nc-sa/4.0/deed.it
