@@ -20,7 +20,7 @@ Libera traduzione del [lavoro originale](book.dwgazetteer.com) di **[Adam Koebel
 
 **Ringraziamenti Speciali a** [Daniele di Rubbo][]
 
-Quest'opera è distribuita con Licenza **[Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Italia][cc]**.
+Tutti i contenuti disponibili su questo sito sono distribuiti con licenza **[Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0][cc]**.
 
 [adam]: https://plus.google.com/112484087750169360510
 [sage]: https://plus.google.com/117415966179711277938
