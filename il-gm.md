@@ -325,7 +325,7 @@ Assicurati che ciascuno abbia la possibilità di agire, e di sapere dove ogni gi
 
 Puoi preparare le trappole in anticipo, o puoi improvvisarle basandoti sulle tue mosse. Se niente ha specificato che il luogo è sicuro, le trappole sono sempre un'opzione.
 
-I giocatori possono trovare le trappole con piani ingegnosi, *percependo trappole*, o *discernendo **realtà*. Se un personaggio descrive un'azione che non attiva una mossa, ma l'azione svelerebbe una trappola, non nasconderglielo. Le trappole non hanno il permesso di infrangere le regole.
+I giocatori possono trovare le trappole con piani ingegnosi, *percependo trappole*, o *discernendo realtà*. Se un personaggio descrive un'azione che non attiva una mossa, ma l'azione svelerebbe una trappola, non nasconderglielo. Le trappole non hanno il permesso di infrangere le regole.
 
 ### Persone
 
