@@ -20,7 +20,7 @@ Libera traduzione del [lavoro originale](book.dwgazetteer.com) di **[Adam Koebel
 
 **Ringraziamenti Speciali a** [Daniele di Rubbo][]
 
-Tutti i contenuti disponibili su questo sito sono distribuiti con licenza **[Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0][cc]**.
+Tutti i contenuti disponibili su questo sito sono distribuiti con licenza **[Creative Commons Attribuzione - Condividi allo stesso modo 4.0][cc]**.
 
 [adam]: https://plus.google.com/112484087750169360510
 [sage]: https://plus.google.com/117415966179711277938
@@ -38,4 +38,4 @@ Tutti i contenuti disponibili su questo sito sono distribuiti con licenza **[Cre
 [Paride Papadia]: https://plus.google.com/100891656436184215243
 [Pawel Longoni]: https://plus.google.com/115757078838960100730
 [Stefano Franzini]: https://www.facebook.com/stefano.v.franzini
-[cc]: http://creativecommons.org/licenses/by-nc-sa/4.0/deed.it
+[cc]: http://creativecommons.org/licenses/by-sa/4.0/deed.it
