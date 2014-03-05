@@ -2,6 +2,12 @@
 title: Mosse
 layout: default
 ---
+
+<div class="alert alert-info">
+    <button type="button" class="close" data-dismiss="alert">×</button>
+    Questo capitolo è anche disponibile in <a style="font-weight:bold" href="http://bit.ly/1hN8iUm">comoda scheda riassuntiva da stampare!</a>
+</div>
+
 # Mosse Basilari
 
 Questo capitolo contiene le mosse disponibili ad ogni personaggio. Queste mosse sono divise in due categorie: basilari e speciali.

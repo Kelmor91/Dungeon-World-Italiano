@@ -13,4 +13,4 @@ I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e 
 
 Nessuno. Dai inizio all'avventura.
 
-**[Clicca qui per vedere la scheda del Bardo.](/pdf/bardo.pdf)**
+**[Clicca qui per vedere la scheda del Bardo.](http://bit.ly/1e2oDke)**

@@ -16,4 +16,4 @@ Perciò guida questi sciocchi, paladino. Imbraccia le armi per la tua nobile cau
 
 Vae victis, giusto?
 
-**[Clicca qui per vedere la scheda del Paladino.](/pdf/paladino.pdf)**
+**[Clicca qui per vedere la scheda del Paladino.](http://bit.ly/1f8BQaB)**

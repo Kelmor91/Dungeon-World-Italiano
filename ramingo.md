@@ -14,4 +14,4 @@ Guida. Cacciatore. Creatura selvaggia. Sei tutte queste cose e anche più. Hai v
 
 Senza di te, sarebbero persi. Fai strada tra il sangue e l'oscurità, grampasso.
 
-**[Clicca qui per vedere la scheda del ramingo.](/pdf/ramingo.pdf)**
+**[Clicca qui per vedere la scheda del ramingo.](http://bit.ly/1kyTJri)**

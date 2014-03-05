@@ -9,4 +9,4 @@ Tu appartieni agli ampi spazi consacrati, sei nato dalla terra e porti il marchi
 
 I loro dèi sono infanti, il loro acciaio non li proteggerà. Tu segui le vecchie vie, indossi la pelle della terra stessa. Prenderai certo la tua parte del tesoro, ma camminerai mai come uno di loro? Solo il tempo lo dirà.
 
-**[Clicca qui per vedere la scheda del Druido.](/pdf/druido.pdf)**
+**[Clicca qui per vedere la scheda del Druido.](http://bit.ly/1lzg7AY)**

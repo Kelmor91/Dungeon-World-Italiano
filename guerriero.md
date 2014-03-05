@@ -11,5 +11,5 @@ Tu lo fai per il coraggio e la gloria, per il rumore della battaglia e per il ca
 
 Tu sei la muraglia: lascia che ogni pericolo si sfracelli in polvere scontrandosi con te. Alla fine, sarai l'ultimo a stare in piedi.
 
-**[Clicca qui per vedere la scheda del Guerriero.](/pdf/guerriero.pdf)**
+**[Clicca qui per vedere la scheda del Guerriero.](http://bit.ly/1dst3DT)**
 

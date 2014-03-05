@@ -15,4 +15,4 @@ L'Eccelso disse: «Monaci, questo mondo è un labirinto, e noi siamo i suoi prig
 
 L'Eccelso continuò: «Monaci, ciascuno di voi è come questo prigioniero. Quando concluderete il vostro addestramento, quando vi libererete dalla gabbia, potrete fuggire dal labirinto nel mondo là fuori; o potrete restare e dedicare la vostra forza a liberare gli altri prigionieri, innocenti o colpevoli, deboli o forti. La prima scelta è la legge della salvezza per sé stessi. La seconda scelta è la legge della salvezza per gli altri».Dopo aver ascoltato ciò, i monaci gli furono grati e tramandarono agli altri la parabola del mondo-labirinto.
 
-**[Clicca qui per vedere la scheda del Monaco.](/pdf/monaco.pdf)**
+**[Clicca qui per vedere la scheda del Monaco.](http://bit.ly/1ca8GwV)**

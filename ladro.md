@@ -9,5 +9,5 @@ Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma
 
 Dal tuo castello. Pieno d'oro. Furfante che non sei altro.
 
-**[Clicca qui per vedere la scheda del Ladro.](/pdf/ladro.pdf)**
+**[Clicca qui per vedere la scheda del Ladro.](http://bit.ly/1fIkG3y)**
 

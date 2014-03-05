@@ -13,6 +13,6 @@ Quando la sventura cala sul mondo, sei sempre lì, con una spada in mano e un nu
 
 Sei lo Spadaccino, e sei sempre lì per fare l’eroe.
 
-**[Clicca qui per vedere la scheda dello Spadaccino.](/pdf/spadaccino.pdf)**[^bosi]
+**[Clicca qui per vedere la scheda dello Spadaccino.](http://bit.ly/1cCtVm6)**[^bosi]
 
 [^bosi]: Il nome della mossa *l'arme e l'amori* è preso dalla traduzione di Paolo Bosi, rilasciata con licenza Creative Commons.

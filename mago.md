@@ -18,6 +18,6 @@ Lascia che ti guardino con occhi biechi. Lascia che ti chiamino stregone o negro
 
 Esatto. Non avevo dubbi.
 
-**[Clicca qui per vedere la scheda del Mago.](/pdf/mago.pdf)**
+**[Clicca qui per vedere la scheda del Mago.](http://bit.ly/1dstnCB)**
 
-**[Clicca qui per vedere gli incantesimi del Mago.](/pdf/mago-incantesimi.pdf)**
+**[Clicca qui per vedere gli incantesimi del Mago.](http://bit.ly/1gaJBOh)**
