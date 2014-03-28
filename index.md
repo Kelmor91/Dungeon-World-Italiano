@@ -3,14 +3,9 @@ title: Dungeon World in Italiano
 layout: default
 ---
 
-<!-- <div class="alert alert-info">
-    <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>25 ottobre 2013:</strong> Una nuova classe tradotta in Italiano: <strong><a href="/classi/spadaccino">lo Spadaccino</a></strong> di Jacob Randolph.
-</div> -->
-
 <div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>1 Febbraio 2014:</strong> Dungeon World in Italiano ha cambiato licenza con una ancora più libera. <a href="/crediti">Visita la nostra pagina dei crediti</a> per leggerla.
+    <strong>28 Marzo 2014:</strong> Le prime traduzioni dei Mostri, curate da Federico Totti grazie ai <a href="/crediti">contributi di diversi traduttori</a>. <a href="/mostri-caverne">Abitanti delle Caverne</a>, <a href="/mostri-paludi">Abitanti delle Paludi</a>, <a href="/mostri-esperimenti">Esperimenti Perversi</a>.
 </div> 
 
 Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo di [Adam Koebel][adam] e [Sage Latorra][sage], vincitore del premio **Best Rules** agli ENnies 2013! Dungeon World è derivato dal Mondo dell'Apocalisse di Vincent Baker: Adam e Sage hanno preso il sistema di Baker e l'hanno adattato, superando l'originale in popolarità e successo, a un'estetica fantasy simile a quella proposta dai più popolari giochi di ruolo in commercio.
@@ -31,7 +26,7 @@ Considero questo sito una risorsa pubblica, e il testo completo è disponibile s
 
 # Indice Generale
 
-La traduzione è **quasi completa**, mancano solo i capitoli relativi alle ambientazioni mostruose.
+La traduzione è **quasi completa**, mancano solo alcuni capitoli relativi alle ambientazioni mostruose.
 
 Oltre alle schede delle classi, sono disponibili le schede delle **[mosse base](pdf/mosse.pdf)** e del **[riassunto del gm](pdf/gm.pdf)**, adesso aggiornate alla nostra traduzione!
 
@@ -69,6 +64,9 @@ Sono stati tradotti i seguenti capitoli:
     <li>Parte IV, <b>I Mostri</b></li>
 	<ul>
 		<li><a href="mostri">Panoramica</a></li>
+		<li><a href="mostri-caverne">Abitanti delle Caverne</a></li>
+		<li><a href="mostri-paludi">Abitanti delle Paludi</a></li>
+		<li><a href="mostri-esperimenti">Esperimenti Perversi</a></li>
 	</ul>
 </ul>
 

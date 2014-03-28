@@ -163,15 +163,15 @@ Fai una mossa:
 * Quando i giocatori ti danno un'opportunità d'oro
 * Quando tirano un 6-
 
-Solitamente, quando i giocatori ti guardano per sapere cosa succede fai una mossa leggera, in caso contrario fai una mossa pesante.
+Solitamente, quando i giocatori ti guardano per sapere cosa succede fai una mossa morbida, in caso contrario fai una mossa dura.
 
-Una mossa leggera è una mossa che non ha conseguenze immediate e irreversibili. Solitamente significa che è qualcosa di non completamente negativo, ad esempio mostrare ulteriori ricchezze da conquistare oltrepassando un golem (offrire un'opportunità con un costo). Può anche significare che è qualcosa di negativo, ma hanno il tempo di evitarlo, ad esempio far scagliare una raffica di freccie a dei goblin arcieri (mostra i segni di una minaccia incombente) con la possibilità di schivarle e allontanarsi dal pericolo.
+Una mossa morbida è una mossa che non ha conseguenze immediate e irreversibili. Solitamente significa che è qualcosa di non completamente negativo, ad esempio mostrare ulteriori ricchezze da conquistare oltrepassando un golem (offrire un'opportunità con un costo). Può anche significare che è qualcosa di negativo, ma hanno il tempo di evitarlo, ad esempio far scagliare una raffica di freccie a dei goblin arcieri (mostra i segni di una minaccia incombente) con la possibilità di schivarle e allontanarsi dal pericolo.
 
-Ignorare una mossa leggera diventa un'opportunità d'oro per fare una mossa pesante. Se i giocatori non fanno nulla mentre il nugolo di frecce li raggiunge, è un'opportunità d'oro per usare la mossa *infliggi danno*.
+Ignorare una mossa morbida diventa un'opportunità d'oro per fare una mossa dura. Se i giocatori non fanno nulla mentre il nugolo di frecce li raggiunge, è un'opportunità d'oro per usare la mossa *infliggi danno*.
 
-Le mosse pesanti, al contrario, hanno delle conseguenze immediate. Infliggere danni è quasi sempre una mossa pesante, perché si tratta una perdita di PF che non potrà essere colmata senza intervento da parte dei giocatori.
+Le mosse dure, al contrario, hanno delle conseguenze immediate. Infliggere danni è quasi sempre una mossa dura, perché si tratta una perdita di PF che non potrà essere colmata senza intervento da parte dei giocatori.
 
-Quando hai la possibilità di fare una mossa pesante puoi fare una mossa leggera al suo posto, se è più appropriata alla situazione. A volte le cose si risolvono per il meglio.
+Quando hai la possibilità di fare una mossa dura puoi fare una mossa morbida al suo posto, se è più appropriata alla situazione. A volte le cose si risolvono per il meglio.
 
 ## Scegliere una Mossa
 
