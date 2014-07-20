@@ -3,10 +3,9 @@ title: Abitanti delle Paludi
 layout: default
 ---
 
-Revisionato e alfabetizzato - da pubblicare
----
+##Anguilla Ignea
 
-##Anguilla Ignea *Orda, Minuscolo*
+***Orda, Minuscolo***
 
 Tocco incandescente (d6-2 danni, ignora armatura) 3 PF 0 Armatura
 
@@ -19,7 +18,9 @@ Queste strane creature non sono più grandi o più sveglie dei loro parenti comu
 - Dare fuoco a qualcosa o qualcuno (anche sott’acqua)
 - Consumare una preda in fiamme
 
-##Bakunawa *Solitario, Grande, Intelligente, Devastante, Possente*
+##Bakunawa
+
+***Solitario, Grande, Intelligente, Devastante, Possente***
 
 Morso (d10+3 danni, 1 perforante) 16 PF 2 Armatura
 
@@ -33,7 +34,9 @@ La sorella della Testuggine Draconica è una possente signora dei serpenti. Nove
 - Scagliarsi contro la luce
 - Divorare
 
-##Basilisco *Solitario, Accumulatore*
+##Basilisco
+
+***Solitario, Accumulatore***
 
 Morso (d10 danni) 12 PF 2 Armatura
 
@@ -44,7 +47,9 @@ Morso (d10 danni) 12 PF 2 Armatura
 - Tramutare carne in pietra con lo sguardo
 - Ritirarsi in un labirinto di pietra
 
-##Coboldo *Orda, Piccolo, Furtivo, Intelligente, Organizzato*
+##Coboldo
+
+***Orda, Piccolo, Furtivo, Intelligente, Organizzato***
 
 Lancia (d6 danni) 3 PF 1 Armatura
 
@@ -58,7 +63,9 @@ I più fanno di tutta l’erba un fascio: insieme a orchi, bugbear e goblin incl
 - Chiamare draghi o i loro alleati draconici
 - Ritirarsi e riorganizzarsi
 
-##Coccodrilo Gigante *Gruppo, Grande*
+##Coccodrilo Gigante
+
+***Gruppo, Grande***
 
 Morso (d8+3 danni) 10 PF 2 Armatura
 
@@ -72,7 +79,9 @@ Morso (d8+3 danni) 10 PF 2 Armatura
 - Fuggire in acqua
 - Trattenere qualcosa saldamente fra le fauci
 
-##Coutal *Solitario, Intelligente, Sfuggente*
+##Coutal
+
+***Solitario, Intelligente, Sfuggente***
 
 Raggio di luce (d8 danni, ignora armatura) 12 PF 2 Armatura
 
@@ -86,7 +95,9 @@ Gli dei ci hanno dato il Coutal come se volessero sfidare il degrado e la sporci
 - Evocare forze divine per purificare
 - Offrire informazioni in cambio di un servzio.
 
-##Cucciolo di Drago *Solitario, Piccolo, Intelligente, Cauto, Accumulatore*
+##Cucciolo di Drago
+
+***Solitario, Piccolo, Intelligente, Cauto, Accumulatore***
 
 Soffio elementale (d10+2 danni) 16 PF 3 Armatura
 
@@ -100,7 +111,9 @@ Cosa? Credevi che fossero tutti lunghi un chilometro? Che non potessero essere p
 - Richiamare i propri familiari
 - Richiedere giuramenti di schiavitù
 
-##Doppelgänger *Solitario, Sfuggente, Intelligente*
+##Doppelgänger
+
+***Solitario, Sfuggente, Intelligente***
 
 Pugnale (d6 danni) 12 PF 0 Armatura
 
@@ -114,7 +127,9 @@ La loro forma naturale, semmai riuscissi a vederla, è orrenda. Come una creaura
 - Usare l’identità di qualcun’altro a proprio vantaggio
 - Rovinare la reputazione a qualcuno
 
-##Ekek *Orda*
+##Ekek
+
+***Orda***
 
 Artigli (d6 danni) 3 PF 1 Armatura
 
@@ -127,7 +142,9 @@ Brutti, rugosi uomini uccello. Forse, in qualche era antica, erano una razza di 
 - Attaccare dall’alto
 - Eseguire gli ordini di una creatura più potente
 
-##Errante delle Paludi *Solitario, Grande, Magico*
+##Errante delle Paludi
+
+***Solitario, Grande, Magico***
 
 Frusta (d10+1 danni) 23 PF 1 Armatura
 
@@ -141,9 +158,11 @@ Alcuni elementali vengono evocati in circoli sacri tracciati in gesso. La maggir
 - Fondersi con la palude
 - Ricostituirsi in una nuova forma
 
-#Fuoco Fatuo *Solitario, Minuscolo, Magico*
+#Fuoco Fatuo
 
-Raggio (w[2d8-2] danni) 12 PF 0 Armatura
+***Solitario, Minuscolo, Magico***
+
+Raggio (p\[2d8-2\] danni) 12 PF 0 Armatura
 
 *Vicino*
 
@@ -154,7 +173,9 @@ Cerca una lanterna galleggiando nell'oscurità, viaggiatore smarrito nella palud
 - Guidare qualcuno fuori strada
 - Aprire un sentiero verso il peggior posto possibile
 
-##Idra *Solitario, Grande*
+##Idra
+
+***Solitario, Grande***
 
 Morso (d10+3 danni) 16 PF 2 Armatura
 
@@ -167,7 +188,9 @@ Puoi immaginarla simile a un drago, ma potrebbe non avere ali. Molte teste, nove
 - Attaccare più nemici contemporaneamente
 - Rigenerare parti del corpo (specialmente una testa)
 
-##Medusa *Solitario, Sfuggente, Intelligente, Accumulatore*
+##Medusa
+
+***Solitario, Sfuggente, Intelligente, Accumulatore***
 
 Artigli (d6 danni) 12 PF 0 Armatura
 
@@ -181,7 +204,9 @@ Figlie di un madre dai capelli serpentini, che le diede alla luce in tempi antic
 - Attirare lo sguardo di qualcuno
 - Mostrare una terribile bellezza nascosta
 
-##Protoplasma Nero *Solitario, Amorfo*
+##Protoplasma Nero
+
+***Solitario, Amorfo***
 
 Tocco corrosivo (d10 danni, ignora armatura) 15 PF 1 Armatura
 
@@ -194,9 +219,11 @@ Come si fa a uccidere un mucchio di poltiglia? Un grosso mucchio scivoloso di po
 - Corrodere metallo, carne o legno
 - Colare in un posto pericoloso: cibo, armature o stomaco
 
-##Sahuagin *Orda, Intelligente*
+##Sahuagin
 
-Denti infiniti (d6+4 danni, 1 perforante) 3 PF 2 Armatura
+***Orda, Intelligente***
+
+Infiniti denti (d6+4 danni, 1 perforante) 3 PF 2 Armatura
 
 *Medio, Possente, Devastante*
 
@@ -208,7 +235,9 @@ La forma e le fattezze degli uomini sposate agli appetiti e agli infiniti denti 
 - Scagliare una lancia avvelenata
 - Entrare in frenesia alla vista del sangue
 
-##Sauropode *Gruppo, Enorme, Cauto*
+##Sauropode
+
+***Gruppo, Enorme, Cauto***
 
 Travolgere (d10+5 danni) 18 PF 4 Armatura
 
@@ -222,7 +251,9 @@ Mastodontiche bestie, vivono in posti dimenticati da lungo tempo dalle razze pen
 - Abbattere qualcosa
 - Rilasciare un muggito assordante
 
-##Testugguine Draconica *Solitario, Enorme, Cauto*
+##Testugguine Draconica
+
+***Solitario, Enorme, Cauto***
 
 Morso (d10+3 danni) 20 PF 4 Armatura
 
@@ -236,7 +267,9 @@ La Bakunawa ha un fratello. Mentre una è collerica e avida di oro, l’altro è
 - Scaraventarsi con la propria massa
 - Distruggere strutture e palazzi
 
-##Troll *Solitario, Grande*
+##Troll
+
+***Solitario, Grande***
 
 Clava (d10+3 danni)    20 PF    1 Armatura
 
@@ -249,7 +282,9 @@ Alto. Molto alto. Due metri e mezzo ed oltre quando sono giovani o deboli. Ed an
 - Annullare gli effetti di un attacco (se non causato da una debolezza, a tua discrezione)
 - Scagliare qualcusa o qualcuno
 
-##Uomo Lucertola *Gruppo, Furtivo, Intelligente, Organizzato*
+##Uomo Lucertola
+
+***Gruppo, Furtivo, Intelligente, Organizzato***
 
 Lancia (d8 danni) 6 PF 2 Armatura
 
@@ -262,7 +297,9 @@ Uno stregone errante mi ha detto che gli uomini lucertola sono più antichi di n
 - Attaccare una vittima ignara
 - Assaltare i nemici, sia in acqua che sulla terraferma
 
-##Uomo Rana *Orda, Piccolo, Intelligente*
+##Uomo Rana
+
+***Orda, Piccolo, Intelligente***
 
 Lancia (d6 danni) 7 PF 1 Armatura
 
@@ -274,4 +311,3 @@ Cra cra cra. Verrucosi piccoletti. Queste creature sono lo scherzo di cattivo gu
 
 - Assaltare i nemici, sia in acqua che sulla terraferma
 - Guarire a velocità prodigiosa
-

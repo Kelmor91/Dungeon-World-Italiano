@@ -3,12 +3,11 @@ title: Esperimenti Perversi
 layout: default
 ---
 
-Revisionato e alfabetizzato - da pubblicare
----
+##Assimilatore
 
-##Assimilatore *Solitario, Grande, Costrutto*
+***Solitario, Grande, Costrutto***
 
-Acido(d10+1 danno ignora armatura) 16 PF 1 Armatura
+Acido (d10+1 danni, ignora armatura) 16 PF 1 Armatura
 
 *Media, Lunga*
 
@@ -19,7 +18,9 @@ Siamo d'accordo, la sperimentazione magica è una scienza complessa. Per ogni ma
 - Corrodere qualcosa
 - Succhiare nutrimento
 
-##Bulette *Solitario, Enorme, Costrutto*
+##Bulette
+
+***Solitario, Enorme, Costrutto***
 
 Morso (d10+5 danni, 3 perforante) 20 PF 3 Armatura
 
@@ -33,7 +34,9 @@ Un bravo guardiano di carovane sa comprendere tempestivamente i richiami degli e
 - Sbucare dal suolo
 - Inghiottire in un solo boccone
 
-##Chimera  *Solitario, Grande, Costrutto*
+##Chimera
+
+***Solitario, Grande, Costrutto***
 
 Morso (d10+1 danni) 16 PF 1 Armatura
 
@@ -45,9 +48,11 @@ La celebre e annoverata chimera è una creatura modificata. Dai manoscritti dell
 - Travolgere
 - Avvelenare
 
-##Derro *Orda, Sfuggente, Intelligente, Organizzato*
+##Derro
 
-Piccone (d6 danno) 3 PF 2 Armatura
+***Orda, Sfuggente, Intelligente, Organizzato***
+
+Piccone (d6 danni) 3 PF 2 Armatura
 
 *Media*
 
@@ -58,9 +63,11 @@ Piccone (d6 danno) 3 PF 2 Armatura
 - Invadere una mente con pensieri estranei
 - Controllare mentalmente una bestia
 
-##Ettin *Solitario, Grande, Costrutto*
+##Ettin
 
-Clava (d10+3 danno) 16 PF 1 Armatura
+***Solitario, Grande, Costrutto***
+
+Clava (d10+3 danni) 16 PF 1 Armatura
 
 *Media, Lunga, Possente*
 
@@ -71,9 +78,11 @@ Cosa potrebbe essere migliore di uno stupido gigante delle colline infuriato? Un
 - Attaccare due nemici contemporaneamente
 - Difendere il suo creatore
 
-##Girallon *Solitario, Enorme*
+##Girallon
 
-Squartare (d10+5 danno) 20 PF 1 Armatura
+***Solitario, Enorme***
+
+Squartare (d10+5 danni) 20 PF 1 Armatura
 
 *Lunga, Possente*
 
@@ -85,9 +94,11 @@ I rullo dei tamburi della giungla richiama la creatura. Sulla pietra sacrificale
 - Cacciare gli intrusi dalla giungla
 - Scagliare qualcuno
 
-##Golem di Carne  *Orda*
+##Golem di Carne
 
-Artigli e denti vari (d6+2 danno) 3 PF 0 Armatura
+***Orda***
+
+Artigli e denti vari (d6+2 danni) 3 PF 0 Armatura
 
 *Media, Possente*
 
@@ -98,9 +109,11 @@ Pezzi e piccole parti rubati nella notte. Cimiteri furtivamente distrutti, e sta
 - Eseguire gli ordini
 - Staccare una parte del corpo
 
-##Golem di Ferro *Gruppo, Grande, Costrutto*
+##Golem di Ferro
 
-Pugni di metallo (d8+5 danno) 10 PF 3 Armatura
+***Gruppo, Grande, Costrutto***
+
+Pugni di metallo (d8+5 danni) 10 PF 3 Armatura
 
 *Media, Lunga, Possente*
 
@@ -111,9 +124,11 @@ Il ferro è un elemento basilare dell'arte magica e lo sanno bene i costruttore 
 - Eseguire gli ordini implacabilmente
 - Utilizzare uno speciale strumento o adattamento, incorporato 
 
-##Kraken *Solitario, Enorme*
+##Kraken
 
-Tentacoli giganti (d10+5 danno) 20 PF 2 Armatura
+***Solitario, Enorme***
+
+Tentacoli giganti (d10+5 danni) 20 PF 2 Armatura
 
 *Lunga, Possente*
 
@@ -124,32 +139,38 @@ Tentacoli giganti (d10+5 danno) 20 PF 2 Armatura
 - Trascinare una persona o un'imbarcazione verso una tomba d'acqua
 - Avvolgerli tra i suoi tentacoli
 
-##Manticora *Solitario, Grande, Costrutto*
+##Manticora
 
-Pungiglione (d10+1 danno, 1 perforante) 16 PF 3 Armatura
+***Solitario, Grande, Costrutto***
+
+Pungiglione (d10+1 danni, 1 perforante) 16 PF 3 Armatura
 
 *Media, Lunga, Devastante*
 
 **Qualità Speciali:** Ali
 
 Se la chimera è il primo passo lungo un cammino oscuro, la manticora è la porta che non può più essere chiusa una volta aperta. Un leone, uno scorpione, le ali di un drago. Tutto difficile da ottenere ma non impossibile e sono solo animali comunque. L'ultimo componente, la ripugnante e sibilante faccia della bestia, è l'ingrediente che rende la manticora così malvagia. Non importa che sia giovane o vecchio, uomo o donna, basta che sia umano, vivo e che respiri, congiunto alla creatura con la magia perversa. Il ricordo di chi fossero è perduto e probabilmente è una benedizione per loro, ma la bestia è nata dalla sofferenza umana. Non c'è da stupirsi quindi che siano così desiderosi di uccidere. *Istinto*: Uccidere
-	
+    
 - Avvelenarli
 - Fare qualcosa a brandelli
 
-##Orsogufo *Solitario, Costrutto*
+##Orsogufo
 
-Artigli (d10 danno) 12 PF 2 Armatura
+***Solitario, Costrutto***
+
+Artigli (d10 danni) 12 PF 2 Armatura
 
 *Media*
 
 Corpo di orso. Piume di gufo. Becco, artigli e un eccellente visione notturna. Come può non piacere? *Istinto*: cacciare
 
--Colpire dalle tenebre
+- Colpire dalle tenebre
 
-##Pegaso *Gruppo, Costrutto*
+##Pegaso
 
-Zoccoli taglienti (d8 danno) 10 PF 1 Armatura
+***Gruppo, Costrutto***
+
+Zoccoli taglienti (d8 danni) 10 PF 1 Armatura
 
 *Media*
 
@@ -159,22 +180,26 @@ Non pensare adesso che qualsiasi creatura nata in modo non naturale sia un orrib
 - Trasportare un cavaliere in volo
 - Aiutare il proprio cavaliere
 
-##Rugginofago *Gruppo, Costrutto*
+##Rugginofago
 
-Tocco corrosivo (d8 danno, ignora armatura) 6 PF 3 Armatura
+***Gruppo, Costrutto***
+
+Tocco corrosivo (d8 danni, ignora armatura) 6 PF 3 Armatura
 
 *Media*
 
 **Qualità Speciali:** Tocco corrosivo
 
-Una creatura dall'aspetto davvero originale. Assomiglia un po' ad un grillo rossastro direi, con lunghe zampe da insetto. È cieco se ho capito bene — essi usano le loro antenne da falena per trovare la strada. E con esse di nutrono anche. Setacciando mucchi di metallo in cerca dei pezzi più prelibati. Questo è ciò che mangiano, non importa il tipo di metallo. Basta un solo loro tocco per trasformare tutto in fiocchi ruggine. Le cose magiche resistono più a lungo ma sotto la prova di un rugginofago la conclusione è scontata. Solo gli dei sanno da dove sono venuti, ma sono una maledizione se ci tieni ai tuoi effetti personali. *Istinto*: Rovinare
+Una creatura dall'aspetto davvero originale. Assomiglia un po' ad un grillo rossastro direi, con lunghe zampe da insetto. È cieco se ho capito bene. Sembra usino le loro antenne da falena per trovare la strada. E con esse si nutrono anche. Setacciando mucchi di metallo in cerca dei pezzi più prelibati. Questo è ciò che mangiano, non importa il tipo di metallo. Basta un solo loro tocco per trasformare tutto in fiocchi ruggine. Le cose magiche resistono più a lungo ma sotto la prova di un rugginofago la conclusione è scontata. Solo gli dei sanno da dove sono venuti, ma sono una maledizione se ci tieni ai tuoi effetti personali. *Istinto*: Rovinare
 
-- Trasformare 	il metallo in ruggine
-- Trarre forza dal consumo del metallo
+- Trasformare     il metallo in ruggine
+- Trarre forza dal consumo di metallo
 
-##Saccheggiatore Etereo *Solitario, Sfuggente, Planare*
+##Saccheggiatore Etereo
 
-Pugnale rubato (p[2d8] danno) 12 PF 1 Armatura
+***Solitario, Sfuggente, Planare***
+
+Pugnale rubato (p\[2d8\] danni) 12 PF 1 Armatura
 
 *Media, Lunga*
 
@@ -186,15 +211,17 @@ Capita di smarrire gli oggetti: un calzino, un cucchiaio d'argento, le ossa dell
 - Ritirarsi nel piano Etereo
 - Usare un oggetto preso dalla sua tana
 
-##Xorn *Solitario, Grande, Costrutto*
-Fauci (d10 danno) 12 PF 2 Armatura
+##Xorn
+
+***Solitario, Grande, Costrutto***
+
+Fauci (d10 danni) 12 PF 2 Armatura
 
 *Media, Lunga*
 
 **Qualità Speciali**: Scavare cunicoli
 
 È un ruminatore elementale di spazzatura creato dai nani. Ha l'aspetto di un cestino dei rifiuti dotato di una raggiera di braccia che usa per nutrirsi di detriti che introduce nelle sue enormi fauci. Mangiano pietra ed espellono luce e calore. Perfetti da utilizzare in una miniera o per estrarre materiale da una cava. E che accade se ne smarrisce uno nella fogne di una città o era nelle fondamenta di un castello? Siete in guai seri. Essi mangeranno e mangeranno finché non rimarrà più nulla e la zona collasserà su se stessa e si sposteranno da un'altra parte. Chiedi a Burrin, figlio di Fjornnvald, esule del suo clan. Scommetto che potrebbe raccontarti una storia sugli xorn. *Istinto*: Mangiare
-	
-- Consumare 	pietra
+    
+- Consumare     pietra
 - Emettere una esplosione di luce e calore
-

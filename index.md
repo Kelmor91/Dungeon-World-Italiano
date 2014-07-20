@@ -5,7 +5,7 @@ layout: default
 
 <div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>28 Marzo 2014:</strong> Le prime traduzioni dei Mostri, curate da Federico Totti grazie ai <a href="/crediti">contributi di diversi traduttori</a>. <a href="/mostri-caverne">Abitanti delle Caverne</a>, <a href="/mostri-paludi">Abitanti delle Paludi</a>, <a href="/mostri-esperimenti">Esperimenti Perversi</a>.
+    <strong>20 Luglio 2014:</strong> Nuovi 4 capitoli di mostri, sempre grazie ai contributi dei <a href="/crediti">dei nostri traduttori</a>. Ne mancano soltanto due!
 </div> 
 
 Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo di [Adam Koebel][adam] e [Sage Latorra][sage], vincitore del premio **Best Rules** agli ENnies 2013! Dungeon World è derivato dal Mondo dell'Apocalisse di Vincent Baker: Adam e Sage hanno preso il sistema di Baker e l'hanno adattato, superando l'originale in popolarità e successo, a un'estetica fantasy simile a quella proposta dai più popolari giochi di ruolo in commercio.
@@ -26,7 +26,7 @@ Considero questo sito una risorsa pubblica, e il testo completo è disponibile s
 
 # Indice Generale
 
-La traduzione è **quasi completa**, mancano solo alcuni capitoli relativi alle ambientazioni mostruose.
+La traduzione è **quasi completa**, mancano solo due capitoli relativi alle ambientazioni mostruose (Genti del Reame e Profondità della Terra).
 
 Oltre alle schede delle classi, sono disponibili le schede delle **[mosse base](pdf/mosse.pdf)** e del **[riassunto del gm](pdf/gm.pdf)**, adesso aggiornate alla nostra traduzione!
 
@@ -67,6 +67,10 @@ Sono stati tradotti i seguenti capitoli:
 		<li><a href="mostri-caverne">Abitanti delle Caverne</a></li>
 		<li><a href="mostri-paludi">Abitanti delle Paludi</a></li>
 		<li><a href="mostri-esperimenti">Esperimenti Perversi</a></li>
+		<li><a href="mostri-foreste">Foreste Oscure</a></li>
+		<li><a href="mostri-non-morti">Legioni dei Non Morti</a></li>
+		<li><a href="mostri-orde">Orde Fameliche</a></li>
+		<li><a href="mostri-piani">Esperimenti Perversi</a></li>
 	</ul>
 </ul>
 

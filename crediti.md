@@ -26,12 +26,16 @@ Tutti i contenuti disponibili su questo sito sono distribuiti con licenza **[Cre
 
 [adam]: https://plus.google.com/112484087750169360510
 [sage]: https://plus.google.com/117415966179711277938
+[Alex D. Guerrieri]: https://plus.google.com/+AlexDGuerrieri/
 [Antonio Amato]: https://plus.google.com/107667343404799785520
 [Claudio Freda]: https://plus.google.com/112991578095647299350
 [Daniel Schiavo]: https://www.facebook.com/daniel.schiavo.92
+[Daniele Frizzi]: https://plus.google.com/+DanieleFrizzi
 [Daniele di Rubbo]: https://plus.google.com/112507662527787769890
 [Dario Delfino]: https://plus.google.com/105434214058733883957
 [Diego Delfino]: https://plus.google.com/118033451148976345230
+[Federico Totti]: https://plus.google.com/+FedericoTotti
+[Gabriele Pellegrini]: https://www.facebook.com/gb.pellegrini
 [Giorgia Menozzi]: https://plus.google.com/113383799827204001261
 [Giovanni Vinci]: https://plus.google.com/107861607091405146379
 [Giulio Robecchi]: https://plus.google.com/u/0/117946773352558942341

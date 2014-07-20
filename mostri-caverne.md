@@ -3,7 +3,9 @@ title: Abitanti delle Caverne
 layout: default
 ---
 
-## Ankheg *Gruppo, Grande*
+## Ankheg
+
+***Gruppo, Grande***
 
 Morso (d8+1 danni) 10 PF 3 Armatura
 
@@ -17,9 +19,11 @@ Avere un carapace duro come una corazza di piastre ed enormi mandibole devastant
 - Uscire dalla terra
 - Spruzzare acido, corrodendo carne e metallo
 
-##Cubo Gelatinoso *Solitario, Grande, Furtivo, Amorfo*
+##Cubo Gelatinoso
 
-Inghiottire (d10+1 danni ignora Armatura) 20 PF 1 Armatura
+***Solitario, Grande, Furtivo, Amorfo***
+
+Inghiottire (d10+1 danni, ignora armatura) 20 PF 1 Armatura
 
 *Corta*
 
@@ -31,7 +35,9 @@ Quanti avventurieri hanno avuto come ultimo pensiero: “strano, questo tunnel s
 - Dissolvere
 
 
-##Elementale della Terra *Solitario, Enorme*
+##Elementale della Terra
+
+***Solitario, Enorme***
 
 Urto (d10+5 danni) 27 PF 4 Armatura
 
@@ -44,7 +50,9 @@ Ogni cosa in questo mondo ha uno spirito, così dice il nostro sciamano. Sassi, 
 - Usare la terra come arma
 - Fondersi con la pietra
 
-##Gargoyle *Orda, Furtivo, Accumulatore*
+##Gargoyle
+
+***Orda, Furtivo, Accumulatore***
 
  Artigli (d6 danni) 3 PF 2 Armatura
 
@@ -58,7 +66,9 @@ Ogni cosa in questo mondo ha uno spirito, così dice il nostro sciamano. Sassi, 
 - Sollevare in volo
 - Mimetizzarsi fra le strutture di pietra
 
-##Goblin *Orda, Piccolo, Intelligente, Organizzato*
+##Goblin
+
+***Orda, Piccolo, Intelligente, Organizzato***
 
 Lancia (d6 danni) 3 PF 1 Armatura
 
@@ -70,9 +80,11 @@ Nessuno sa da dove arrivino queste creature. Gli elfi dicono che sia colpa dei n
 - Chiamare altri goblin
 - Ritirarsi e tornare con (molti) altri alleati
 
-##Goblin, Orcantatore *Solitario, Piccolo, Magico, Intelligente, Organizzato*
+##Goblin, Orcantatore
 
-Sfera acida (d10+1 danni ignora Armatura) 12 PF 0 Armatura
+***Solitario, Piccolo, Magico, Intelligente, Organizzato***
+
+Sfera acida (d10+1 danni, ignora armatura) 12 PF 0 Armatura
 
 *Vicino, Lontano*
 
@@ -82,7 +94,9 @@ Oh cielo, chi gli ha insegnato la magia? *Istinto*: Attingere potere oltre la lo
 - Diffondere il caos magico
 - Usare gli altri goblin come scudi
 
-##Goliath *Gruppo, Enorme, Organizzato, Intelligente*
+##Goliath
+
+***Gruppo, Enorme, Organizzato, Intelligente***
 
 Mazza (d8+7 danni) 14 PF 1 Armatura
 
@@ -93,18 +107,24 @@ Dimorano sotto terra perché non appartengono più alla superficie. Una razza im
 - Scuotere la terra
 - Ritirarsi, solo per tornare più forte
 
-##Guerriero Nanico *Orda, Organizzato*
+##Guerriero Nanico
+
+***Orda, Organizzato***
 
 Ascia (d6 danni) 7 PF 2 Armatura
+
 *Medio*
+
 Per secoli, l’umanità credeva che i nani fossero tutti maschi fatti delle stessa pasta: stoici ed impavidi guerrieri, armati d’ascia e vestiti di piastre. Nani dalle folte barbe, sempre pronti al combattimento e che respingevano sempre con ferocia gli invasori alle porte delle loro miniere. Questo dimostra quanto gli uomini siano ignoranti in merito alle razze antiche. Questa gente è solo l’avanguardia che adempie al proprio dovere con coraggio: protegge le ricchezze del reame nanico. Guadagna la loro fiducia e avrai un alleato per la vita. Scatena la loro ira e non avrai molto tempo per pentirtene. *Istinto*: Difendere
 
 - Respingerli
 - Chiamare rinforzi
 
-##Larve della Putrefazione *Orda, Minuscolo*
+##Larve della Putrefazione
 
-Scavare (d6-2 danni)	3 PF 0 Armatura
+***Orda, Minuscolo***
+
+Scavare (d6-2 danni)    3 PF 0 Armatura
 
 *Corto*
 
@@ -116,9 +136,11 @@ Vivono sotto tua pelle. O nei tuoi organi. O nei tuoi bulbi oculari. Crescono l�
 - Deporre uova
 - Fuoriuscire da una creatura infettata
 
-##Mantoscuro *Solitario, Furtivo*
+##Mantoscuro
 
-Soffocare (d10 danni ignora armatura) 12 PF 1 Armatura
+***Solitario, Furtivo***
+
+Soffocare (d10 danni, ignora armatura) 12 PF 1 Armatura
 
 *Medio*
 
@@ -128,7 +150,9 @@ Non metterti quel mantello, Gareth. Non farlo. Non sai chi può averlo indossato
 
 - Avvolgere gli ignari
 
-##Otyugh *Solitario, Grande*
+##Otyugh
+
+***Solitario, Grande***
 
 Tentacoli (d10+3 danni) 20 PF 1 Armatura
 
@@ -141,9 +165,10 @@ Il richiamo d’amore dell’otyugh è un orribile grido assordante che sembra u
 - Infettare qualcuno con la febbre
 - Scagliare qualcuno o qualcosa
 
-##Ratto delle caverne *Orda, Piccolo*
+##Ratto delle caverne
+***Orda, Piccolo***
 
-Rosicchiare (d6 danni 1 perforante) 7 PF 1 Armatura
+Rosicchiare (d6 danni, 1 perforante) 7 PF 1 Armatura
 
 *Medio, Devastante*
 
@@ -152,7 +177,9 @@ Chi non ha mai visto un ratto? Questo essere è qualcosa di simile, ma è grosso
 - Sovrastare col numero
 - Sventrare qualcosa (o qualcuno)
 
-##Roper *Solitario, Grande, Furtivo, Intelligente*
+##Roper
+
+***Solitario, Grande, Furtivo, Intelligente***
 
 Morso (d10+1 danni) 16 PF 1 Armatura
 
@@ -166,9 +193,11 @@ La casualità dell’evoluzione ha creato un predatore sotterraneo molto astuto.
 - Disarmare un nemico
 - Masticare qualcuno
 
-##Scarabeo di Fuoco *Orda, Piccolo*
+##Scarabeo di Fuoco
 
-Fiamme (d6 danni ignora Armatura) 3 PF 3 Armatura
+***Orda, Piccolo***
+
+Fiamme (d6 danni, ignora armatura) 3 PF 3 Armatura
 
 *Vicino*
 
@@ -180,7 +209,9 @@ Fiamme (d6 danni ignora Armatura) 3 PF 3 Armatura
 - Uscire dal terreno
 - Spruzzare getti di fiamme
 
-##Signore dei Ragni *Solitario, Grande, Sfuggente, Intelligente*
+##Signore dei Ragni
+
+***Solitario, Grande, Sfuggente, Intelligente***
 
 Morso (d8+4 danni) 16 PF 3 Armatura
 
@@ -193,7 +224,9 @@ Anche i ragni hanno dèi, a cui sussurrano dalle loro tele, con le piccole zampe
 - Avviluppare nella ragnatela
 - Mettere in atto un piano
 
-##Strangolatore *Solitario, Furtivo, Intelligente*
+##Strangolatore
+
+***Solitario, Furtivo, Intelligente***
 
 Strangolare (d10 danni) 15 PF 2 Armatura
 
@@ -206,7 +239,9 @@ Alcuni dicono che queste creature siano i discendenti della famiglia di un mago 
 - Stritolare qualcuno fino a che non ha più aria in corpo.
 - Scagliare una creatura bloccata
 
-##Troglodita *Gruppo, Organizzato*
+##Troglodita
+
+***Gruppo, Organizzato***
 
 Mazza (d8 danni) 10 PF 1 Armatura
 
@@ -217,7 +252,9 @@ Da tempo dimenticati, i nostri sopravvissuti antenati, dimorano in caverne nelle
 - Assaltare e ritirarsi
 - Usare vecchie armi abbandonate o la magia
 
-##Verme Iena	*Orda, Piccolo*
+##Verme Iena
+
+***Orda, Piccolo***
 
 Masticare (d6 danni) 3 PF 1 Armatura
 
@@ -229,7 +266,9 @@ Gli dèi che crearono queste creature stavano facendo qualche folle tiro mancino
 
 - Paralizzare con un tocco
 
-##Verme Purpureo *Solitario, Enorme*
+##Verme Purpureo
+
+***Solitario, Enorme***
 
 Morso (d10+5 danni) 20 PF 2 Armatura
 
@@ -241,4 +280,3 @@ Alleluia! Alleluia! Il verme purpureo! Benedetto il suo sacro muco! Noi camminia
 
 - Inghiottire tutto
 - Traforare terra e pietra
-
