@@ -262,7 +262,7 @@ Masticare (d6 danni) 3 PF 1 Armatura
 
 **Qualità Speciali:** Anfibio, Tentacoli Paralizzanti
 
-Gli dèi che crearono queste creature stavano facendo qualche folle tiro mancino ai popoli civilizzati del mondo. Il volto del verme iena trabocca di tentacoli che che al tocco ti paralizzano come un fulmine, in modo da poterti mangiare lentamente mentre non puoi difenderti. Meglio non farsi colpire. *Istinto*: Mangiare
+Gli dèi che crearono queste creature stavano facendo qualche folle tiro mancino ai popoli civilizzati del mondo. Il volto del verme iena trabocca di tentacoli che al tocco ti paralizzano come un fulmine, in modo da poterti mangiare lentamente mentre non puoi difenderti. Meglio non farsi colpire. *Istinto*: Mangiare
 
 - Paralizzare con un tocco
 
